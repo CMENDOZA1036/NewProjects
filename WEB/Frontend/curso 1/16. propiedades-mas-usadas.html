@@ -25,7 +25,8 @@
     .card img {
       width: 100%;
     }
-    .card p {
+    
+    .nombre p {
       text-align: center;
       font-size: 17px;
       font-weight: 700;
@@ -33,6 +34,16 @@
       align-items: center;
       position: relative;
       top: -5rem; 
+    }
+    .nombre p:nth-child(2) {
+      text-align: center;
+      font-size: 17px;
+      font-weight: 700;
+      flex-direction: column;
+      align-items: center;
+      position: relative;
+      top: -5rem; 
+      line-height: 1px;
     }
     
     .cat2 {
@@ -49,9 +60,7 @@
       
     }
     
-    .card p:nth-child(4) {
-      color: Turquoise;
-    }
+    
 
     
   </style>
@@ -64,9 +73,12 @@
       <div class="cat2">
         <img src="https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg" alt="cat2">
       </div>
+      <div class="nombre">
+        <p>Cristian Mendoza</p>
+        <p>💻Software Enginner💻</p>
+      </div>
       
-      <p>Cat: Mimi</p>
-      <p>Love</p>
+      
     </div>
   </section>
 </body>
