@@ -45,6 +45,15 @@ body {
     font-size: 20px;
 }
 
+#post #perrito {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    display: block;
+    margin: auto;
+    
+}
+
 #post {
     background: white;
     padding: 1em;
