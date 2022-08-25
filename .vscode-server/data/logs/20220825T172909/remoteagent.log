@@ -1,0 +1,13 @@
+[2022-08-25 17:29:13.337] [remoteagent] [info] Extension host agent started.
+[2022-08-25 17:29:13.778] [remoteagent] [info] [127.0.0.1][516d7cd5][ManagementConnection] New connection established.
+[2022-08-25 17:29:13.855] [remoteagent] [info] [127.0.0.1][8685a30f][ExtensionHostConnection] New connection established.
+[2022-08-25 17:29:19.581] [remoteagent] [info] [127.0.0.1][8685a30f][ExtensionHostConnection] <1041> Launched Extension Host Process.
+[2022-08-25 17:29:23.217] [remoteagent] [info] Deleted from disk codestream.codestream /home/cmendoza/.vscode-server/extensions/codestream.codestream-13.5.0
+[2022-08-25 17:29:23.218] [remoteagent] [info] Deleted from disk eamodio.gitlens-insiders /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.8.2405
+[2022-08-25 17:29:23.237] [remoteagent] [info] Deleted from disk github.vscode-pull-request-github /home/cmendoza/.vscode-server/extensions/github.vscode-pull-request-github-0.49.2022082409
+[2022-08-25 17:29:25.205] [remoteagent] [info] Getting Manifest... wallabyjs.quokka-vscode
+[2022-08-25 17:29:26.166] [remoteagent] [info] Installing extension: wallabyjs.quokka-vscode
+[2022-08-25 17:29:27.015] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/cmendoza/.vscode-server/extensions/ms-python.vscode-pylance-2022.8.30
+[2022-08-25 17:29:27.164] [remoteagent] [info] Deleted from disk ms-vsliveshare.vsliveshare /home/cmendoza/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5690
+[2022-08-25 17:29:38.110] [remoteagent] [info] [127.0.0.1][516d7cd5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-25 17:29:40.884] [remoteagent] [info] [127.0.0.1][8685a30f][ExtensionHostConnection] <1041> Extension Host Process exited with code: 0, signal: null.
