@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;/* Esto hace el calculo del width en 100% y que no exista un scroll*/
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  width: 100%;
+  height: 500px;
+  border: 10px solid grey;
+  padding: 20px 35px;
+}

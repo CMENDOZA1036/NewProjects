@@ -1,0 +1,459 @@
+["INFO" - 3:13:35 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 3:13:35 PM] Extension Version: 9.5.0.
+["INFO" - 4:13:48 PM] Formatting file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css
+["INFO" - 4:13:48 PM] Using ignore file (if present) at /home/cmendoza/.prettierignore
+["INFO" - 4:13:48 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 4:13:48 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:13:48 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/styles.css",
+  "parser": "css"
+}
+["INFO" - 4:13:49 PM] Formatting completed in 0.387ms.
+["INFO" - 4:15:40 PM] Formatting file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css
+["INFO" - 4:15:40 PM] Using ignore file (if present) at /home/cmendoza/.prettierignore
+["INFO" - 4:15:40 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 4:15:40 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:15:40 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/styles.css",
+  "parser": "css"
+}
+["INFO" - 4:15:40 PM] Formatting completed in 0.081ms.
+["INFO" - 4:15:50 PM] Formatting file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css
+["INFO" - 4:15:50 PM] Using ignore file (if present) at /home/cmendoza/.prettierignore
+["INFO" - 4:15:50 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 4:15:50 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:15:50 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/styles.css",
+  "parser": "css"
+}
+["INFO" - 4:15:50 PM] Formatting completed in 0.063ms.
+["INFO" - 4:17:50 PM] Formatting file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css
+["INFO" - 4:17:50 PM] Using ignore file (if present) at /home/cmendoza/.prettierignore
+["INFO" - 4:17:50 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 4:17:50 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:17:50 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/styles.css",
+  "parser": "css"
+}
+["ERROR" - 4:17:50 PM] Error formatting document.
+["ERROR" - 4:17:50 PM] CssSyntaxError: Unclosed block (132:1)
+  130 | } /* Con la pseudoclase last-child estamos escogiendo my orders y my account para estilizar*/
+  131 |
+> 132 | @media (max-width: 640px) {
+      | ^
+  133 |     .menu {
+  134 |     display: block;
+  135 |     /* Con este codigo incluimos el logo para que se vea solo en celulares*/
+SyntaxError: CssSyntaxError: Unclosed block (132:1)
+  130 | } /* Con la pseudoclase last-child estamos escogiendo my orders y my account para estilizar*/
+  131 |
+> 132 | @media (max-width: 640px) {
+      | ^
+  133 |     .menu {
+  134 |     display: block;
+  135 |     /* Con este codigo incluimos el logo para que se vea solo en celulares*/
+	at i (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:1:12771)
+	at la (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:76:8032)
+	at xt (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:76:8604)
+	at Object.cp [as parse] (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:76:8342)
+	at Object.parse (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+	at coreFormat (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+	at formatWithCursor2 (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+	at /home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+	at Object.format (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+	at t.default.format (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/dist/extension.js:1:13427)
+	at async t.PrettierEditProvider.provideEdits (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/dist/extension.js:1:10134)
+	at async H.provideDocumentFormattingEdits (/home/cmendoza/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:87:45865)
+["INFO" - 4:17:50 PM] Formatting completed in 0.032ms.
+["INFO" - 4:18:56 PM] Formatting file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css
+["INFO" - 4:18:56 PM] Using ignore file (if present) at /home/cmendoza/.prettierignore
+["INFO" - 4:18:56 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 4:18:56 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:18:56 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/styles.css",
+  "parser": "css"
+}
+["ERROR" - 4:18:56 PM] Error formatting document.
+["ERROR" - 4:18:56 PM] CssSyntaxError: Unclosed block (132:1)
+  130 | } /* Con la pseudoclase last-child estamos escogiendo my orders y my account para estilizar*/
+  131 |
+> 132 | @media (max-width: 640px) {
+      | ^
+  133 |     .menu {
+  134 |     display: block;
+  135 |     /* Con este codigo incluimos el logo para que se vea solo en celulares*/
+SyntaxError: CssSyntaxError: Unclosed block (132:1)
+  130 | } /* Con la pseudoclase last-child estamos escogiendo my orders y my account para estilizar*/
+  131 |
+> 132 | @media (max-width: 640px) {
+      | ^
+  133 |     .menu {
+  134 |     display: block;
+  135 |     /* Con este codigo incluimos el logo para que se vea solo en celulares*/
+	at i (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:1:12771)
+	at la (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:76:8032)
+	at xt (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:76:8604)
+	at Object.cp [as parse] (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:76:8342)
+	at Object.parse (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+	at coreFormat (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+	at formatWithCursor2 (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+	at /home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+	at Object.format (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+	at t.default.format (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/dist/extension.js:1:13427)
+	at async t.PrettierEditProvider.provideEdits (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/dist/extension.js:1:10134)
+	at async H.provideDocumentFormattingEdits (/home/cmendoza/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:87:45865)
+["INFO" - 4:18:56 PM] Formatting completed in 0.021ms.
+["INFO" - 4:19:07 PM] Formatting file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css
+["INFO" - 4:19:07 PM] Using ignore file (if present) at /home/cmendoza/.prettierignore
+["INFO" - 4:19:07 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 4:19:07 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:19:07 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/styles.css",
+  "parser": "css"
+}
+["ERROR" - 4:19:07 PM] Error formatting document.
+["ERROR" - 4:19:07 PM] CssSyntaxError: Unclosed block (132:1)
+  130 | } /* Con la pseudoclase last-child estamos escogiendo my orders y my account para estilizar*/
+  131 |
+> 132 | @media (max-width: 640px) {
+      | ^
+  133 |     .menu {
+  134 |     display: block;
+  135 |     /* Con este codigo incluimos el logo para que se vea solo en celulares*/
+SyntaxError: CssSyntaxError: Unclosed block (132:1)
+  130 | } /* Con la pseudoclase last-child estamos escogiendo my orders y my account para estilizar*/
+  131 |
+> 132 | @media (max-width: 640px) {
+      | ^
+  133 |     .menu {
+  134 |     display: block;
+  135 |     /* Con este codigo incluimos el logo para que se vea solo en celulares*/
+	at i (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:1:12771)
+	at la (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:76:8032)
+	at xt (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:76:8604)
+	at Object.cp [as parse] (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:76:8342)
+	at Object.parse (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+	at coreFormat (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+	at formatWithCursor2 (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+	at /home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+	at Object.format (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+	at t.default.format (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/dist/extension.js:1:13427)
+	at async t.PrettierEditProvider.provideEdits (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/dist/extension.js:1:10134)
+	at async H.provideDocumentFormattingEdits (/home/cmendoza/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:87:45865)
+["INFO" - 4:19:07 PM] Formatting completed in 0.042ms.
+["INFO" - 4:19:36 PM] Formatting file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css
+["INFO" - 4:19:36 PM] Using ignore file (if present) at /home/cmendoza/.prettierignore
+["INFO" - 4:19:36 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 4:19:36 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:19:36 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/styles.css",
+  "parser": "css"
+}
+["ERROR" - 4:19:36 PM] Error formatting document.
+["ERROR" - 4:19:36 PM] CssSyntaxError: Unclosed block (132:1)
+  130 | } /* Con la pseudoclase last-child estamos escogiendo my orders y my account para estilizar*/
+  131 |
+> 132 | @media (max-width: 640px) {
+      | ^
+  133 |     .menu {
+  134 |     display: block;
+  135 |     /* Con este codigo incluimos el logo para que se vea solo en celulares*/
+SyntaxError: CssSyntaxError: Unclosed block (132:1)
+  130 | } /* Con la pseudoclase last-child estamos escogiendo my orders y my account para estilizar*/
+  131 |
+> 132 | @media (max-width: 640px) {
+      | ^
+  133 |     .menu {
+  134 |     display: block;
+  135 |     /* Con este codigo incluimos el logo para que se vea solo en celulares*/
+	at i (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:1:12771)
+	at la (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:76:8032)
+	at xt (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:76:8604)
+	at Object.cp [as parse] (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-postcss.js:76:8342)
+	at Object.parse (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+	at coreFormat (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+	at formatWithCursor2 (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+	at /home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+	at Object.format (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+	at t.default.format (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/dist/extension.js:1:13427)
+	at async t.PrettierEditProvider.provideEdits (/home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0/dist/extension.js:1:10134)
+	at async H.provideDocumentFormattingEdits (/home/cmendoza/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:87:45865)
+["INFO" - 4:19:36 PM] Formatting completed in 0.032ms.
+["INFO" - 4:20:22 PM] Formatting file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css
+["INFO" - 4:20:22 PM] Using ignore file (if present) at /home/cmendoza/.prettierignore
+["INFO" - 4:20:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 4:20:22 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:20:22 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/styles.css",
+  "parser": "css"
+}
+["INFO" - 4:20:22 PM] Formatting completed in 0.069ms.
+["INFO" - 4:21:51 PM] Formatting file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css
+["INFO" - 4:21:51 PM] Using ignore file (if present) at /home/cmendoza/.prettierignore
+["INFO" - 4:21:51 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 4:21:51 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:21:51 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/styles.css",
+  "parser": "css"
+}
+["INFO" - 4:21:51 PM] Formatting completed in 0.048ms.
+["INFO" - 4:21:59 PM] Formatting file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css
+["INFO" - 4:21:59 PM] Using ignore file (if present) at /home/cmendoza/.prettierignore
+["INFO" - 4:21:59 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 4:21:59 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:21:59 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/styles.css",
+  "parser": "css"
+}
+["INFO" - 4:21:59 PM] Formatting completed in 0.058ms.
+["INFO" - 4:22:08 PM] Formatting file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css
+["INFO" - 4:22:08 PM] Using ignore file (if present) at /home/cmendoza/.prettierignore
+["INFO" - 4:22:08 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 4:22:08 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:22:08 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/styles.css",
+  "parser": "css"
+}
+["INFO" - 4:22:08 PM] Formatting completed in 0.042ms.

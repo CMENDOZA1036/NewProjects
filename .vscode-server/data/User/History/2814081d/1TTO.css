@@ -1,0 +1,43 @@
+/** 1. Posicionamiento **/
+/** 2. Modelo de Caja **/
+/** 3. Tipografia* */
+/** 4. Visuales **/
+/** 5. Otros **/
+
+:root {
+    --Bitcoin-Orange:#F7931A ;
+    --Soft-Orange: #FFE9D5;
+    --Secondary-Blue:#1A9AF7;
+    --Soft-Blue: #E7F5FF;
+    --Warm-Black: #201E1C;
+    --Warm-Black1: #282623;
+    --Grey: #BABABA;
+    --Off-White: #FAF8F7;
+    --Just-White: #FFFFFF;
+    --sm: 8px;
+    --sm2: 12px;
+    --md: 16px;
+    --big: 24px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'DM Sans', sans-serif;
+}
+
+header {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px;
+    height: 334px;
+    text-align: center;
+}

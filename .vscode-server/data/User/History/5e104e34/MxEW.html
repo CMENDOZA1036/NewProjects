@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YardSale: tienda online de cositas chidas</title>
+    <!--Estos son los Links del tipo de letras-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500&display=swap" rel="stylesheet">
+
+    <style>
+    
+    /*--Con esta Funcion :root creamos variables que si son cambiadas
+        ellas se modifican automaticamente*/
+        :root {
+        --white: #FFFFFF;
+        --black:#000000;
+        --very-ligh-pink : #C7C7C7;
+        --text-input-field: #F7F7F7;
+        --hospital-green:#ACD9B2;
+        --sm: 14px;/* Con estas en font-size podemos utilizarlos para los tamanos sm= small md = mediano = grande*/
+        --md: 16px;
+        --lg: 18px;
+        }
+
+        body {
+        font-family: 'Quicksand', sans-serif;
+        margin: 0;
+        }
+
+        nav {
+            display: flex;/* Con este alineamos todo lo de arriba*/
+            width:100%;
+            justify-content: space-between;
+            padding: 0;
+            border-bottom: 1px solid var(--very-ligh-pink);/*Con este le ponemos una linea abajo del menu*/
+        }
+        .menu {
+            display: none;/* Con esto desaparecemos el menu del escritorio, pero  no queda el logo alineado*/
+        }
+
+        .logo {
+            width: 100px;
+
+        }
+
+        .navbar-left {
+            display: flex; /* Con este alineamos el logo*/
+            
+        }
+
+        .navbar-left ul {
+            display: flex; /* Con este alineamos el logo*/
+            margin-left: 12px;
+        }
+        .navbar-left ul li a,
+        .navbar-right ul li a {
+            text-decoration: none;
+            color: var(--very-ligh-pink);
+            border: 1px solid var(--white);
+            padding: 8px;
+            border-radius: 8px;
+        }
+
+        .navbar-left ul li a:hover,
+        .navbar-right ul li a:hover {
+            text-decoration: none;
+            color: var(--hospital-green);
+            border: 1px solid var(--hospital-green);
+            
+        }/* con la clase :hover es para que cuando pasemos el mouse se vea seleccionado*/
+
+        .navbar-left ul,
+        .navbar-right ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            height: 60px;
+        }
+
+        .navbar-email {
+            color: var(--very-ligh-pink);
+            font-size: var(--sm);
+            margin-right: 12px;
+        }
+
+        .navbar-shopping-card {
+            position: relative;
+        }
+        .navbar-shopping-card div {
+            width: 16px;
+            height: 16px;
+            background-color: var(--hospital-green);
+            border-radius: 50%;
+            font-size: var(--sm);
+            font-weight: bold;
+            position: absolute;
+            top: -6px;
+            right: -3px;
+            display: flex;
+            justify-content: center;
+        }
+        
+        @media (max-width: 640px) {
+            .menu {
+                display: block;
+                /* Con este codigo incluimos el logo para que se vea solo en celulares*/
+            }
+            
+            .navbar-left ul {
+                display: none;
+            }/* Con este desaparemos el Menu de UL*/
+            
+            .navbar-email {
+                display: none;
+            }
+            
+            
+            
+        
+        }
+    </style>
+
+</head>
+<body>
+
+    <nav>
+        <img src="../icons/icon_menu.svg" alt="menu" class="menu">
+
+        <div class="navbar-left">
+            <img src="../logos/logo_yard_sale.svg" alt="logo" class="logo">
+
+            <ul>
+                <li>
+                    <a href="">All</a>
+                </li>
+                <li>
+                    <a href="">Clothes</a>
+                </li>
+                <li>
+                    <a href="">Electronics</a>
+                </li>
+                <li>
+                    <a href="">Furnitures</a>
+                </li>
+                <li>
+                    <a href="">Toys</a>
+                </li>
+                <li>
+                    <a href="">Others</a>
+                </li>
+            </ul>
+
+        </div>
+
+        <div class="navbar-right">
+            <ul>
+                <li class="navbar-email">Plazit@example.com</li>
+                <li class="navbar-shopping-card">
+                    <img src="../icons/icon_shopping_cart.svg" alt="shopping-card">
+                    <div>2</div>
+                </li>
+
+            </ul>
+
+            
+        </div>
+    </nav>
+
+
+</body>
+</html>

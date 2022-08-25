@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Figuras Geometricas</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;500&family=Quicksand:wght@300;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./1. StylefigurasGeometricas.css">
+</head>
+<body>
+    <header class="header">
+        <h1>Figuras Geometricas</h1>
+    </header>
+    <P>Este es el primer taller del curso Practico Js</P>
+    <section class="Section-Cuadrado">
+        <h2 class="titulo1">Calcula el Area y Perimetro de un cuadrado</h2>
+        <form action="">
+
+            <label for="InputCuadrado">
+                Escribe cuanto mide cada lado de tu cuadrado:
+            </label>
+
+            <input type="number" id="InputCuadrado">
+
+            <button type="button" onclick="calcularperimetroCuadrado()">
+                Calcular el Perimetro
+            </button>
+
+            <button type="button"onclick="calcularAreaCuadrado()">
+                Calcular el area 
+            </button>
+
+        </form>
+    </section>
+
+    <section class="Section-Triangulo">
+        <h2 class="titulo2">Calcula el Area y Perimetro de un Triangulo</h2>
+        <form action="">
+
+            <label for="InputTriangulo">
+                Escribe cuanto mide cada lado de tu Triangulo:
+            </label>
+
+            <input type="number" id="InputTriangulo">
+
+            <button type="button" onclick="calcularperimetroTriangulo()">
+                Calcular el Perimetro
+            </button>
+
+            <button type="button"onclick="calcularAreaTriangulo()">
+                Calcular el area 
+            </button>
+
+        </form>
+    </section>
+    <script src="./1. FigurasGeometricas.js"></script>
+</body>
+</html>

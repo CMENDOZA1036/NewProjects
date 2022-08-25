@@ -1,0 +1,158 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 62.5%;
+}
+
+:root {
+    --white: #FFFFFF;
+    --black:#000000;
+    --very-ligh-pink : #C7C7C7;
+    --text-input-field: #F7F7F7;
+    --hospital-green:#ACD9B2;
+    --main-solid-blue: #00EDFA;
+    --main-solid-purpure:#3426BC;
+    --secundary-blue-1:#5FCADF;
+    --secundary-blue-2:#1992DD;
+    --secundary-blue-3: #2A70B9;
+    --secundary-blue-4: #2667D0;
+    --secundary-blue-5: #1F7ED7;
+    --secundary-purpure-1: #2D4EC9;
+    --secundary-purpure-2: #42459C;
+    --secundary-black-1:#000000 ;
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #5867dd;
+    --secondary: #e1e1ef;
+    --success: #0abb87;
+    --info: #5578eb;
+    --warning: #ffb822;
+    --danger: #fd397a;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 1024px;
+    --breakpoint-xl: 1399px;
+    --sm: 14px;/* Con estas en font-size podemos utilizarlos para los tamanos sm= small md = mediano = grande*/
+    --md: 16px;
+    --lg: 18px;
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: var(--info);
+}
+
+.container {
+    width: 100%;
+    height: 80vh;
+    display: grid;
+    place-items:  center;
+}
+
+.form1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.form2 {
+    display: flex;
+    flex-direction: column;
+}
+.Section-Triangulo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 50rem;
+    height: 20rem;
+    background-color: var(--cyan);
+    border-radius: 1rem;
+}
+
+.Section-Cuadrado {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: var(--hospital-green);
+    width: 50rem;
+    height: 20rem;
+    border-radius: 1rem;
+}
+
+.label {
+    font-size: var(--md);
+    font-weight: bold; /*Pone la letra en negrilla*/
+    margin-bottom: 4px;
+}
+h2 {
+    font-size: var(--lg);
+    font-weight: bold; /*Pone la letra en negrilla*/
+    margin-bottom: 4px;
+}
+
+.input {
+    background-color: var(--text-input-field);
+    border: none; /* con este quitamos el borde negrito*/
+    border-radius: 8px;/* con este ponemos el borde que tiene con las esquinas ovaladas*/
+    height: 30px;
+    font-size: var(--md);
+    padding: 6px;/* Esto es para que no quede pegado el password*/
+    margin-bottom: 12px; /* Con este damos espacio al input con el texto*/
+
+}
+
+
+.main-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.button-hoverC1:hover {
+    background: var(--gray);
+}
+.buttonC1 {
+    margin-top: 0.5rem; /* Con estas margenes separamos el boton de los inputs, lo mejor es que podemos incluir varias clases a algo*/ 
+    margin-bottom: 2rem;
+    border: 0.1rem solid var(--black);
+    border-radius: 0.5rem;
+    width: 15rem;
+    height: 3rem;
+    background-color: var(--purple);
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif bold;
+    color: var(--white);
+}
+
+.buttonC2 {
+    margin-top: 0.5rem; /* Con estas margenes separamos el boton de los inputs, lo mejor es que podemos incluir varias clases a algo*/ 
+    margin-bottom: 2rem;
+    border: 0.1rem solid var(--black);
+    border-radius: 0.5rem;
+    width: 15rem;
+    height: 3rem;
+    background-color: var(--purple);
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif bold;
+    color: var(--white);
+}

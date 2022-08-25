@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--Estos son los Links del tipo de letras-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500&display=swap" rel="stylesheet">
+
+<style>
+    
+    /*--Con esta Funcion :root creamos variables que si son cambiadas
+        ellas se modifican automaticamente*/
+    :root {
+        --white: #FFFFFF;
+        --black:#000000;
+        --very-ligh-pink : #C7C7C7;
+        --text-input-field: #F7F7F7;
+        --hospital-green:#ACD9B2;
+        --sm: 14px;/* Con estas en font-size podemos utilizarlos para los tamanos sm= small md = mediano = grande*/
+        --md: 16px;
+        --lg: 18px;
+    }
+
+    body {
+        font-family: 'Quicksand', sans-serif;
+        margin: 0;
+    }
+
+    /*Con esta clase ponemos el alto y ancho de toda la pantalla
+    centramos con display grid*/
+    .login {
+        width: 100%;
+        height:100vh;
+        display: grid;
+        place-items: center;
+
+    }
+
+    .form-container {
+        display: grid;
+        grid-template-rows: auto 1fr auto;/* Con este y el de arriba centramos todo el text*/
+        width: 300px;
+    }
+
+    .logo {
+        width: 150px;
+        margin-bottom: 48px;/*con este separamos del titulo*/
+        justify-self: center; /* con este centramos*/
+        display: none; /* Con esta opcion no aparece en escritorio si no an app*/
+
+    }
+
+    .title {
+        font-size: var(--lg);/*tamaño*/
+        margin-bottom: 12px;/*separacion con subtitulo*/
+        text-align: center;/*posicion*/
+    }
+
+    .subtitle {
+        color: var(--very-ligh-pink);
+        font-size: var(--md);
+        font-weight: 300;/*Estos 300 se trajeron de google,en los tipos de letras*/
+        margin-top: 0; /*Esto es para que no se crucen los parrafos*/
+        margin-bottom: 32px; /* Esto es para que se separe de los input y label*/
+        text-align: center;/* Esto Centra el texto*/
+    }
+
+    .form {
+        display: flex; /* Cuando ponemos esto se nos ubica uno al lado del otro*/
+        flex-direction: column;/* Con este le cambiamos la direccion al anterior*/
+    }   
+    .label {
+        font-size: var(--sm);
+        font-weight: bold; /*Pone la letra en negrilla*/
+        margin-bottom: 4px;
+
+    }
+
+    .input {
+        background-color: var(--text-input-field);
+        border: none; /* con este quitamos el borde negrito*/
+        border-radius: 8px;/* con este ponemos el borde que tiene con las esquinas ovaladas*/
+        height: 30px;
+        font-size: var(--md);
+        padding: 6px;/* Esto es para que no quede pegado el password*/
+        margin-bottom: 12px; /* Con este damos espacio al input con el texto*/
+
+    }
+
+    .primary-button {
+        background-color: var(--hospital-green);/*color del boton*/
+        border-radius: 8px;/* los bordes quedan ovalados*/
+        border: none; /* con este eliminamos los bordes negros por defecto*/
+        color: var(--white);/* con este le ponemos el color al texto o lo que este adentro del boton*/
+        width: 100%; /*ancho completo*/
+        height: 50%;/*alto*/
+        cursor: pointer;/*con esto al pasar el mouse sale una manito y no la flecha del mouse*/
+        font-size: var(--md);/* Con esto el boton crece, es decir un poco mas grande*/
+        font-weight: bold; /* letra negrilla*/
+
+    }
+
+    .login-button {
+        margin-top: 14px; /* Con estas margenes separamos el boton de los inputs, lo mejor es que podemos incluir varias clases a algo*/ 
+        margin-bottom: 30px;
+    }
+
+    @media (max-width: 640px){
+        .logo {
+            display: block; /* Con este codigo incluimos el logo para que se vea solo en celulares*/
+        }
+    }
+</style>
+
+</head>
+<body>
+    
+    <div class="login">
+        <div class="form-container">
+            <h1 class="title">Create a new password</h1>
+            <!--Formulario de Password y new Password-->
+            <form action="/" class="form">
+                <label for="name" class="label">Name</label>
+                <input type="text" id="name" placeholder="Cristian" class="input input-name">
+            
+                <label for="password" class="label">Password</label>
+                <input type="password" id="password" placeholder="*******" class="input input-password">
+            
+                <!--Boton-->
+                <input type="submit" value="Confirm" class="primary-button login-button">
+
+            </form>
+
+            
+            
+              
+            
+        </div>
+    </div>
+
+
+
+
+</body>
+</html>

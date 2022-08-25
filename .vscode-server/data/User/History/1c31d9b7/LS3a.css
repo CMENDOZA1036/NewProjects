@@ -1,0 +1,155 @@
+:root {
+    --white: #FFFFFF;
+    --black:#000000;
+    --very-ligh-pink : #C7C7C7;
+    --text-input-field: #F7F7F7;
+    --hospital-green:#ACD9B2;
+    --main-solid-blue: #00EDFA;
+    --main-solid-purpure:#3426BC;
+    --secundary-blue-1:#5FCADF;
+    --secundary-blue-2:#1992DD;
+    --secundary-blue-3: #2A70B9;
+    --secundary-blue-4: #2667D0;
+    --secundary-blue-5: #1F7ED7;
+    --secundary-purpure-1: #2D4EC9;
+    --secundary-purpure-2: #42459C;
+    --secundary-black-1:#000000 ;
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #5867dd;
+    --secondary: #e1e1ef;
+    --success: #0abb87;
+    --info: #5578eb;
+    --warning: #ffb822;
+    --danger: #fd397a;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 1024px;
+    --breakpoint-xl: 1399px;
+    --sm: 14px;/* Con estas en font-size podemos utilizarlos para los tamanos sm= small md = mediano = grande*/
+    --md: 16px;
+    --lg: 18px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;    
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+
+.header {
+    background-color:var(--secundary-purpure-1);
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    border-bottom: 1px solid var(--black);/*Con este le ponemos una linea abajo*/
+    align-items: center;
+}
+
+.logo-sm {
+    width: 30%;
+}
+
+
+.menu li {
+    display: inline-block;
+    flex-wrap: wrap;
+    font-size: 1rem;
+    font-weight: bold;
+    list-style: none;
+    margin: 0.5rem;
+    color: var(--white);
+    margin-bottom: 2px;
+    
+    
+}
+
+.menu li:hover {
+    margin-bottom: 2px;
+    border: 1px solid var(--white);
+    text-decoration: none;
+    border-radius: 2px;
+    padding: 5px;
+    cursor: pointer;
+    margin: 0;
+    color: var(--black);
+    
+}
+
+.main-container  {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}  
+
+.box {
+    height: 10rem;
+    width: 10rem;
+    flex-basis: 5rem;
+    flex-grow: 1;
+    border: 0.3rem solid black;
+    
+}
+
+.main-container div > a {
+    text-decoration: none;
+    
+    
+}  
+.main-container div {
+    margin-bottom: 10rem;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-1 {
+    background-color: var(--cyan);
+}
+
+.container-2 {
+    background-color: var(--danger);
+}
+
+.container-3 {
+    background-color: var(--hospital-green);
+}
+
+.container-4 {
+    background-color: var(--orange);
+}
+
+.redes {
+    display: flex;
+    justify-content: end;
+}
+
+.main-container1 {
+    height: 100px;
+    padding-left: 120px;
+    background-color: var(--hospital-green);
+}

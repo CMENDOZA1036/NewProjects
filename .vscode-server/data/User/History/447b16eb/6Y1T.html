@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PromedioMedianaModa</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;500&family=Quicksand:wght@300;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./3. StylePromedio.css">
+</head>
+<body>
+    <header class="header">
+        <h1>Promedio, Mediana y Moda</h1>
+        <p>Con este traeremos el Promedio, Mediana y Moda</p>
+    </header>
+    
+    <div class="container-main">   
+        <section class="container">
+            <h2 class="titlle1">Calcula el Promedio</h2>
+            <form action="" class="formulario">
+                
+                <label for="input-price" class="label">EL Salario los Salarios para Promediar</label>
+                <input type="number" id="InputPrice" class="input" placeholder="Ej: 100, 300, 400">
+                
+                <button type="button" onclick="onClickButtonPriceDiscount()" class="button1">
+                    Promedio
+                </button>
+    
+                <p id="ResultP" class="result"></p>
+            
+            </form>
+        </section>
+    </div>
+
+
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./3. promedio.js"></script>
+    <script src="./3. Mediana.js"></script>
+</body>
+</html>

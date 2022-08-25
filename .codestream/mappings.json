@@ -1,0 +1,59 @@
+{
+ "repos": {
+  "62a8af5b34148acd2cc14685": {
+   "paths": [
+    "/home/cmendoza/CMENDOZA1036"
+   ],
+   "defaultPath": "/home/cmendoza/CMENDOZA1036"
+  },
+  "62a8af5b34148acd2cc14684": {
+   "paths": [
+    "/home/cmendoza/HyperBlog"
+   ],
+   "defaultPath": "/home/cmendoza/HyperBlog"
+  },
+  "62a8af5b34148acd2cc14686": {
+   "paths": [
+    "/home/cmendoza/PersonalProjects"
+   ],
+   "defaultPath": "/home/cmendoza/PersonalProjects"
+  },
+  "62a8ee2a7e08d5b329c380bb": {
+   "paths": [
+    "/home/cmendoza/escuela-js"
+   ],
+   "defaultPath": "/home/cmendoza/escuela-js"
+  },
+  "62a906fbe0ceedd4494f556f": {
+   "paths": [
+    "/home/cmendoza/PersonalProjects/WEB/hyperblog-1"
+   ],
+   "defaultPath": "/home/cmendoza/PersonalProjects/WEB/hyperblog-1"
+  },
+  "62b34e7d62b2bb8d1f08fc3b": {
+   "paths": [
+    "/home/cmendoza/JsPractico"
+   ],
+   "defaultPath": "/home/cmendoza/JsPractico"
+  },
+  "62bb83eddb4d7a5626848991": {
+   "paths": [
+    "/home/cmendoza/PersonalProjects/WEB/Frontend/repo-curso-definitivo-html-y-css"
+   ],
+   "defaultPath": "/home/cmendoza/PersonalProjects/WEB/Frontend/repo-curso-definitivo-html-y-css"
+  },
+  "62e1a3ed222ad33f9250f09b": {
+   "paths": [
+    "/home/cmendoza/Proyecto-Google-Clone"
+   ],
+   "defaultPath": "/home/cmendoza/Proyecto-Google-Clone"
+  },
+  "6304f97a987fd04ca941ec99": {
+   "paths": [
+    "/home/cmendoza/blender_vscode"
+   ],
+   "defaultPath": "/home/cmendoza/blender_vscode"
+  }
+ },
+ "version": "1.0.0"
+}

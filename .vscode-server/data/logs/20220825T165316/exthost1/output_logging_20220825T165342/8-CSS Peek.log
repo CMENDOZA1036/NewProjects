@@ -1,0 +1,12 @@
+[Server(252) cmendoza/] onInitialize
+[Server(259) cmendoza/] onInitialize
+[Server(265) cmendoza/] onInitialize
+[Error - 4:54:49 PM] Server initialization failed.
+  Message: Request initialize failed with message: ENOENT: no such file or directory, open '/home/cmendoza/.vscode-server/extensions/.9a4ad273-9882-4772-b477-836c9e255385/activitiesWebview/css/app.css'
+  Code: -32603 
+[Error - 4:54:49 PM] Server initialization failed.
+  Message: Request initialize failed with message: ENOENT: no such file or directory, open '/home/cmendoza/.vscode-server/extensions/.9a4ad273-9882-4772-b477-836c9e255385/activitiesWebview/css/app.css'
+  Code: -32603 
+[Error - 4:54:49 PM] Server initialization failed.
+  Message: Request initialize failed with message: ENOENT: no such file or directory, open '/home/cmendoza/.vscode-server/extensions/.9a4ad273-9882-4772-b477-836c9e255385/activitiesWebview/css/app.css'
+  Code: -32603 

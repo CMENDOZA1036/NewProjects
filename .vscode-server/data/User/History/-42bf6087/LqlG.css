@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+html {
+    font-size: 62.5%;
+}
+.parent {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.box {
+  
+  background-color:blue;
+  width: 300px;
+  height: 100px;
+  text-align: center;
+  display: inline-block;
+  
+}
+
+#one {
+  background-color: red;
+  position: relative;
+  display: inline-block;
+  top: 4.1rem;
+  left: 32%;
+  padding: 2.8rem;
+  border-radius: 2rem;
+  font-size: 1.8rem;  
+}
+
+#two {
+  font-size: 1.6rem;
+  background-color: khaki;
+  display: inline-block;
+  border: 0.2rem lawngreen solid;
+  padding: 6rem;
+  margin: 0rem3rem6rem3rem;
+  line-height: calc(1.7rem + 20%);
+  border-radius: 2.6rem;
+}
+
+

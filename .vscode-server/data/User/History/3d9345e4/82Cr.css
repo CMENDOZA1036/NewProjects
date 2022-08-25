@@ -1,0 +1,144 @@
+/*--Con esta Funcion :root creamos variables que si son cambiadas
+ellas se modifican automaticamente*/
+:root {
+    --white: #ffffff;
+    --black: #000000;
+    --very-ligh-pink: #c7c7c7;
+    --text-input-field: #f7f7f7;
+    --hospital-green: #acd9b2;
+    --sm: 14px; /* Con estas en font-size podemos utilizarlos para los tamanos sm= small md = mediano = grande*/
+    --md: 16px;
+    --lg: 18px;
+}
+
+body {
+    font-family: "Quicksand", sans-serif;
+    margin: 0;
+}
+
+nav {
+    display: flex; /* Con este alineamos todo lo de arriba*/
+    width: 100%;
+    justify-content: space-between;
+    padding: 0;
+    border-bottom: 1px solid var(--very-ligh-pink); /*Con este le ponemos una linea abajo del menu*/
+}
+.menu {
+    display: none; /* Con esto desaparecemos el menu del escritorio, pero  no queda el logo alineado*/
+    }
+
+.logo {
+    width: 100px;
+}
+
+.navbar-left {
+    display: flex; /* Con este alineamos el logo*/
+}
+
+.navbar-left ul {
+    display: flex; /* Con este alineamos el logo*/
+    margin-left: 12px;
+}
+.navbar-left ul li a,
+.navbar-right ul li a {
+    text-decoration: none;
+    color: var(--very-ligh-pink);
+    border: 1px solid var(--white);
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.navbar-left ul li a:hover,
+.navbar-right ul li a:hover {
+    text-decoration: none;
+    color: var(--hospital-green);
+    border: 1px solid var(--hospital-green);
+} /* con la clase :hover es para que cuando pasemos el mouse se vea seleccionado*/
+
+.navbar-left ul,
+.navbar-right ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    height: 60px;
+}
+
+.navbar-email {
+    color: var(--very-ligh-pink);
+    font-size: var(--sm);
+    margin-right: 12px;
+}
+
+.navbar-shopping-card {
+    position: relative;
+}
+.navbar-shopping-card div {
+    width: 16px;
+    height: 16px;
+    background-color: var(--hospital-green);
+    border-radius: 50%;
+    font-size: var(--sm);
+    font-weight: bold;
+    position: absolute;
+    top: -6px;
+    right: -3px;
+    display: flex;
+    justify-content: center;
+}
+
+.desktop-menu {
+    position: absolute;
+    width: 100px;
+    height: auto;
+    border: 1px solid var(--very-ligh-pink);
+    border-radius: 6px;
+    padding: 20px 20px 0 20px; /* Con este separamos todo lo que esta dentro del contenedor de las margenes para generar bordes organizado por arriba, derecha abajo e izquierda asi estan los numeros*/
+}
+
+.desktop-menu ul {
+    list-style: none; /* Con esto quitamos los puntos pode defecto que trae la etiqueta ul*/
+    padding: 0; /* Con esto lo que hace es que quita ajuste de texto*/
+    margin: 0;
+}
+
+.desktop-menu ul li {
+    text-align: end;
+}
+
+.desktop-menu ul li:nth-child(1),
+.desktop-menu ul li:nth-child(2) {
+    font-weight: bold;
+}
+
+.desktop-menu ul li:last-child {
+    padding-top: 20px;
+    border-top: 1px solid var(--very-ligh-pink);
+} /* Con la pseudoclase last-child estamos escogiendo sign out para estilizar*/
+
+.desktop-menu ul li:last-child a {
+    color: var(--hospital-green);
+    font-size: var(--sm); /*tamano de letra*/
+} /* Con la pseudoclase last-child estamos escogiendo sign out para estilizar*/
+
+.desktop-menu ul li a {
+    color: var(--black);
+    text-decoration: none; /*con esto quitamos las lineas de abajo de la letras*/
+    margin-bottom: 20px;
+    display: inline-block; /* Con este ultimo toma las margenes que hemos puesto ya al contenedor inicial las quitamos*/
+} /* Con la pseudoclase last-child estamos escogiendo my orders y my account para estilizar*/
+
+@media (max-width: 640px) {
+    .menu {
+    display: block;
+    /* Con este codigo incluimos el logo para que se vea solo en celulares*/
+}
+
+.navbar-left ul {
+    display: none;
+} /* Con este desaparemos el Menu de UL*/
+
+.navbar-email {
+    display: none;
+}

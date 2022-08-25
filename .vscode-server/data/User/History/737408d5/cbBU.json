@@ -1,0 +1,19 @@
+{
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.fontWeight": "normal",
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Atom One Dark",
+  "workbench.iconTheme": "vscode-icons",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDragAndDrop": false,
+  "codestream.serverUrl": "https://api.codestream.com",
+  "codestream.email": "alvarezmendoz@gmail.com",
+  "gitlens.advanced.messages": {
+    "suppressGitDisabledWarning": true
+  },
+  "gitlens.gitCommands.skipConfirmations": [
+    "fetch:command",
+    "stash-push:command",
+    "push:command"
+  ]
+}

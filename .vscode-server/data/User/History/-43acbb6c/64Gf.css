@@ -1,0 +1,206 @@
+:root {
+    --white: #FFFFFF;
+    --black:#000000;
+    --very-ligh-pink : #C7C7C7;
+    --text-input-field: #F7F7F7;
+    --hospital-green:#ACD9B2;
+    --main-solid-blue: #00EDFA;
+    --main-solid-purpure:#3426BC;
+    --secundary-blue-1:#5FCADF;
+    --secundary-blue-2:#1992DD;
+    --secundary-blue-3: #2A70B9;
+    --secundary-blue-4: #2667D0;
+    --secundary-blue-5: #1F7ED7;
+    --secundary-purpure-1: #2D4EC9;
+    --secundary-purpure-2: #42459C;
+    --secundary-black-1:#000000 ;
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #5867dd;
+    --secondary: #e1e1ef;
+    --success: #0abb87;
+    --info: #5578eb;
+    --warning: #ffb822;
+    --danger: #fd397a;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 1024px;
+    --breakpoint-xl: 1399px;
+    --sm: 14px;/* Con estas en font-size podemos utilizarlos para los tamanos sm= small md = mediano = grande*/
+    --md: 16px;
+    --lg: 18px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;    
+}
+
+
+
+html {
+    font-size: 62.5%;
+}
+
+a {
+    text-decoration: none;/** Con este le quitamos las rayas que se hacen a las etiquetas "a" en la parte de abajo**/
+    cursor: pointer;
+}
+
+header {
+    width: 100%;
+    height: 60px;
+}
+
+header nav {
+    display: flex;
+    justify-content: flex-end; 
+}
+
+.nav-right-section {
+    width: 250px;
+    height: auto;
+    display: flex;/**Con este Posicionamos los elementos de la lista manera horizontal**/
+    list-style: none;/** con este Quitamos los puntos que salen a la lista**/
+    justify-content: center; /**como y ale di un Width de 250px quiero que en esa distancia me lo ponga en el centro**/
+    align-items: center;
+    margin-top: 1rem;/**Con este le ponemos a la clase de ul un margin top para que no quede pegado arriba**/
+}
+
+nav .nav-right-section a {
+    margin-right: 10px;/** Con esta seccion lo que hacemos es separar la lista entre ellas**/
+    color: var(--black);
+}
+
+.menu-icon {
+    background-image: url('https://cdn-icons-png.flaticon.com/512/566/566001.png');
+    background-repeat: no-repeat;/**Con este lo que hacemos es que si el contenedor es muy grande o pqeno la imagen suele repetirse para llenar el espacio entonces la idea es no repetirla**/
+    background-position: center; /**Con este le decimos q el icono quede al centro**/
+    background-size: contain;/**Con esta propiedad le decimos que la imagen este al tamano de contenedor menu-icon**/
+    width: 1.5rem; /** Ancho a la imagen**/
+    height: 1.5rem; /** altura a la img**/
+    
+}
+
+.img-perfil {
+    border-radius: 5rem;
+    margin-left: 2rem;
+}
+
+main {
+    margin-top: 15rem;
+    text-align: center; /**Todo lo q esta adentro de la etiqeuta main se centro**/
+}
+
+.main-logo {
+    width: 53rem;
+    margin: 0 auto;
+    margin-bottom: 3.5rem; /**Con todas estas propiedades le damos un ancho y margenes automaticas para la section de la img**/
+}
+.main-logo-url {
+    width: 30rem;/**Con este le damos un tamano ajustado a las propiedades de arriba**/
+}
+
+.main-input {
+    width: 53rem;
+    margin: 0 auto; /** Con esto hacemos que se posicione en la parte del medio cuando movemos la pantalla**/
+    margin-bottom: 3.5rem;
+}
+
+.main-input-container {
+    width: 52.5rem;
+    border-radius: 10rem;
+    border: 1px solid #dfe1e5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-input-container-search {
+    width: 45rem;
+    height: 4rem;
+    border: none;/**Con este le quitamos el borde que trae por defecto el input ya que arriba le hicimos una sombra de input**/
+    outline: none;/**Con este le quitamos la sombra negra que daba el input cuando uno lo seleccionaba**/
+}
+
+.main-input-container:hover {
+    box-shadow: 0 1px 6px #202120; /**Con esta propiedad es para poner la sombra cuando se haga hover**/
+    border-color: #dfe1e500;
+}
+
+.search-icon {
+    background-image: url('https://cdn.icon-icons.com/icons2/1372/PNG/512/zoom-2_90835.png');/**Con todas estas propiedades ponemos iconos en inputs y etiquetas**/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 1.8rem;/**Con esto transfromamos la img**/
+    height: 1.8rem;
+}
+
+.micro-icon {
+    background-image: url('https://www.audienciaelectronica.net/wp-content/uploads/2016/06/google-microfono.jpg'); /**Con todas estas propiedades ponemos iconos en inputs y etiquetas**/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 3.2rem;/**Con esto transfromamos la img**/
+    height: 3.2rem;
+    cursor: pointer;
+}
+
+
+/*! Vamos Estilizar los Botones!*/
+
+.main-buttons {
+    width: 53rem;
+    margin: 0 auto;
+}
+
+main .main-buttons div {
+    display: inline-block;
+}
+main .main-buttons button {
+    height: 3.6rem;
+    background-color: #f2f2f2;
+    border: 0;
+    font-size: 1.4rem;
+    color: #5f6368;
+    border-radius: 5px;
+    padding: 0 1.5rem;
+    margin-right: 1.5rem;
+}
+
+main .main-buttons button:hover {
+    border: 1px solid #c6c6c6;
+    box-shadow: 0 1px 1 px #000001; /** Con este damos una combra en el Hover**/
+    cursor: pointer;
+    color: #222;
+}
+
+footer {
+    width: 100%;
+    height: 5rem;
+    position: absolute;/**Con esto hacemos que se quede siempre en la parte de Abajo el contenedor padre**/
+    background-color: var(--gray);
+    bottom: 0; /**Con esta propiedad tiramos el Footer a la parte de abajo.**/
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Descuentos y Porcentajes</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;500&family=Quicksand:wght@300;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./2. StyleDescuentos.css">
+</head>
+<body>
+    <header class="header">
+        <h1>Porcentages y Descuentos</h1>
+        <p>Este es el segundo Taller del Curso Practico de JavaScript</p>
+    </header>
+    
+    <div class="container-main">   
+        <section class="container">
+            <h2 class="titlle1">Calcula el Precio a Pagar de tus Productos con Descuentos</h2>
+            <form action="" class="formulario">
+                <label for="input-price" class="label">Escribe el Precio de tu producto</label>
+                <input type="number" id="InputPrice" class="input" placeholder="Precio">
+    
+                <label for="input-discount" class="label">Escribe el Precio de tu descuento</label>
+                <input type="number" id="InputDiscount" class="input" placeholder="Descuento">
+    
+    
+                <button type="button" onclick="onClickButtonPriceDiscount()" class="button1">
+                    Calcular el Precio con Descuento
+                </button>
+    
+                <p id="ResultP" class="result"></p>
+            </form>
+        </section>
+    </div>
+
+
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./2. descuentos.js"></script>
+</body>
+</html>

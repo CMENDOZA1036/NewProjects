@@ -1,0 +1,56 @@
+{
+	"name": "polacode-2019",
+	"displayName": "Polacode-2022",
+	"description": "📸  Polaroid for your code",
+	"version": "0.6.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jeff-hykin/polacode.git"
+	},
+	"publisher": "jeff-hykin",
+	"keywords": [
+		"polacode",
+		"polaroid",
+		"screenshot",
+		"snippet",
+		"share"
+	],
+	"galleryBanner": {
+		"color": "#fbfbfb",
+		"theme": "light"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Other"
+	],
+	"engines": {
+		"vscode": "^1.33.0"
+	},
+	"activationEvents": [
+		"onCommand:polacode.activate"
+	],
+	"main": "./src/extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "polacode.activate",
+				"title": "Polacode 📸"
+			}
+		]
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"@types/vscode": "^1.33.0"
+	},
+	"__metadata": {
+		"id": "389cd4a7-a68b-4cc5-8451-29cc7674ef6d",
+		"publisherId": "b734936b-6cc4-40c1-b17a-c6a7e1f680cd",
+		"publisherDisplayName": "Jeff Hykin",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1658864090206
+	}
+}

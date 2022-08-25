@@ -1,0 +1,84 @@
+[2022-08-23 10:57:27.374] [remoteagent] [info] Extension host agent started.
+[2022-08-23 10:57:27.506] [remoteagent] [info] [127.0.0.1][671075ba][ManagementConnection] New connection established.
+[2022-08-23 10:57:27.644] [remoteagent] [info] [127.0.0.1][12827d65][ExtensionHostConnection] New connection established.
+[2022-08-23 10:57:30.127] [remoteagent] [info] [127.0.0.1][12827d65][ExtensionHostConnection] <126> Launched Extension Host Process.
+[2022-08-23 10:57:41.609] [remoteagent] [info] Getting Manifest... codestream.codestream
+[2022-08-23 10:57:41.610] [remoteagent] [info] Getting Manifest... eamodio.gitlens-insiders
+[2022-08-23 10:57:41.610] [remoteagent] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-08-23 10:57:41.610] [remoteagent] [info] Getting Manifest... github.vscode-pull-request-github
+[2022-08-23 10:57:41.611] [remoteagent] [info] Getting Manifest... johnpapa.vscode-peacock
+[2022-08-23 10:57:41.611] [remoteagent] [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+[2022-08-23 10:57:41.611] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-08-23 10:57:41.612] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-08-23 10:57:41.612] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-08-23 10:57:41.613] [remoteagent] [info] Getting Manifest... ms-vsliveshare.vsliveshare
+[2022-08-23 10:57:41.613] [remoteagent] [info] Getting Manifest... pkief.material-icon-theme
+[2022-08-23 10:57:42.057] [remoteagent] [info] Installing extension: codestream.codestream
+[2022-08-23 10:57:42.214] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2022-08-23 10:57:42.266] [remoteagent] [info] Installing extension: github.vscode-pull-request-github
+[2022-08-23 10:57:42.453] [remoteagent] [info] Installing extension: johnpapa.vscode-peacock
+[2022-08-23 10:57:42.613] [remoteagent] [info] Installing extension: eamodio.gitlens-insiders
+[2022-08-23 10:57:42.632] [remoteagent] [info] Installing extension: ms-python.python
+[2022-08-23 10:57:42.997] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2022-08-23 10:57:43.000] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-08-23 10:57:43.010] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-08-23 10:57:43.016] [remoteagent] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2022-08-23 10:57:43.021] [remoteagent] [info] Installing extension: pkief.material-icon-theme
+[2022-08-23 10:57:48.715] [remoteagent] [info] Downloaded extension: johnpapa.vscode-peacock /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/johnpapa.vscode-peacock-4.1.0
+[2022-08-23 10:57:48.955] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.e80c2c40-d974-4a92-afd0-a379adf2d7f7: johnpapa.vscode-peacock
+[2022-08-23 10:57:48.977] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/johnpapa.vscode-peacock-4.1.0
+[2022-08-23 10:57:48.990] [remoteagent] [info] Extracting completed. johnpapa.vscode-peacock
+[2022-08-23 10:57:48.999] [remoteagent] [info] Extension installed successfully: johnpapa.vscode-peacock
+[2022-08-23 10:57:49.368] [remoteagent] [info] Downloaded extension: github.vscode-pull-request-github /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/github.vscode-pull-request-github-0.49.2022082309
+[2022-08-23 10:57:49.491] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-es /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-es-1.70.8170911
+[2022-08-23 10:57:49.502] [remoteagent] [info] Downloaded extension: pkief.material-icon-theme /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/pkief.material-icon-theme-4.20.0
+[2022-08-23 10:57:49.890] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.1789a49d-854b-4fb5-8909-0a681319f7ac: github.vscode-pull-request-github
+[2022-08-23 10:57:49.931] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/github.vscode-pull-request-github-0.49.2022082309
+[2022-08-23 10:57:49.954] [remoteagent] [info] Extracting completed. github.vscode-pull-request-github
+[2022-08-23 10:57:49.962] [remoteagent] [info] Extension installed successfully: github.vscode-pull-request-github
+[2022-08-23 10:57:50.397] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.63aeae65-13fe-47d8-a80b-0fa9aab785b7: ms-ceintl.vscode-language-pack-es
+[2022-08-23 10:57:50.781] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.70.8170911
+[2022-08-23 10:57:50.845] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+[2022-08-23 10:57:50.862] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+[2022-08-23 10:57:51.480] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+[2022-08-23 10:57:55.684] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/esbenp.prettier-vscode-9.8.0
+[2022-08-23 10:57:56.320] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.81f942d5-0945-4db2-8cbb-b3390ba03514: pkief.material-icon-theme
+[2022-08-23 10:57:56.513] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/pkief.material-icon-theme-4.20.0
+[2022-08-23 10:57:56.646] [remoteagent] [info] Extracting completed. pkief.material-icon-theme
+[2022-08-23 10:57:56.729] [remoteagent] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-08-23 10:57:58.129] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.b6ac5615-41e2-4051-9461-66653dc768f1: esbenp.prettier-vscode
+[2022-08-23 10:57:58.158] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.8.0
+[2022-08-23 10:57:58.187] [remoteagent] [info] Extracting completed. esbenp.prettier-vscode
+[2022-08-23 10:57:58.196] [remoteagent] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-08-23 10:57:58.490] [remoteagent] [info] Downloaded extension: codestream.codestream /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/codestream.codestream-13.5.0
+[2022-08-23 10:58:00.433] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.4c813fb1-f4d6-4037-8f40-4bb56dcc7a31: codestream.codestream
+[2022-08-23 10:58:00.519] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/codestream.codestream-13.5.0
+[2022-08-23 10:58:00.533] [remoteagent] [info] Extracting completed. codestream.codestream
+[2022-08-23 10:58:00.538] [remoteagent] [info] Extension installed successfully: codestream.codestream
+[2022-08-23 10:58:04.692] [remoteagent] [info] Downloaded extension: ms-python.python /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2022.12.1
+[2022-08-23 10:58:09.312] [remoteagent] [info] Downloaded extension: eamodio.gitlens-insiders /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-insiders-2022.8.2305
+[2022-08-23 10:58:10.662] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.78df0bec-50d1-4307-995d-442e5d272b91: eamodio.gitlens-insiders
+[2022-08-23 10:58:10.726] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.8.2305
+[2022-08-23 10:58:10.783] [remoteagent] [info] Extracting completed. eamodio.gitlens-insiders
+[2022-08-23 10:58:10.797] [remoteagent] [info] Extension installed successfully: eamodio.gitlens-insiders
+[2022-08-23 10:58:17.163] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.a6650b3a-f625-4bf7-ace3-d53ee7bc9fd4: ms-python.python
+[2022-08-23 10:58:17.513] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-python.python-2022.12.1
+[2022-08-23 10:58:17.586] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-08-23 10:58:17.599] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2022-08-23 10:58:29.790] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.7.1102252217
+[2022-08-23 10:58:31.597] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.3f1893c8-5202-465b-9e7d-cf8c9bd7d26a: ms-toolsai.jupyter
+[2022-08-23 10:58:31.649] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-toolsai.jupyter-2022.7.1102252217
+[2022-08-23 10:58:31.695] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-08-23 10:58:31.725] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-08-23 10:58:35.552] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.8.30
+[2022-08-23 10:58:57.644] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.5fdc8075-0607-432d-a424-fcf4c52df917: ms-python.vscode-pylance
+[2022-08-23 10:58:58.051] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-python.vscode-pylance-2022.8.30
+[2022-08-23 10:58:58.078] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-08-23 10:58:58.099] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-08-23 10:58:59.186] [remoteagent] [info] Downloaded extension: ms-vsliveshare.vsliveshare /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.5690
+[2022-08-23 10:59:06.169] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.4cb1f50c-1821-4b07-984d-ea1642c17a40: ms-vsliveshare.vsliveshare
+[2022-08-23 10:59:06.459] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5690
+[2022-08-23 10:59:06.552] [remoteagent] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2022-08-23 10:59:06.574] [remoteagent] [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+[2022-08-23 10:59:55.457] [remoteagent] [info] [127.0.0.1][671075ba][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-23 10:59:55.954] [remoteagent] [info] [127.0.0.1][12827d65][ExtensionHostConnection] <126> Extension Host Process exited with code: 0, signal: null.

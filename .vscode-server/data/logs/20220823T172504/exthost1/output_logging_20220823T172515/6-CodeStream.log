@@ -1,0 +1,1307 @@
+[2022-08-23 22:25:49:297] CodeStream v13.5.0-4235 in VS Code (v1.70.2) starting...
+[2022-08-23 22:25:49:323] Proxy support is on, but no proxy url was found
+[2022-08-23 22:25:55:273] no NewRelic telemetry - The user aborted a request.
+[2022-08-23 22:25:55:296] no NewRelic telemetry
+[2022-08-23 22:26:26:891] CodeStream v13.5.0-4235 started • 45264 ms
+[2022-08-23 22:26:28:520] Signing alvarezmendoz@gmail.com into CodeStream (https://api.codestream.com)
+[2022-08-23 22:26:28:521] AgentConnection.sendRequest(codestream/login/token)
+[2022-08-23 22:26:28:614] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2022-08-23 22:26:28:614] [2] WebviewController.onApiVersionChanged
+[2022-08-23 22:26:28:615] [2] WebviewController.onApiVersionChanged completed • 0 ms
+[2022-08-23 22:26:28:615] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 1 ms
+[2022-08-23 22:26:40:174] [3] CodeStreamAgentConnection.onDataChanged(unreads)
+[2022-08-23 22:26:40:174] [3] CodeStreamAgentConnection.onDataChanged(unreads) completed • 0 ms
+[2022-08-23 22:26:41:269] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-08-23 22:26:41:290] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-08-23 22:26:42:385] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-08-23 22:26:42:516] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:26:42:520] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-08-23 22:26:58:215] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview
+[2022-08-23 22:26:58:465] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:26:58:477] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:27:00:540] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:27:02:834] [4] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:27:02:834] [4] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:27:03:756] [5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/13.%20Carrito%20Compras.html)
+[2022-08-23 22:27:03:757] [5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/13.%20Carrito%20Compras.html) completed • 1 ms
+[2022-08-23 22:27:03:758] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:27:03:758] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:27:14:634] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:27:14:654] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:27:15:156] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:27:18:024] [6] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:27:18:024] [6] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:27:29:989] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:27:30:441] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:27:30:466] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:27:32:051] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:27:33:154] [7] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:27:33:155] [7] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:27:35:929] [8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/10.%20Mis%20ordenes.html)
+[2022-08-23 22:27:35:929] [8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/10.%20Mis%20ordenes.html) completed • 0 ms
+[2022-08-23 22:27:35:929] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:27:35:930] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:27:47:767] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:27:47:773] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:27:48:089] [9] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:27:48:089] [9] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:27:48:276] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:27:54:084] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:27:54:268] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:27:54:284] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:27:56:400] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:27:58:799] [a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:27:58:799] [a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:28:03:144] [b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/9.%20My%20order.html)
+[2022-08-23 22:28:03:150] [b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/9.%20My%20order.html) completed • 5 ms
+[2022-08-23 22:28:03:151] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:28:03:152] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:28:14:830] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:28:14:834] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:28:14:853] [c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:28:14:853] [c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:28:15:336] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:28:19:774] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:28:19:937] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:28:19:947] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:28:21:133] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:28:22:083] [d] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:28:22:083] [d] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:28:25:184] [e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/7.%20Menu%20Escritorio.html)
+[2022-08-23 22:28:25:185] [e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/7.%20Menu%20Escritorio.html) completed • 0 ms
+[2022-08-23 22:28:25:185] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:28:25:187] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:28:29:773] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:28:29:861] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:28:29:867] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:28:31:188] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:28:32:368] [f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:28:32:368] [f] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:28:32:380] [10] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:28:32:381] [10] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:28:32:863] [11] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/8.%20Menu%20Movil.html)
+[2022-08-23 22:28:32:864] [11] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/8.%20Menu%20Movil.html) completed • 1 ms
+[2022-08-23 22:28:32:865] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:28:32:865] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:28:40:480] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:28:40:491] [12] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:28:40:491] [12] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:28:40:535] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:28:40:549] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:28:40:586] [13] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:28:40:587] [13] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:28:41:812] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:28:45:679] [14] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/9.%20My%20order.html)
+[2022-08-23 22:28:45:679] [14] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/9.%20My%20order.html) completed • 0 ms
+[2022-08-23 22:28:45:679] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:28:45:680] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:29:11:056] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:29:11:191] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:29:11:202] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:29:12:375] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:29:12:410] [15] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:29:12:410] [15] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:29:14:727] [16] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/clase9.html)
+[2022-08-23 22:29:14:728] [16] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/clase9.html) completed • 0 ms
+[2022-08-23 22:29:14:729] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:29:14:729] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:29:28:595] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:29:28:603] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:29:28:623] [17] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:29:28:623] [17] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:29:29:105] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:29:30:971] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:29:30:981] [18] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:29:30:982] [18] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:29:31:049] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:29:31:059] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:29:32:210] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:29:32:248] [19] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:29:32:249] [19] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:29:34:404] [1a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/clase10.html)
+[2022-08-23 22:29:34:405] [1a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/clase10.html) completed • 0 ms
+[2022-08-23 22:29:34:405] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:29:34:406] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:29:39:923] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:29:39:932] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:29:39:949] [1b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:29:39:949] [1b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:29:40:437] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:31:49:233] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:31:49:326] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:31:49:339] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:31:50:518] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:31:51:524] [1c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:31:51:524] [1c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:31:55:134] [1d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/clase13.html)
+[2022-08-23 22:31:55:134] [1d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/clase13.html) completed • 0 ms
+[2022-08-23 22:31:55:134] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:31:55:135] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:32:05:998] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:32:06:015] [1e] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:32:06:016] [1e] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:32:06:089] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:32:06:099] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:32:06:136] [1f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:32:06:136] [1f] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:32:07:430] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:32:09:854] [20] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/13.%20Carrito%20Compras.html)
+[2022-08-23 22:32:09:854] [20] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/13.%20Carrito%20Compras.html) completed • 0 ms
+[2022-08-23 22:32:09:854] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:32:09:855] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:32:21:684] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:32:21:703] [21] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:32:21:703] [21] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:32:21:764] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:32:21:777] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:32:22:864] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:32:23:915] [22] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:32:23:915] [22] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:32:24:915] [23] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/12.%20Detalle%20del%20Producto.html)
+[2022-08-23 22:32:24:915] [23] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/12.%20Detalle%20del%20Producto.html) completed • 0 ms
+[2022-08-23 22:32:24:915] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:32:24:915] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:32:31:070] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:32:31:076] [24] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:32:31:077] [24] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:32:31:179] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:32:31:186] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:32:31:224] [25] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:32:31:224] [25] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:32:32:406] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:32:34:869] [26] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/10.%20Mis%20ordenes.html)
+[2022-08-23 22:32:34:869] [26] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/10.%20Mis%20ordenes.html) completed • 0 ms
+[2022-08-23 22:32:34:870] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:32:34:870] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:32:43:877] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:32:43:887] [27] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:32:43:888] [27] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:32:43:932] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:32:43:938] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:32:43:983] [28] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:32:43:983] [28] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:32:45:203] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:32:47:906] [29] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/clase13.html)
+[2022-08-23 22:32:47:907] [29] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/clase13.html) completed • 0 ms
+[2022-08-23 22:32:47:907] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:32:47:907] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:34:00:123] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:34:00:138] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:34:00:640] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:34:18:272] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:34:18:274] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:34:18:779] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:34:41:150] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:34:41:151] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:34:41:653] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:34:42:016] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:34:42:019] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:34:42:037] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:34:43:622] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:35:20:678] [2a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:35:20:679] [2a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:35:20:679] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:35:20:679] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:35:26:607] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:35:26:622] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:35:27:127] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:35:27:345] [2b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:35:27:347] [2b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:35:37:369] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:35:37:373] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:35:37:880] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:35:39:118] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:35:39:120] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:35:39:153] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:35:40:430] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:35:46:043] [2c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:35:46:045] [2c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 1 ms
+[2022-08-23 22:35:46:045] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:35:46:046] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:35:55:115] [2d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:35:55:116] [2d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:35:55:116] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:35:55:116] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:10:959] [2e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:36:10:961] [2e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 1 ms
+[2022-08-23 22:36:10:961] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:10:962] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:14:767] [2f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:36:14:768] [2f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:36:14:769] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:14:769] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:23:501] [30] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:36:23:502] [30] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:36:23:502] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:23:503] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:27:632] [31] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:36:27:634] [31] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 1 ms
+[2022-08-23 22:36:27:634] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:27:635] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:31:073] [32] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:36:31:073] [32] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:36:31:073] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:31:075] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:36:789] [33] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:36:36:790] [33] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 1 ms
+[2022-08-23 22:36:36:791] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:36:792] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:45:129] [34] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:36:45:130] [34] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:36:45:130] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:45:131] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:55:068] [35] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:36:55:068] [35] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:36:55:068] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:36:55:068] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:37:08:385] [36] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:37:08:387] [36] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 1 ms
+[2022-08-23 22:37:08:387] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:37:08:387] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:37:09:514] [37] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:37:09:515] [37] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:37:13:391] [38] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:37:13:392] [38] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 1 ms
+[2022-08-23 22:37:13:393] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:37:13:393] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:37:34:445] [39] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:37:34:446] [39] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:37:34:446] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:37:34:446] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:37:41:785] [3a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:37:41:786] [3a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:37:41:786] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:37:41:786] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:37:58:105] [3b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:37:58:105] [3b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:37:58:106] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:37:58:106] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:37:58:367] [3c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:37:58:367] [3c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:38:02:295] [3d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:38:02:296] [3d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:38:02:296] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:38:02:296] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:39:02:905] [3e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:39:02:905] [3e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:39:02:905] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:39:02:905] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:39:09:988] [3f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:39:09:989] [3f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:39:09:989] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:39:09:990] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:39:19:611] [40] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:39:19:612] [40] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 1 ms
+[2022-08-23 22:39:19:613] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:39:19:614] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:39:29:677] [41] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:39:29:678] [41] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:39:29:678] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:39:29:678] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:39:32:680] [42] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:39:32:680] [42] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:39:32:680] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:39:32:680] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:39:42:697] [43] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:39:42:697] [43] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:39:42:697] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:39:42:697] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:40:29:897] [44] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:40:29:898] [44] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:40:29:898] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:40:29:898] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:40:39:458] [45] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:40:39:459] [45] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:40:39:460] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:40:39:461] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:40:44:868] [46] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:40:44:868] [46] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:40:44:868] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:40:44:869] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:40:55:236] [47] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:40:55:236] [47] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:40:55:237] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:40:55:237] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:41:02:933] [48] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:41:02:934] [48] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 1 ms
+[2022-08-23 22:41:02:935] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:41:02:935] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:41:13:488] [49] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:41:13:489] [49] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:41:13:489] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:41:13:489] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:41:14:406] [4a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:41:14:407] [4a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:41:18:069] [4b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:41:18:069] [4b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:41:18:069] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:41:18:070] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:41:23:586] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:41:23:588] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:41:24:094] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:41:26:152] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:41:26:159] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:41:26:663] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:44:32:934] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:44:32:935] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:44:33:452] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:44:54:403] [4c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:44:54:404] [4c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:44:54:404] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:44:54:404] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:45:04:268] [4d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:45:04:268] [4d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:45:04:268] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:45:04:268] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:45:08:437] [4e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:45:08:437] [4e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:45:08:437] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:45:08:437] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:45:11:440] [4f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:45:11:441] [4f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:45:11:441] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:45:11:441] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:45:29:111] [50] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:45:29:112] [50] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:45:46:625] [51] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:45:46:626] [51] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:45:46:626] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:45:46:626] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:45:56:524] [52] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:45:56:525] [52] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:45:56:526] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:45:56:527] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:46:03:966] [53] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:46:03:967] [53] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:46:03:967] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:46:03:968] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:46:10:267] [54] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:46:10:267] [54] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:46:10:267] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:46:10:267] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:46:13:514] [55] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:46:13:514] [55] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:46:13:514] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:46:13:515] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:46:17:288] [56] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:46:17:288] [56] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:46:18:738] [57] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:46:18:738] [57] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:46:18:739] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:46:18:739] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:46:30:269] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:46:30:299] [58] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:46:30:299] [58] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:46:30:770] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:46:32:479] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:47:07:366] [59] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:47:07:367] [59] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:47:07:367] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:47:07:367] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:47:12:849] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:47:13:350] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:47:13:892] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:47:19:182] [5a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:47:19:182] [5a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:47:19:182] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:47:19:182] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:47:21:255] [5b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:47:21:255] [5b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:47:38:490] [5c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:47:38:491] [5c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:47:38:491] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:47:38:491] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:47:45:882] [5d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:47:45:882] [5d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:47:45:882] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:47:45:882] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:47:48:877] [5e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:47:48:877] [5e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:47:48:878] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:47:48:878] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:47:50:849] [5f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:47:50:849] [5f] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:47:52:304] [60] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:47:52:304] [60] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:47:52:304] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:47:52:305] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:47:56:264] [61] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:47:56:264] [61] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:48:20:213] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:48:20:217] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:48:20:721] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:48:35:833] [62] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:48:35:834] [62] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:48:35:834] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:48:35:834] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:49:20:542] [63] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:49:20:543] [63] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:49:20:543] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:49:20:543] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:49:25:550] [64] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:49:25:550] [64] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:49:25:551] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:49:25:551] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:49:38:038] [65] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:49:38:039] [65] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:49:38:039] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:49:38:040] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:49:41:235] [66] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:49:41:235] [66] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:49:44:581] [67] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:49:44:582] [67] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 1 ms
+[2022-08-23 22:49:44:583] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:49:44:583] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:51:48:507] [68] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:51:48:508] [68] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:51:50:287] [69] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 22:51:50:288] [69] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 22:51:50:288] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:51:50:289] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:52:10:876] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:52:13:634] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:52:14:775] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:52:17:689] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:52:19:901] [6a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:52:19:902] [6a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:52:19:918] [6b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:52:19:919] [6b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 1 ms
+[2022-08-23 22:52:19:920] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:52:19:920] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:52:35:481] [6c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:52:35:482] [6c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:52:35:482] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:52:35:482] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:52:44:582] [6d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:52:44:583] [6d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:52:44:583] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:52:44:583] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:52:49:392] [6e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:52:49:392] [6e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:52:49:392] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:52:49:392] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:53:01:645] [6f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:53:01:645] [6f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:53:01:645] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:53:01:645] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:53:30:312] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:53:30:320] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:53:30:827] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:54:06:935] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:54:06:948] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:54:07:450] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:54:14:932] [70] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:54:14:933] [70] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:54:14:933] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:54:14:933] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:54:27:219] [71] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:54:27:220] [71] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:54:34:425] [72] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:54:34:425] [72] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:54:34:438] [73] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:54:34:438] [73] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:54:37:378] [74] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts)
+[2022-08-23 22:54:37:379] [74] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts) completed • 0 ms
+[2022-08-23 22:54:40:166] [75] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:54:40:166] [75] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:54:40:166] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:54:40:166] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:54:42:136] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:54:42:140] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:54:42:643] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:54:55:181] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:54:55:185] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:54:56:479] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:55:02:085] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:55:02:089] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:55:02:592] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:55:03:537] [76] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:55:03:538] [76] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 1 ms
+[2022-08-23 22:55:05:318] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:55:05:321] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:55:05:331] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:55:06:842] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:55:13:672] [77] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:55:13:672] [77] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:55:13:672] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:55:13:672] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:55:24:533] [78] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:55:24:534] [78] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:55:24:534] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:55:24:534] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:55:27:949] [79] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:55:27:949] [79] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:56:04:367] [7a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:56:04:368] [7a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:56:04:368] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:56:04:368] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:56:11:719] [7b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:56:11:720] [7b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:56:11:720] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:56:11:721] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:56:15:090] [7c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:56:15:091] [7c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:56:15:091] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:56:15:091] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:56:16:229] [7d] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:56:16:229] [7d] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:56:16:236] [7e] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:56:16:236] [7e] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:56:21:583] [7f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts)
+[2022-08-23 22:56:21:583] [7f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts) completed • 0 ms
+[2022-08-23 22:56:24:579] [80] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:56:24:580] [80] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:56:24:580] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:56:24:580] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:56:38:651] [81] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:56:38:652] [81] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:56:38:652] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:56:38:652] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:56:47:683] [82] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:56:47:683] [82] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:56:47:683] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:56:47:683] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:56:58:452] [83] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:56:58:452] [83] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:56:58:452] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:56:58:453] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:57:02:711] [84] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:57:02:712] [84] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:57:02:712] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:57:02:712] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:57:21:100] [85] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:57:21:100] [85] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:57:21:100] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:57:21:101] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:57:52:512] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:57:52:516] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:57:53:019] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:57:57:686] [86] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:57:57:686] [86] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:57:59:031] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:57:59:033] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:57:59:063] [87] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 22:57:59:063] [87] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 22:57:59:536] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:58:00:740] [88] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:58:00:741] [88] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:58:21:380] [89] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:58:21:380] [89] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:59:22:884] [8a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 22:59:22:884] [8a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 22:59:24:332] [8b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 22:59:24:333] [8b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 22:59:24:333] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:59:24:333] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:59:39:165] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:59:39:168] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 22:59:39:194] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 22:59:39:673] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:00:01:068] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:00:01:075] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:00:01:579] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:00:18:145] [8c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:00:18:145] [8c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:00:20:157] [8d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 23:00:20:159] [8d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 1 ms
+[2022-08-23 23:00:20:159] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:00:20:159] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:02:30:134] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:02:30:144] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:02:30:657] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:02:41:274] [8e] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:02:41:275] [8e] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:02:42:923] [8f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:02:42:925] [8f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 1 ms
+[2022-08-23 23:02:42:925] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:02:42:926] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:02:45:285] [90] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:02:45:285] [90] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:03:34:757] [91] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:03:34:757] [91] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:03:36:707] [92] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:03:36:707] [92] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:03:36:707] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:03:36:707] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:04:20:712] [93] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:04:20:713] [93] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:04:22:488] [94] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:04:22:490] [94] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 1 ms
+[2022-08-23 23:04:22:491] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:04:22:492] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:05:23:813] [95] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:05:23:813] [95] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:05:27:875] [96] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:05:27:876] [96] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:05:27:876] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:05:27:876] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:05:55:167] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:05:55:175] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:05:55:683] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:06:19:716] [97] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 23:06:19:716] [97] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 23:06:19:716] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:06:19:716] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:06:24:899] [98] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 23:06:24:899] [98] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 23:06:24:899] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:06:24:899] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:06:26:656] [99] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:06:26:656] [99] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:06:43:731] [9a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:06:43:731] [9a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:06:46:755] [9b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 23:06:46:755] [9b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 23:06:46:755] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:06:46:756] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:07:00:942] [9c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:07:00:942] [9c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:07:18:079] [9d] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:07:18:079] [9d] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:07:19:363] [9e] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:07:19:363] [9e] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:07:28:453] [9f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:07:28:453] [9f] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:07:30:973] [a0] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:07:30:973] [a0] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:07:33:045] [a1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 23:07:33:046] [a1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 23:07:33:046] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:07:33:046] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:07:58:143] [a2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 23:07:58:143] [a2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 23:07:58:143] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:07:58:143] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:08:00:509] [a3] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:08:00:509] [a3] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:08:04:476] [a4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 23:08:04:477] [a4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 23:08:04:477] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:08:04:477] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:08:07:294] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:08:07:297] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:08:07:800] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:08:25:969] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:08:25:979] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:08:26:482] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:08:32:832] [a5] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:08:32:832] [a5] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:08:40:695] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:08:40:698] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:08:41:207] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:09:39:407] [a6] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:09:39:407] [a6] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:09:48:578] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:09:48:582] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:09:49:085] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:10:05:068] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:10:05:071] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:10:05:574] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:10:11:504] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:10:11:507] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:10:12:008] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:10:18:577] [a7] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:10:18:577] [a7] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:10:19:882] [a8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:10:19:882] [a8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:10:19:882] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:10:19:883] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:12:01:705] [a9] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:12:01:705] [a9] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:13:08:821] [aa] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:13:08:822] [aa] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 1 ms
+[2022-08-23 23:13:08:823] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:13:08:823] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:13:31:367] [ab] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:13:31:368] [ab] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:13:31:368] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:13:31:368] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:13:44:904] [ac] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:13:44:906] [ac] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 1 ms
+[2022-08-23 23:13:44:906] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:13:44:907] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:14:36:028] [ad] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:14:36:029] [ad] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:14:36:029] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:14:36:029] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:14:43:540] [ae] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:14:43:540] [ae] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:14:43:540] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:14:43:541] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:14:54:979] [af] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:14:54:980] [af] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:14:54:980] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:14:54:980] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:15:19:913] [b0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:15:19:913] [b0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:15:19:913] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:15:19:913] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:15:30:789] [b1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:15:30:790] [b1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:15:30:790] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:15:30:790] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:16:20:943] [b2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:16:20:943] [b2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:16:20:943] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:16:20:943] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:16:42:192] [b3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:16:42:192] [b3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:16:42:192] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:16:42:192] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:17:13:295] [b4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:17:13:296] [b4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:17:13:296] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:17:13:296] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:17:26:164] [b5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:17:26:164] [b5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:17:26:164] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:17:26:164] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:17:30:989] [b6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:17:30:989] [b6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:17:30:989] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:17:30:989] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:17:41:700] [b7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:17:41:701] [b7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:17:41:701] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:17:41:701] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:17:51:466] [b8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:17:51:467] [b8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 1 ms
+[2022-08-23 23:17:51:468] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:17:51:468] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:17:55:033] [b9] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:17:55:033] [b9] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:17:55:033] [ba] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:17:55:033] [ba] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:18:01:964] [bb] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts)
+[2022-08-23 23:18:01:965] [bb] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts) completed • 0 ms
+[2022-08-23 23:18:04:960] [bc] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:18:04:962] [bc] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:18:04:962] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:18:04:962] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:18:21:372] [bd] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:18:21:372] [bd] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:18:21:373] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:18:21:373] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:18:34:512] [be] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:18:34:514] [be] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 1 ms
+[2022-08-23 23:18:34:515] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:18:34:515] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:18:47:826] [bf] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:18:47:826] [bf] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:18:47:826] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:18:47:826] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:18:58:663] [c0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:18:58:664] [c0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:18:58:664] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:18:58:664] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:19:35:075] [c1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:19:35:075] [c1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:19:35:075] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:19:35:075] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:19:50:619] [c2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:19:50:620] [c2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:19:50:621] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:19:50:621] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:20:01:339] [c3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:20:01:339] [c3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:20:01:339] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:20:01:339] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:20:04:806] [c4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:20:04:806] [c4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:20:04:807] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:20:04:807] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:20:14:890] [c5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:20:14:891] [c5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:20:14:891] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:20:14:891] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:20:17:894] [c6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:20:17:894] [c6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:20:17:894] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:20:17:894] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:20:28:090] [c7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:20:28:091] [c7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:20:28:091] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:20:28:092] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:20:42:735] [c8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:20:42:742] [c8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 2 ms
+[2022-08-23 23:20:42:743] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:20:42:743] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:21:06:575] [c9] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:21:06:575] [c9] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:21:06:576] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:21:06:576] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:21:16:601] [ca] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:21:16:601] [ca] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:21:16:601] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:21:16:602] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:21:33:995] [cb] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:21:33:996] [cb] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:21:33:996] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:21:33:996] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:22:07:840] [cc] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:22:07:842] [cc] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:22:07:842] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:22:07:842] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:22:19:355] [cd] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:22:19:355] [cd] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:22:19:355] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:22:19:355] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:22:33:127] [ce] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:22:33:128] [ce] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:22:33:128] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:22:33:128] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:22:43:548] [cf] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:22:43:549] [cf] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:22:45:278] [d0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:22:45:279] [d0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:22:45:279] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:22:45:279] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:27:23:758] [d1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:27:23:758] [d1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:27:23:758] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:27:23:759] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:27:33:460] [d2] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:27:33:461] [d2] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:27:50:947] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:27:50:949] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:27:51:455] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:27:52:150] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:27:52:154] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:27:52:658] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:28:05:921] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:28:05:923] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:28:06:440] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:28:11:540] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:28:11:541] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:28:12:045] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:28:18:834] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:28:18:836] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:28:19:340] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:29:15:879] [d3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:29:15:880] [d3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:29:15:880] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:29:15:880] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:29:21:214] [d4] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:29:21:214] [d4] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:29:30:854] [d5] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:29:30:854] [d5] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:29:32:630] [d6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:29:32:631] [d6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:29:32:631] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:29:32:631] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:29:53:320] [d7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:29:53:321] [d7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:29:53:321] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:29:53:321] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:30:53:752] [d8] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:30:53:752] [d8] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:33:43:016] [d9] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:33:43:016] [d9] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:33:46:395] [da] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:33:46:395] [da] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:33:46:395] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:33:46:396] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:33:54:373] [db] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:33:54:373] [db] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:33:58:344] [dc] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:33:58:345] [dc] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:33:58:345] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:33:58:345] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:34:10:524] [dd] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:34:10:524] [dd] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:34:19:415] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:34:19:424] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:34:19:927] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:34:34:710] [de] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:34:34:710] [de] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:34:37:978] [df] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 23:34:37:978] [df] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 23:34:37:979] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:34:37:979] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:34:51:621] [e0] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:34:51:621] [e0] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:35:23:043] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:35:23:047] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:35:23:549] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:35:42:442] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:35:42:446] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:35:43:386] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:36:30:722] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:36:30:727] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:36:31:231] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:36:35:109] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:36:35:112] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:36:35:616] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:37:27:947] [e1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:37:27:948] [e1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:37:27:948] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:37:27:948] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:37:46:441] [e2] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:37:46:441] [e2] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:37:46:447] [e3] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:37:46:447] [e3] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:37:49:390] [e4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts)
+[2022-08-23 23:37:49:390] [e4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts) completed • 0 ms
+[2022-08-23 23:37:54:007] [e5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:37:54:008] [e5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:37:54:008] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:37:54:009] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:38:05:648] [e6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:38:05:649] [e6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 1 ms
+[2022-08-23 23:38:05:649] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:38:05:650] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:38:17:992] [e7] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:38:17:992] [e7] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:38:17:993] [e8] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:38:17:993] [e8] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:38:18:210] [e9] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:38:18:210] [e9] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:38:18:217] [ea] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:38:18:217] [ea] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:38:18:593] [eb] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:38:18:593] [eb] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:38:18:593] [ec] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:38:18:593] [ec] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:38:22:845] [ed] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts)
+[2022-08-23 23:38:22:845] [ed] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts) completed • 0 ms
+[2022-08-23 23:38:27:950] [ee] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:38:27:951] [ee] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 1 ms
+[2022-08-23 23:38:27:951] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:38:27:952] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:38:34:614] [ef] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:38:34:615] [ef] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:38:34:615] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:38:34:615] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:38:42:266] [f0] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:38:42:267] [f0] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:38:42:267] [f1] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:38:42:268] [f1] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:38:45:264] [f2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts)
+[2022-08-23 23:38:45:264] [f2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts) completed • 0 ms
+[2022-08-23 23:38:56:431] [f3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:38:56:432] [f3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:38:56:432] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:38:56:432] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:39:02:884] [f4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:39:02:885] [f4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:39:02:885] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:39:02:885] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:39:19:009] [f5] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:39:19:010] [f5] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:39:20:269] [f6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:39:20:270] [f6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:39:20:270] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:39:20:270] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:40:14:704] [f7] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:40:14:705] [f7] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:40:16:485] [f8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:40:16:485] [f8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:40:16:486] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:40:16:486] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:40:25:918] [f9] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:40:25:918] [f9] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:40:53:627] [fa] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:40:53:628] [fa] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:40:53:628] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:40:53:628] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:40:57:185] [fb] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:40:57:186] [fb] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:40:57:186] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:40:57:186] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:41:00:653] [fc] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:41:00:653] [fc] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:41:00:654] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:41:00:654] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:41:03:507] [fd] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:41:03:507] [fd] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:41:04:891] [fe] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:41:04:892] [fe] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:41:04:892] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:41:04:892] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:41:11:500] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:41:11:505] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:41:12:010] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:42:08:273] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:42:08:277] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:42:09:526] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:42:24:877] [ff] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:42:24:877] [ff] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:42:24:878] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:42:24:878] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:42:34:709] [100] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:42:34:710] [100] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:42:36:436] [101] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:42:36:436] [101] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:42:36:442] [102] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:42:36:443] [102] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:42:36:449] [103] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:42:36:450] [103] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:42:36:450] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:42:36:450] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:42:39:375] [104] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts)
+[2022-08-23 23:42:39:376] [104] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts) completed • 0 ms
+[2022-08-23 23:42:44:178] [105] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:42:44:178] [105] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:42:45:822] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:42:45:824] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:42:45:874] [106] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:42:45:874] [106] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:42:45:877] [107] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:42:45:878] [107] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:42:45:879] [108] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:42:45:879] [108] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:42:45:881] [109] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:42:45:881] [109] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:42:46:004] [10a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:42:46:005] [10a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:42:47:352] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:42:47:355] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:42:47:446] [10b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:42:47:446] [10b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:42:48:791] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:42:48:831] [10c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts)
+[2022-08-23 23:42:48:832] [10c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/node_modules/typescript/lib/lib.dom.d.ts) completed • 0 ms
+[2022-08-23 23:42:59:122] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:42:59:126] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:42:59:628] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:44:06:178] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:44:06:182] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:44:06:684] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:44:47:142] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:44:47:145] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:44:47:655] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:44:54:373] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:44:54:374] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:44:54:880] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:45:48:132] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:45:48:134] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:45:48:639] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:45:51:639] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:45:51:640] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:45:52:144] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:46:19:724] [10d] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:46:19:724] [10d] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:46:22:472] [10e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:46:22:473] [10e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:46:22:473] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:46:22:473] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:46:35:242] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:46:35:248] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:46:35:750] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:46:39:218] [10f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:46:39:218] [10f] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:47:23:111] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:47:23:115] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:47:23:620] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:48:14:189] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:48:14:192] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:48:14:705] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:48:18:896] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:48:18:898] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:48:19:402] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:48:19:601] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:48:19:602] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:48:20:105] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:48:56:406] [110] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:48:56:406] [110] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:48:56:406] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:48:56:406] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:49:02:628] [111] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:49:02:629] [111] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:49:02:629] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:49:02:630] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:50:14:224] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:50:14:226] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:50:14:730] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:50:16:240] [112] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:50:16:240] [112] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:50:41:688] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:50:41:690] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:50:42:200] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:51:01:123] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:51:01:126] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:51:01:629] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:52:05:755] [113] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:52:05:756] [113] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:52:05:756] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:52:05:756] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:52:21:283] [114] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:52:21:283] [114] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:52:21:283] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:52:21:283] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:52:27:809] [115] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:52:27:809] [115] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:52:27:809] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:52:27:809] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:52:34:267] [116] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:52:34:267] [116] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:52:34:268] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:52:34:268] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:52:43:712] [117] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:52:43:713] [117] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:52:43:713] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:52:43:713] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:52:43:867] [118] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:52:43:867] [118] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:53:46:090] [119] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:53:46:091] [119] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:53:46:091] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:53:46:092] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:53:54:608] [11a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:53:54:608] [11a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:53:54:608] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:53:54:608] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:54:05:561] [11b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:54:05:562] [11b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:54:05:562] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:54:05:562] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:54:15:074] [11c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:54:15:074] [11c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:54:17:851] [11d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-23 23:54:17:852] [11d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-23 23:54:17:852] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:54:17:852] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:54:44:595] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:54:44:598] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:54:45:106] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:54:55:131] [11e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:54:55:132] [11e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:54:55:132] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:54:55:133] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:55:04:771] [11f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:55:04:772] [11f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:55:04:772] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:55:04:773] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:55:08:196] [120] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:55:08:196] [120] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:55:08:196] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:55:08:196] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:55:15:543] [121] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:55:15:543] [121] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:55:15:543] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:55:15:544] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:55:18:865] [122] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:55:18:865] [122] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:55:18:865] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:55:18:866] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:55:22:126] [123] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:55:22:127] [123] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:55:22:127] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:55:22:127] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:55:56:453] [124] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:55:56:454] [124] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:55:56:454] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:55:56:454] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:56:04:486] [125] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:56:04:486] [125] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:56:06:265] [126] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:56:06:265] [126] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:56:06:265] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:56:06:266] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:56:33:399] [127] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:56:33:400] [127] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:56:33:400] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:56:33:400] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:57:00:812] [128] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:57:00:813] [128] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:57:00:813] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:57:00:813] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:57:04:791] [129] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:57:04:791] [129] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:57:06:027] [12a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:57:06:028] [12a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:57:06:028] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:57:06:028] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:57:22:412] [12b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:57:22:413] [12b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:57:22:413] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:57:22:413] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:57:23:255] [12c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:57:23:255] [12c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:57:25:984] [12d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:57:25:985] [12d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:57:25:985] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:57:25:985] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:57:39:984] [12e] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-23 23:57:39:984] [12e] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-23 23:57:42:616] [12f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-08-23 23:57:42:617] [12f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-08-23 23:57:42:617] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:57:42:617] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:58:12:537] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:58:12:549] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:58:13:054] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-23 23:58:21:288] [130] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 23:58:21:288] [130] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 23:58:21:288] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:58:21:289] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:58:30:708] [131] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 23:58:30:708] [131] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 23:58:30:708] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:58:30:709] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:58:39:337] [132] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 23:58:39:338] [132] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 23:58:39:338] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:58:39:339] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:58:45:571] [133] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 23:58:45:572] [133] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-23 23:58:45:572] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:58:45:573] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:59:47:082] [134] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-23 23:59:47:083] [134] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 1 ms
+[2022-08-23 23:59:47:083] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-23 23:59:47:084] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:03:27:229] [135] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-24 00:03:27:230] [135] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-24 00:03:27:230] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:03:27:230] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:03:36:600] [136] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-24 00:03:36:600] [136] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-24 00:03:36:600] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:03:36:601] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:03:46:777] [137] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-24 00:03:46:778] [137] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-24 00:03:46:778] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:03:46:778] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:01:992] [138] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-24 00:04:01:992] [138] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-24 00:04:01:992] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:01:993] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:07:618] [139] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-24 00:04:07:618] [139] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-24 00:04:07:618] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:07:618] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:18:623] [13a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-24 00:04:18:623] [13a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-24 00:04:18:623] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:18:623] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:21:877] [13b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-24 00:04:21:877] [13b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-24 00:04:21:877] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:21:877] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:28:088] [13c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-24 00:04:28:088] [13c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-24 00:04:28:088] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:28:089] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:31:782] [13d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-24 00:04:31:782] [13d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-24 00:04:31:782] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:31:782] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:44:586] [13e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-24 00:04:44:587] [13e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-24 00:04:44:587] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:44:587] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:57:515] [13f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-24 00:04:57:516] [13f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-24 00:04:57:516] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:04:57:516] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:05:01:312] [140] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-24 00:05:01:312] [140] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-24 00:05:01:312] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:05:01:312] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:05:11:623] [141] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-24 00:05:11:623] [141] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-24 00:05:16:221] [142] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css)
+[2022-08-24 00:05:16:221] [142] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/curso%202/styles.css) completed • 0 ms
+[2022-08-24 00:05:16:222] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-24 00:05:16:222] AgentConnection.sendRequest(codestream/textDocument/markers)

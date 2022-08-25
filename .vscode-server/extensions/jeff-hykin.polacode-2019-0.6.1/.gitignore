@@ -1,0 +1,8 @@
+out
+node_modules
+*.vsix
+.DS_Store
+*.nosync*
+node_modules/
+.cache
+**/.vscode/ipch
