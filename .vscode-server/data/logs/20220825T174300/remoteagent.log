@@ -1,0 +1,13 @@
+[2022-08-25 17:43:03.519] [remoteagent] [info] Extension host agent started.
+[2022-08-25 17:43:03.718] [remoteagent] [info] [127.0.0.1][9893a42e][ManagementConnection] New connection established.
+[2022-08-25 17:43:03.787] [remoteagent] [info] [127.0.0.1][13f87aeb][ExtensionHostConnection] New connection established.
+[2022-08-25 17:43:04.738] [remoteagent] [info] [127.0.0.1][13f87aeb][ExtensionHostConnection] <1990> Launched Extension Host Process.
+[2022-08-25 17:43:11.003] [remoteagent] [info] Getting Manifest... wallabyjs.quokka-vscode
+[2022-08-25 17:43:11.341] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/cmendoza/.vscode-server/data/logs/20220810T151309/exthost1/output_logging_20220810T151318' failed: No such file or directory (EUNKNOWN) (path: /home/cmendoza)
+[2022-08-25 17:43:11.342] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/cmendoza/.vscode-server/data/logs/20220810T151309/exthost1/output_logging_20220810T151318' failed: No such file or directory
+[2022-08-25 17:43:12.688] [remoteagent] [info] Installing extension: wallabyjs.quokka-vscode
+[2022-08-25 17:43:37.735] [remoteagent] [info] Downloaded extension: wallabyjs.quokka-vscode /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/wallabyjs.quokka-vscode-1.0.498
+[2022-08-25 17:43:49.756] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.04e205b6-53d7-4f67-a876-6246007680b3: wallabyjs.quokka-vscode
+[2022-08-25 17:43:49.817] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/wallabyjs.quokka-vscode-1.0.498
+[2022-08-25 17:43:49.827] [remoteagent] [info] Extracting completed. wallabyjs.quokka-vscode
+[2022-08-25 17:43:49.857] [remoteagent] [info] Extension installed successfully: wallabyjs.quokka-vscode
