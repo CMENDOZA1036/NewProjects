@@ -1,6 +1,0 @@
-[2022-08-09 20:51:35.281] [GIT  ] [/home/cmendoza] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 3437 ms (slow)
-
-[2022-08-09 21:03:30.938] [GIT  ] [/home/cmendoza/node_modules/sweetalert2/src] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 1077 ms (slow)
-
-[2022-08-09 21:03:37.019] [GIT  ] [/home/cmendoza/node_modules/sweetalert2/src] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 1181 ms (slow)
-
