@@ -1,8 +1,0 @@
-[2022-08-23 10:54:33.423] [remoteagent] [info] Extension host agent started.
-[2022-08-23 10:54:33.708] [remoteagent] [info] [127.0.0.1][667cda54][ManagementConnection] New connection established.
-[2022-08-23 10:54:33.721] [remoteagent] [info] [127.0.0.1][35a841d7][ExtensionHostConnection] New connection established.
-[2022-08-23 10:54:40.160] [remoteagent] [error] ptyHost was unable to resolve shell environment {}
-[2022-08-23 10:54:40.161] [remoteagent] [error] RequestService#request (node) resolving shell environment failed {}
-[2022-08-23 10:54:40.165] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
-[2022-08-23 10:54:41.867] [remoteagent] [info] [127.0.0.1][35a841d7][ExtensionHostConnection] <104> Launched Extension Host Process.
-[2022-08-23 10:54:41.880] [remoteagent] [info] [127.0.0.1][667cda54][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

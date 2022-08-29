@@ -1909,3 +1909,4 @@ git commit -am "Js Practico 11"
 git push origin main
 cd ..
 code .
+git remote -v

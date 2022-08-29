@@ -728,3 +728,711 @@ github.com[0: 140.82.114.3]: errno=Resource temporarily unavailable
 [2022-08-25 22:50:52:812] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
 [2022-08-25 22:50:53:661] GIT: Completed(/home/cmendoza): git config user.email in 1717 ms
 [2022-08-25 22:50:53:665] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 853 ms
+[2022-08-25 22:51:55:815] MARKERS: flushing uncommitted locations
+[2022-08-25 22:51:55:818] GIT: Running(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD --
+[2022-08-25 22:51:56:723] [1c5] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-25 22:51:56:723] [1c5] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-25 22:51:56:724] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:51:57:613] GIT: Completed(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD -- in 1795 ms
+[2022-08-25 22:51:57:614] [1c7] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash)
+[2022-08-25 22:51:57:614] [1c7] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash) completed • 0 ms
+[2022-08-25 22:51:57:615] GIT: Running(/home/cmendoza): git config user.email
+[2022-08-25 22:51:58:540] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 1816 ms
+[2022-08-25 22:51:58:540] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-25 22:51:59:339] GIT: Completed(/home/cmendoza): git config user.email in 1724 ms
+[2022-08-25 22:51:59:339] [1c9] CodeStreamAgent.sendNotification(codestream/userDidCommit)
+[2022-08-25 22:51:59:340] [1c9] CodeStreamAgent.sendNotification(codestream/userDidCommit) completed • 0 ms
+[2022-08-25 22:51:59:342] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 802 ms
+[2022-08-25 22:52:00:374] [1ca] CodeStreamApiProvider.fetchCodeErrors
+[2022-08-25 22:52:00:881] API(b68fb3f1-ab63-4ff8-8c56-a85e15829dcc): Completed GET /code-errors?teamId=62a8af3bd1bffae460f923af • 507 ms
+[2022-08-25 22:52:00:881] [1ca] CodeStreamApiProvider.fetchCodeErrors completed • 507 ms
+[2022-08-25 22:52:00:882] [1cb] CodeStreamApiProvider.fetchStreams
+[2022-08-25 22:52:00:883] [1cc] CodeStreamApiProvider.getUnreads
+[2022-08-25 22:52:00:883] [1cd] CodeStreamApiProvider.fetchUsers
+[2022-08-25 22:52:00:884] [1ce] CodeStreamApiProvider.getPreferences
+[2022-08-25 22:52:00:887] [1cc] CodeStreamApiProvider.getUnreads completed • 4 ms
+[2022-08-25 22:52:01:411] API(755af5ee-1b5c-40dc-98ad-702345880e61): Completed GET /streams?teamId=62a8af3bd1bffae460f923af • 529 ms
+[2022-08-25 22:52:01:412] [1cb] CodeStreamApiProvider.fetchStreams completed • 529 ms
+[2022-08-25 22:52:01:429] API(7d1eac8f-b0a4-4066-a760-6cc9a23b7989): Completed GET /users?teamId=62a8af3bd1bffae460f923af • 545 ms
+[2022-08-25 22:52:01:429] [1cd] CodeStreamApiProvider.fetchUsers completed • 546 ms
+[2022-08-25 22:52:01:486] API(6ed77dd8-3851-4926-8f1e-2780d42d3062): Completed GET /preferences • 602 ms
+[2022-08-25 22:52:01:486] [1ce] CodeStreamApiProvider.getPreferences completed • 602 ms
+[2022-08-25 22:52:01:507] Verifying API server connectivity
+[2022-08-25 22:52:01:511] [1d1] CodeStreamApiProvider.fetchCodemarks
+[2022-08-25 22:52:01:951] API(1e5dec74-e9b3-4ca6-bf9d-71aa0d6d27e0): Completed GET /codemarks?teamId=62a8af3bd1bffae460f923af&byLastAcivityAt= • 438 ms
+[2022-08-25 22:52:01:951] [1d1] CodeStreamApiProvider.fetchCodemarks completed • 439 ms
+[2022-08-25 22:52:01:955] API server status: 200
+[2022-08-25 22:52:01:956] registerApiCapabilities for teamId 62a8af3bd1bffae460f923af — {}
+[2022-08-25 22:52:01:956] _apiCapabilities — {"sample":{"description":"SAMPLE","version":"1.0.0"},"multipleMarkers":{"description":"Ability to have multiple code blocks per codemark","version":"1.21.20"},"moveMarkers":{"description":"Ability to change the location of code blocks pointed to by codemarks","version":"1.21.20"},"moveMarkers2":{"description":"Ability to change the location of code blocks pointed to by codemarks, with essential API server fix","version":"1.21.23"},"repoCommitMatching":{"description":"Supports the /repos/match/:teamId call, which allows matches to be found for repos by remotes and known commit hashes","version":"1.21.24"},"follow":{"description":"Ability to follow or unfollow a codemark","version":"1.21.27"},"lightningCodeReviews":{"description":"Support for lightning code reviews","version":"1.21.33","supportedIdes":["VS Code","JetBrains","VS"]},"notificationDeliveryPreference":{"description":"Support for displaying the email/desktop delivery notification preference","version":"1.21.33"},"multipleReviewersApprove":{"description":"Support for multiple reviewers being required to approve a review","version":"7.1.1"},"emailSupport":{"description":"Whether outbound emails are supported, value actually comes from configuration","version":"1.0.0"},"multiCheckpointReviews":{"description":"Reviews supporting multiple checkpoints","version":"7.2.0"},"inviteUsersOnTheFly":{"description":"Users can be invited on-the-fly in codemarks and reviews","version":"7.2.7"},"kickstart":{"description":"Kickstart features","version":"7.4.2"},"cr2pr":{"description":"Features supporting opening pull requests after code reviews","version":"7.4.2"},"shareStatusToSlack":{"description":"Whether the share to slack capability is supported, which requires a new scope for the slack app","version":"8.0.6"},"addBlameMap":{"description":"Supporting adding someone to the blame-map","version":"8.1.1"},"vsCodeGithubSignin":{"description":"Supports whether special VSCode GitHub signin is supported in the auth flow","version":"8.2.7"},"compactModifiedRepos":{"description":"Supports compact modifiedRepos structure","version":"8.2.8"},"providerReauth":{"description":"Supports re-authentication for providers if tokens are found to be invalid","version":"8.2.11"},"autoJoin":{"description":"Supports auto-join API call, to auto-join a team based on open repos in IDE","version":"8.2.13"},"testGroups":{"description":"Supports the /company-test-groups/:id call, to set randomized test groups for a company","version":"8.2.15"},"fileUploads":{"description":"Supports file uploading","version":"8.2.17","cloudOnly":true},"autoFR":{"description":"Supports automatic generation of feedback requests","version":"8.2.20"},"readItem":{"description":"Supports /read-item call to mark number of unread replies for an item","version":"8.2.33"},"echoes":{"description":"Supports periodic echoes to test broadcaster reliability","version":"8.2.39"},"multiRegion":{"description":"Supports multi-region switching","version":"12.0.7","useGlobal":true}}
+[2022-08-25 22:52:01:956] Got environment from connectivity response: — {"environment":"us","isOnPrem":false,"isProductionCloud":true,"newRelicLandingServiceUrl":"https://landing.service.newrelic.com","newRelicApiUrl":"https://api.newrelic.com","environmentHosts":[{"name":"EU","publicApiUrl":"https://eu-api.codestream.com","shortName":"eu"},{"name":"US","publicApiUrl":"https://api.codestream.com","shortName":"us"}]}
+[2022-08-25 22:52:01:956] [1d6] CodeStreamAgent.sendNotification(codestream/didSetEnvironment)
+[2022-08-25 22:52:01:956] [1d6] CodeStreamAgent.sendNotification(codestream/didSetEnvironment) completed • 0 ms
+[2022-08-25 22:52:01:956] [1d0] CodeStreamSession.verifyConnectivity completed • 449 ms
+[2022-08-25 22:56:58:639] GIT: Running(undefined): git config --get user.email
+[2022-08-25 22:56:59:713] [1d7] ScmManager.getFileInfo
+[2022-08-25 22:56:59:714] GIT: Running(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:00:552] GIT: Completed(undefined): git config --get user.email in 1913 ms
+[2022-08-25 22:57:00:553] GIT: Running(undefined): git config --get user.name
+[2022-08-25 22:57:01:432] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD in 1718 ms
+[2022-08-25 22:57:01:434] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html
+[2022-08-25 22:57:02:249] [1da] ReviewsManager.get
+[2022-08-25 22:57:02:250] [1db] CodeStreamApiProvider.fetchReviews
+[2022-08-25 22:57:02:251] GIT: Completed(undefined): git config --get user.name in 1698 ms
+[2022-08-25 22:57:02:252] [1dc] ReviewsManager.get
+[2022-08-25 22:57:02:252] [1dd] ScmManager.getFileInfo
+[2022-08-25 22:57:02:253] GIT: Running(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:03:148] [1de] ScmManager.getFileInfo
+[2022-08-25 22:57:03:148] GIT: Awaiting(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:03:148] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html in 1714 ms
+[2022-08-25 22:57:03:148] [1df] GitService.getRepoRemotes
+[2022-08-25 22:57:03:148] [1df] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 22:57:03:149] [1d7] ScmManager.getFileInfo completed • 3435 ms
+[2022-08-25 22:57:03:149] [1e0] GitHubProvider.getBoards
+[2022-08-25 22:57:03:150] [1e1] GitService.getRepoRemotes
+[2022-08-25 22:57:03:150] [1e1] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 22:57:03:153] [1e2] JiraProvider.getBoards
+[2022-08-25 22:57:03:153] [1e4] CodeStreamApiProvider.refreshThirdPartyProvider
+[2022-08-25 22:57:03:155] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD in 901 ms
+[2022-08-25 22:57:03:155] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD in 6 ms
+[2022-08-25 22:57:03:156] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html
+[2022-08-25 22:57:04:003] GIT: Awaiting(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html
+[2022-08-25 22:57:04:005] [1e5] GitHubProvider.getCards
+[2022-08-25 22:57:04:008] [1e6] JiraProvider.getCards
+[2022-08-25 22:57:04:009] [1e7] CodeStreamApiProvider.refreshThirdPartyProvider
+[2022-08-25 22:57:04:010] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html in 854 ms
+[2022-08-25 22:57:04:010] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html in 11 ms
+[2022-08-25 22:57:04:010] [1e8] GitService.getRepoRemotes
+[2022-08-25 22:57:04:010] [1e9] GitService.getRepoRemotes
+[2022-08-25 22:57:04:010] [1e8] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 22:57:04:011] [1e9] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 22:57:04:011] [1dd] ScmManager.getFileInfo completed • 1758 ms
+[2022-08-25 22:57:04:011] [1de] ScmManager.getFileInfo completed • 863 ms
+[2022-08-25 22:57:04:012] [1ea] ScmManager.getRepos
+[2022-08-25 22:57:04:013] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:04:918] GIT: Running(/home/cmendoza/CMENDOZA1036): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:05:738] GIT: Running(/home/cmendoza/HyperBlog): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:06:555] GIT: Running(/home/cmendoza/JsPractico): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:07:358] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:08:168] GIT: Running(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:08:963] GIT: Running(/home/cmendoza/blender_vscode): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:09:759] GIT: Running(/home/cmendoza/escuela-js): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:10:561] GIT: Completed(/home/cmendoza/blender_vscode): git rev-parse --abbrev-ref HEAD in 1597 ms
+[2022-08-25 22:57:10:561] GIT: Completed(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --abbrev-ref HEAD in 2393 ms
+[2022-08-25 22:57:10:561] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD in 3203 ms
+[2022-08-25 22:57:10:561] GIT: Completed(/home/cmendoza/JsPractico): git rev-parse --abbrev-ref HEAD in 4007 ms
+[2022-08-25 22:57:10:561] GIT: Completed(/home/cmendoza/HyperBlog): git rev-parse --abbrev-ref HEAD in 4823 ms
+[2022-08-25 22:57:10:562] GIT: Completed(/home/cmendoza/CMENDOZA1036): git rev-parse --abbrev-ref HEAD in 5644 ms
+[2022-08-25 22:57:10:562] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 6549 ms
+[2022-08-25 22:57:10:563] GIT: Running(undefined): git config --get user.email
+[2022-08-25 22:57:11:368] GIT: Completed(/home/cmendoza/escuela-js): git rev-parse --abbrev-ref HEAD in 1609 ms
+[2022-08-25 22:57:11:368] [1ec] GitService.getRepoRemotes
+[2022-08-25 22:57:11:369] [1ed] GitService.getRepoRemotes
+[2022-08-25 22:57:11:369] [1ee] GitService.getRepoRemotes
+[2022-08-25 22:57:11:369] [1ef] GitService.getRepoRemotes
+[2022-08-25 22:57:11:369] [1f0] GitService.getRepoRemotes
+[2022-08-25 22:57:11:369] [1f1] GitService.getRepoRemotes
+[2022-08-25 22:57:11:369] [1f2] GitService.getRepoRemotes
+[2022-08-25 22:57:11:369] [1f3] GitService.getRepoRemotes
+[2022-08-25 22:57:11:369] [1ec] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 22:57:11:369] [1ed] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/CMENDOZA1036.git] • 0 ms
+[2022-08-25 22:57:11:369] [1ee] GitService.getRepoRemotes returned [https://github.com/CMENDOZA1036/HyperBlog.git] • 0 ms
+[2022-08-25 22:57:11:369] [1ef] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/JsPractico.git] • 0 ms
+[2022-08-25 22:57:11:369] [1f0] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 22:57:11:369] [1f1] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/Proyecto-Google-Clone.git] • 0 ms
+[2022-08-25 22:57:11:369] [1f2] GitService.getRepoRemotes returned [https://github.com/JacquesLucke/blender_vscode] • 0 ms
+[2022-08-25 22:57:11:369] [1f3] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/escuela-js.git, git://github.com/marcelofarias/escuela-js.git] • 0 ms
+[2022-08-25 22:57:11:369] [1ea] ScmManager.getRepos completed • 7357 ms
+[2022-08-25 22:57:11:376] GIT: Awaiting(undefined): git config --get user.email
+[2022-08-25 22:57:11:376] GIT: Completed(undefined): git config --get user.email in 812 ms
+[2022-08-25 22:57:11:376] GIT: Completed(undefined): git config --get user.email in 0 ms
+[2022-08-25 22:57:11:376] GIT: Running(undefined): git config --get user.name
+[2022-08-25 22:57:12:151] GIT: Awaiting(undefined): git config --get user.name
+[2022-08-25 22:57:12:154] API(3f07b0bb-c019-4fae-97d9-8de57757f1f2): Completed GET /reviews?teamId=62a8af3bd1bffae460f923af • 9904 ms
+[2022-08-25 22:57:12:154] [1db] CodeStreamApiProvider.fetchReviews completed • 9904 ms
+[2022-08-25 22:57:12:155] [1da] ReviewsManager.get completed • 9905 ms
+[2022-08-25 22:57:12:155] [1dc] ReviewsManager.get completed • 9902 ms
+[2022-08-25 22:57:12:165] GIT: Running(undefined): git config --get user.email
+[2022-08-25 22:57:12:952] GIT: Awaiting(undefined): git config --get user.email
+[2022-08-25 22:57:12:953] GIT: Completed(undefined): git config --get user.name in 1576 ms
+[2022-08-25 22:57:12:953] GIT: Completed(undefined): git config --get user.name in 802 ms
+[2022-08-25 22:57:12:955] [1f4] ScmManager.getRepos
+[2022-08-25 22:57:12:956] [1f5] GitService.getRepoRemotes
+[2022-08-25 22:57:12:956] [1f6] GitService.getRepoRemotes
+[2022-08-25 22:57:12:956] [1f7] GitService.getRepoRemotes
+[2022-08-25 22:57:12:956] [1f8] GitService.getRepoRemotes
+[2022-08-25 22:57:12:956] [1f9] GitService.getRepoRemotes
+[2022-08-25 22:57:12:956] [1fa] GitService.getRepoRemotes
+[2022-08-25 22:57:12:956] [1fb] GitService.getRepoRemotes
+[2022-08-25 22:57:12:956] [1fc] GitService.getRepoRemotes
+[2022-08-25 22:57:12:956] [1f5] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 22:57:12:956] [1f6] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/CMENDOZA1036.git] • 0 ms
+[2022-08-25 22:57:12:956] [1f7] GitService.getRepoRemotes returned [https://github.com/CMENDOZA1036/HyperBlog.git] • 0 ms
+[2022-08-25 22:57:12:956] [1f8] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/JsPractico.git] • 0 ms
+[2022-08-25 22:57:12:956] [1f9] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 22:57:12:956] [1fa] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/Proyecto-Google-Clone.git] • 0 ms
+[2022-08-25 22:57:12:956] [1fb] GitService.getRepoRemotes returned [https://github.com/JacquesLucke/blender_vscode] • 0 ms
+[2022-08-25 22:57:12:956] [1fc] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/escuela-js.git, git://github.com/marcelofarias/escuela-js.git] • 0 ms
+[2022-08-25 22:57:12:957] [1f4] ScmManager.getRepos completed • 1 ms
+[2022-08-25 22:57:12:957] [1fd] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:57:12:958] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:57:12:958] [1fd] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:57:12:959] [1fe] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:57:12:959] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:57:12:959] [1fe] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:57:12:959] [1ff] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:57:12:960] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:57:12:960] [1ff] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:57:12:960] [200] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:57:12:960] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:57:12:960] [200] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:57:12:960] [201] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:57:12:960] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:57:12:960] [201] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:57:12:960] [202] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:57:12:960] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:57:12:960] [202] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:57:12:960] [203] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:57:12:960] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:57:12:960] [203] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:57:12:960] [204] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:57:12:960] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:57:12:961] [204] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:57:12:961] [205] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:57:12:961] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:57:12:961] [205] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:57:12:961] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open review-requested:@me" query=is:pr is:open review-requested:@me
+[2022-08-25 22:57:12:961] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open assignee:@me" query=is:pr is:open assignee:@me
+[2022-08-25 22:57:12:961] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open author:@me" query=is:pr is:open author:@me
+[2022-08-25 22:57:12:961] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr" query=is:pr
+[2022-08-25 22:57:12:969] GIT: Completed(undefined): git config --get user.email in 804 ms
+[2022-08-25 22:57:12:969] GIT: Completed(undefined): git config --get user.email in 16 ms
+[2022-08-25 22:57:12:969] GIT: Running(undefined): git config --get user.name
+[2022-08-25 22:57:13:770] GIT: Awaiting(undefined): git config --get user.name
+[2022-08-25 22:57:13:772] GitHub: Completed GET /repos/CMENDOZA1036/PersonalProjects • 10622 ms
+[2022-08-25 22:57:13:773] core limit used 4999 of 5000, reset at Thu Aug 25 2022 18:57:11 GMT-0500 (Colombia Standard Time)
+[2022-08-25 22:57:13:774] [206] GitService.getRepoRemotes
+[2022-08-25 22:57:13:774] [206] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/CMENDOZA1036.git] • 0 ms
+[2022-08-25 22:57:13:780] API(6abd5059-1369-434a-bbf3-bb7d5caed56c): Completed GET /provider-refresh/jira?teamId=62a8af3bd1bffae460f923af&refreshToken=<hidden> • 9771 ms
+[2022-08-25 22:57:13:781] [209] CodeStreamApiProvider.getUser
+[2022-08-25 22:57:13:781] [20a] CodeStreamApiProvider.getMe
+[2022-08-25 22:57:13:783] API(23f92888-494f-49ae-84c5-db721135a374): Completed GET /provider-refresh/jira?teamId=62a8af3bd1bffae460f923af&refreshToken=<hidden> • 10628 ms
+[2022-08-25 22:57:13:784] [20d] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-25 22:57:13:784] [20d] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-25 22:57:13:784] [1e4] CodeStreamApiProvider.refreshThirdPartyProvider completed • 10630 ms
+[2022-08-25 22:57:13:787] [20e] ScmManager.getRepos
+[2022-08-25 22:57:13:787] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:14:609] GIT: Running(/home/cmendoza/CMENDOZA1036): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:15:419] GIT: Running(/home/cmendoza/HyperBlog): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:16:211] GIT: Running(/home/cmendoza/JsPractico): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:17:076] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:17:947] GIT: Running(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:18:836] GIT: Running(/home/cmendoza/blender_vscode): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:19:671] GIT: Running(/home/cmendoza/escuela-js): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:57:20:520] GitHub: Completed GET /search/issues?q=archived%3Afalse%20is%3Aissue%20is%3Aopen%20assignee%3A%40me&sort=updated • 16514 ms
+[2022-08-25 22:57:20:520] search limit used 29 of 30, reset at Thu Aug 25 2022 17:58:12 GMT-0500 (Colombia Standard Time)
+[2022-08-25 22:57:20:520] [1e5] GitHubProvider.getCards completed • 16515 ms
+[2022-08-25 22:57:20:532] [20f] CodeStreamApiProvider.updatePreferences
+[2022-08-25 22:57:20:534] GIT: Completed(/home/cmendoza/blender_vscode): git rev-parse --abbrev-ref HEAD in 1698 ms
+[2022-08-25 22:57:20:534] GIT: Completed(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --abbrev-ref HEAD in 2587 ms
+[2022-08-25 22:57:20:534] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD in 3457 ms
+[2022-08-25 22:57:20:534] GIT: Completed(/home/cmendoza/JsPractico): git rev-parse --abbrev-ref HEAD in 4323 ms
+[2022-08-25 22:57:20:534] GIT: Completed(/home/cmendoza/HyperBlog): git rev-parse --abbrev-ref HEAD in 5115 ms
+[2022-08-25 22:57:20:534] GIT: Completed(/home/cmendoza/CMENDOZA1036): git rev-parse --abbrev-ref HEAD in 5925 ms
+[2022-08-25 22:57:20:534] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 6747 ms
+[2022-08-25 22:57:20:535] GIT: Completed(undefined): git config --get user.name in 7565 ms
+[2022-08-25 22:57:20:535] GIT: Completed(undefined): git config --get user.name in 6764 ms
+[2022-08-25 22:57:20:536] [210] ScmManager.getRepos
+[2022-08-25 22:57:20:536] [210] ScmManager.getRepos completed • 0 ms
+[2022-08-25 22:57:20:536] GIT: Completed(/home/cmendoza/escuela-js): git rev-parse --abbrev-ref HEAD in 868 ms
+[2022-08-25 22:57:20:536] [20e] ScmManager.getRepos completed • 6749 ms
+[2022-08-25 22:57:20:542] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661468233649
+[2022-08-25 22:57:20:543] BROADCASTER: Broadcaster message received at: 1661468233649
+[2022-08-25 22:57:20:544] BROADCASTER: _lastMessageReceivedAt updated to 1661468233649
+[2022-08-25 22:57:20:549] [214] ScmManager.getRepos
+[2022-08-25 22:57:20:549] [214] ScmManager.getRepos completed • 0 ms
+[2022-08-25 22:57:20:549] [215] ScmManager.getRepos
+[2022-08-25 22:57:20:549] [215] ScmManager.getRepos completed • 0 ms
+[2022-08-25 22:57:20:550] [216] CodeStreamApiProvider.updatePreferences
+[2022-08-25 22:57:20:551] [217] CodeStreamApiProvider.updatePreferences
+[2022-08-25 22:57:20:552] [218] CodeStreamApiProvider.updatePreferences
+[2022-08-25 22:57:20:554] [219] CodeStreamApiProvider.updatePreferences
+[2022-08-25 22:57:20:562] [219] CodeStreamApiProvider.updatePreferences MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/index.html
+[2022-08-25 22:57:20:562] [219] CodeStreamApiProvider.updatePreferences MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/index.html v1
+[Warn  - 5:57:20 PM] [2022-08-25 22:57:20:806] undefined 
+[Warn  - 5:57:20 PM] [2022-08-25 22:57:20:823] undefined 
+[Warn  - 5:57:20 PM] [2022-08-25 22:57:20:840] undefined 
+[2022-08-25 22:57:20:894] API(e2fe6ea4-5b1c-4eee-99d1-4eee2802a87e): Completed GET /users/me • 7112 ms
+[2022-08-25 22:57:20:894] [20a] CodeStreamApiProvider.getMe completed • 7112 ms
+[2022-08-25 22:57:20:894] [209] CodeStreamApiProvider.getUser completed • 7112 ms
+[2022-08-25 22:57:20:894] [21b] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-25 22:57:20:894] [21b] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-25 22:57:20:894] [1e7] CodeStreamApiProvider.refreshThirdPartyProvider completed • 16885 ms
+[Warn  - 5:57:20 PM] [2022-08-25 22:57:20:974] undefined 
+[2022-08-25 22:57:20:984] API(d8907633-f074-41ad-a2d5-3e8caaca7a39): Completed PUT /preferences body={"skipGitEmailCheck":true} • 451 ms
+[2022-08-25 22:57:20:984] [21e] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-25 22:57:20:984] [21e] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-25 22:57:20:986] [21f] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-25 22:57:20:986] [21f] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-25 22:57:20:986] [20f] CodeStreamApiProvider.updatePreferences completed • 453 ms
+[2022-08-25 22:57:21:072] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661468233715
+[2022-08-25 22:57:21:072] BROADCASTER: Broadcaster message received at: 1661468233715
+[2022-08-25 22:57:21:072] BROADCASTER: _lastMessageReceivedAt updated to 1661468233715
+[2022-08-25 22:57:21:073] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661468241250
+[2022-08-25 22:57:21:073] BROADCASTER: Broadcaster message received at: 1661468241250
+[2022-08-25 22:57:21:073] BROADCASTER: _lastMessageReceivedAt updated to 1661468241250
+[2022-08-25 22:57:21:089] Jira: Completed GET /oauth/token/accessible-resources • 7304 ms
+[2022-08-25 22:57:21:182] API(2ac22b2a-1541-4ca9-8251-d378bad203bc): Completed PUT /preferences body={"skipGitEmailCheck":true} • 630 ms
+[2022-08-25 22:57:21:182] [228] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-25 22:57:21:183] [228] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-25 22:57:21:183] [229] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-25 22:57:21:183] [229] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-25 22:57:21:183] [217] CodeStreamApiProvider.updatePreferences completed • 631 ms
+[2022-08-25 22:57:21:235] API(43562777-d9e6-42d1-939b-ecefcb72da17): Completed PUT /preferences body={"skipGitEmailCheck":true} • 682 ms
+[2022-08-25 22:57:21:236] [22c] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-25 22:57:21:236] [22c] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-25 22:57:21:236] [22d] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-25 22:57:21:236] [22d] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-25 22:57:21:236] [218] CodeStreamApiProvider.updatePreferences completed • 683 ms
+[2022-08-25 22:57:21:265] API(f41ce7d3-5354-4919-8f73-1208c73fa7d7): Completed PUT /preferences body={"skipGitEmailCheck":true} • 715 ms
+[2022-08-25 22:57:21:265] [230] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-25 22:57:21:265] [230] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-25 22:57:21:265] [231] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-25 22:57:21:265] [231] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-25 22:57:21:265] [216] CodeStreamApiProvider.updatePreferences completed • 715 ms
+[2022-08-25 22:57:21:330] GitHub: Completed GET /repos/CMENDOZA1036/CMENDOZA1036 • 7555 ms
+[2022-08-25 22:57:21:330] core limit used 4997 of 5000, reset at Thu Aug 25 2022 18:57:11 GMT-0500 (Colombia Standard Time)
+[2022-08-25 22:57:21:330] [232] GitService.getRepoRemotes
+[2022-08-25 22:57:21:331] [232] GitService.getRepoRemotes returned [https://github.com/CMENDOZA1036/HyperBlog.git] • 0 ms
+[2022-08-25 22:57:21:410] API(744d0a49-6930-44e5-bdb6-c53f5bd37f5a): Completed PUT /preferences body={"skipGitEmailCheck":true} • 856 ms
+[2022-08-25 22:57:21:412] [235] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-25 22:57:21:412] [235] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-25 22:57:21:412] [236] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-25 22:57:21:412] [236] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-25 22:57:21:412] [219] CodeStreamApiProvider.updatePreferences completed • 858 ms
+[2022-08-25 22:57:21:552] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661468241447
+[2022-08-25 22:57:21:553] BROADCASTER: Broadcaster message received at: 1661468241447
+[2022-08-25 22:57:21:553] BROADCASTER: _lastMessageReceivedAt updated to 1661468241447
+[2022-08-25 22:57:21:553] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661468241506
+[2022-08-25 22:57:21:554] BROADCASTER: Broadcaster message received at: 1661468241506
+[2022-08-25 22:57:21:554] BROADCASTER: _lastMessageReceivedAt updated to 1661468241506
+[2022-08-25 22:57:21:554] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661468241540
+[2022-08-25 22:57:21:554] BROADCASTER: Broadcaster message received at: 1661468241540
+[2022-08-25 22:57:21:554] BROADCASTER: _lastMessageReceivedAt updated to 1661468241540
+[2022-08-25 22:57:21:554] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661468241696
+[2022-08-25 22:57:21:554] BROADCASTER: Broadcaster message received at: 1661468241696
+[2022-08-25 22:57:21:554] BROADCASTER: _lastMessageReceivedAt updated to 1661468241696
+[2022-08-25 22:57:21:786] GitHub: Completed GET /repos/CMENDOZA1036/HyperBlog • 455 ms
+[2022-08-25 22:57:21:786] core limit used 4996 of 5000, reset at Thu Aug 25 2022 18:57:11 GMT-0500 (Colombia Standard Time)
+[2022-08-25 22:57:21:787] [243] GitService.getRepoRemotes
+[2022-08-25 22:57:21:787] [243] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/JsPractico.git] • 0 ms
+[2022-08-25 22:57:22:013] Jira: Completed GET /rest/api/2/project/search • 924 ms
+[2022-08-25 22:57:22:196] Jira: Completed GET /rest/api/2/search?jql=assignee%3Dcurrentuser()%20AND%20NOT((status%20in%20(Closed%2C%20Done%2C%20Resolved))%20OR%20resolution%20!%3D%20Unresolved)&expand=transitions%2Cnames&fields=summary%2Cdescription%2Cupdated%2Csubtasks%2Cstatus%2Cissuetype%2Cpriority%2Cassignee • 1106 ms
+[2022-08-25 22:57:22:197] [1e6] JiraProvider.getCards completed • 18188 ms
+[2022-08-25 22:57:22:242] GitHub: Completed GET /repos/CMENDOZA1036/JsPractico • 454 ms
+[2022-08-25 22:57:22:243] core limit used 4995 of 5000, reset at Thu Aug 25 2022 18:57:11 GMT-0500 (Colombia Standard Time)
+[2022-08-25 22:57:22:243] [244] GitService.getRepoRemotes
+[2022-08-25 22:57:22:243] [244] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 22:57:22:243] [245] GitService.getRepoRemotes
+[2022-08-25 22:57:22:243] [245] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/Proyecto-Google-Clone.git] • 0 ms
+[2022-08-25 22:57:22:734] GitHub: Completed GET /repos/CMENDOZA1036/Proyecto-Google-Clone • 490 ms
+[2022-08-25 22:57:22:734] core limit used 4994 of 5000, reset at Thu Aug 25 2022 18:57:11 GMT-0500 (Colombia Standard Time)
+[2022-08-25 22:57:22:735] [246] GitService.getRepoRemotes
+[2022-08-25 22:57:22:735] [246] GitService.getRepoRemotes returned [https://github.com/JacquesLucke/blender_vscode] • 0 ms
+[2022-08-25 22:57:22:861] Jira: Completed GET /rest/api/2/issue/createmeta?projectIds=10000&expand=projects.issuetypes.fields • 847 ms
+[2022-08-25 22:57:22:862] [1e2] JiraProvider.getBoards completed • 19709 ms
+[2022-08-25 22:57:23:165] GitHub: Completed GET /repos/JacquesLucke/blender_vscode • 430 ms
+[2022-08-25 22:57:23:165] core limit used 4993 of 5000, reset at Thu Aug 25 2022 18:57:11 GMT-0500 (Colombia Standard Time)
+[2022-08-25 22:57:23:166] [247] GitService.getRepoRemotes
+[2022-08-25 22:57:23:166] [247] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/escuela-js.git, git://github.com/marcelofarias/escuela-js.git] • 0 ms
+[2022-08-25 22:57:23:775] GitHub: Completed GET /repos/CMENDOZA1036/escuela-js • 608 ms
+[2022-08-25 22:57:23:776] core limit used 4992 of 5000, reset at Thu Aug 25 2022 18:57:11 GMT-0500 (Colombia Standard Time)
+[2022-08-25 22:57:24:323] GitHub: Completed GET /repos/marcelofarias/escuela-js • 545 ms
+[2022-08-25 22:57:24:323] core limit used 4991 of 5000, reset at Thu Aug 25 2022 18:57:11 GMT-0500 (Colombia Standard Time)
+[2022-08-25 22:57:24:323] [1e0] GitHubProvider.getBoards completed • 21173 ms
+[2022-08-25 22:58:21:357] [248] ScmManager.getRepos
+[2022-08-25 22:58:21:357] [249] GitService.getRepoRemotes
+[2022-08-25 22:58:21:357] [24a] GitService.getRepoRemotes
+[2022-08-25 22:58:21:357] [24b] GitService.getRepoRemotes
+[2022-08-25 22:58:21:357] [24c] GitService.getRepoRemotes
+[2022-08-25 22:58:21:357] [24d] GitService.getRepoRemotes
+[2022-08-25 22:58:21:357] [24e] GitService.getRepoRemotes
+[2022-08-25 22:58:21:357] [24f] GitService.getRepoRemotes
+[2022-08-25 22:58:21:357] [250] GitService.getRepoRemotes
+[2022-08-25 22:58:21:357] [249] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 22:58:21:357] [24a] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/CMENDOZA1036.git] • 0 ms
+[2022-08-25 22:58:21:357] [24b] GitService.getRepoRemotes returned [https://github.com/CMENDOZA1036/HyperBlog.git] • 0 ms
+[2022-08-25 22:58:21:358] [24c] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/JsPractico.git] • 0 ms
+[2022-08-25 22:58:21:358] [24d] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 22:58:21:358] [24e] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/Proyecto-Google-Clone.git] • 0 ms
+[2022-08-25 22:58:21:358] [24f] GitService.getRepoRemotes returned [https://github.com/JacquesLucke/blender_vscode] • 0 ms
+[2022-08-25 22:58:21:358] [250] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/escuela-js.git, git://github.com/marcelofarias/escuela-js.git] • 0 ms
+[2022-08-25 22:58:21:358] [248] ScmManager.getRepos completed • 0 ms
+[2022-08-25 22:58:21:358] [251] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:58:21:358] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:58:21:358] [251] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:58:21:358] [252] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:58:21:358] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:58:21:358] [252] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:58:21:358] [253] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:58:21:358] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:58:21:358] [253] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:58:21:358] [254] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:58:21:358] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:58:21:358] [254] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:58:21:358] [255] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:58:21:358] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:58:21:358] [255] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:58:21:358] [256] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:58:21:359] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:58:21:359] [256] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:58:21:359] [257] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:58:21:359] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:58:21:359] [257] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:58:21:359] [258] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:58:21:359] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:58:21:359] [258] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:58:21:359] [259] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:58:21:359] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:58:21:359] [259] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:58:21:359] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open review-requested:@me" query=is:pr is:open review-requested:@me
+[2022-08-25 22:58:21:359] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open assignee:@me" query=is:pr is:open assignee:@me
+[2022-08-25 22:58:21:360] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open author:@me" query=is:pr is:open author:@me
+[2022-08-25 22:58:21:360] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr" query=is:pr
+[Warn  - 5:58:21 PM] [2022-08-25 22:58:21:790] undefined 
+[Warn  - 5:58:21 PM] [2022-08-25 22:58:21:918] undefined 
+[Warn  - 5:58:21 PM] [2022-08-25 22:58:21:918] undefined 
+[Warn  - 5:58:22 PM] [2022-08-25 22:58:22:251] undefined 
+[2022-08-25 22:58:45:387] [25a] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-25 22:58:45:388] [25a] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-25 22:58:45:388] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:58:46:161] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 773 ms
+[2022-08-25 22:58:46:161] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-25 22:58:46:947] [25b] ScmManager.getFileInfo
+[2022-08-25 22:58:46:948] GIT: Running(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD
+[2022-08-25 22:58:47:729] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 1568 ms
+[2022-08-25 22:58:47:733] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD in 785 ms
+[2022-08-25 22:58:47:734] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html
+[2022-08-25 22:58:48:518] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html in 784 ms
+[2022-08-25 22:58:48:519] [25c] GitService.getRepoRemotes
+[2022-08-25 22:58:48:519] [25c] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 22:58:48:520] [25b] ScmManager.getFileInfo completed • 1572 ms
+[2022-08-25 22:58:48:526] [25d] ScmManager.getRepos
+[2022-08-25 22:58:48:526] [25d] ScmManager.getRepos completed • 0 ms
+[2022-08-25 22:58:48:535] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/index.html
+[2022-08-25 22:58:48:535] MARKERS: calculating codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/index.html v1
+[2022-08-25 22:59:12:770] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me"
+[2022-08-25 22:59:12:771] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me"
+[Warn  - 5:59:13 PM] [2022-08-25 22:59:13:286] undefined 
+[Warn  - 5:59:13 PM] [2022-08-25 22:59:13:395] undefined 
+[2022-08-25 22:59:13:395] Will not notify of new PRs - no changes detected
+[2022-08-25 22:59:21:353] [260] ScmManager.getRepos
+[2022-08-25 22:59:21:353] [261] GitService.getRepoRemotes
+[2022-08-25 22:59:21:353] [262] GitService.getRepoRemotes
+[2022-08-25 22:59:21:353] [263] GitService.getRepoRemotes
+[2022-08-25 22:59:21:353] [264] GitService.getRepoRemotes
+[2022-08-25 22:59:21:353] [265] GitService.getRepoRemotes
+[2022-08-25 22:59:21:353] [266] GitService.getRepoRemotes
+[2022-08-25 22:59:21:353] [267] GitService.getRepoRemotes
+[2022-08-25 22:59:21:353] [268] GitService.getRepoRemotes
+[2022-08-25 22:59:21:353] [261] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 22:59:21:353] [262] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/CMENDOZA1036.git] • 0 ms
+[2022-08-25 22:59:21:353] [263] GitService.getRepoRemotes returned [https://github.com/CMENDOZA1036/HyperBlog.git] • 0 ms
+[2022-08-25 22:59:21:353] [264] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/JsPractico.git] • 0 ms
+[2022-08-25 22:59:21:353] [265] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 22:59:21:354] [266] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/Proyecto-Google-Clone.git] • 0 ms
+[2022-08-25 22:59:21:354] [267] GitService.getRepoRemotes returned [https://github.com/JacquesLucke/blender_vscode] • 0 ms
+[2022-08-25 22:59:21:354] [268] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/escuela-js.git, git://github.com/marcelofarias/escuela-js.git] • 0 ms
+[2022-08-25 22:59:21:354] [260] ScmManager.getRepos completed • 0 ms
+[2022-08-25 22:59:21:354] [269] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:59:21:354] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:59:21:354] [269] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:59:21:354] [26a] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:59:21:354] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:59:21:354] [26a] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:59:21:354] [26b] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:59:21:354] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:59:21:354] [26b] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:59:21:354] [26c] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:59:21:354] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:59:21:354] [26c] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:59:21:354] [26d] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:59:21:354] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:59:21:354] [26d] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:59:21:354] [26e] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:59:21:354] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:59:21:354] [26e] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:59:21:354] [26f] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:59:21:354] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:59:21:354] [26f] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:59:21:354] [270] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:59:21:355] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:59:21:355] [270] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:59:21:355] [271] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 22:59:21:355] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 22:59:21:355] [271] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 22:59:21:355] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open review-requested:@me" query=is:pr is:open review-requested:@me
+[2022-08-25 22:59:21:355] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open assignee:@me" query=is:pr is:open assignee:@me
+[2022-08-25 22:59:21:355] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open author:@me" query=is:pr is:open author:@me
+[2022-08-25 22:59:21:355] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr" query=is:pr
+[Warn  - 5:59:21 PM] [2022-08-25 22:59:21:845] undefined 
+[Warn  - 5:59:21 PM] [2022-08-25 22:59:21:939] undefined 
+[Warn  - 5:59:21 PM] [2022-08-25 22:59:21:977] undefined 
+[Warn  - 5:59:22 PM] [2022-08-25 22:59:22:191] undefined 
+[2022-08-25 23:00:21:095] [272] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-25 23:00:21:095] [272] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-25 23:00:21:096] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD
+[2022-08-25 23:00:21:887] [273] ScmManager.getRepos
+[2022-08-25 23:00:21:888] [274] GitService.getRepoRemotes
+[2022-08-25 23:00:21:888] [275] GitService.getRepoRemotes
+[2022-08-25 23:00:21:888] [276] GitService.getRepoRemotes
+[2022-08-25 23:00:21:888] [277] GitService.getRepoRemotes
+[2022-08-25 23:00:21:888] [278] GitService.getRepoRemotes
+[2022-08-25 23:00:21:888] [279] GitService.getRepoRemotes
+[2022-08-25 23:00:21:888] [27a] GitService.getRepoRemotes
+[2022-08-25 23:00:21:888] [27b] GitService.getRepoRemotes
+[2022-08-25 23:00:21:888] [274] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 23:00:21:888] [275] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/CMENDOZA1036.git] • 0 ms
+[2022-08-25 23:00:21:888] [276] GitService.getRepoRemotes returned [https://github.com/CMENDOZA1036/HyperBlog.git] • 0 ms
+[2022-08-25 23:00:21:888] [277] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/JsPractico.git] • 0 ms
+[2022-08-25 23:00:21:888] [278] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 23:00:21:888] [279] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/Proyecto-Google-Clone.git] • 0 ms
+[2022-08-25 23:00:21:888] [27a] GitService.getRepoRemotes returned [https://github.com/JacquesLucke/blender_vscode] • 0 ms
+[2022-08-25 23:00:21:888] [27b] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/escuela-js.git, git://github.com/marcelofarias/escuela-js.git] • 0 ms
+[2022-08-25 23:00:21:889] [273] ScmManager.getRepos completed • 1 ms
+[2022-08-25 23:00:21:889] [27c] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:00:21:889] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:00:21:889] [27c] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:00:21:889] [27d] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:00:21:889] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:00:21:889] [27d] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:00:21:889] [27e] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:00:21:889] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:00:21:889] [27e] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:00:21:889] [27f] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:00:21:889] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:00:21:889] [27f] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:00:21:889] [280] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:00:21:889] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:00:21:889] [280] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:00:21:889] [281] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:00:21:889] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:00:21:889] [281] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:00:21:889] [282] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:00:21:889] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:00:21:889] [282] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:00:21:889] [283] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:00:21:889] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:00:21:889] [283] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:00:21:889] [284] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:00:21:889] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:00:21:889] [284] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:00:21:889] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open review-requested:@me" query=is:pr is:open review-requested:@me
+[2022-08-25 23:00:21:890] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open assignee:@me" query=is:pr is:open assignee:@me
+[2022-08-25 23:00:21:890] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open author:@me" query=is:pr is:open author:@me
+[2022-08-25 23:00:21:890] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr" query=is:pr
+[2022-08-25 23:00:21:898] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD in 803 ms
+[2022-08-25 23:00:21:898] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u}
+[2022-08-25 23:00:22:740] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u} in 841 ms
+[2022-08-25 23:00:23:062] [285] ScmManager.getFileInfo
+[2022-08-25 23:00:23:063] GIT: Running(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD
+[2022-08-25 23:00:23:869] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD in 806 ms
+[2022-08-25 23:00:23:870] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html
+[Warn  - 6:00:24 PM] [2022-08-25 23:00:24:702] undefined 
+[Warn  - 6:00:24 PM] [2022-08-25 23:00:24:703] undefined 
+[Warn  - 6:00:24 PM] [2022-08-25 23:00:24:703] undefined 
+[Warn  - 6:00:24 PM] [2022-08-25 23:00:24:704] undefined 
+[2022-08-25 23:00:24:708] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html in 837 ms
+[2022-08-25 23:00:24:708] [286] GitService.getRepoRemotes
+[2022-08-25 23:00:24:708] [286] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 23:00:24:709] [285] ScmManager.getFileInfo completed • 1646 ms
+[2022-08-25 23:00:24:730] [287] ScmManager.getRepos
+[2022-08-25 23:00:24:730] [287] ScmManager.getRepos completed • 0 ms
+[2022-08-25 23:00:24:738] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/index.html
+[2022-08-25 23:00:24:738] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/index.html v1
+[2022-08-25 23:00:38:825] [289] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-25 23:00:38:825] [289] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-25 23:00:38:826] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD
+[2022-08-25 23:00:39:637] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD in 811 ms
+[2022-08-25 23:00:39:637] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u}
+[2022-08-25 23:00:40:469] [28a] ScmManager.getFileInfo
+[2022-08-25 23:00:40:470] GIT: Running(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD
+[2022-08-25 23:00:41:279] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u} in 1642 ms
+[2022-08-25 23:00:41:285] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD in 814 ms
+[2022-08-25 23:00:41:285] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html
+[2022-08-25 23:00:42:106] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html in 820 ms
+[2022-08-25 23:00:42:106] [28b] GitService.getRepoRemotes
+[2022-08-25 23:00:42:106] [28b] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 23:00:42:106] [28a] ScmManager.getFileInfo completed • 1636 ms
+[2022-08-25 23:00:42:113] [28c] ScmManager.getRepos
+[2022-08-25 23:00:42:113] [28c] ScmManager.getRepos completed • 0 ms
+[2022-08-25 23:00:42:127] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/index.html
+[2022-08-25 23:00:42:127] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/index.html v1
+[2022-08-25 23:00:55:292] MARKERS: flushing uncommitted locations
+[2022-08-25 23:00:55:293] GIT: Running(/home/cmendoza/PersonalProjects): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD --
+[2022-08-25 23:00:56:100] [28e] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-25 23:00:56:100] [28e] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-25 23:00:56:100] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD
+[2022-08-25 23:00:56:889] [28f] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-25 23:00:56:889] [28f] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-25 23:00:56:889] GIT: Awaiting(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD
+[2022-08-25 23:00:56:891] GIT: Completed(/home/cmendoza/PersonalProjects): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD -- in 1598 ms
+[2022-08-25 23:00:56:891] [291] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash)
+[2022-08-25 23:00:56:891] [291] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash) completed • 0 ms
+[2022-08-25 23:00:56:892] GIT: Running(/home/cmendoza/PersonalProjects): git config user.email
+[2022-08-25 23:00:57:671] [293] ScmManager.getFileInfo
+[2022-08-25 23:00:57:671] GIT: Running(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD
+[2022-08-25 23:00:58:446] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD in 2345 ms
+[2022-08-25 23:00:58:446] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD in 1556 ms
+[2022-08-25 23:00:58:446] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u}
+[2022-08-25 23:00:59:254] GIT: Awaiting(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u}
+[2022-08-25 23:00:59:255] [294] ScmManager.getFileInfo
+[2022-08-25 23:00:59:256] GIT: Awaiting(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD
+[2022-08-25 23:00:59:256] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD in 1584 ms
+[2022-08-25 23:00:59:256] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD in 0 ms
+[2022-08-25 23:00:59:257] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html
+[2022-08-25 23:01:00:031] GIT: Awaiting(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html
+[2022-08-25 23:01:00:031] GIT: Completed(/home/cmendoza/PersonalProjects): git config user.email in 3139 ms
+[2022-08-25 23:01:00:032] [295] CodeStreamAgent.sendNotification(codestream/userDidCommit)
+[2022-08-25 23:01:00:032] [295] CodeStreamAgent.sendNotification(codestream/userDidCommit) completed • 0 ms
+[2022-08-25 23:01:00:033] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u} in 1586 ms
+[2022-08-25 23:01:00:033] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u} in 779 ms
+[2022-08-25 23:01:00:037] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html in 780 ms
+[2022-08-25 23:01:00:037] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html in 6 ms
+[2022-08-25 23:01:00:037] [296] GitService.getRepoRemotes
+[2022-08-25 23:01:00:038] [297] GitService.getRepoRemotes
+[2022-08-25 23:01:00:038] [296] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 23:01:00:038] [297] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 23:01:00:039] [293] ScmManager.getFileInfo completed • 2367 ms
+[2022-08-25 23:01:00:039] [294] ScmManager.getFileInfo completed • 783 ms
+[2022-08-25 23:01:00:070] [298] ScmManager.getRepos
+[2022-08-25 23:01:00:070] [298] ScmManager.getRepos completed • 0 ms
+[2022-08-25 23:01:00:070] [299] ScmManager.getRepos
+[2022-08-25 23:01:00:070] [299] ScmManager.getRepos completed • 0 ms
+[2022-08-25 23:01:00:083] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/index.html
+[2022-08-25 23:01:00:083] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/index.html v1
+[2022-08-25 23:01:00:086] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/index.html
+[2022-08-25 23:01:00:087] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/index.html v1
+[2022-08-25 23:01:21:336] [29c] ScmManager.getRepos
+[2022-08-25 23:01:21:336] [29d] GitService.getRepoRemotes
+[2022-08-25 23:01:21:336] [29e] GitService.getRepoRemotes
+[2022-08-25 23:01:21:336] [29f] GitService.getRepoRemotes
+[2022-08-25 23:01:21:336] [2a0] GitService.getRepoRemotes
+[2022-08-25 23:01:21:336] [2a1] GitService.getRepoRemotes
+[2022-08-25 23:01:21:336] [2a2] GitService.getRepoRemotes
+[2022-08-25 23:01:21:336] [2a3] GitService.getRepoRemotes
+[2022-08-25 23:01:21:336] [2a4] GitService.getRepoRemotes
+[2022-08-25 23:01:21:337] [29d] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 23:01:21:337] [29e] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/CMENDOZA1036.git] • 0 ms
+[2022-08-25 23:01:21:337] [29f] GitService.getRepoRemotes returned [https://github.com/CMENDOZA1036/HyperBlog.git] • 0 ms
+[2022-08-25 23:01:21:337] [2a0] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/JsPractico.git] • 0 ms
+[2022-08-25 23:01:21:337] [2a1] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 23:01:21:337] [2a2] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/Proyecto-Google-Clone.git] • 0 ms
+[2022-08-25 23:01:21:337] [2a3] GitService.getRepoRemotes returned [https://github.com/JacquesLucke/blender_vscode] • 0 ms
+[2022-08-25 23:01:21:337] [2a4] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/escuela-js.git, git://github.com/marcelofarias/escuela-js.git] • 0 ms
+[2022-08-25 23:01:21:337] [29c] ScmManager.getRepos completed • 0 ms
+[2022-08-25 23:01:21:337] [2a5] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:01:21:337] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:01:21:337] [2a5] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:01:21:337] [2a6] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:01:21:337] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:01:21:337] [2a6] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:01:21:337] [2a7] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:01:21:337] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:01:21:337] [2a7] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:01:21:337] [2a8] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:01:21:337] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:01:21:337] [2a8] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:01:21:337] [2a9] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:01:21:337] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:01:21:337] [2a9] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:01:21:337] [2aa] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:01:21:337] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:01:21:337] [2aa] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:01:21:337] [2ab] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:01:21:337] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:01:21:337] [2ab] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:01:21:337] [2ac] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:01:21:337] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:01:21:337] [2ac] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:01:21:339] [2ad] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:01:21:339] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:01:21:339] [2ad] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:01:21:339] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open review-requested:@me" query=is:pr is:open review-requested:@me
+[2022-08-25 23:01:21:339] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open assignee:@me" query=is:pr is:open assignee:@me
+[2022-08-25 23:01:21:339] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open author:@me" query=is:pr is:open author:@me
+[2022-08-25 23:01:21:339] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr" query=is:pr
+[Warn  - 6:01:21 PM] [2022-08-25 23:01:21:839] undefined 
+[Warn  - 6:01:21 PM] [2022-08-25 23:01:21:886] undefined 
+[Warn  - 6:01:21 PM] [2022-08-25 23:01:21:915] undefined 
+[Warn  - 6:01:22 PM] [2022-08-25 23:01:22:065] undefined 
+[2022-08-25 23:02:55:131] [2ae] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-25 23:02:55:131] [2ae] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-25 23:02:55:132] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-25 23:02:56:159] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 1027 ms
+[2022-08-25 23:02:56:159] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-25 23:02:56:925] [2af] ScmManager.getFileInfo
+[2022-08-25 23:02:56:926] GIT: Running(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD
+[2022-08-25 23:02:57:702] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 1542 ms
+[2022-08-25 23:02:57:704] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --abbrev-ref HEAD in 778 ms
+[2022-08-25 23:02:57:705] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html
+[2022-08-25 23:02:58:501] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/curso 2/index.html in 795 ms
+[2022-08-25 23:02:58:501] [2b0] GitService.getRepoRemotes
+[2022-08-25 23:02:58:501] [2b0] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 23:02:58:502] [2af] ScmManager.getFileInfo completed • 1576 ms
+[2022-08-25 23:02:58:507] [2b1] ScmManager.getRepos
+[2022-08-25 23:02:58:508] [2b1] ScmManager.getRepos completed • 0 ms
+[2022-08-25 23:02:58:517] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/index.html
+[2022-08-25 23:02:58:518] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/curso 2/index.html v1
+[2022-08-25 23:03:13:352] [2b3] ScmManager.getRepos
+[2022-08-25 23:03:13:352] [2b4] GitService.getRepoRemotes
+[2022-08-25 23:03:13:352] [2b5] GitService.getRepoRemotes
+[2022-08-25 23:03:13:352] [2b6] GitService.getRepoRemotes
+[2022-08-25 23:03:13:352] [2b7] GitService.getRepoRemotes
+[2022-08-25 23:03:13:352] [2b8] GitService.getRepoRemotes
+[2022-08-25 23:03:13:352] [2b9] GitService.getRepoRemotes
+[2022-08-25 23:03:13:352] [2ba] GitService.getRepoRemotes
+[2022-08-25 23:03:13:352] [2bb] GitService.getRepoRemotes
+[2022-08-25 23:03:13:352] [2b4] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 23:03:13:352] [2b5] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/CMENDOZA1036.git] • 0 ms
+[2022-08-25 23:03:13:352] [2b6] GitService.getRepoRemotes returned [https://github.com/CMENDOZA1036/HyperBlog.git] • 0 ms
+[2022-08-25 23:03:13:352] [2b7] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/JsPractico.git] • 0 ms
+[2022-08-25 23:03:13:352] [2b8] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-25 23:03:13:352] [2b9] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/Proyecto-Google-Clone.git] • 0 ms
+[2022-08-25 23:03:13:352] [2ba] GitService.getRepoRemotes returned [https://github.com/JacquesLucke/blender_vscode] • 0 ms
+[2022-08-25 23:03:13:352] [2bb] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/escuela-js.git, git://github.com/marcelofarias/escuela-js.git] • 0 ms
+[2022-08-25 23:03:13:352] [2b3] ScmManager.getRepos completed • 0 ms
+[2022-08-25 23:03:13:352] [2bc] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:03:13:352] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:03:13:352] [2bc] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:03:13:353] [2bd] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:03:13:353] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:03:13:353] [2bd] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:03:13:353] [2be] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:03:13:353] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:03:13:353] [2be] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:03:13:353] [2bf] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:03:13:353] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:03:13:353] [2bf] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:03:13:353] [2c0] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:03:13:353] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:03:13:353] [2c0] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:03:13:353] [2c1] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:03:13:353] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:03:13:353] [2c1] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:03:13:353] [2c2] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:03:13:353] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:03:13:353] [2c2] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:03:13:353] [2c3] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:03:13:353] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:03:13:353] [2c3] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:03:13:353] [2c4] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-25 23:03:13:353] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-25 23:03:13:353] [2c4] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-25 23:03:13:353] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open review-requested:@me" query=is:pr is:open review-requested:@me
+[2022-08-25 23:03:13:354] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open assignee:@me" query=is:pr is:open assignee:@me
+[2022-08-25 23:03:13:354] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open author:@me" query=is:pr is:open author:@me
+[2022-08-25 23:03:13:354] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr" query=is:pr
+[Warn  - 6:03:13 PM] [2022-08-25 23:03:13:838] undefined 
+[Warn  - 6:03:13 PM] [2022-08-25 23:03:13:854] undefined 
+[Warn  - 6:03:13 PM] [2022-08-25 23:03:13:921] undefined 
+[Warn  - 6:03:14 PM] [2022-08-25 23:03:14:112] undefined 
