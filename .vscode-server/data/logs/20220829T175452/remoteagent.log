@@ -1,0 +1,22 @@
+[2022-08-29 17:54:57.680] [remoteagent] [info] Extension host agent started.
+[2022-08-29 17:54:57.960] [remoteagent] [info] [127.0.0.1][02d077eb][ManagementConnection] New connection established.
+[2022-08-29 17:54:57.979] [remoteagent] [info] [127.0.0.1][11dee79f][ExtensionHostConnection] New connection established.
+[2022-08-29 17:55:00.664] [remoteagent] [info] [127.0.0.1][11dee79f][ExtensionHostConnection] <121> Launched Extension Host Process.
+[2022-08-29 17:55:02.495] [remoteagent] [info] Deleted from disk vscode-icons-team.vscode-icons /home/cmendoza/.vscode-server/extensions/vscode-icons-team.vscode-icons-11.15.0
+[2022-08-29 17:55:02.658] [remoteagent] [info] Deleted from disk eamodio.gitlens-insiders /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.8.2505
+[2022-08-29 17:55:02.658] [remoteagent] [info] Deleted from disk github.vscode-pull-request-github /home/cmendoza/.vscode-server/extensions/github.vscode-pull-request-github-0.49.2022082509
+[2022-08-29 17:55:05.803] [remoteagent] [info] Getting Manifest... ms-vsliveshare.vsliveshare
+[2022-08-29 17:55:06.219] [remoteagent] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2022-08-29 17:55:21.462] [remoteagent] [info] Downloaded extension: ms-vsliveshare.vsliveshare /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.5696
+[2022-08-29 17:55:29.508] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.cc71958a-4ed4-4022-a625-d73b42108b81: ms-vsliveshare.vsliveshare
+[2022-08-29 17:55:29.659] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5696
+[2022-08-29 17:55:29.681] [remoteagent] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2022-08-29 17:55:29.733] [remoteagent] [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+[2022-08-29 17:55:49.088] [remoteagent] [info] [127.0.0.1][11dee79f][ExtensionHostConnection] <121> [0mGET /favicon.ico [33m404[0m 21.109 ms - 150[0m
+
+[2022-08-29 17:59:35.578] [remoteagent] [info] [127.0.0.1][11dee79f][ExtensionHostConnection] <121> [0mGET /WEB/Frontend/curso%202/icons/bt_add_to_cart.svg [33m404[0m 5.055 ms - 186[0m
+
+[2022-08-29 18:00:12.763] [remoteagent] [info] [127.0.0.1][11dee79f][ExtensionHostConnection] <121> [0mGET /WEB/Frontend/curso%202/icons/bt_add_to_cart.svg [33m404[0m 14.305 ms - 186[0m
+
+[2022-08-29 18:10:10.524] [remoteagent] [info] [127.0.0.1][11dee79f][ExtensionHostConnection] <121> [0mGET /WEB/Frontend/curso%202/.../icons/bt_add_to_cart.svg [33m404[0m 13.959 ms - 190[0m
+

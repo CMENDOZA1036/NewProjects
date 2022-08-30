@@ -1,0 +1,60 @@
+[2022-08-29 17:55:04.886] [exthost] [info] Extension host with pid 121 started
+[2022-08-29 17:55:04.975] [exthost] [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/8b36df9df40743ce177feb888dd8f7d7/vscode.lock': Lock acquired.
+[2022-08-29 17:55:05.031] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-08-29 17:55:05.310] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-29 17:55:05.403] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-08-29 17:55:05.460] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-29 17:55:05.582] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets, startup: true, activationEvent: '*'
+[2022-08-29 17:55:05.599] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-08-29 17:55:05.841] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-08-29 17:55:05.981] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-08-29 17:55:07.593] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-08-29 17:55:07.666] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+[2022-08-29 17:55:07.681] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-08-29 17:55:08.592] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-29 17:55:17.972] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-29 17:55:18.092] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-29 17:55:18.363] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-29 17:55:18.565] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2022-08-29 17:55:19.045] [exthost] [info] Not activating extension 'pranaygp.vscode-css-peek': Timed out while searching for 'workspaceContains' pattern **/*.css,**/*.scss,**/*.sass,**/*.less
+[2022-08-29 17:55:19.047] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-29 17:55:19.138] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-29 17:55:19.167] [exthost] [info] ExtensionService#_doActivateExtension CodeStream.codestream, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-29 17:55:19.625] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-29 17:55:20.441] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens-insiders, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-29 17:55:21.360] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-08-29 17:55:21.535] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-29 17:55:39.366] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-29 17:55:55.826] [exthost] [info] Eager extensions activated
+[2022-08-29 17:59:27.593] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:00:05.630] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-29 18:00:05.630] [exthost] [error] undefined
+[2022-08-29 18:07:00.026] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:07:02.875] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:07:40.444] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:12:28.070] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:12:28.243] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-08-29 18:15:04.866] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:15:07.052] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:15:09.944] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:15:36.985] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:17:21.001] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:20:48.037] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:23:56.235] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:27:18.034] [exthost] [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-08-29 18:27:22.640] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:32:11.592] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:41:18.825] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:43:57.911] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-08-29 18:43:57.911] [exthost] [error] Error: DisposableStore is missing...
+	at te._convertCompletionItem (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:87:52877)
+	at te.resolveCompletionItem (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:87:52655)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-29 18:48:50.489] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:55:29.413] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 18:55:37.310] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 19:02:51.526] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 19:02:57.200] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 19:04:09.895] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-29 19:04:30.432] [exthost] [warning] TextEditor is closed/disposed

@@ -25,3 +25,7 @@
 [2022-08-29 11:54:06.318] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/vscode-icons-team.vscode-icons-11.16.0
 [2022-08-29 11:54:06.329] [remoteagent] [info] Extracting completed. vscode-icons-team.vscode-icons
 [2022-08-29 11:54:06.340] [remoteagent] [info] Extension installed successfully: vscode-icons-team.vscode-icons
+[2022-08-29 16:30:34.103] [remoteagent] [info] [127.0.0.1][0c57371f][ManagementConnection] The client has reconnected.
+[2022-08-29 16:30:34.109] [remoteagent] [info] [127.0.0.1][b1fca2f6][ExtensionHostConnection] The client has reconnected.
+[2022-08-29 16:38:37.349] [remoteagent] [info] [127.0.0.1][0c57371f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-29 16:38:37.832] [remoteagent] [info] [127.0.0.1][b1fca2f6][ExtensionHostConnection] <197> Extension Host Process exited with code: 0, signal: null.
