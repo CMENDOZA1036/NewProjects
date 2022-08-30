@@ -1175,3 +1175,91 @@ completed • 3452 ms
 [Warn  - 6:19:37 PM] [2022-08-30 23:19:37:775] undefined 
 [Warn  - 6:19:37 PM] [2022-08-30 23:19:37:871] undefined 
 [Warn  - 6:19:38 PM] [2022-08-30 23:19:38:172] undefined 
+[2022-08-30 23:20:03:891] MARKERS: flushing uncommitted locations
+[2022-08-30 23:20:03:891] GIT: Running(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD --
+[2022-08-30 23:20:05:056] [255] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 23:20:05:056] [255] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 23:20:05:057] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 23:20:05:843] GIT: Completed(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD -- in 1951 ms
+[2022-08-30 23:20:05:843] [257] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash)
+[2022-08-30 23:20:05:844] [257] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash) completed • 0 ms
+[2022-08-30 23:20:05:844] GIT: Running(/home/cmendoza): git config user.email
+[2022-08-30 23:20:06:727] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 1670 ms
+[2022-08-30 23:20:06:728] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 23:20:07:498] GIT: Completed(/home/cmendoza): git config user.email in 1654 ms
+[2022-08-30 23:20:07:498] [259] CodeStreamAgent.sendNotification(codestream/userDidCommit)
+[2022-08-30 23:20:07:498] [259] CodeStreamAgent.sendNotification(codestream/userDidCommit) completed • 0 ms
+[2022-08-30 23:20:07:503] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 775 ms
+[2022-08-30 23:20:15:535] [25a] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 23:20:15:536] [25a] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 23:20:15:536] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 23:20:16:375] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 839 ms
+[2022-08-30 23:20:16:375] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 23:20:17:251] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 876 ms
+[2022-08-30 23:20:37:249] [25b] ScmManager.getRepos
+[2022-08-30 23:20:37:249] [25c] GitService.getRepoRemotes
+[2022-08-30 23:20:37:249] [25d] GitService.getRepoRemotes
+[2022-08-30 23:20:37:249] [25e] GitService.getRepoRemotes
+[2022-08-30 23:20:37:249] [25c] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/NewProjects.git] • 0 ms
+[2022-08-30 23:20:37:249] [25d] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 23:20:37:249] [25e] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/Proyecto-Google-Clone.git] • 0 ms
+[2022-08-30 23:20:37:249] [25b] ScmManager.getRepos completed • 0 ms
+[2022-08-30 23:20:37:249] [25f] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-30 23:20:37:250] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-30 23:20:37:250] [25f] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-30 23:20:37:250] [260] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-30 23:20:37:250] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-30 23:20:37:250] [260] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-30 23:20:37:250] [261] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-30 23:20:37:250] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-30 23:20:37:250] [261] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-30 23:20:37:251] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/NewProjects repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone is:pr is:open review-requested:@me" query=is:pr is:open review-requested:@me
+[2022-08-30 23:20:37:251] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/NewProjects repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone is:pr is:open assignee:@me" query=is:pr is:open assignee:@me
+[2022-08-30 23:20:37:251] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/NewProjects repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone is:pr is:open author:@me" query=is:pr is:open author:@me
+[2022-08-30 23:20:37:251] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/NewProjects repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone is:pr" query=is:pr
+[Warn  - 6:20:37 PM] [2022-08-30 23:20:37:698] undefined 
+[Warn  - 6:20:37 PM] [2022-08-30 23:20:37:703] undefined 
+[Warn  - 6:20:37 PM] [2022-08-30 23:20:37:782] undefined 
+[Warn  - 6:20:37 PM] [2022-08-30 23:20:37:834] undefined 
+[2022-08-30 23:21:28:252] [262] GitHubProvider.getBoards
+[2022-08-30 23:21:28:253] [263] GitService.getRepoRemotes
+[2022-08-30 23:21:28:253] [263] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/NewProjects.git] • 0 ms
+[2022-08-30 23:21:28:253] [264] GitService.getRepoRemotes
+[2022-08-30 23:21:28:253] [264] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 23:21:28:253] [265] GitService.getRepoRemotes
+[2022-08-30 23:21:28:253] [265] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/Proyecto-Google-Clone.git] • 0 ms
+[2022-08-30 23:21:28:253] [262] GitHubProvider.getBoards completed • 0 ms
+[2022-08-30 23:21:28:255] [266] JiraProvider.getBoards
+[2022-08-30 23:21:28:255] [266] JiraProvider.getBoards completed • 0 ms
+[2022-08-30 23:21:28:255] [267] GitHubProvider.getCards
+[2022-08-30 23:21:28:257] [268] JiraProvider.getCards
+[2022-08-30 23:21:28:731] GitHub: Completed GET /search/issues?q=archived%3Afalse%20is%3Aissue%20is%3Aopen%20assignee%3A%40me&sort=updated • 475 ms
+[2022-08-30 23:21:28:732] search limit used 29 of 30, reset at Tue Aug 30 2022 18:22:27 GMT-0500 (Colombia Standard Time)
+[2022-08-30 23:21:28:732] [267] GitHubProvider.getCards completed • 476 ms
+[2022-08-30 23:21:29:070] Jira: Completed GET /rest/api/2/search?jql=assignee%3Dcurrentuser()%20AND%20NOT((status%20in%20(Closed%2C%20Done%2C%20Resolved))%20OR%20resolution%20!%3D%20Unresolved)&expand=transitions%2Cnames&fields=summary%2Cdescription%2Cupdated%2Csubtasks%2Cstatus%2Cissuetype%2Cpriority%2Cassignee • 812 ms
+[2022-08-30 23:21:29:071] [268] JiraProvider.getCards completed • 813 ms
+[2022-08-30 23:21:37:259] [269] ScmManager.getRepos
+[2022-08-30 23:21:37:259] [26a] GitService.getRepoRemotes
+[2022-08-30 23:21:37:259] [26b] GitService.getRepoRemotes
+[2022-08-30 23:21:37:259] [26c] GitService.getRepoRemotes
+[2022-08-30 23:21:37:259] [26a] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/NewProjects.git] • 0 ms
+[2022-08-30 23:21:37:259] [26b] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 23:21:37:259] [26c] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/Proyecto-Google-Clone.git] • 0 ms
+[2022-08-30 23:21:37:259] [269] ScmManager.getRepos completed • 0 ms
+[2022-08-30 23:21:37:259] [26d] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-30 23:21:37:259] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-30 23:21:37:259] [26d] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-30 23:21:37:259] [26e] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-30 23:21:37:259] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-30 23:21:37:259] [26e] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-30 23:21:37:259] [26f] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-30 23:21:37:260] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-30 23:21:37:260] [26f] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-30 23:21:37:260] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/NewProjects repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone is:pr is:open review-requested:@me" query=is:pr is:open review-requested:@me
+[2022-08-30 23:21:37:260] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/NewProjects repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone is:pr is:open assignee:@me" query=is:pr is:open assignee:@me
+[2022-08-30 23:21:37:260] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/NewProjects repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone is:pr is:open author:@me" query=is:pr is:open author:@me
+[2022-08-30 23:21:37:260] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/NewProjects repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone is:pr" query=is:pr
+[Warn  - 6:21:37 PM] [2022-08-30 23:21:37:714] undefined 
+[Warn  - 6:21:37 PM] [2022-08-30 23:21:37:715] undefined 
+[Warn  - 6:21:37 PM] [2022-08-30 23:21:37:814] undefined 
+[Warn  - 6:21:37 PM] [2022-08-30 23:21:37:864] undefined 
