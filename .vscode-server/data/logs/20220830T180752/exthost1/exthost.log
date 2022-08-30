@@ -1,0 +1,71 @@
+[2022-08-30 18:08:03.156] [exthost] [info] Extension host with pid 19249 started
+[2022-08-30 18:08:03.300] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-30 18:08:03.317] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-08-30 18:08:03.332] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-30 18:08:03.370] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets, startup: true, activationEvent: '*'
+[2022-08-30 18:08:03.375] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-08-30 18:08:03.422] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-08-30 18:08:03.517] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-08-30 18:08:04.580] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-08-30 18:08:04.606] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+[2022-08-30 18:08:04.611] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-08-30 18:08:04.636] [exthost] [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/8b36df9df40743ce177feb888dd8f7d7/vscode.lock': Lock acquired.
+[2022-08-30 18:08:08.486] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2022-08-30 18:08:09.139] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-30 18:08:09.191] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-30 18:08:09.208] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-30 18:08:09.361] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-30 18:08:10.980] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek, startup: true, activationEvent: 'workspaceContains:**/*.css,**/*.scss,**/*.sass,**/*.less'
+[2022-08-30 18:08:14.618] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-30 18:08:14.641] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-30 18:08:14.649] [exthost] [info] ExtensionService#_doActivateExtension CodeStream.codestream, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-30 18:08:14.766] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-30 18:08:15.651] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens-insiders, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-30 18:08:16.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-08-30 18:08:16.366] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-30 18:08:22.217] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-30 18:08:26.745] [exthost] [info] Eager extensions activated
+[2022-08-30 18:08:46.940] [exthost] [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-08-30 18:08:49.789] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-30 18:08:49.796] [exthost] [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/8b36df9df40743ce177feb888dd8f7d7/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-08-30 18:08:49.881] [exthost] [warning] {"name":"Canceled"}
+[2022-08-30 18:08:49.882] [exthost] [warning] {"name":"Canceled"}
+[2022-08-30 18:08:49.882] [exthost] [warning] {"name":"Canceled"}
+[2022-08-30 18:08:49.882] [exthost] [warning] {"name":"Canceled"}
+[2022-08-30 18:08:49.882] [exthost] [warning] {"name":"Canceled"}
+[2022-08-30 18:08:49.882] [exthost] [warning] {"name":"Canceled"}
+[2022-08-30 18:08:49.882] [exthost] [warning] {"name":"Canceled"}
+[2022-08-30 18:08:49.887] [exthost] [error] Canceled: Canceled
+	at Object.R [as canceled] (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:7:1204)
+	at /home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:95:9094
+	at Array.forEach (<anonymous>)
+	at o.dispose (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:95:9042)
+	at b.terminate (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:97:10969)
+	at b.terminate (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:101:620)
+	at m (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:111:19088)
+	at /home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:111:17016
+	at b.invoke (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at w.deliver (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at p.fire (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at c.fire (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:19006)
+	at i._receiveMessage (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:23593)
+	at /home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:21127
+	at b.invoke (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at w.deliver (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at p.fire (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at p.acceptChunk (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:15837)
+	at /home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:14967
+	at b.invoke (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at w.deliver (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at p.fire (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at p._processReadQueue (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:33811)
+	at p.acceptFrame (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:33467)
+	at b._acceptChunk (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:31431)
+	at /home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:28420
+	at Socket.l (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:26303)
+	at Socket.emit (node:events:390:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:199:23) vscode.executeCodeLensProvider undefined
+[2022-08-30 18:08:49.964] [exthost] [info] Extension host with pid 19249 exiting with code 0

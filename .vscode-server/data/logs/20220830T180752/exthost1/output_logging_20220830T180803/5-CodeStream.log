@@ -1,0 +1,15 @@
+[2022-08-30 23:08:19:481] CodeStream v13.6.0-4237 in VS Code (v1.70.2) starting...
+[2022-08-30 23:08:19:482] Proxy support is on, but no proxy url was found
+[2022-08-30 23:08:25:227] no NewRelic telemetry - The user aborted a request.
+[2022-08-30 23:08:25:236] no NewRelic telemetry
+[2022-08-30 23:08:30:594] CodeStream v13.6.0-4237 started • 14174 ms
+[2022-08-30 23:08:30:601] Signing alvarezmendoz@gmail.com into CodeStream (https://api.codestream.com)
+[2022-08-30 23:08:30:601] AgentConnection.sendRequest(codestream/login/token)
+[2022-08-30 23:08:33:365] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2022-08-30 23:08:33:365] [2] WebviewController.onApiVersionChanged
+[2022-08-30 23:08:33:365] [2] WebviewController.onApiVersionChanged completed • 0 ms
+[2022-08-30 23:08:33:365] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 0 ms
+[2022-08-30 23:08:41:616] [3] CodeStreamAgentConnection.onDataChanged(unreads)
+[2022-08-30 23:08:41:616] [3] CodeStreamAgentConnection.onDataChanged(unreads) completed • 0 ms
+[2022-08-30 23:08:46:905] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview
+[2022-08-30 23:08:49:705] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages

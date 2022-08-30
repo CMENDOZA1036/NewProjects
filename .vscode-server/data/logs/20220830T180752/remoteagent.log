@@ -1,0 +1,8 @@
+[2022-08-30 18:07:56.293] [remoteagent] [info] Extension host agent started.
+[2022-08-30 18:07:56.435] [remoteagent] [info] [127.0.0.1][7d66c9d1][ManagementConnection] New connection established.
+[2022-08-30 18:07:56.451] [remoteagent] [info] [127.0.0.1][b4b523ae][ExtensionHostConnection] New connection established.
+[2022-08-30 18:07:59.465] [remoteagent] [info] [127.0.0.1][b4b523ae][ExtensionHostConnection] <19249> Launched Extension Host Process.
+[2022-08-30 18:08:00.601] [remoteagent] [info] Deleted from disk eamodio.gitlens /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-12.1.2
+[2022-08-30 18:08:00.612] [remoteagent] [info] Deleted from disk eamodio.gitlens-insiders /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.8.3005
+[2022-08-30 18:08:47.046] [remoteagent] [info] [127.0.0.1][7d66c9d1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-30 18:08:50.053] [remoteagent] [info] [127.0.0.1][b4b523ae][ExtensionHostConnection] <19249> Extension Host Process exited with code: 0, signal: null.

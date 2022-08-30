@@ -1,0 +1,20 @@
+[2022-08-30 17:33:29.838] [remoteagent] [info] Extension host agent started.
+[2022-08-30 17:33:30.002] [remoteagent] [info] [127.0.0.1][4b4d90b2][ManagementConnection] New connection established.
+[2022-08-30 17:33:30.025] [remoteagent] [info] [127.0.0.1][54b1176e][ExtensionHostConnection] New connection established.
+[2022-08-30 17:33:31.989] [remoteagent] [info] [127.0.0.1][54b1176e][ExtensionHostConnection] <18633> Launched Extension Host Process.
+[2022-08-30 17:33:37.197] [remoteagent] [info] Getting Manifest... eamodio.gitlens
+[2022-08-30 17:33:37.197] [remoteagent] [info] Getting Manifest... eamodio.gitlens-insiders
+[2022-08-30 17:33:37.771] [remoteagent] [info] Installing extension: eamodio.gitlens
+[2022-08-30 17:33:37.874] [remoteagent] [info] Installing extension: eamodio.gitlens-insiders
+[2022-08-30 17:33:43.780] [remoteagent] [info] Downloaded extension: eamodio.gitlens-insiders /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-insiders-2022.8.3015
+[2022-08-30 17:33:45.092] [remoteagent] [info] Downloaded extension: eamodio.gitlens /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-12.2.0
+[2022-08-30 17:33:46.413] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.bc8e5dac-5b1b-437c-b54c-79d5e5aeccaa: eamodio.gitlens-insiders
+[2022-08-30 17:33:46.469] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.8.3015
+[2022-08-30 17:33:46.488] [remoteagent] [info] Extracting completed. eamodio.gitlens-insiders
+[2022-08-30 17:33:46.496] [remoteagent] [info] Extension installed successfully: eamodio.gitlens-insiders
+[2022-08-30 17:33:47.528] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.a8bb0e4d-895b-4a76-8c51-40a5f9e9111a: eamodio.gitlens
+[2022-08-30 17:33:47.563] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-12.2.0
+[2022-08-30 17:33:47.576] [remoteagent] [info] Extracting completed. eamodio.gitlens
+[2022-08-30 17:33:47.580] [remoteagent] [info] Extension installed successfully: eamodio.gitlens
+[2022-08-30 17:53:33.589] [remoteagent] [info] [127.0.0.1][4b4d90b2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-30 17:53:33.938] [remoteagent] [info] [127.0.0.1][54b1176e][ExtensionHostConnection] <18633> Extension Host Process exited with code: 0, signal: null.
