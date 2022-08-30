@@ -66,3 +66,7 @@
 [2022-08-30 11:19:55.837] [exthost] [warning] TextEditor is closed/disposed
 [2022-08-30 11:20:00.759] [exthost] [warning] TextEditor is closed/disposed
 [2022-08-30 11:20:24.780] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 11:33:32.407] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 11:33:36.682] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-08-30 11:33:36.795] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-08-30 11:33:38.785] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features

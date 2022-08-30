@@ -955,3 +955,711 @@ github.com[0: 140.82.112.4]: errno=Resource temporarily unavailable
 [2022-08-30 16:20:01:724] Document saved: file:///home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/styles.css
 [2022-08-30 16:20:01:725] [22e] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
 [2022-08-30 16:20:01:725] [22e] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-08-30 16:21:00:585] MARKERS: flushing uncommitted locations
+[2022-08-30 16:21:00:586] GIT: Running(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD --
+[2022-08-30 16:21:01:694] [22f] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 16:21:01:695] [22f] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 16:21:01:695] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:02:592] GIT: Completed(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD -- in 2005 ms
+[2022-08-30 16:21:02:594] [231] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash)
+[2022-08-30 16:21:02:594] [231] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash) completed • 0 ms
+[2022-08-30 16:21:02:594] GIT: Running(/home/cmendoza): git config user.email
+[2022-08-30 16:21:03:537] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 1842 ms
+[2022-08-30 16:21:03:538] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 16:21:04:430] GIT: Completed(/home/cmendoza): git config user.email in 1835 ms
+[2022-08-30 16:21:04:430] [233] CodeStreamAgent.sendNotification(codestream/userDidCommit)
+[2022-08-30 16:21:04:430] [233] CodeStreamAgent.sendNotification(codestream/userDidCommit) completed • 0 ms
+[2022-08-30 16:21:04:434] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 896 ms
+[2022-08-30 16:21:06:071] [234] CodeStreamApiProvider.fetchCodeErrors
+[2022-08-30 16:21:06:608] API(8096e61e-487b-4cd6-a8be-93e802186011): Completed GET /code-errors?teamId=62a8af3bd1bffae460f923af • 536 ms
+[2022-08-30 16:21:06:608] [234] CodeStreamApiProvider.fetchCodeErrors completed • 536 ms
+[2022-08-30 16:21:06:609] [235] CodeStreamApiProvider.fetchStreams
+[2022-08-30 16:21:06:611] [236] CodeStreamApiProvider.getUnreads
+[2022-08-30 16:21:06:611] [237] CodeStreamApiProvider.fetchUsers
+[2022-08-30 16:21:06:613] [238] CodeStreamApiProvider.getPreferences
+[2022-08-30 16:21:06:614] [236] CodeStreamApiProvider.getUnreads completed • 2 ms
+[2022-08-30 16:21:07:050] API(029bda40-7f84-47ec-b54d-31b7d8e6559b): Completed GET /streams?teamId=62a8af3bd1bffae460f923af • 440 ms
+[2022-08-30 16:21:07:050] [235] CodeStreamApiProvider.fetchStreams completed • 440 ms
+[2022-08-30 16:21:07:079] API(7544c6af-80ef-40d5-ae68-fce742db4a53): Completed GET /users?teamId=62a8af3bd1bffae460f923af • 467 ms
+[2022-08-30 16:21:07:079] [237] CodeStreamApiProvider.fetchUsers completed • 467 ms
+[2022-08-30 16:21:07:144] API(6e8c145f-78df-4194-94f2-a322e05ba342): Completed GET /preferences • 530 ms
+[2022-08-30 16:21:07:144] [238] CodeStreamApiProvider.getPreferences completed • 531 ms
+[2022-08-30 16:21:07:278] Verifying API server connectivity
+[2022-08-30 16:21:07:282] GIT: Running(undefined): git config --get user.email
+[2022-08-30 16:21:08:701] [23b] ScmManager.getFileInfo
+[2022-08-30 16:21:08:703] GIT: Running(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:09:787] GIT: Completed(undefined): git config --get user.email in 2504 ms
+[2022-08-30 16:21:09:787] GIT: Running(undefined): git config --get user.name
+[2022-08-30 16:21:11:083] [23d] ReviewsManager.get
+[2022-08-30 16:21:11:084] [23e] CodeStreamApiProvider.fetchReviews
+[2022-08-30 16:21:11:086] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD in 2383 ms
+[2022-08-30 16:21:11:086] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/index.html
+[2022-08-30 16:21:12:089] [23f] ReviewsManager.get
+[2022-08-30 16:21:12:089] GIT: Completed(undefined): git config --get user.name in 2302 ms
+[2022-08-30 16:21:12:089] [240] GitHubProvider.getBoards
+[2022-08-30 16:21:12:090] [241] GitService.getRepoRemotes
+[2022-08-30 16:21:12:090] [241] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:12:097] [242] JiraProvider.getBoards
+[2022-08-30 16:21:12:100] [244] CodeStreamApiProvider.refreshThirdPartyProvider
+[2022-08-30 16:21:12:103] [245] GitHubProvider.getCards
+[2022-08-30 16:21:12:105] [246] JiraProvider.getCards
+[2022-08-30 16:21:12:106] [247] CodeStreamApiProvider.refreshThirdPartyProvider
+[2022-08-30 16:21:12:107] [248] ScmManager.getRepos
+[2022-08-30 16:21:12:110] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:13:268] GIT: Running(/home/cmendoza/CMENDOZA1036): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:14:390] GIT: Running(/home/cmendoza/HyperBlog): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:15:541] GIT: Running(/home/cmendoza/JsPractico): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:16:506] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:17:509] GIT: Running(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:18:553] GIT: Running(/home/cmendoza/blender_vscode): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:19:518] GIT: Running(/home/cmendoza/escuela-js): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:20:443] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/index.html in 9357 ms
+[2022-08-30 16:21:20:444] [249] GitService.getRepoRemotes
+[2022-08-30 16:21:20:444] [249] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:20:445] [23b] ScmManager.getFileInfo completed • 11743 ms
+[2022-08-30 16:21:20:447] Error connecting to the API server: The user aborted a request.
+[2022-08-30 16:21:20:447] registerApiCapabilities for teamId 62a8af3bd1bffae460f923af — {}
+[2022-08-30 16:21:20:447] _apiCapabilities — {}
+[2022-08-30 16:21:20:447] Got environment from connectivity response: — {"environment":"","isOnPrem":false,"isProductionCloud":false}
+[2022-08-30 16:21:20:447] [24b] CodeStreamAgent.sendNotification(codestream/didSetEnvironment)
+[2022-08-30 16:21:20:447] [24b] CodeStreamAgent.sendNotification(codestream/didSetEnvironment) completed • 0 ms
+[2022-08-30 16:21:20:447] [23a] CodeStreamSession.verifyConnectivity completed • 13169 ms
+[2022-08-30 16:21:20:466] GIT: Completed(/home/cmendoza/escuela-js): git rev-parse --abbrev-ref HEAD in 947 ms
+[2022-08-30 16:21:20:466] GIT: Completed(/home/cmendoza/blender_vscode): git rev-parse --abbrev-ref HEAD in 1913 ms
+[2022-08-30 16:21:20:466] GIT: Completed(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --abbrev-ref HEAD in 2957 ms
+[2022-08-30 16:21:20:466] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD in 3959 ms
+[2022-08-30 16:21:20:466] GIT: Completed(/home/cmendoza/JsPractico): git rev-parse --abbrev-ref HEAD in 4925 ms
+[2022-08-30 16:21:20:466] GIT: Completed(/home/cmendoza/HyperBlog): git rev-parse --abbrev-ref HEAD in 6076 ms
+[2022-08-30 16:21:20:466] GIT: Completed(/home/cmendoza/CMENDOZA1036): git rev-parse --abbrev-ref HEAD in 7198 ms
+[2022-08-30 16:21:20:466] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 8356 ms
+[2022-08-30 16:21:20:466] [24d] GitService.getRepoRemotes
+[2022-08-30 16:21:20:466] [24e] GitService.getRepoRemotes
+[2022-08-30 16:21:20:467] [24f] GitService.getRepoRemotes
+[2022-08-30 16:21:20:467] [250] GitService.getRepoRemotes
+[2022-08-30 16:21:20:467] [251] GitService.getRepoRemotes
+[2022-08-30 16:21:20:467] [252] GitService.getRepoRemotes
+[2022-08-30 16:21:20:467] [253] GitService.getRepoRemotes
+[2022-08-30 16:21:20:467] [254] GitService.getRepoRemotes
+[2022-08-30 16:21:20:467] [24d] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:20:467] [24e] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/CMENDOZA1036.git] • 0 ms
+[2022-08-30 16:21:20:467] [24f] GitService.getRepoRemotes returned [https://github.com/CMENDOZA1036/HyperBlog.git] • 0 ms
+[2022-08-30 16:21:20:468] [250] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/JsPractico.git] • 0 ms
+[2022-08-30 16:21:20:468] [251] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:20:468] [252] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/Proyecto-Google-Clone.git] • 0 ms
+[2022-08-30 16:21:20:468] [253] GitService.getRepoRemotes returned [https://github.com/JacquesLucke/blender_vscode] • 0 ms
+[2022-08-30 16:21:20:468] [254] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/escuela-js.git, git://github.com/marcelofarias/escuela-js.git] • 0 ms
+[2022-08-30 16:21:20:468] [248] ScmManager.getRepos completed • 8360 ms
+[2022-08-30 16:21:20:477] GIT: Running(undefined): git config --get user.email
+[2022-08-30 16:21:21:446] GIT: Awaiting(undefined): git config --get user.email
+[2022-08-30 16:21:21:447] GIT: Completed(undefined): git config --get user.email in 970 ms
+[2022-08-30 16:21:21:447] GIT: Completed(undefined): git config --get user.email in 8 ms
+[2022-08-30 16:21:21:447] GIT: Running(undefined): git config --get user.name
+[2022-08-30 16:21:22:380] GIT: Awaiting(undefined): git config --get user.name
+[2022-08-30 16:21:22:397] GIT: Completed(undefined): git config --get user.name in 949 ms
+[2022-08-30 16:21:22:397] GIT: Completed(undefined): git config --get user.name in 17 ms
+[2022-08-30 16:21:22:400] [255] CodeStreamApiProvider.fetchCodemarks
+[2022-08-30 16:21:22:411] GIT: Running(undefined): git config --get user.email
+[2022-08-30 16:21:23:378] API(60d39a4c-1ce4-490e-b209-e051d37a5026): Completed GET /reviews?teamId=62a8af3bd1bffae460f923af • 12293 ms
+[2022-08-30 16:21:23:378] [23e] CodeStreamApiProvider.fetchReviews completed • 12294 ms
+[2022-08-30 16:21:23:380] [23d] ReviewsManager.get completed • 12296 ms
+[2022-08-30 16:21:23:380] [23f] ReviewsManager.get completed • 11291 ms
+[2022-08-30 16:21:23:392] GIT: Awaiting(undefined): git config --get user.email
+[2022-08-30 16:21:23:394] GIT: Awaiting(undefined): git config --get user.email
+[2022-08-30 16:21:23:394] GIT: Completed(undefined): git config --get user.email in 983 ms
+[2022-08-30 16:21:23:394] GIT: Completed(undefined): git config --get user.email in 2 ms
+[2022-08-30 16:21:23:394] GIT: Completed(undefined): git config --get user.email in 0 ms
+[2022-08-30 16:21:23:394] GIT: Running(undefined): git config --get user.name
+[2022-08-30 16:21:24:318] GIT: Awaiting(undefined): git config --get user.name
+[2022-08-30 16:21:24:318] GIT: Awaiting(undefined): git config --get user.name
+[2022-08-30 16:21:24:324] API(bbcf5684-5064-44d6-ba88-c88147f7da70): Completed GET /provider-refresh/jira?teamId=62a8af3bd1bffae460f923af&refreshToken=<hidden> • 12223 ms
+[2022-08-30 16:21:24:325] [258] CodeStreamApiProvider.getUser
+[2022-08-30 16:21:24:325] [259] CodeStreamApiProvider.getMe
+[2022-08-30 16:21:24:328] API(fc71c529-294a-41aa-8683-09bef8b61577): Completed GET /provider-refresh/jira?teamId=62a8af3bd1bffae460f923af&refreshToken=<hidden> • 12221 ms
+[2022-08-30 16:21:24:329] [25c] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:21:24:329] [25c] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:21:24:329] [247] CodeStreamApiProvider.refreshThirdPartyProvider completed • 12223 ms
+[2022-08-30 16:21:24:331] [25d] ScmManager.getFileInfo
+[2022-08-30 16:21:24:332] GIT: Running(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:25:308] GitHub: Completed GET /repos/CMENDOZA1036/PersonalProjects • 13216 ms
+[2022-08-30 16:21:25:310] core limit used 4993 of 5000, reset at Tue Aug 30 2022 11:41:47 GMT-0500 (Colombia Standard Time)
+[2022-08-30 16:21:25:311] [25e] GitService.getRepoRemotes
+[2022-08-30 16:21:25:312] [25e] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/CMENDOZA1036.git] • 0 ms
+[2022-08-30 16:21:25:321] GitHub: Completed GET /search/issues?q=archived%3Afalse%20is%3Aissue%20is%3Aopen%20assignee%3A%40me&sort=updated • 13217 ms
+[2022-08-30 16:21:25:321] search limit used 29 of 30, reset at Tue Aug 30 2022 11:22:21 GMT-0500 (Colombia Standard Time)
+[2022-08-30 16:21:25:322] [245] GitHubProvider.getCards completed • 13218 ms
+[2022-08-30 16:21:25:329] GIT: Running(undefined): git config --get user.email
+[2022-08-30 16:21:26:288] GIT: Completed(undefined): git config --get user.name in 2894 ms
+[2022-08-30 16:21:26:289] GIT: Completed(undefined): git config --get user.name in 1971 ms
+[2022-08-30 16:21:26:289] GIT: Completed(undefined): git config --get user.name in 1970 ms
+[2022-08-30 16:21:26:296] [25f] ScmManager.getFileInfo
+[2022-08-30 16:21:26:297] GIT: Awaiting(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:26:297] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD in 1965 ms
+[2022-08-30 16:21:26:297] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD in 0 ms
+[2022-08-30 16:21:26:298] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/styles.css
+[2022-08-30 16:21:27:331] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/index.html
+[2022-08-30 16:21:28:662] API(8284d2c6-c41d-4b76-9cde-34a0a20c5002): Completed GET /codemarks?teamId=62a8af3bd1bffae460f923af&byLastAcivityAt= • 6261 ms
+[2022-08-30 16:21:28:662] [255] CodeStreamApiProvider.fetchCodemarks completed • 6262 ms
+[2022-08-30 16:21:28:668] GIT: Awaiting(undefined): git config --get user.email
+[2022-08-30 16:21:28:668] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/styles.css in 2370 ms
+[2022-08-30 16:21:28:668] [263] GitService.getRepoRemotes
+[2022-08-30 16:21:28:669] [263] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:28:669] [25d] ScmManager.getFileInfo completed • 4338 ms
+[2022-08-30 16:21:28:670] GIT: Completed(undefined): git config --get user.email in 3340 ms
+[2022-08-30 16:21:28:670] GIT: Completed(undefined): git config --get user.email in 2 ms
+[2022-08-30 16:21:28:670] GIT: Running(undefined): git config --get user.name
+[2022-08-30 16:21:30:086] GIT: Awaiting(undefined): git config --get user.name
+[2022-08-30 16:21:30:091] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876482847
+[2022-08-30 16:21:30:091] BROADCASTER: Broadcaster message received at: 1661876482847
+[2022-08-30 16:21:30:092] BROADCASTER: _lastMessageReceivedAt updated to 1661876482847
+[2022-08-30 16:21:30:106] [267] ScmManager.getFileInfo
+[2022-08-30 16:21:30:110] GIT: Running(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:31:415] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/index.html in 4084 ms
+[2022-08-30 16:21:31:415] [268] GitService.getRepoRemotes
+[2022-08-30 16:21:31:416] [268] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:31:416] [25f] ScmManager.getFileInfo completed • 5119 ms
+[2022-08-30 16:21:31:420] API(4fd3689e-919f-4aa8-a655-5a6e5b2164ae): Completed GET /users/me • 7095 ms
+[2022-08-30 16:21:31:420] [259] CodeStreamApiProvider.getMe completed • 7095 ms
+[2022-08-30 16:21:31:420] [258] CodeStreamApiProvider.getUser completed • 7095 ms
+[2022-08-30 16:21:31:421] [269] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:21:31:421] [269] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:21:31:421] [244] CodeStreamApiProvider.refreshThirdPartyProvider completed • 19320 ms
+[2022-08-30 16:21:31:428] GIT: Running(undefined): git config --get user.email
+[2022-08-30 16:21:32:724] GIT: Completed(undefined): git config --get user.name in 4053 ms
+[2022-08-30 16:21:32:724] GIT: Completed(undefined): git config --get user.name in 2638 ms
+[2022-08-30 16:21:32:750] [26a] ScmManager.getFileInfo
+[2022-08-30 16:21:32:751] GIT: Awaiting(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:32:751] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD in 2644 ms
+[2022-08-30 16:21:32:752] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD in 1 ms
+[2022-08-30 16:21:32:754] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/styles.css
+[2022-08-30 16:21:33:949] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/index.html
+[2022-08-30 16:21:34:973] GIT: Awaiting(undefined): git config --get user.email
+[2022-08-30 16:21:34:974] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/styles.css in 2220 ms
+[2022-08-30 16:21:34:974] [26b] GitService.getRepoRemotes
+[2022-08-30 16:21:34:975] [26b] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:34:975] [267] ScmManager.getFileInfo completed • 4869 ms
+[2022-08-30 16:21:34:976] GIT: Completed(undefined): git config --get user.email in 3547 ms
+[2022-08-30 16:21:34:976] GIT: Completed(undefined): git config --get user.email in 2 ms
+[2022-08-30 16:21:34:977] GIT: Running(undefined): git config --get user.name
+[2022-08-30 16:21:36:072] GIT: Awaiting(undefined): git config --get user.name
+[2022-08-30 16:21:36:080] [26c] ScmManager.getFileInfo
+[2022-08-30 16:21:36:081] GIT: Running(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:36:955] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/index.html in 3006 ms
+[2022-08-30 16:21:36:955] [26d] GitService.getRepoRemotes
+[2022-08-30 16:21:36:956] [26d] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:36:960] [26a] ScmManager.getFileInfo completed • 4209 ms
+[2022-08-30 16:21:36:964] Jira: Completed GET /oauth/token/accessible-resources • 5542 ms
+[2022-08-30 16:21:36:968] GIT: Running(undefined): git config --get user.email
+[2022-08-30 16:21:37:820] GIT: Completed(undefined): git config --get user.name in 2844 ms
+[2022-08-30 16:21:37:821] GIT: Completed(undefined): git config --get user.name in 1749 ms
+[2022-08-30 16:21:37:827] [26e] ScmManager.getFileInfo
+[2022-08-30 16:21:37:828] GIT: Awaiting(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:37:828] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD in 1747 ms
+[2022-08-30 16:21:37:828] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD in 0 ms
+[2022-08-30 16:21:37:828] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/styles.css
+[2022-08-30 16:21:38:751] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/index.html
+[2022-08-30 16:21:39:864] GIT: Awaiting(undefined): git config --get user.email
+[2022-08-30 16:21:39:865] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/styles.css in 2036 ms
+[2022-08-30 16:21:39:865] [26f] GitService.getRepoRemotes
+[2022-08-30 16:21:39:865] [26f] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:39:866] [26c] ScmManager.getFileInfo completed • 3785 ms
+[2022-08-30 16:21:39:866] GIT: Completed(undefined): git config --get user.email in 2897 ms
+[2022-08-30 16:21:39:866] GIT: Completed(undefined): git config --get user.email in 1 ms
+[2022-08-30 16:21:39:866] GIT: Running(undefined): git config --get user.name
+[2022-08-30 16:21:41:065] GIT: Awaiting(undefined): git config --get user.name
+[2022-08-30 16:21:41:070] GitHub: Completed GET /repos/CMENDOZA1036/CMENDOZA1036 • 15757 ms
+[2022-08-30 16:21:41:070] core limit used 4991 of 5000, reset at Tue Aug 30 2022 11:41:47 GMT-0500 (Colombia Standard Time)
+[2022-08-30 16:21:41:071] [270] GitService.getRepoRemotes
+[2022-08-30 16:21:41:071] [270] GitService.getRepoRemotes returned [https://github.com/CMENDOZA1036/HyperBlog.git] • 0 ms
+[2022-08-30 16:21:41:085] [271] ScmManager.getFileInfo
+[2022-08-30 16:21:41:086] GIT: Running(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:42:220] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/index.html in 3468 ms
+[2022-08-30 16:21:42:220] [272] GitService.getRepoRemotes
+[2022-08-30 16:21:42:220] [272] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:42:220] [26e] ScmManager.getFileInfo completed • 4393 ms
+[2022-08-30 16:21:42:221] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876482897
+[2022-08-30 16:21:42:221] BROADCASTER: Broadcaster message received at: 1661876482897
+[2022-08-30 16:21:42:221] BROADCASTER: _lastMessageReceivedAt updated to 1661876482897
+[2022-08-30 16:21:42:233] GIT: Running(undefined): git config --get user.email
+[2022-08-30 16:21:43:278] GIT: Completed(undefined): git config --get user.name in 3411 ms
+[2022-08-30 16:21:43:278] GIT: Completed(undefined): git config --get user.name in 2213 ms
+[2022-08-30 16:21:43:281] [276] ScmManager.getFileInfo
+[2022-08-30 16:21:43:283] GIT: Awaiting(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:43:283] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD in 2197 ms
+[2022-08-30 16:21:43:283] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD in 0 ms
+[2022-08-30 16:21:43:284] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/styles.css
+[2022-08-30 16:21:44:153] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/index.html
+[2022-08-30 16:21:45:048] GIT: Awaiting(undefined): git config --get user.email
+[2022-08-30 16:21:45:048] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/styles.css in 1764 ms
+[2022-08-30 16:21:45:048] [277] GitService.getRepoRemotes
+[2022-08-30 16:21:45:048] [277] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:45:049] [271] ScmManager.getFileInfo completed • 3963 ms
+[2022-08-30 16:21:45:049] GIT: Completed(undefined): git config --get user.email in 2815 ms
+[2022-08-30 16:21:45:049] GIT: Completed(undefined): git config --get user.email in 1 ms
+[2022-08-30 16:21:45:049] GIT: Running(undefined): git config --get user.name
+[2022-08-30 16:21:45:873] GIT: Awaiting(undefined): git config --get user.name
+[2022-08-30 16:21:45:874] Jira: Completed GET /rest/api/2/project/search • 8909 ms
+[2022-08-30 16:21:45:877] Jira: Completed GET /rest/api/2/search?jql=assignee%3Dcurrentuser()%20AND%20NOT((status%20in%20(Closed%2C%20Done%2C%20Resolved))%20OR%20resolution%20!%3D%20Unresolved)&expand=transitions%2Cnames&fields=summary%2Cdescription%2Cupdated%2Csubtasks%2Cstatus%2Cissuetype%2Cpriority%2Cassignee • 8910 ms
+[2022-08-30 16:21:45:877] [246] JiraProvider.getCards completed • 33771 ms
+[2022-08-30 16:21:45:880] [278] ScmManager.getFileInfo
+[2022-08-30 16:21:45:881] GIT: Running(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:46:724] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/index.html in 2571 ms
+[2022-08-30 16:21:46:724] [279] GitService.getRepoRemotes
+[2022-08-30 16:21:46:725] [279] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:46:725] [276] ScmManager.getFileInfo completed • 3443 ms
+[2022-08-30 16:21:46:729] GIT: Running(undefined): git config --get user.email
+[2022-08-30 16:21:47:537] GIT: Completed(undefined): git config --get user.name in 2487 ms
+[2022-08-30 16:21:47:537] GIT: Completed(undefined): git config --get user.name in 1664 ms
+[2022-08-30 16:21:47:542] [27a] ScmManager.getFileInfo
+[2022-08-30 16:21:47:543] GIT: Awaiting(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:47:543] GIT: Completed(undefined): git config --get user.email in 813 ms
+[2022-08-30 16:21:47:543] GIT: Running(undefined): git config --get user.name
+[2022-08-30 16:21:48:413] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD in 2532 ms
+[2022-08-30 16:21:48:413] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD in 870 ms
+[2022-08-30 16:21:48:414] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/styles.css
+[2022-08-30 16:21:49:509] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/index.html
+[2022-08-30 16:21:50:477] GitHub: Completed GET /repos/CMENDOZA1036/HyperBlog • 9405 ms
+[2022-08-30 16:21:50:477] core limit used 4990 of 5000, reset at Tue Aug 30 2022 11:41:47 GMT-0500 (Colombia Standard Time)
+[2022-08-30 16:21:50:478] [27b] GitService.getRepoRemotes
+[2022-08-30 16:21:50:478] [27b] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/JsPractico.git] • 0 ms
+[2022-08-30 16:21:50:483] [27c] ScmManager.getRepos
+[2022-08-30 16:21:50:484] [27c] ScmManager.getRepos completed • 0 ms
+[2022-08-30 16:21:50:484] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/styles.css in 2069 ms
+[2022-08-30 16:21:50:484] [27d] GitService.getRepoRemotes
+[2022-08-30 16:21:50:484] [27d] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:50:485] [278] ScmManager.getFileInfo completed • 4604 ms
+[2022-08-30 16:21:50:485] GIT: Completed(undefined): git config --get user.name in 2941 ms
+[2022-08-30 16:21:50:485] [27e] SlackProvider.getChannels
+[2022-08-30 16:21:50:492] [280] SlackSharingApiProvider.fetchStreams
+[2022-08-30 16:21:50:493] [280] SlackSharingApiProvider.fetchStreams Fetching pages...
+[2022-08-30 16:21:50:501] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/index.html in 992 ms
+[2022-08-30 16:21:50:501] [282] GitService.getRepoRemotes
+[2022-08-30 16:21:50:501] [282] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:50:502] [27a] ScmManager.getFileInfo completed • 2959 ms
+[2022-08-30 16:21:50:502] [283] ScmManager.getRepos
+[2022-08-30 16:21:50:503] [284] GitService.getRepoRemotes
+[2022-08-30 16:21:50:503] [285] GitService.getRepoRemotes
+[2022-08-30 16:21:50:503] [286] GitService.getRepoRemotes
+[2022-08-30 16:21:50:503] [287] GitService.getRepoRemotes
+[2022-08-30 16:21:50:504] [288] GitService.getRepoRemotes
+[2022-08-30 16:21:50:504] [289] GitService.getRepoRemotes
+[2022-08-30 16:21:50:504] [28a] GitService.getRepoRemotes
+[2022-08-30 16:21:50:504] [28b] GitService.getRepoRemotes
+[2022-08-30 16:21:50:504] [284] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:50:504] [285] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/CMENDOZA1036.git] • 0 ms
+[2022-08-30 16:21:50:504] [286] GitService.getRepoRemotes returned [https://github.com/CMENDOZA1036/HyperBlog.git] • 0 ms
+[2022-08-30 16:21:50:504] [287] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/JsPractico.git] • 0 ms
+[2022-08-30 16:21:50:504] [288] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:50:504] [289] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/Proyecto-Google-Clone.git] • 0 ms
+[2022-08-30 16:21:50:504] [28a] GitService.getRepoRemotes returned [https://github.com/JacquesLucke/blender_vscode] • 0 ms
+[2022-08-30 16:21:50:504] [28b] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/escuela-js.git, git://github.com/marcelofarias/escuela-js.git] • 0 ms
+[2022-08-30 16:21:50:504] [283] ScmManager.getRepos completed • 1 ms
+[2022-08-30 16:21:50:504] [28c] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-30 16:21:50:505] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-30 16:21:50:505] [28c] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-30 16:21:50:505] [28d] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-30 16:21:50:505] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-30 16:21:50:505] [28d] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-30 16:21:50:505] [28e] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-30 16:21:50:505] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-30 16:21:50:505] [28e] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-30 16:21:50:505] [28f] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-30 16:21:50:505] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-30 16:21:50:505] [28f] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-30 16:21:50:505] [290] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-30 16:21:50:505] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-30 16:21:50:505] [290] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-30 16:21:50:506] [291] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-30 16:21:50:506] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-30 16:21:50:506] [291] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-30 16:21:50:506] [292] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-30 16:21:50:506] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-30 16:21:50:506] [292] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-30 16:21:50:506] [293] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-30 16:21:50:506] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-30 16:21:50:506] [293] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-30 16:21:50:506] [294] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-08-30 16:21:50:506] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-08-30 16:21:50:506] [294] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 0 ms
+[2022-08-30 16:21:50:507] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open review-requested:@me" query=is:pr is:open review-requested:@me
+[2022-08-30 16:21:50:507] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open assignee:@me" query=is:pr is:open assignee:@me
+[2022-08-30 16:21:50:507] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr is:open author:@me" query=is:pr is:open author:@me
+[2022-08-30 16:21:50:507] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/CMENDOZA1036 repo:CMENDOZA1036/HyperBlog repo:CMENDOZA1036/JsPractico repo:CMENDOZA1036/PersonalProjects repo:CMENDOZA1036/Proyecto-Google-Clone repo:JacquesLucke/blender_vscode repo:CMENDOZA1036/escuela-js repo:marcelofarias/escuela-js is:pr" query=is:pr
+[2022-08-30 16:21:50:519] [295] ScmManager.getRepos
+[2022-08-30 16:21:50:519] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:51:480] GIT: Running(/home/cmendoza/CMENDOZA1036): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:52:432] GIT: Running(/home/cmendoza/HyperBlog): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:53:322] GIT: Running(/home/cmendoza/JsPractico): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:54:153] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:55:008] GIT: Running(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:56:040] GIT: Running(/home/cmendoza/blender_vscode): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:56:884] GIT: Running(/home/cmendoza/escuela-js): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:57:707] [296] CodeStreamApiProvider.updatePreferences
+[2022-08-30 16:21:57:712] GIT: Completed(/home/cmendoza/blender_vscode): git rev-parse --abbrev-ref HEAD in 1671 ms
+[2022-08-30 16:21:57:712] GIT: Completed(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --abbrev-ref HEAD in 2704 ms
+[2022-08-30 16:21:57:712] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD in 3558 ms
+[2022-08-30 16:21:57:712] GIT: Completed(/home/cmendoza/JsPractico): git rev-parse --abbrev-ref HEAD in 4389 ms
+[2022-08-30 16:21:57:712] GIT: Completed(/home/cmendoza/HyperBlog): git rev-parse --abbrev-ref HEAD in 5280 ms
+[2022-08-30 16:21:57:712] GIT: Completed(/home/cmendoza/CMENDOZA1036): git rev-parse --abbrev-ref HEAD in 6232 ms
+[2022-08-30 16:21:57:712] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 7193 ms
+[2022-08-30 16:21:57:713] [297] ScmManager.getRepos
+[2022-08-30 16:21:57:713] [297] ScmManager.getRepos completed • 0 ms
+[2022-08-30 16:21:57:714] GIT: Completed(/home/cmendoza/escuela-js): git rev-parse --abbrev-ref HEAD in 829 ms
+[2022-08-30 16:21:57:714] [295] ScmManager.getRepos completed • 7194 ms
+[2022-08-30 16:21:57:714] [298] CodeStreamApiProvider.updatePreferences
+[2022-08-30 16:21:57:715] [299] CodeStreamApiProvider.updatePreferences
+[2022-08-30 16:21:57:717] [29a] CodeStreamApiProvider.updatePreferences
+[2022-08-30 16:21:57:718] [29b] CodeStreamApiProvider.updatePreferences
+[2022-08-30 16:21:57:720] [29c] CodeStreamApiProvider.updatePreferences
+[2022-08-30 16:21:57:721] Jira: Completed GET /rest/api/2/issue/createmeta?projectIds=10000&expand=projects.issuetypes.fields • 11846 ms
+[2022-08-30 16:21:57:722] [242] JiraProvider.getBoards completed • 45624 ms
+[2022-08-30 16:21:57:722] [29d] ScmManager.getRepos
+[2022-08-30 16:21:57:722] [29d] ScmManager.getRepos completed • 0 ms
+[2022-08-30 16:21:57:723] [29e] ScmManager.getRepos
+[2022-08-30 16:21:57:723] [29e] ScmManager.getRepos completed • 0 ms
+[2022-08-30 16:21:57:723] [29f] CodeStreamApiProvider.updatePreferences
+[2022-08-30 16:21:57:724] [2a0] CodeStreamApiProvider.updatePreferences
+[2022-08-30 16:21:57:726] [2a1] ScmManager.getRepos
+[2022-08-30 16:21:57:726] [2a1] ScmManager.getRepos completed • 0 ms
+[2022-08-30 16:21:57:726] [2a2] ScmManager.getRepos
+[2022-08-30 16:21:57:726] [2a2] ScmManager.getRepos completed • 0 ms
+[2022-08-30 16:21:57:728] [2a3] CodeStreamApiProvider.updatePreferences
+[2022-08-30 16:21:57:729] [2a4] CodeStreamApiProvider.updatePreferences
+[2022-08-30 16:21:57:731] [2a5] ScmManager.getRepos
+[2022-08-30 16:21:57:731] [2a5] ScmManager.getRepos completed • 0 ms
+[2022-08-30 16:21:57:732] [2a6] ScmManager.getRepos
+[2022-08-30 16:21:57:732] [2a6] ScmManager.getRepos completed • 0 ms
+[2022-08-30 16:21:57:732] [2a7] CodeStreamApiProvider.updatePreferences
+[2022-08-30 16:21:57:733] [2a8] CodeStreamApiProvider.updatePreferences
+[2022-08-30 16:21:57:735] [2a9] ScmManager.getRepos
+[2022-08-30 16:21:57:735] [2a9] ScmManager.getRepos completed • 0 ms
+[2022-08-30 16:21:57:735] [2aa] ScmManager.getRepos
+[2022-08-30 16:21:57:735] [2aa] ScmManager.getRepos completed • 0 ms
+[2022-08-30 16:21:57:735] [2ab] CodeStreamApiProvider.updatePreferences
+[2022-08-30 16:21:57:737] [2ac] CodeStreamApiProvider.updatePreferences
+[2022-08-30 16:21:57:738] [2ad] ScmManager.getFileInfo
+[2022-08-30 16:21:57:739] GIT: Running(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:21:58:718] [2ae] ScmManager.getRepos
+[2022-08-30 16:21:58:718] [2ae] ScmManager.getRepos completed • 0 ms
+[2022-08-30 16:21:58:719] [2af] CodeStreamApiProvider.updatePreferences
+[2022-08-30 16:21:58:720] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit): git rev-parse --abbrev-ref HEAD in 980 ms
+[2022-08-30 16:21:58:721] GIT: Running(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/index.html
+[2022-08-30 16:21:59:630] [2b0] ScmManager.getRepos
+[2022-08-30 16:21:59:631] [2b0] ScmManager.getRepos completed • 0 ms
+[2022-08-30 16:21:59:631] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/index.html
+[2022-08-30 16:21:59:631] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/index.html v189
+[2022-08-30 16:21:59:632] GIT: Completed(/home/cmendoza/PersonalProjects): git log -n1 --format=%H -- WEB/Frontend/Project_Bata_Bit/index.html in 910 ms
+[2022-08-30 16:21:59:632] [2b2] GitService.getRepoRemotes
+[2022-08-30 16:21:59:632] [2b2] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:59:632] [2ad] ScmManager.getFileInfo completed • 1893 ms
+[2022-08-30 16:21:59:633] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/styles.css
+[2022-08-30 16:21:59:633] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/styles.css v111
+[2022-08-30 16:21:59:633] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/index.html
+[2022-08-30 16:21:59:633] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/index.html v189
+[2022-08-30 16:21:59:633] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/styles.css
+[2022-08-30 16:21:59:633] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/styles.css v111
+[2022-08-30 16:21:59:633] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/index.html
+[2022-08-30 16:21:59:633] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/index.html v189
+[2022-08-30 16:21:59:634] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/styles.css
+[2022-08-30 16:21:59:634] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/styles.css v111
+[2022-08-30 16:21:59:635] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/index.html
+[2022-08-30 16:21:59:635] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/index.html v189
+[2022-08-30 16:21:59:635] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/styles.css
+[2022-08-30 16:21:59:636] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/styles.css v111
+[2022-08-30 16:21:59:636] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/index.html
+[2022-08-30 16:21:59:636] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/index.html v189
+[2022-08-30 16:21:59:636] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/styles.css
+[2022-08-30 16:21:59:637] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/styles.css v111
+[2022-08-30 16:21:59:638] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/index.html
+[2022-08-30 16:21:59:638] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/Project_Bata_Bit/index.html v189
+[2022-08-30 16:21:59:780] [280] SlackSharingApiProvider.fetchStreams Fetched page; — {"hasResponse":true,"typeofResponse_metadata":"object","cursor":""}
+[2022-08-30 16:21:59:780] [280] SlackSharingApiProvider.fetchStreams Fetched user.conversations • 9287 ms
+[2022-08-30 16:21:59:781] Fetching Slack users (5 original) filtered to 2...
+[2022-08-30 16:21:59:781] Slack ensureUserMaps starting
+[2022-08-30 16:21:59:791] GitHub: Completed GET /repos/CMENDOZA1036/JsPractico • 9312 ms
+[2022-08-30 16:21:59:791] core limit used 4989 of 5000, reset at Tue Aug 30 2022 11:41:47 GMT-0500 (Colombia Standard Time)
+[2022-08-30 16:21:59:792] [2bf] GitService.getRepoRemotes
+[2022-08-30 16:21:59:793] [2bf] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 0 ms
+[2022-08-30 16:21:59:793] [2c0] GitService.getRepoRemotes
+[2022-08-30 16:21:59:793] [2c0] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/Proyecto-Google-Clone.git] • 0 ms
+[Warn  - 11:21:59 AM] [2022-08-30 16:21:59:813] undefined 
+[Warn  - 11:21:59 AM] [2022-08-30 16:21:59:836] undefined 
+[Warn  - 11:21:59 AM] [2022-08-30 16:21:59:855] undefined 
+[2022-08-30 16:21:59:890] API(759631f1-9ded-4779-90a2-eb013d71d551): Completed PUT /preferences body={"skipGitEmailCheck":true} • 2171 ms
+[2022-08-30 16:21:59:890] [2c3] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:21:59:891] [2c3] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:21:59:891] [2c4] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-30 16:21:59:891] [2c4] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-30 16:21:59:891] [29b] CodeStreamApiProvider.updatePreferences completed • 2172 ms
+[2022-08-30 16:21:59:898] API(081f17f1-04f2-43f0-aebb-a1a711daf3d0): Completed PUT /preferences body={"skipGitEmailCheck":true} • 2183 ms
+[2022-08-30 16:21:59:898] [2c7] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:21:59:898] [2c7] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:21:59:898] [2c8] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-30 16:21:59:898] [2c8] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-30 16:21:59:898] [298] CodeStreamApiProvider.updatePreferences completed • 2184 ms
+[2022-08-30 16:21:59:899] API(a6a7e2ad-ae1e-4c93-ab0f-d2b2a4d1b4d4): Completed PUT /preferences body={"skipGitEmailCheck":true} • 2169 ms
+[2022-08-30 16:21:59:900] [2cb] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:21:59:900] [2cb] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:21:59:900] [2cc] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-30 16:21:59:900] [2cc] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-30 16:21:59:900] [2a4] CodeStreamApiProvider.updatePreferences completed • 2170 ms
+[2022-08-30 16:21:59:917] API(a999292f-8f43-43aa-a571-32b51024aa74): Completed PUT /preferences body={"skipGitEmailCheck":true} • 2192 ms
+[2022-08-30 16:21:59:917] [2cf] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:21:59:917] [2cf] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:21:59:917] [2d0] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-30 16:21:59:917] [2d0] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-30 16:21:59:917] [2a0] CodeStreamApiProvider.updatePreferences completed • 2192 ms
+[2022-08-30 16:21:59:919] API(0ea07ac7-18af-47e4-b6cf-871c7f0de20e): Completed PUT /preferences body={"skipGitEmailCheck":true} • 2211 ms
+[2022-08-30 16:21:59:920] [2d3] CodeStreamApiProvider.getUser
+[2022-08-30 16:21:59:920] [2d4] CodeStreamApiProvider.getMe
+[2022-08-30 16:21:59:921] API(0c844be1-e32c-44f6-98d8-bd19b05bb4b6): Completed PUT /preferences body={"skipGitEmailCheck":true} • 2198 ms
+[2022-08-30 16:21:59:922] [2d7] CodeStreamApiProvider.getUser
+[2022-08-30 16:21:59:922] [2d8] CodeStreamApiProvider.getMe
+[2022-08-30 16:21:59:924] API(253968bf-9c29-4349-832d-4dd6ae7216f6): Completed PUT /preferences body={"skipGitEmailCheck":true} • 2190 ms
+[2022-08-30 16:21:59:924] [2db] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:21:59:924] [2db] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:21:59:924] [2dc] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-30 16:21:59:924] [2dc] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-30 16:21:59:924] [2a8] CodeStreamApiProvider.updatePreferences completed • 2191 ms
+[2022-08-30 16:21:59:927] API(e7531d5c-ae2a-4ac7-b7f6-e368d13aaa70): Completed PUT /preferences body={"skipGitEmailCheck":true} • 2191 ms
+[2022-08-30 16:21:59:927] [2df] CodeStreamApiProvider.getUser
+[2022-08-30 16:21:59:927] [2e0] CodeStreamApiProvider.getMe
+[2022-08-30 16:21:59:930] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876519121
+[2022-08-30 16:21:59:930] BROADCASTER: Broadcaster message received at: 1661876519121
+[2022-08-30 16:21:59:930] BROADCASTER: _lastMessageReceivedAt updated to 1661876519121
+[2022-08-30 16:21:59:932] API(56d9b9f1-1b4d-4fc3-92d8-7b6008110789): Completed PUT /preferences body={"skipGitEmailCheck":true} • 2212 ms
+[2022-08-30 16:21:59:932] [2e6] CodeStreamApiProvider.getUser
+[2022-08-30 16:21:59:932] [2e7] CodeStreamApiProvider.getMe
+[2022-08-30 16:21:59:935] API(a3edcf1a-eb68-4272-806a-6f6a49815218): Completed PUT /preferences body={"skipGitEmailCheck":true} • 2219 ms
+[2022-08-30 16:21:59:935] [2ea] CodeStreamApiProvider.getUser
+[2022-08-30 16:21:59:935] [2eb] CodeStreamApiProvider.getMe
+[2022-08-30 16:21:59:939] API(97662072-3d77-435e-96fd-8249df2e9d05): Completed PUT /preferences body={"skipGitEmailCheck":true} • 2211 ms
+[2022-08-30 16:21:59:939] [2ee] CodeStreamApiProvider.getUser
+[2022-08-30 16:21:59:939] [2ef] CodeStreamApiProvider.getMe
+[2022-08-30 16:21:59:942] API(6a9a0f04-6db2-4fd9-808b-6e09c9b08fb4): Completed PUT /preferences body={"skipGitEmailCheck":true} • 1223 ms
+[2022-08-30 16:21:59:942] [2f2] CodeStreamApiProvider.getUser
+[2022-08-30 16:21:59:942] [2f3] CodeStreamApiProvider.getMe
+[2022-08-30 16:21:59:944] API(95fed7e8-7005-44fe-88a3-877b8dbde7fc): Completed PUT /preferences body={"skipGitEmailCheck":true} • 2212 ms
+[2022-08-30 16:21:59:944] [2f6] CodeStreamApiProvider.getUser
+[2022-08-30 16:21:59:944] [2f7] CodeStreamApiProvider.getMe
+[Warn  - 11:21:59 AM] [2022-08-30 16:21:59:955] undefined 
+[2022-08-30 16:21:59:959] API(994f75ac-24e5-47ec-991b-6651f5bdbaef): Completed PUT /preferences body={"skipGitEmailCheck":true} • 2241 ms
+[2022-08-30 16:21:59:959] [2fa] CodeStreamApiProvider.getUser
+[2022-08-30 16:21:59:959] [2fb] CodeStreamApiProvider.getMe
+[2022-08-30 16:21:59:986] API(88c08a36-dd5f-406e-a459-24933a0ebd23): Completed PUT /preferences body={"skipGitEmailCheck":true} • 2248 ms
+[2022-08-30 16:21:59:986] [2ff] CodeStreamApiProvider.getUser
+[2022-08-30 16:21:59:986] [300] CodeStreamApiProvider.getMe
+[2022-08-30 16:22:00:150] Fetched Slack users (2) in • 368 ms
+[2022-08-30 16:22:00:150] Slack ensureUserMaps complete
+[2022-08-30 16:22:00:165] [280] SlackSharingApiProvider.fetchStreams 
+	C03KKNMKWLV = general
+	C03KNJ49THR = random
+	C03L1AA8RPB = team1
+	D03KG24L9SA = alvarezmendoz, p=1, closed=undefined
+	D03LCCZPFRN = Slackbot, p=0, closed=undefined
+completed • 9672 ms
+[2022-08-30 16:22:00:165] [27e] SlackProvider.getChannels completed • 9679 ms
+[2022-08-30 16:22:00:353] GitHub: Completed GET /repos/CMENDOZA1036/Proyecto-Google-Clone • 559 ms
+[2022-08-30 16:22:00:353] core limit used 4988 of 5000, reset at Tue Aug 30 2022 11:41:47 GMT-0500 (Colombia Standard Time)
+[2022-08-30 16:22:00:353] [304] GitService.getRepoRemotes
+[2022-08-30 16:22:00:354] [304] GitService.getRepoRemotes returned [https://github.com/JacquesLucke/blender_vscode] • 0 ms
+[2022-08-30 16:22:00:356] API(a47b39d7-e7a5-494c-be21-d8957f9fd5fe): Completed GET /users/me • 435 ms
+[2022-08-30 16:22:00:356] [2d4] CodeStreamApiProvider.getMe completed • 436 ms
+[2022-08-30 16:22:00:356] [2d3] CodeStreamApiProvider.getUser completed • 436 ms
+[2022-08-30 16:22:00:356] [305] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:22:00:356] [305] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:22:00:356] [306] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-30 16:22:00:356] [306] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-30 16:22:00:356] [296] CodeStreamApiProvider.updatePreferences completed • 2648 ms
+[2022-08-30 16:22:00:430] API(d6b344cc-8b33-4e15-8828-e7d14638112c): Completed GET /users/me • 502 ms
+[2022-08-30 16:22:00:430] [2e0] CodeStreamApiProvider.getMe completed • 502 ms
+[2022-08-30 16:22:00:430] [2df] CodeStreamApiProvider.getUser completed • 502 ms
+[2022-08-30 16:22:00:430] [307] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:22:00:430] [307] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:22:00:431] [308] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-30 16:22:00:431] [308] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-30 16:22:00:431] [2ab] CodeStreamApiProvider.updatePreferences completed • 2695 ms
+[2022-08-30 16:22:00:437] API(71cdb85c-0115-4fc3-b032-0a7d98ebd474): Completed GET /users/me • 515 ms
+[2022-08-30 16:22:00:437] [2d8] CodeStreamApiProvider.getMe completed • 515 ms
+[2022-08-30 16:22:00:437] [2d7] CodeStreamApiProvider.getUser completed • 515 ms
+[2022-08-30 16:22:00:438] [309] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:22:00:438] [309] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:22:00:438] [30a] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-30 16:22:00:438] [30a] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-30 16:22:00:438] [29f] CodeStreamApiProvider.updatePreferences completed • 2715 ms
+[2022-08-30 16:22:00:497] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876519125
+[2022-08-30 16:22:00:497] BROADCASTER: Broadcaster message received at: 1661876519125
+[2022-08-30 16:22:00:497] BROADCASTER: _lastMessageReceivedAt updated to 1661876519125
+[2022-08-30 16:22:00:497] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876519129
+[2022-08-30 16:22:00:497] BROADCASTER: Broadcaster message received at: 1661876519129
+[2022-08-30 16:22:00:497] BROADCASTER: _lastMessageReceivedAt updated to 1661876519129
+[2022-08-30 16:22:00:497] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876519130
+[2022-08-30 16:22:00:497] BROADCASTER: Broadcaster message received at: 1661876519130
+[2022-08-30 16:22:00:497] BROADCASTER: _lastMessageReceivedAt updated to 1661876519130
+[2022-08-30 16:22:00:497] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876519130
+[2022-08-30 16:22:00:497] BROADCASTER: Broadcaster message received at: 1661876519130
+[2022-08-30 16:22:00:497] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876519138
+[2022-08-30 16:22:00:497] BROADCASTER: Broadcaster message received at: 1661876519138
+[2022-08-30 16:22:00:497] BROADCASTER: _lastMessageReceivedAt updated to 1661876519138
+[2022-08-30 16:22:00:498] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876519141
+[2022-08-30 16:22:00:498] BROADCASTER: Broadcaster message received at: 1661876519141
+[2022-08-30 16:22:00:498] BROADCASTER: _lastMessageReceivedAt updated to 1661876519141
+[2022-08-30 16:22:00:498] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876519152
+[2022-08-30 16:22:00:498] BROADCASTER: Broadcaster message received at: 1661876519152
+[2022-08-30 16:22:00:498] BROADCASTER: _lastMessageReceivedAt updated to 1661876519152
+[2022-08-30 16:22:00:498] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876519158
+[2022-08-30 16:22:00:498] BROADCASTER: Broadcaster message received at: 1661876519158
+[2022-08-30 16:22:00:498] BROADCASTER: _lastMessageReceivedAt updated to 1661876519158
+[2022-08-30 16:22:00:498] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876519167
+[2022-08-30 16:22:00:498] BROADCASTER: Broadcaster message received at: 1661876519167
+[2022-08-30 16:22:00:498] BROADCASTER: _lastMessageReceivedAt updated to 1661876519167
+[2022-08-30 16:22:00:498] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876519168
+[2022-08-30 16:22:00:498] BROADCASTER: Broadcaster message received at: 1661876519168
+[2022-08-30 16:22:00:498] BROADCASTER: _lastMessageReceivedAt updated to 1661876519168
+[2022-08-30 16:22:00:498] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876519179
+[2022-08-30 16:22:00:498] BROADCASTER: Broadcaster message received at: 1661876519179
+[2022-08-30 16:22:00:498] BROADCASTER: _lastMessageReceivedAt updated to 1661876519179
+[2022-08-30 16:22:00:498] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876519194
+[2022-08-30 16:22:00:498] BROADCASTER: Broadcaster message received at: 1661876519194
+[2022-08-30 16:22:00:498] BROADCASTER: _lastMessageReceivedAt updated to 1661876519194
+[2022-08-30 16:22:00:498] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876519217
+[2022-08-30 16:22:00:498] BROADCASTER: Broadcaster message received at: 1661876519217
+[2022-08-30 16:22:00:498] BROADCASTER: _lastMessageReceivedAt updated to 1661876519217
+[2022-08-30 16:22:00:499] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1661876519232
+[2022-08-30 16:22:00:499] BROADCASTER: Broadcaster message received at: 1661876519232
+[2022-08-30 16:22:00:499] BROADCASTER: _lastMessageReceivedAt updated to 1661876519232
+[2022-08-30 16:22:00:571] API(116d5f1f-1245-47fc-8b15-e99b27bf33ec): Completed GET /users/me • 638 ms
+[2022-08-30 16:22:00:571] [2e7] CodeStreamApiProvider.getMe completed • 638 ms
+[2022-08-30 16:22:00:571] [2e6] CodeStreamApiProvider.getUser completed • 638 ms
+[2022-08-30 16:22:00:571] [335] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:22:00:571] [335] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:22:00:571] [336] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-30 16:22:00:571] [336] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-30 16:22:00:571] [29c] CodeStreamApiProvider.updatePreferences completed • 2851 ms
+[2022-08-30 16:22:00:606] API(2e452515-c082-4e4a-b4eb-63035068a0c9): Completed GET /users/me • 670 ms
+[2022-08-30 16:22:00:606] [2eb] CodeStreamApiProvider.getMe completed • 670 ms
+[2022-08-30 16:22:00:606] [2ea] CodeStreamApiProvider.getUser completed • 670 ms
+[2022-08-30 16:22:00:606] [337] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:22:00:606] [337] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:22:00:606] [338] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-30 16:22:00:606] [338] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-30 16:22:00:606] [299] CodeStreamApiProvider.updatePreferences completed • 2890 ms
+[2022-08-30 16:22:00:646] API(94aa92f1-a346-4a5d-af9f-ff705f938bba): Completed GET /users/me • 706 ms
+[2022-08-30 16:22:00:646] [2ef] CodeStreamApiProvider.getMe completed • 706 ms
+[2022-08-30 16:22:00:646] [2ee] CodeStreamApiProvider.getUser completed • 706 ms
+[2022-08-30 16:22:00:646] [339] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:22:00:647] [339] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:22:00:647] [33a] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-30 16:22:00:647] [33a] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-30 16:22:00:647] [2a3] CodeStreamApiProvider.updatePreferences completed • 2918 ms
+[2022-08-30 16:22:00:693] API(fa00ce0b-da8c-4d1a-b748-7bd912ab253b): Completed GET /users/me • 750 ms
+[2022-08-30 16:22:00:693] [2f3] CodeStreamApiProvider.getMe completed • 750 ms
+[2022-08-30 16:22:00:693] [2f2] CodeStreamApiProvider.getUser completed • 750 ms
+[2022-08-30 16:22:00:694] [33b] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:22:00:694] [33b] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:22:00:694] [33c] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-30 16:22:00:694] [33c] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-30 16:22:00:694] [2af] CodeStreamApiProvider.updatePreferences completed • 1974 ms
+[2022-08-30 16:22:00:721] API(756f9f64-2e74-4378-8706-f1302278cf3a): Completed GET /users/me • 777 ms
+[2022-08-30 16:22:00:721] [2f7] CodeStreamApiProvider.getMe completed • 777 ms
+[2022-08-30 16:22:00:721] [2f6] CodeStreamApiProvider.getUser completed • 777 ms
+[2022-08-30 16:22:00:722] [33d] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:22:00:722] [33d] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:22:00:722] [33e] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-30 16:22:00:722] [33e] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-30 16:22:00:722] [2a7] CodeStreamApiProvider.updatePreferences completed • 2989 ms
+[2022-08-30 16:22:00:789] API(3582e26c-2a43-4c09-8c42-16089edfd9f6): Completed GET /users/me • 830 ms
+[2022-08-30 16:22:00:789] [2fb] CodeStreamApiProvider.getMe completed • 830 ms
+[2022-08-30 16:22:00:789] [2fa] CodeStreamApiProvider.getUser completed • 830 ms
+[2022-08-30 16:22:00:790] [33f] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:22:00:790] [33f] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:22:00:790] [340] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-30 16:22:00:790] [340] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-30 16:22:00:790] [29a] CodeStreamApiProvider.updatePreferences completed • 3072 ms
+[2022-08-30 16:22:00:863] API(1784367a-a742-4c27-8030-f4947c9fb142): Completed GET /users/me • 876 ms
+[2022-08-30 16:22:00:863] [300] CodeStreamApiProvider.getMe completed • 876 ms
+[2022-08-30 16:22:00:863] [2ff] CodeStreamApiProvider.getUser completed • 877 ms
+[2022-08-30 16:22:00:863] [341] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-08-30 16:22:00:863] [341] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 0 ms
+[2022-08-30 16:22:00:863] [342] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-08-30 16:22:00:863] [342] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 0 ms
+[2022-08-30 16:22:00:863] [2ac] CodeStreamApiProvider.updatePreferences completed • 3126 ms
+[2022-08-30 16:22:00:904] GitHub: Completed GET /repos/JacquesLucke/blender_vscode • 550 ms
+[2022-08-30 16:22:00:904] core limit used 4987 of 5000, reset at Tue Aug 30 2022 11:41:47 GMT-0500 (Colombia Standard Time)
+[2022-08-30 16:22:00:904] [343] GitService.getRepoRemotes
+[2022-08-30 16:22:00:904] [343] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/escuela-js.git, git://github.com/marcelofarias/escuela-js.git] • 0 ms
+[2022-08-30 16:22:01:405] GitHub: Completed GET /repos/CMENDOZA1036/escuela-js • 500 ms
+[2022-08-30 16:22:01:405] core limit used 4986 of 5000, reset at Tue Aug 30 2022 11:41:47 GMT-0500 (Colombia Standard Time)
+[2022-08-30 16:22:01:895] GitHub: Completed GET /repos/marcelofarias/escuela-js • 489 ms
+[2022-08-30 16:22:01:895] core limit used 4985 of 5000, reset at Tue Aug 30 2022 11:41:47 GMT-0500 (Colombia Standard Time)
+[2022-08-30 16:22:01:896] [240] GitHubProvider.getBoards completed • 49806 ms
+[2022-08-30 16:27:24:765] [344] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 16:27:24:766] [344] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 16:27:24:766] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:27:25:846] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD in 1080 ms
+[2022-08-30 16:27:25:847] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 16:27:26:645] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u} in 798 ms
+[2022-08-30 16:27:36:656] MARKERS: flushing uncommitted locations
+[2022-08-30 16:27:36:657] GIT: Running(/home/cmendoza/PersonalProjects): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD --
+[2022-08-30 16:27:37:486] [345] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 16:27:37:487] [345] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 16:27:37:487] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:27:38:349] [346] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 16:27:38:350] [346] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 16:27:38:350] GIT: Awaiting(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:27:38:351] GIT: Completed(/home/cmendoza/PersonalProjects): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD -- in 1694 ms
+[2022-08-30 16:27:38:352] [348] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash)
+[2022-08-30 16:27:38:352] [348] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash) completed • 0 ms
+[2022-08-30 16:27:38:353] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD in 866 ms
+[2022-08-30 16:27:38:353] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD in 3 ms
+[2022-08-30 16:27:38:353] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 16:27:39:182] GIT: Awaiting(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 16:27:39:187] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u} in 833 ms
+[2022-08-30 16:27:39:187] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u} in 5 ms
+[2022-08-30 16:27:55:568] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me"
+[2022-08-30 16:27:55:568] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me"
+[Warn  - 11:27:56 AM] [2022-08-30 16:27:56:145] undefined 
+[Warn  - 11:27:56 AM] [2022-08-30 16:27:56:160] undefined 
+[2022-08-30 16:27:56:161] Will not notify of new PRs - no changes detected
+[2022-08-30 16:33:32:469] Document opened: file:///home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE
+[2022-08-30 16:33:32:469] [34b] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-08-30 16:33:32:469] [34b] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-08-30 16:33:32:471] [34c] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-08-30 16:33:32:471] [34c] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-08-30 16:33:32:475] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE
+[2022-08-30 16:33:32:475] MARKERS: calculating codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE v1
+[2022-08-30 16:33:32:476] GIT: Running(/home/cmendoza/PersonalProjects/WEB/Frontend): git rev-parse --show-toplevel
+[2022-08-30 16:33:33:987] GIT: Completed(/home/cmendoza/PersonalProjects/WEB/Frontend): git rev-parse --show-toplevel in 1511 ms
+[2022-08-30 16:33:35:470] [34e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-08-30 16:33:35:470] [34e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-08-30 16:33:36:672] Document closed: file:///home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE
+[2022-08-30 16:33:36:672] [34f] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-08-30 16:33:36:673] [34f] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-08-30 16:33:36:682] Document opened: file:///home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE
+[2022-08-30 16:33:36:682] [350] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-08-30 16:33:36:682] [350] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-08-30 16:33:36:683] [351] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-08-30 16:33:36:683] [351] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-08-30 16:33:38:483] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE
+[2022-08-30 16:33:38:483] MARKERS: calculating codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE v1
+[2022-08-30 16:33:38:485] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE
+[2022-08-30 16:33:38:485] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE v1
+[2022-08-30 16:33:39:683] [354] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-08-30 16:33:39:683] [354] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-08-30 16:33:41:568] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE
+[2022-08-30 16:33:41:568] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE v1
+[2022-08-30 16:33:41:568] MARKERS: requested document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE
+[2022-08-30 16:33:41:568] MARKERS: found cached codemark document markers for /home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE v1
+[2022-08-30 16:33:50:546] Document closed: file:///home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE
+[2022-08-30 16:33:50:546] [357] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-08-30 16:33:50:546] [357] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-08-30 16:35:29:697] [358] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 16:35:29:697] [358] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 16:35:29:698] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:35:30:873] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 1175 ms
+[2022-08-30 16:35:30:873] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 16:35:31:662] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 788 ms
+[2022-08-30 16:42:55:570] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me"
+[2022-08-30 16:42:55:571] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me"
+[Warn  - 11:42:56 AM] [2022-08-30 16:42:56:056] undefined 
+[Warn  - 11:42:56 AM] [2022-08-30 16:42:56:149] undefined 
+[2022-08-30 16:42:56:150] Will not notify of new PRs - no changes detected

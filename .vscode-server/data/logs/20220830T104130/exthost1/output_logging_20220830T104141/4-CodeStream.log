@@ -203,3 +203,485 @@
 [2022-08-30 16:20:24:771] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
 [2022-08-30 16:20:24:773] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
 [2022-08-30 16:20:25:273] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-30 16:21:02:590] [2e] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-08-30 16:21:02:591] [2e] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-08-30 16:21:04:431] [2f] CodeStreamAgentConnection.onUserCommitted
+[2022-08-30 16:21:04:431] User committed 3063666e4f0840f43fcc1ae488f8db9e3b2848dc - opening feedback request form
+[2022-08-30 16:21:04:431] [30] WebviewController.newReviewRequest
+[2022-08-30 16:21:04:432] [31] WebviewController.show
+[2022-08-30 16:21:04:432] [32] WebviewController.ensureWebView
+[2022-08-30 16:21:04:432] [2f] CodeStreamAgentConnection.onUserCommitted completed • 1 ms
+[2022-08-30 16:21:04:432] [32] WebviewController.ensureWebView completed • 0 ms
+[2022-08-30 16:21:04:433] [33] CodeStreamWebviewSidebar.show
+[2022-08-30 16:21:04:433] [33] CodeStreamWebviewSidebar.show waiting for WebView ready
+[2022-08-30 16:21:04:582] resolveWebviewView starting — {}
+[2022-08-30 16:21:04:607] [34] CodeStreamWebviewSidebar.triggerIpc
+[2022-08-30 16:21:04:608] [34] CodeStreamWebviewSidebar.triggerIpc waiting for WebView ready
+[2022-08-30 16:21:06:012] Webview: Received message host/bootstrap(wv:1:mt5bzShaRvSzxevr-49jcA) from the webview
+[2022-08-30 16:21:06:028] WebviewPanel: Bootstrapping webview... — SignedIn=true
+[2022-08-30 16:21:06:041] WebviewPanel: Completed posting response(wv:1:mt5bzShaRvSzxevr-49jcA) to the webview
+[2022-08-30 16:21:06:065] Webview: Received message codestream/bootstrap(wv:2:_dE30E6LTeCbS_ll1Db-MQ) from the webview
+[2022-08-30 16:21:06:066] Webview: Received message host/editor/context(wv:3:R8Iq8U32QZeaNje4uoJ4AQ) from the webview
+[2022-08-30 16:21:06:069] AgentConnection.sendRequest(codestream/bootstrap)
+[2022-08-30 16:21:06:076] WebviewPanel: Completed posting response(wv:3:R8Iq8U32QZeaNje4uoJ4AQ) to the webview
+[2022-08-30 16:21:07:155] WebviewPanel: Completed posting response(wv:2:_dE30E6LTeCbS_ll1Db-MQ) to the webview
+[2022-08-30 16:21:07:267] Webview: Received message host/didInitialize from the webview
+[2022-08-30 16:21:07:267] WebviewPanel: Resuming communication...
+[2022-08-30 16:21:07:267] WebviewPanel: Flushing pending queue
+[2022-08-30 16:21:07:268] [33] CodeStreamWebviewSidebar.show waiting for WebView complete. cancelled=false
+[2022-08-30 16:21:07:268] [34] CodeStreamWebviewSidebar.triggerIpc waiting for WebView complete. cancelled=false
+[2022-08-30 16:21:07:268] [33] CodeStreamWebviewSidebar.show completed • 2834 ms
+[2022-08-30 16:21:07:268] [34] CodeStreamWebviewSidebar.triggerIpc completed • 2660 ms
+[2022-08-30 16:21:07:268] resolveWebviewView completed
+[2022-08-30 16:21:07:268] [31] WebviewController.show completed • 2836 ms
+[2022-08-30 16:21:07:268] [30] WebviewController.newReviewRequest completed • 2836 ms
+[2022-08-30 16:21:07:272] Webview: Received message codestream/verifyConnectivity(wv:4:IMi3P4yqSYW1GlAwGtPVtg) from the webview
+[2022-08-30 16:21:07:273] Webview: Received message codestream/scm/user/info(wv:5:ZYlheJ5aQBiF-v3pQuEerA) from the webview
+[2022-08-30 16:21:07:273] Webview: Received message codestream/scm/file/info(wv:6:pAf6F0o3SqqEt-hj2yB9Pg) from the webview
+[2022-08-30 16:21:07:273] Webview: Received message host/review/closeDiff(wv:7:hdnGdtQZR1iDLWX_GpB4Qw) from the webview
+[2022-08-30 16:21:07:273] Webview: Received message codestream/providers/pullrequest/queries(wv:8:AbdSbemvSIShJQ48-5WvkQ) from the webview
+[2022-08-30 16:21:07:274] Webview: Received message codestream/reviews(wv:9:Wy_1KMLKTNeLfkG6Cyz0kw) from the webview
+[2022-08-30 16:21:07:274] Webview: Received message codestream/reviews(wv:10:xQ6Fz1aKTYGv3u9hLCTAkA) from the webview
+[2022-08-30 16:21:07:274] Webview: Received message codestream/provider/boards(wv:11:FY8woD3QR86ZogbAEVQ7pQ) from the webview
+[2022-08-30 16:21:07:275] Webview: Received message codestream/provider/boards(wv:12:VDOY_WRgSByffmht_gJp0A) from the webview
+[2022-08-30 16:21:07:275] Webview: Received message codestream/provider/cards(wv:13:zeKrqSb3TX-f-5uap_FNuQ) from the webview
+[2022-08-30 16:21:07:276] Webview: Received message codestream/provider/cards(wv:14:llaa-tAmQSueGh-0Ro02Qw) from the webview
+[2022-08-30 16:21:07:276] Webview: Received message codestream/scm/repos(wv:15:zLlXcSYbQbSscuAf3YThBg) from the webview
+[2022-08-30 16:21:07:276] Webview: Received message codestream/telemetry(wv:16:w8OyCe6XQeeoi_6TycqbtQ) from the webview
+[2022-08-30 16:21:07:276] Webview: Received message codestream/scm/user/info(wv:17:Kfj1SeigSGeMIsYZUQkalw) from the webview
+[2022-08-30 16:21:07:277] Webview: Received message codestream/scm/user/info(wv:18:s2KLuVA8SRCPl_ZFXHP98Q) from the webview
+[2022-08-30 16:21:07:277] AgentConnection.sendRequest(codestream/verifyConnectivity)
+[2022-08-30 16:21:07:277] AgentConnection.sendRequest(codestream/scm/user/info)
+[2022-08-30 16:21:07:277] AgentConnection.sendRequest(codestream/scm/file/info)
+[2022-08-30 16:21:07:277] AgentConnection.sendRequest(codestream/providers/pullrequest/queries)
+[2022-08-30 16:21:07:278] AgentConnection.sendRequest(codestream/reviews)
+[2022-08-30 16:21:07:278] AgentConnection.sendRequest(codestream/reviews)
+[2022-08-30 16:21:07:278] AgentConnection.sendRequest(codestream/provider/boards)
+[2022-08-30 16:21:07:278] AgentConnection.sendRequest(codestream/provider/boards)
+[2022-08-30 16:21:07:278] AgentConnection.sendRequest(codestream/provider/cards)
+[2022-08-30 16:21:07:278] AgentConnection.sendRequest(codestream/provider/cards)
+[2022-08-30 16:21:07:278] AgentConnection.sendRequest(codestream/scm/repos)
+[2022-08-30 16:21:07:278] AgentConnection.sendRequest(codestream/telemetry)
+[2022-08-30 16:21:07:278] AgentConnection.sendRequest(codestream/scm/user/info)
+[2022-08-30 16:21:07:278] AgentConnection.sendRequest(codestream/scm/user/info)
+[2022-08-30 16:21:07:280] Webview: Received message host/context/didChange from the webview
+[2022-08-30 16:21:07:280] Webview: Received message codestream/ui/state(wv:19:WGsjlntmTRipMFtBsCtXNQ) from the webview
+[2022-08-30 16:21:07:281] Webview: Received message host/context/didChange from the webview
+[2022-08-30 16:21:07:282] Webview: Received message codestream/ui/state(wv:20:njkt1cSGQn21CGTFcnjXgw) from the webview
+[2022-08-30 16:21:07:282] Webview: Received message codestream/codemarks(wv:21:iEvfsGT3QB21SR7j3YK5Ug) from the webview
+[2022-08-30 16:21:07:283] AgentConnection.sendRequest(codestream/ui/state)
+[2022-08-30 16:21:07:283] AgentConnection.sendRequest(codestream/ui/state)
+[2022-08-30 16:21:07:283] AgentConnection.sendRequest(codestream/codemarks)
+[2022-08-30 16:21:07:284] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:289] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-30 16:21:07:294] Webview: Received message codestream/scm/user/info(wv:22:xg4MPQOLQGGycUU2_8iBQw) from the webview
+[2022-08-30 16:21:07:294] AgentConnection.sendRequest(codestream/scm/user/info)
+[2022-08-30 16:21:07:297] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:303] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:310] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-30 16:21:07:317] Webview: Received message codestream/scm/user/info(wv:23:L5u-lN-ESM-BIXpPEmQaaQ) from the webview
+[2022-08-30 16:21:07:317] AgentConnection.sendRequest(codestream/scm/user/info)
+[2022-08-30 16:21:07:317] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:323] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:330] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-30 16:21:07:334] Webview: Received message codestream/scm/user/info(wv:24:bnUCbXcHSI-XDggwXYtcXg) from the webview
+[2022-08-30 16:21:07:335] Webview: Received message codestream/scm/file/info(wv:25:qUjLkD5YQpOgn_piXuctMw) from the webview
+[2022-08-30 16:21:07:335] AgentConnection.sendRequest(codestream/scm/user/info)
+[2022-08-30 16:21:07:335] AgentConnection.sendRequest(codestream/scm/file/info)
+[2022-08-30 16:21:07:337] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:342] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:348] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-30 16:21:07:355] Webview: Received message codestream/scm/user/info(wv:26:yB_fW9oYQLG35uV4XzUZHQ) from the webview
+[2022-08-30 16:21:07:355] Webview: Received message codestream/scm/file/info(wv:27:5naPZbQyQ9WGZh2EpCd-Vw) from the webview
+[2022-08-30 16:21:07:356] AgentConnection.sendRequest(codestream/scm/user/info)
+[2022-08-30 16:21:07:356] AgentConnection.sendRequest(codestream/scm/file/info)
+[2022-08-30 16:21:07:356] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:361] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:368] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-30 16:21:07:370] Webview: Received message codestream/scm/user/info(wv:28:ODXPBPCiRFi388P2p3fq1w) from the webview
+[2022-08-30 16:21:07:370] Webview: Received message codestream/scm/file/info(wv:29:GExxkiDbQ0aQk6Ayi_3Miw) from the webview
+[2022-08-30 16:21:07:370] AgentConnection.sendRequest(codestream/scm/user/info)
+[2022-08-30 16:21:07:370] AgentConnection.sendRequest(codestream/scm/file/info)
+[2022-08-30 16:21:07:376] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:383] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:386] Webview: Received message codestream/scm/user/info(wv:30:QHqFpoV2Tw6yZUyQK-zznw) from the webview
+[2022-08-30 16:21:07:386] Webview: Received message codestream/scm/file/info(wv:31:Kli5jMBkRbCsZ0jf5iUrEA) from the webview
+[2022-08-30 16:21:07:387] AgentConnection.sendRequest(codestream/scm/user/info)
+[2022-08-30 16:21:07:387] AgentConnection.sendRequest(codestream/scm/file/info)
+[2022-08-30 16:21:07:387] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-30 16:21:07:392] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:397] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:402] Webview: Received message codestream/scm/user/info(wv:32:8KCmBA-jTxGjuIdcLOTSjA) from the webview
+[2022-08-30 16:21:07:402] Webview: Received message codestream/scm/file/info(wv:33:wmp8H7crTtiDnepcu3jl8g) from the webview
+[2022-08-30 16:21:07:402] AgentConnection.sendRequest(codestream/scm/user/info)
+[2022-08-30 16:21:07:402] AgentConnection.sendRequest(codestream/scm/file/info)
+[2022-08-30 16:21:07:402] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-30 16:21:07:409] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:415] Webview: Received message codestream/scm/user/info(wv:34:zsuiHXNgRYaBl-ckrwQEAw) from the webview
+[2022-08-30 16:21:07:415] AgentConnection.sendRequest(codestream/scm/user/info)
+[2022-08-30 16:21:07:415] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:416] Webview: Received message codestream/scm/file/info(wv:35:mRzQnCUBTTev2aLx0l5-aw) from the webview
+[2022-08-30 16:21:07:416] AgentConnection.sendRequest(codestream/scm/file/info)
+[2022-08-30 16:21:07:420] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-30 16:21:07:425] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:430] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:435] Webview: Received message codestream/scm/user/info(wv:36:oV9IZV5DQeyo3KbTv4myhA) from the webview
+[2022-08-30 16:21:07:435] Webview: Received message codestream/scm/file/info(wv:37:qggCnDoVQiitXyrIMiJjaQ) from the webview
+[2022-08-30 16:21:07:435] AgentConnection.sendRequest(codestream/scm/user/info)
+[2022-08-30 16:21:07:435] AgentConnection.sendRequest(codestream/scm/file/info)
+[2022-08-30 16:21:07:438] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-30 16:21:07:443] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:449] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:452] Webview: Received message codestream/scm/user/info(wv:38:HtX7KdXNTxmeDnifLl0IfA) from the webview
+[2022-08-30 16:21:07:452] Webview: Received message codestream/scm/file/info(wv:39:TSrE_XGhS1SPxHFBEQE_cQ) from the webview
+[2022-08-30 16:21:07:453] AgentConnection.sendRequest(codestream/scm/user/info)
+[2022-08-30 16:21:07:453] AgentConnection.sendRequest(codestream/scm/file/info)
+[2022-08-30 16:21:07:455] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-30 16:21:07:461] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:467] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:472] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-30 16:21:07:477] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:482] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:487] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-30 16:21:07:492] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:498] Webview: Received message codestream/scm/user/info(wv:40:XV29FzOISLC4jgDqGCOKWw) from the webview
+[2022-08-30 16:21:07:498] AgentConnection.sendRequest(codestream/scm/user/info)
+[2022-08-30 16:21:07:498] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:21:07:501] Webview: Received message codestream/scm/file/info(wv:41:y8rvRisoTTC0gsI2XKgogQ) from the webview
+[2022-08-30 16:21:07:501] AgentConnection.sendRequest(codestream/scm/file/info)
+[2022-08-30 16:21:07:504] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-30 16:21:07:504] WebviewPanel: Completed flushing pending queue
+[2022-08-30 16:21:07:510] WebviewPanel: Completed posting webview/review/new to the webview
+[2022-08-30 16:21:07:510] WebviewPanel: Completed posting response(wv:7:hdnGdtQZR1iDLWX_GpB4Qw) to the webview
+[2022-08-30 16:21:07:517] Webview: Received message codestream/scm/user/info(wv:42:C2csBFWuQze_HyoNDD2oOw) from the webview
+[2022-08-30 16:21:07:517] Webview: Received message codestream/scm/file/info(wv:43:EY17sNNdTge7oW6PHNjaAw) from the webview
+[2022-08-30 16:21:07:518] AgentConnection.sendRequest(codestream/scm/user/info)
+[2022-08-30 16:21:07:518] AgentConnection.sendRequest(codestream/scm/file/info)
+[2022-08-30 16:21:08:179] Webview: Received message codestream/scm/repos(wv:44:btRWS67AROeqOW7YSEd3lA) from the webview
+[2022-08-30 16:21:08:180] AgentConnection.sendRequest(codestream/scm/repos)
+[2022-08-30 16:21:08:186] Webview: Received message codestream/provider/channels(wv:45:fZxO1KBWQNyv51cvQidqjQ) from the webview
+[2022-08-30 16:21:08:186] Webview: Received message host/context/didChange from the webview
+[2022-08-30 16:21:08:187] AgentConnection.sendRequest(codestream/provider/channels)
+[2022-08-30 16:21:08:189] Webview: Received message codestream/ui/state(wv:46:P_e3vQCETZq_gwESWXT5tw) from the webview
+[2022-08-30 16:21:08:189] Webview: Received message host/context/didChange from the webview
+[2022-08-30 16:21:08:190] Webview: Received message codestream/ui/state(wv:47:ZA-C2tSwTOWBWMAQU_wnUg) from the webview
+[2022-08-30 16:21:08:190] Webview: Received message host/context/didChange from the webview
+[2022-08-30 16:21:08:191] Webview: Received message codestream/ui/state(wv:48:sK6pGyPqTjGBwsUjnes4Gw) from the webview
+[2022-08-30 16:21:08:191] AgentConnection.sendRequest(codestream/ui/state)
+[2022-08-30 16:21:08:191] AgentConnection.sendRequest(codestream/ui/state)
+[2022-08-30 16:21:08:192] AgentConnection.sendRequest(codestream/ui/state)
+[2022-08-30 16:21:09:792] WebviewPanel: Completed posting response(wv:8:AbdSbemvSIShJQ48-5WvkQ) to the webview
+[2022-08-30 16:21:09:803] Webview: Received message codestream/provider/generic(wv:49:F30Q-IgUQsyoUTz6IsLZ7g) from the webview
+[2022-08-30 16:21:09:803] Webview: Received message codestream/scm/repos(wv:50:yNo_hRA5SOW4OPqyueJF-A) from the webview
+[2022-08-30 16:21:09:804] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-30 16:21:09:804] AgentConnection.sendRequest(codestream/scm/repos)
+[2022-08-30 16:21:12:095] WebviewPanel: Completed posting response(wv:5:ZYlheJ5aQBiF-v3pQuEerA) to the webview
+[2022-08-30 16:21:12:103] Webview: Received message codestream/user/updatePreferences(wv:51:uP_wIamxQl-qRAbOVwzknQ) from the webview
+[2022-08-30 16:21:12:103] AgentConnection.sendRequest(codestream/user/updatePreferences)
+[2022-08-30 16:21:20:450] WebviewPanel: Completed posting response(wv:6:pAf6F0o3SqqEt-hj2yB9Pg) to the webview
+[2022-08-30 16:21:20:456] WebviewPanel: Completed posting response(wv:4:IMi3P4yqSYW1GlAwGtPVtg) to the webview
+[2022-08-30 16:21:20:466] WebviewPanel: Completed posting response(wv:16:w8OyCe6XQeeoi_6TycqbtQ) to the webview
+[2022-08-30 16:21:20:474] Webview: Received message codestream/scm/repos(wv:52:PfbxjGDxT6GpFOyxMfP4SA) from the webview
+[2022-08-30 16:21:20:474] AgentConnection.sendRequest(codestream/scm/repos)
+[2022-08-30 16:21:20:479] WebviewPanel: Completed posting response(wv:15:zLlXcSYbQbSscuAf3YThBg) to the webview
+[2022-08-30 16:21:22:402] WebviewPanel: Completed posting response(wv:19:WGsjlntmTRipMFtBsCtXNQ) to the webview
+[2022-08-30 16:21:22:402] WebviewPanel: Completed posting response(wv:17:Kfj1SeigSGeMIsYZUQkalw) to the webview
+[2022-08-30 16:21:22:402] WebviewPanel: Completed posting response(wv:18:s2KLuVA8SRCPl_ZFXHP98Q) to the webview
+[2022-08-30 16:21:22:404] Webview: Received message codestream/user/updatePreferences(wv:53:4m_5W4-WSCy57wVU1JqCcA) from the webview
+[2022-08-30 16:21:22:404] Webview: Received message codestream/user/updatePreferences(wv:54:-mGGI3_kQwqmfn-jPKnbsg) from the webview
+[2022-08-30 16:21:22:404] AgentConnection.sendRequest(codestream/user/updatePreferences)
+[2022-08-30 16:21:22:404] AgentConnection.sendRequest(codestream/user/updatePreferences)
+[2022-08-30 16:21:22:404] WebviewPanel: Completed posting response(wv:20:njkt1cSGQn21CGTFcnjXgw) to the webview
+[2022-08-30 16:21:23:389] WebviewPanel: Completed posting response(wv:9:Wy_1KMLKTNeLfkG6Cyz0kw) to the webview
+[2022-08-30 16:21:23:392] WebviewPanel: Completed posting response(wv:10:xQ6Fz1aKTYGv3u9hLCTAkA) to the webview
+[2022-08-30 16:21:24:330] [35] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:21:24:331] [35] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:21:24:335] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:21:25:329] WebviewPanel: Completed posting response(wv:13:zeKrqSb3TX-f-5uap_FNuQ) to the webview
+[2022-08-30 16:21:26:294] WebviewPanel: Completed posting response(wv:22:xg4MPQOLQGGycUU2_8iBQw) to the webview
+[2022-08-30 16:21:26:294] WebviewPanel: Completed posting response(wv:23:L5u-lN-ESM-BIXpPEmQaaQ) to the webview
+[2022-08-30 16:21:26:294] WebviewPanel: Completed posting response(wv:24:bnUCbXcHSI-XDggwXYtcXg) to the webview
+[2022-08-30 16:21:26:297] Webview: Received message codestream/user/updatePreferences(wv:55:81vb6U4TQrqoO94SbvQX0w) from the webview
+[2022-08-30 16:21:26:297] Webview: Received message codestream/user/updatePreferences(wv:56:kt7Od0fGRoyJ0Jo8eGwBzA) from the webview
+[2022-08-30 16:21:26:297] Webview: Received message codestream/user/updatePreferences(wv:57:VOV1YUiZTCmYbOMmOkH6kA) from the webview
+[2022-08-30 16:21:26:297] AgentConnection.sendRequest(codestream/user/updatePreferences)
+[2022-08-30 16:21:26:297] AgentConnection.sendRequest(codestream/user/updatePreferences)
+[2022-08-30 16:21:26:297] AgentConnection.sendRequest(codestream/user/updatePreferences)
+[2022-08-30 16:21:28:671] WebviewPanel: Completed posting response(wv:21:iEvfsGT3QB21SR7j3YK5Ug) to the webview
+[2022-08-30 16:21:28:676] Webview: Received message codestream/scm/repos(wv:58:Bn7-KAquR32gjpTxgw46tQ) from the webview
+[2022-08-30 16:21:28:676] AgentConnection.sendRequest(codestream/scm/repos)
+[2022-08-30 16:21:28:676] WebviewPanel: Completed posting response(wv:25:qUjLkD5YQpOgn_piXuctMw) to the webview
+[2022-08-30 16:21:31:421] WebviewPanel: Completed posting response(wv:27:5naPZbQyQ9WGZh2EpCd-Vw) to the webview
+[2022-08-30 16:21:31:424] [36] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:21:31:425] [36] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:21:31:429] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:21:31:439] Webview: Received message codestream/scm/repos(wv:59:PDnDE-XGS2Co1jVp_pXQSw) from the webview
+[2022-08-30 16:21:31:439] AgentConnection.sendRequest(codestream/scm/repos)
+[2022-08-30 16:21:32:741] WebviewPanel: Completed posting response(wv:26:yB_fW9oYQLG35uV4XzUZHQ) to the webview
+[2022-08-30 16:21:32:741] WebviewPanel: Completed posting response(wv:28:ODXPBPCiRFi388P2p3fq1w) to the webview
+[2022-08-30 16:21:32:745] Webview: Received message codestream/user/updatePreferences(wv:60:7VVQNlvUSa6H-oinxcTlFA) from the webview
+[2022-08-30 16:21:32:746] Webview: Received message codestream/user/updatePreferences(wv:61:E1OZ1orATWadtEqNivKfIA) from the webview
+[2022-08-30 16:21:32:746] AgentConnection.sendRequest(codestream/user/updatePreferences)
+[2022-08-30 16:21:32:746] AgentConnection.sendRequest(codestream/user/updatePreferences)
+[2022-08-30 16:21:34:984] WebviewPanel: Completed posting response(wv:29:GExxkiDbQ0aQk6Ayi_3Miw) to the webview
+[2022-08-30 16:21:35:003] Webview: Received message codestream/scm/repos(wv:62:oqWe4yBTRUWK1mm0e4UQmQ) from the webview
+[2022-08-30 16:21:35:004] AgentConnection.sendRequest(codestream/scm/repos)
+[2022-08-30 16:21:36:965] Webview: Received message codestream/scm/repos(wv:63:5ywgwd_oS2OcfCOOOlfOwQ) from the webview
+[2022-08-30 16:21:36:965] AgentConnection.sendRequest(codestream/scm/repos)
+[2022-08-30 16:21:36:965] WebviewPanel: Completed posting response(wv:31:Kli5jMBkRbCsZ0jf5iUrEA) to the webview
+[2022-08-30 16:21:37:826] WebviewPanel: Completed posting response(wv:30:QHqFpoV2Tw6yZUyQK-zznw) to the webview
+[2022-08-30 16:21:37:826] WebviewPanel: Completed posting response(wv:32:8KCmBA-jTxGjuIdcLOTSjA) to the webview
+[2022-08-30 16:21:37:827] Webview: Received message codestream/user/updatePreferences(wv:64:FxmrQOeDRvae091mOcdzdQ) from the webview
+[2022-08-30 16:21:37:827] Webview: Received message codestream/user/updatePreferences(wv:65:UVa0JnSgSGaIO-DtgXbalw) from the webview
+[2022-08-30 16:21:37:827] AgentConnection.sendRequest(codestream/user/updatePreferences)
+[2022-08-30 16:21:37:827] AgentConnection.sendRequest(codestream/user/updatePreferences)
+[2022-08-30 16:21:38:272] WebviewPanel: Completed posting webview/focus/didChange to the webview
+[2022-08-30 16:21:39:873] Webview: Received message codestream/scm/repos(wv:66:FzpVC1_7TJegdSNdbSh8-Q) from the webview
+[2022-08-30 16:21:39:873] AgentConnection.sendRequest(codestream/scm/repos)
+[2022-08-30 16:21:39:873] WebviewPanel: Completed posting response(wv:33:wmp8H7crTtiDnepcu3jl8g) to the webview
+[2022-08-30 16:21:42:227] Webview: Received message codestream/scm/repos(wv:67:s_69_KpLT4m92dyK8a2VjA) from the webview
+[2022-08-30 16:21:42:227] AgentConnection.sendRequest(codestream/scm/repos)
+[2022-08-30 16:21:42:227] WebviewPanel: Completed posting response(wv:35:mRzQnCUBTTev2aLx0l5-aw) to the webview
+[2022-08-30 16:21:43:284] WebviewPanel: Completed posting response(wv:34:zsuiHXNgRYaBl-ckrwQEAw) to the webview
+[2022-08-30 16:21:43:284] WebviewPanel: Completed posting response(wv:36:oV9IZV5DQeyo3KbTv4myhA) to the webview
+[2022-08-30 16:21:43:286] Webview: Received message codestream/user/updatePreferences(wv:68:_JWSOkM3TxqVWgNHei5GzA) from the webview
+[2022-08-30 16:21:43:286] Webview: Received message codestream/user/updatePreferences(wv:69:eYwG7nnlQeGbRaSg9KijgQ) from the webview
+[2022-08-30 16:21:43:286] AgentConnection.sendRequest(codestream/user/updatePreferences)
+[2022-08-30 16:21:43:286] AgentConnection.sendRequest(codestream/user/updatePreferences)
+[2022-08-30 16:21:45:053] Webview: Received message codestream/scm/repos(wv:70:CU8_K1zzRbS_hefZYmEypg) from the webview
+[2022-08-30 16:21:45:054] AgentConnection.sendRequest(codestream/scm/repos)
+[2022-08-30 16:21:45:054] WebviewPanel: Completed posting response(wv:37:qggCnDoVQiitXyrIMiJjaQ) to the webview
+[2022-08-30 16:21:45:881] WebviewPanel: Completed posting response(wv:14:llaa-tAmQSueGh-0Ro02Qw) to the webview
+[2022-08-30 16:21:46:731] Webview: Received message codestream/scm/repos(wv:71:SSGb2CztQtOlNc_ekKcbdg) from the webview
+[2022-08-30 16:21:46:731] AgentConnection.sendRequest(codestream/scm/repos)
+[2022-08-30 16:21:46:731] WebviewPanel: Completed posting response(wv:39:TSrE_XGhS1SPxHFBEQE_cQ) to the webview
+[2022-08-30 16:21:47:545] Webview: Received message codestream/user/updatePreferences(wv:72:7th2vS3ySIyN5DI9bFALtg) from the webview
+[2022-08-30 16:21:47:545] Webview: Received message codestream/user/updatePreferences(wv:73:ggF_IuEzSHWZZnt0xtsU8w) from the webview
+[2022-08-30 16:21:47:546] AgentConnection.sendRequest(codestream/user/updatePreferences)
+[2022-08-30 16:21:47:546] AgentConnection.sendRequest(codestream/user/updatePreferences)
+[2022-08-30 16:21:47:546] WebviewPanel: Completed posting response(wv:38:HtX7KdXNTxmeDnifLl0IfA) to the webview
+[2022-08-30 16:21:47:546] WebviewPanel: Completed posting response(wv:40:XV29FzOISLC4jgDqGCOKWw) to the webview
+[2022-08-30 16:21:50:488] Webview: Received message codestream/scm/file/info(wv:74:W1lxH1_VSKygRZoL_Lwd2Q) from the webview
+[2022-08-30 16:21:50:488] AgentConnection.sendRequest(codestream/scm/file/info)
+[2022-08-30 16:21:50:488] WebviewPanel: Completed posting response(wv:44:btRWS67AROeqOW7YSEd3lA) to the webview
+[2022-08-30 16:21:50:492] Webview: Received message codestream/scm/repos(wv:75:yzbLePbAS5CkBD7Ku6SvBA) from the webview
+[2022-08-30 16:21:50:492] AgentConnection.sendRequest(codestream/scm/repos)
+[2022-08-30 16:21:50:492] WebviewPanel: Completed posting response(wv:41:y8rvRisoTTC0gsI2XKgogQ) to the webview
+[2022-08-30 16:21:50:492] WebviewPanel: Completed posting response(wv:42:C2csBFWuQze_HyoNDD2oOw) to the webview
+[2022-08-30 16:21:50:494] Webview: Received message codestream/user/updatePreferences(wv:76:RTCtZwHoSSqpc2x57hgAeg) from the webview
+[2022-08-30 16:21:50:494] AgentConnection.sendRequest(codestream/user/updatePreferences)
+[2022-08-30 16:21:50:509] WebviewPanel: Completed posting response(wv:43:EY17sNNdTge7oW6PHNjaAw) to the webview
+[2022-08-30 16:21:50:509] WebviewPanel: Completed posting response(wv:46:P_e3vQCETZq_gwESWXT5tw) to the webview
+[2022-08-30 16:21:50:509] WebviewPanel: Completed posting response(wv:47:ZA-C2tSwTOWBWMAQU_wnUg) to the webview
+[2022-08-30 16:21:50:509] WebviewPanel: Completed posting response(wv:48:sK6pGyPqTjGBwsUjnes4Gw) to the webview
+[2022-08-30 16:21:50:512] Webview: Received message codestream/scm/repos(wv:77:__oi-D-3TnupbKF8jHapow) from the webview
+[2022-08-30 16:21:50:512] AgentConnection.sendRequest(codestream/scm/repos)
+[2022-08-30 16:21:57:719] WebviewPanel: Completed posting response(wv:52:PfbxjGDxT6GpFOyxMfP4SA) to the webview
+[2022-08-30 16:21:57:719] WebviewPanel: Completed posting response(wv:50:yNo_hRA5SOW4OPqyueJF-A) to the webview
+[2022-08-30 16:21:57:726] WebviewPanel: Completed posting response(wv:12:VDOY_WRgSByffmht_gJp0A) to the webview
+[2022-08-30 16:21:57:726] WebviewPanel: Completed posting response(wv:58:Bn7-KAquR32gjpTxgw46tQ) to the webview
+[2022-08-30 16:21:57:726] WebviewPanel: Completed posting response(wv:59:PDnDE-XGS2Co1jVp_pXQSw) to the webview
+[2022-08-30 16:21:57:732] WebviewPanel: Completed posting response(wv:62:oqWe4yBTRUWK1mm0e4UQmQ) to the webview
+[2022-08-30 16:21:57:732] WebviewPanel: Completed posting response(wv:63:5ywgwd_oS2OcfCOOOlfOwQ) to the webview
+[2022-08-30 16:21:57:735] Webview: Received message codestream/textDocument/markers(wv:78:0rCB8bhXQ1OG5dan4igYFQ) from the webview
+[2022-08-30 16:21:57:736] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:21:57:736] WebviewPanel: Completed posting response(wv:66:FzpVC1_7TJegdSNdbSh8-Q) to the webview
+[2022-08-30 16:21:57:736] WebviewPanel: Completed posting response(wv:67:s_69_KpLT4m92dyK8a2VjA) to the webview
+[2022-08-30 16:21:57:738] Webview: Received message codestream/textDocument/markers(wv:79:aUlYDYNqStaMckNtIY5wVA) from the webview
+[2022-08-30 16:21:57:738] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:21:57:740] Webview: Received message codestream/textDocument/markers(wv:80:VGqBVI81Sg2tSOFkfYAN8Q) from the webview
+[2022-08-30 16:21:57:741] Webview: Received message codestream/textDocument/markers(wv:81:9LuwKjEaSVKw1uafw3rjqA) from the webview
+[2022-08-30 16:21:57:741] Webview: Received message codestream/textDocument/markers(wv:82:EFcZ2SnmRfWAHnFbI2M_hA) from the webview
+[2022-08-30 16:21:57:741] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:21:57:741] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:21:57:741] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:21:57:741] WebviewPanel: Completed posting response(wv:70:CU8_K1zzRbS_hefZYmEypg) to the webview
+[2022-08-30 16:21:57:742] Webview: Received message codestream/textDocument/markers(wv:83:Wyxli-tQQJuSOGHymWwlQw) from the webview
+[2022-08-30 16:21:57:742] Webview: Received message codestream/textDocument/markers(wv:84:_2mGZB6nRUaxGvJ9Q4STnw) from the webview
+[2022-08-30 16:21:57:742] Webview: Received message codestream/textDocument/markers(wv:85:1MApc-5YTRaEZ5doPRY8zw) from the webview
+[2022-08-30 16:21:57:743] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:21:57:743] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:21:57:743] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:21:57:744] WebviewPanel: Completed posting response(wv:71:SSGb2CztQtOlNc_ekKcbdg) to the webview
+[2022-08-30 16:21:57:745] Webview: Received message codestream/textDocument/markers(wv:86:P1GVLqGaSEWhK3k4H5GK4w) from the webview
+[2022-08-30 16:21:57:745] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:21:58:724] Webview: Received message codestream/textDocument/markers(wv:87:PidLxuYNTFe540aon2xzRA) from the webview
+[2022-08-30 16:21:58:724] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:21:58:724] WebviewPanel: Completed posting response(wv:75:yzbLePbAS5CkBD7Ku6SvBA) to the webview
+[2022-08-30 16:21:59:636] WebviewPanel: Completed posting response(wv:77:__oi-D-3TnupbKF8jHapow) to the webview
+[2022-08-30 16:21:59:636] WebviewPanel: Completed posting response(wv:78:0rCB8bhXQ1OG5dan4igYFQ) to the webview
+[2022-08-30 16:21:59:637] Webview: Received message codestream/textDocument/markers(wv:88:Hk619hBTSQeVmOvitoCY_Q) from the webview
+[2022-08-30 16:21:59:638] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:21:59:638] WebviewPanel: Completed posting response(wv:74:W1lxH1_VSKygRZoL_Lwd2Q) to the webview
+[2022-08-30 16:21:59:638] WebviewPanel: Completed posting response(wv:79:aUlYDYNqStaMckNtIY5wVA) to the webview
+[2022-08-30 16:21:59:640] WebviewPanel: Completed posting response(wv:80:VGqBVI81Sg2tSOFkfYAN8Q) to the webview
+[2022-08-30 16:21:59:640] WebviewPanel: Completed posting response(wv:81:9LuwKjEaSVKw1uafw3rjqA) to the webview
+[2022-08-30 16:21:59:643] WebviewPanel: Completed posting response(wv:82:EFcZ2SnmRfWAHnFbI2M_hA) to the webview
+[2022-08-30 16:21:59:643] WebviewPanel: Completed posting response(wv:83:Wyxli-tQQJuSOGHymWwlQw) to the webview
+[2022-08-30 16:21:59:643] WebviewPanel: Completed posting response(wv:84:_2mGZB6nRUaxGvJ9Q4STnw) to the webview
+[2022-08-30 16:21:59:647] WebviewPanel: Completed posting response(wv:85:1MApc-5YTRaEZ5doPRY8zw) to the webview
+[2022-08-30 16:21:59:647] WebviewPanel: Completed posting response(wv:86:P1GVLqGaSEWhK3k4H5GK4w) to the webview
+[2022-08-30 16:21:59:647] WebviewPanel: Completed posting response(wv:87:PidLxuYNTFe540aon2xzRA) to the webview
+[2022-08-30 16:21:59:647] WebviewPanel: Completed posting response(wv:88:Hk619hBTSQeVmOvitoCY_Q) to the webview
+[2022-08-30 16:21:59:892] [37] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:21:59:892] [37] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:21:59:893] [38] CodeStreamAgentConnection.onDataChanged(preferences)
+[2022-08-30 16:21:59:893] [38] CodeStreamAgentConnection.onDataChanged(preferences) completed • 0 ms
+[2022-08-30 16:21:59:896] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:21:59:896] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:21:59:896] WebviewPanel: Completed posting response(wv:56:kt7Od0fGRoyJ0Jo8eGwBzA) to the webview
+[2022-08-30 16:21:59:899] [39] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:21:59:899] [39] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:21:59:900] [3a] CodeStreamAgentConnection.onDataChanged(preferences)
+[2022-08-30 16:21:59:900] [3a] CodeStreamAgentConnection.onDataChanged(preferences) completed • 0 ms
+[2022-08-30 16:21:59:901] [3b] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:21:59:902] [3b] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:21:59:904] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:21:59:904] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:21:59:904] [3c] CodeStreamAgentConnection.onDataChanged(preferences)
+[2022-08-30 16:21:59:905] [3c] CodeStreamAgentConnection.onDataChanged(preferences) completed • 0 ms
+[2022-08-30 16:21:59:905] WebviewPanel: Completed posting response(wv:53:4m_5W4-WSCy57wVU1JqCcA) to the webview
+[2022-08-30 16:21:59:905] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:21:59:907] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:21:59:910] WebviewPanel: Completed posting response(wv:65:UVa0JnSgSGaIO-DtgXbalw) to the webview
+[2022-08-30 16:21:59:919] [3d] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:21:59:919] [3d] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:21:59:920] [3e] CodeStreamAgentConnection.onDataChanged(preferences)
+[2022-08-30 16:21:59:920] [3e] CodeStreamAgentConnection.onDataChanged(preferences) completed • 0 ms
+[2022-08-30 16:21:59:924] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:21:59:924] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:21:59:924] WebviewPanel: Completed posting response(wv:61:E1OZ1orATWadtEqNivKfIA) to the webview
+[2022-08-30 16:21:59:925] [3f] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:21:59:926] [3f] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:21:59:926] [40] CodeStreamAgentConnection.onDataChanged(preferences)
+[2022-08-30 16:21:59:927] [40] CodeStreamAgentConnection.onDataChanged(preferences) completed • 0 ms
+[2022-08-30 16:21:59:929] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:21:59:931] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:21:59:931] WebviewPanel: Completed posting response(wv:69:eYwG7nnlQeGbRaSg9KijgQ) to the webview
+[2022-08-30 16:21:59:961] Webview: Received message codestream/telemetry(wv:89:-Z-nWhXSR1qx9k0TLvHg_g) from the webview
+[2022-08-30 16:21:59:961] AgentConnection.sendRequest(codestream/telemetry)
+[2022-08-30 16:21:59:961] WebviewPanel: Completed posting response(wv:49:F30Q-IgUQsyoUTz6IsLZ7g) to the webview
+[2022-08-30 16:21:59:967] WebviewPanel: Completed posting response(wv:89:-Z-nWhXSR1qx9k0TLvHg_g) to the webview
+[2022-08-30 16:22:00:171] WebviewPanel: Completed posting response(wv:45:fZxO1KBWQNyv51cvQidqjQ) to the webview
+[2022-08-30 16:22:00:357] [41] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:22:00:357] [41] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:22:00:358] [42] CodeStreamAgentConnection.onDataChanged(preferences)
+[2022-08-30 16:22:00:358] [42] CodeStreamAgentConnection.onDataChanged(preferences) completed • 0 ms
+[2022-08-30 16:22:00:362] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:362] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:365] WebviewPanel: Completed posting response(wv:51:uP_wIamxQl-qRAbOVwzknQ) to the webview
+[2022-08-30 16:22:00:432] [43] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:22:00:433] [43] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:22:00:433] [44] CodeStreamAgentConnection.onDataChanged(preferences)
+[2022-08-30 16:22:00:434] [44] CodeStreamAgentConnection.onDataChanged(preferences) completed • 0 ms
+[2022-08-30 16:22:00:439] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:439] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:442] [45] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:22:00:443] [45] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:22:00:444] [46] CodeStreamAgentConnection.onDataChanged(preferences)
+[2022-08-30 16:22:00:445] [46] CodeStreamAgentConnection.onDataChanged(preferences) completed • 0 ms
+[2022-08-30 16:22:00:447] WebviewPanel: Completed posting response(wv:72:7th2vS3ySIyN5DI9bFALtg) to the webview
+[2022-08-30 16:22:00:447] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:449] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:451] WebviewPanel: Completed posting response(wv:60:7VVQNlvUSa6H-oinxcTlFA) to the webview
+[2022-08-30 16:22:00:572] [47] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:22:00:572] [47] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:22:00:572] [48] CodeStreamAgentConnection.onDataChanged(preferences)
+[2022-08-30 16:22:00:572] [48] CodeStreamAgentConnection.onDataChanged(preferences) completed • 0 ms
+[2022-08-30 16:22:00:579] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:579] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:579] WebviewPanel: Completed posting response(wv:57:VOV1YUiZTCmYbOMmOkH6kA) to the webview
+[2022-08-30 16:22:00:607] [49] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:22:00:607] [49] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:22:00:607] [4a] CodeStreamAgentConnection.onDataChanged(preferences)
+[2022-08-30 16:22:00:608] [4a] CodeStreamAgentConnection.onDataChanged(preferences) completed • 0 ms
+[2022-08-30 16:22:00:612] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:612] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:612] WebviewPanel: Completed posting response(wv:54:-mGGI3_kQwqmfn-jPKnbsg) to the webview
+[2022-08-30 16:22:00:647] [4b] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:22:00:648] [4b] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:22:00:648] [4c] CodeStreamAgentConnection.onDataChanged(preferences)
+[2022-08-30 16:22:00:648] [4c] CodeStreamAgentConnection.onDataChanged(preferences) completed • 0 ms
+[2022-08-30 16:22:00:651] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:653] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:653] WebviewPanel: Completed posting response(wv:64:FxmrQOeDRvae091mOcdzdQ) to the webview
+[2022-08-30 16:22:00:696] [4d] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:22:00:696] [4d] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:22:00:696] [4e] CodeStreamAgentConnection.onDataChanged(preferences)
+[2022-08-30 16:22:00:697] [4e] CodeStreamAgentConnection.onDataChanged(preferences) completed • 0 ms
+[2022-08-30 16:22:00:701] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:701] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:701] WebviewPanel: Completed posting response(wv:76:RTCtZwHoSSqpc2x57hgAeg) to the webview
+[2022-08-30 16:22:00:722] [4f] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:22:00:723] [4f] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:22:00:723] [50] CodeStreamAgentConnection.onDataChanged(preferences)
+[2022-08-30 16:22:00:723] [50] CodeStreamAgentConnection.onDataChanged(preferences) completed • 0 ms
+[2022-08-30 16:22:00:726] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:730] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:730] WebviewPanel: Completed posting response(wv:68:_JWSOkM3TxqVWgNHei5GzA) to the webview
+[2022-08-30 16:22:00:792] [51] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:22:00:792] [51] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:22:00:793] [52] CodeStreamAgentConnection.onDataChanged(preferences)
+[2022-08-30 16:22:00:793] [52] CodeStreamAgentConnection.onDataChanged(preferences) completed • 0 ms
+[2022-08-30 16:22:00:796] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:796] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:799] WebviewPanel: Completed posting response(wv:55:81vb6U4TQrqoO94SbvQX0w) to the webview
+[2022-08-30 16:22:00:864] [53] CodeStreamAgentConnection.onDataChanged(users)
+[2022-08-30 16:22:00:864] [53] CodeStreamAgentConnection.onDataChanged(users) completed • 0 ms
+[2022-08-30 16:22:00:864] [54] CodeStreamAgentConnection.onDataChanged(preferences)
+[2022-08-30 16:22:00:865] [54] CodeStreamAgentConnection.onDataChanged(preferences) completed • 0 ms
+[2022-08-30 16:22:00:868] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:868] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:22:00:868] WebviewPanel: Completed posting response(wv:73:ggF_IuEzSHWZZnt0xtsU8w) to the webview
+[2022-08-30 16:22:01:900] WebviewPanel: Completed posting response(wv:11:FY8woD3QR86ZogbAEVQ7pQ) to the webview
+[2022-08-30 16:27:25:991] [55] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-08-30 16:27:25:992] [55] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-08-30 16:27:25:997] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:27:38:688] [56] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-08-30 16:27:38:689] [56] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-08-30 16:27:38:690] [57] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-08-30 16:27:38:690] [57] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-08-30 16:27:38:693] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:27:38:695] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:33:32:436] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:33:32:475] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:33:37:000] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:33:37:000] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-30 16:33:37:004] [58] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-30 16:33:37:005] [58] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-30 16:33:37:014] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:33:38:420] [59] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-30 16:33:38:434] [59] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-30 16:33:38:470] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:33:38:481] [5a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE)
+[2022-08-30 16:33:38:482] [5a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE) completed • 0 ms
+[2022-08-30 16:33:38:482] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:33:38:482] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:33:38:494] WebviewPanel: Completed posting codestream/didChangeDocumentMarkers to the webview
+[2022-08-30 16:33:38:494] [5b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-30 16:33:38:494] [5b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-30 16:33:38:507] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:33:38:522] [5c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-30 16:33:38:523] [5c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-30 16:33:38:536] [5d] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-30 16:33:38:537] [5d] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-30 16:33:38:540] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:33:38:551] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:33:41:565] [5e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE)
+[2022-08-30 16:33:41:567] [5e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE) completed • 1 ms
+[2022-08-30 16:33:41:567] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:33:41:567] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 16:33:41:580] WebviewPanel: Completed posting codestream/didChangeDocumentMarkers to the webview
+[2022-08-30 16:33:49:562] WebviewPanel: Completed posting webview/editor/didChangeSelection to the webview
+[2022-08-30 16:33:50:572] [5f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-30 16:33:50:573] [5f] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-30 16:33:50:604] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:33:50:604] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-30 16:33:50:604] WebviewPanel: Completed posting webview/editor/didChangeVisibleRanges to the webview
+[2022-08-30 16:33:50:604] WebviewPanel: Completed posting webview/editor/didChangeVisibleRanges to the webview
+[2022-08-30 16:33:50:606] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-30 16:33:51:935] WebviewPanel: Completed posting webview/editor/didChangeSelection to the webview
+[2022-08-30 16:33:51:935] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-30 16:35:30:866] [60] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-08-30 16:35:30:866] [60] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-08-30 16:35:30:871] WebviewPanel: Completed posting codestream/didChangeData to the webview
