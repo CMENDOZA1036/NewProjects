@@ -1685,3 +1685,55 @@ completed • 9672 ms
 [2022-08-30 16:48:26:779] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 846 ms
 [2022-08-30 16:48:26:779] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
 [2022-08-30 16:48:27:542] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 762 ms
+[2022-08-30 16:56:50:328] MARKERS: flushing uncommitted locations
+[2022-08-30 16:56:50:328] GIT: Running(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD --
+[2022-08-30 16:56:51:437] [362] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 16:56:51:437] [362] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 16:56:51:438] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:56:52:222] GIT: Completed(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD -- in 1893 ms
+[2022-08-30 16:56:52:222] [364] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash)
+[2022-08-30 16:56:52:223] [364] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash) completed • 0 ms
+[2022-08-30 16:56:52:224] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 786 ms
+[2022-08-30 16:56:52:225] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 16:56:53:012] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 787 ms
+[2022-08-30 16:57:55:570] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me"
+[2022-08-30 16:57:55:570] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me"
+[Warn  - 11:57:56 AM] [2022-08-30 16:57:56:034] undefined 
+[Warn  - 11:57:56 AM] [2022-08-30 16:57:56:036] undefined 
+[2022-08-30 16:57:56:037] Will not notify of new PRs - no changes detected
+[2022-08-30 16:59:09:374] [367] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 16:59:09:374] [367] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 16:59:09:375] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 16:59:10:186] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 811 ms
+[2022-08-30 16:59:10:186] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 16:59:10:972] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 786 ms
+[2022-08-30 17:01:29:107] [368] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 17:01:29:107] [368] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 17:01:29:108] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 17:01:30:164] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 1056 ms
+[2022-08-30 17:01:30:164] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 17:01:30:969] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 805 ms
+[2022-08-30 17:03:46:360] [369] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 17:03:46:360] [369] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 17:03:46:360] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 17:03:47:398] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 1037 ms
+[2022-08-30 17:03:47:398] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 17:03:48:166] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 767 ms
+[2022-08-30 17:04:32:258] [36a] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 17:04:32:258] [36a] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 17:04:32:258] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 17:04:33:110] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 852 ms
+[2022-08-30 17:04:33:111] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 17:04:33:911] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 797 ms
+[2022-08-30 17:09:59:389] [36b] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 17:09:59:389] [36b] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 17:09:59:390] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 17:10:00:425] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 1035 ms
+[2022-08-30 17:10:00:425] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 17:10:01:223] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 798 ms
+[2022-08-30 17:10:22:124] [36c] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 17:10:22:124] [36c] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 17:10:22:125] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 17:10:23:017] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 892 ms
+[2022-08-30 17:10:23:017] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 17:10:23:860] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 843 ms
