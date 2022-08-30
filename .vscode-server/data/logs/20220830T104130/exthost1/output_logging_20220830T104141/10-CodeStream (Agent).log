@@ -1776,3 +1776,20 @@ completed • 9672 ms
 [2022-08-30 17:13:23:653] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 759 ms
 [2022-08-30 17:13:23:653] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
 [2022-08-30 17:13:24:420] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 767 ms
+[2022-08-30 17:20:45:145] MARKERS: flushing uncommitted locations
+[2022-08-30 17:20:45:146] GIT: Running(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD --
+[2022-08-30 17:20:46:675] [378] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 17:20:46:675] [378] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 17:20:46:676] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 17:20:47:435] GIT: Completed(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD -- in 2289 ms
+[2022-08-30 17:20:47:436] [37a] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash)
+[2022-08-30 17:20:47:436] [37a] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash) completed • 0 ms
+[2022-08-30 17:20:47:440] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 764 ms
+[2022-08-30 17:20:47:440] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 17:20:48:298] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 858 ms
+[2022-08-30 17:21:06:995] [37c] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 17:21:06:995] [37c] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 17:21:06:996] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 17:21:07:792] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 796 ms
+[2022-08-30 17:21:07:792] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 17:21:08:589] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 796 ms
