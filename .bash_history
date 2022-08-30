@@ -1910,3 +1910,19 @@ git push origin main
 cd ..
 code .
 git remote -v
+cd PersonalProjects
+code .
+git status
+git add .
+git commit -am "Js Practico 15"
+git push origin main
+cd ..
+git push origin main
+git status
+git add 
+git add .
+git commit -am "Js Practico 15"
+git push origin main
+cd PersonalProjects
+git status
+git push origin main

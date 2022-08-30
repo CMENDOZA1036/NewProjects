@@ -20,3 +20,5 @@
 
 [2022-08-29 18:10:10.524] [remoteagent] [info] [127.0.0.1][11dee79f][ExtensionHostConnection] <121> [0mGET /WEB/Frontend/curso%202/.../icons/bt_add_to_cart.svg [33m404[0m 13.959 ms - 190[0m
 
+[2022-08-29 19:14:18.030] [remoteagent] [info] [127.0.0.1][02d077eb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-29 19:14:18.523] [remoteagent] [info] [127.0.0.1][11dee79f][ExtensionHostConnection] <121> Extension Host Process exited with code: 0, signal: null.

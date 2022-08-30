@@ -1,8 +1,0 @@
-[2022-08-23 11:00:24.270] [exthost] [info] Extension host with pid 446 started
-[2022-08-23 11:00:24.618] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
-[2022-08-23 11:00:24.659] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
-[2022-08-23 11:00:24.718] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
-[2022-08-23 11:00:24.780] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets, startup: true, activationEvent: '*'
-[2022-08-23 11:00:24.789] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
-[2022-08-23 11:00:24.869] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
-[2022-08-23 11:00:25.026] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'

@@ -1,0 +1,32 @@
+[2022-08-30 10:41:34.143] [remoteagent] [info] Extension host agent started.
+[2022-08-30 10:41:34.410] [remoteagent] [info] [127.0.0.1][c73f534f][ManagementConnection] New connection established.
+[2022-08-30 10:41:34.423] [remoteagent] [info] [127.0.0.1][1a01d3ad][ExtensionHostConnection] New connection established.
+[2022-08-30 10:41:37.364] [remoteagent] [info] [127.0.0.1][1a01d3ad][ExtensionHostConnection] <174> Launched Extension Host Process.
+[2022-08-30 10:41:40.093] [remoteagent] [info] Deleted from disk ms-vsliveshare.vsliveshare /home/cmendoza/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5695
+[2022-08-30 10:41:42.877] [remoteagent] [info] Getting Manifest... eamodio.gitlens-insiders
+[2022-08-30 10:41:42.877] [remoteagent] [info] Getting Manifest... github.vscode-pull-request-github
+[2022-08-30 10:41:42.877] [remoteagent] [info] Getting Manifest... ritwickdey.liveserver
+[2022-08-30 10:41:43.476] [remoteagent] [info] Installing extension: github.vscode-pull-request-github
+[2022-08-30 10:41:43.959] [remoteagent] [info] Installing extension: eamodio.gitlens-insiders
+[2022-08-30 10:41:44.444] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2022-08-30 10:41:46.328] [remoteagent] [info] Downloaded extension: github.vscode-pull-request-github /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/github.vscode-pull-request-github-0.49.2022083009
+[2022-08-30 10:41:46.530] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.4ac8ac77-3892-48b2-a581-9ee2e4b8a83f: github.vscode-pull-request-github
+[2022-08-30 10:41:46.549] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/github.vscode-pull-request-github-0.49.2022083009
+[2022-08-30 10:41:46.561] [remoteagent] [info] Extracting completed. github.vscode-pull-request-github
+[2022-08-30 10:41:46.567] [remoteagent] [info] Extension installed successfully: github.vscode-pull-request-github
+[2022-08-30 10:41:57.945] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.8
+[2022-08-30 10:41:58.653] [remoteagent] [info] Downloaded extension: eamodio.gitlens-insiders /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-insiders-2022.8.3005
+[2022-08-30 10:42:00.296] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.6e6eae8e-6259-47f6-a48c-ea208505ca55: eamodio.gitlens-insiders
+[2022-08-30 10:42:00.353] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.8.3005
+[2022-08-30 10:42:00.376] [remoteagent] [info] Extracting completed. eamodio.gitlens-insiders
+[2022-08-30 10:42:00.387] [remoteagent] [info] Extension installed successfully: eamodio.gitlens-insiders
+[2022-08-30 10:42:13.227] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.79da4f88-40d5-445c-aa3d-b61903138ed5: ritwickdey.liveserver
+[2022-08-30 10:42:13.660] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ritwickdey.liveserver-5.7.8
+[2022-08-30 10:42:13.669] [remoteagent] [info] Extracting completed. ritwickdey.liveserver
+[2022-08-30 10:42:13.708] [remoteagent] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-08-30 10:43:47.513] [remoteagent] [info] [127.0.0.1][1a01d3ad][ExtensionHostConnection] <174> [0mGET /favicon.ico [33m404[0m 2.472 ms - 150[0m
+
+[2022-08-30 11:19:26.445] [remoteagent] [info] [127.0.0.1][1a01d3ad][ExtensionHostConnection] <174> [0mGET /PersonalProjects/WEB/Frontend/Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 4.147 ms - 204[0m
+
+[2022-08-30 11:20:03.937] [remoteagent] [info] [127.0.0.1][1a01d3ad][ExtensionHostConnection] <174> [0mGET /PersonalProjects/WEB/Frontend/Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 3.876 ms - 204[0m
+

@@ -1,0 +1,2 @@
+[2022-08-30 16:19:11.172] [GIT  ] [/home/cmendoza/PersonalProjects] git log --format=%x3cr%x3e%x20%H -n3 -m -L 116,116:WEB/Frontend/Project_Bata_Bit/styles.css • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 116,116:WEB/Frontend/Project_Bata_Bit/styles.css • file WEB/Frontend/Project_Bata_Bit/styles.css has only 104 lines • 916 ms (slow)
+
