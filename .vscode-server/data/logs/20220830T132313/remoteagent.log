@@ -1,0 +1,6 @@
+[2022-08-30 13:23:16.306] [remoteagent] [info] Extension host agent started.
+[2022-08-30 13:23:16.424] [remoteagent] [info] [127.0.0.1][146268c5][ManagementConnection] New connection established.
+[2022-08-30 13:23:16.571] [remoteagent] [info] [127.0.0.1][7b918650][ExtensionHostConnection] New connection established.
+[2022-08-30 13:23:18.489] [remoteagent] [info] [127.0.0.1][7b918650][ExtensionHostConnection] <5756> Launched Extension Host Process.
+[2022-08-30 13:23:35.286] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/cmendoza/.vscode-server/data/logs/20220823T172504/exthost1' failed: No such file or directory (EUNKNOWN) (path: /home/cmendoza)
+[2022-08-30 13:23:35.287] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/cmendoza/.vscode-server/data/logs/20220823T172504/exthost1' failed: No such file or directory

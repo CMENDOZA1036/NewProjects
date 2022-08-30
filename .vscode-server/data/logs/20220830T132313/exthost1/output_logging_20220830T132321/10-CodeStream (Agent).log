@@ -1,0 +1,752 @@
+Warning: Ignoring extra certs from `null`, load failed: error:02001002:system library:fopen:No such file or directory
+New Relic for Node.js was unable to bootstrap itself due to an error:
+Error: New Relic requires that you name this application!
+Set app_name in your newrelic.js file or set environment variable
+NEW_RELIC_APP_NAME. Not starting!
+    at aBt (/home/cmendoza/.vscode-server/extensions/codestream.codestream-13.6.0/dist/agent.js:1131:54)
+    at sBt (/home/cmendoza/.vscode-server/extensions/codestream.codestream-13.6.0/dist/agent.js:1129:543)
+    at /home/cmendoza/.vscode-server/extensions/codestream.codestream-13.6.0/dist/agent.js:1128:66429
+    at /home/cmendoza/.vscode-server/extensions/codestream.codestream-13.6.0/dist/agent.js:1:279
+    at Object.<anonymous> (/home/cmendoza/.vscode-server/extensions/codestream.codestream-13.6.0/dist/agent.js:1466:58598)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+(node:5874) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[2022-08-30 18:23:49:331] Git found: 2.25.1 @ /usr/bin/git • 2497 ms
+[2022-08-30 18:23:49:332] Agent for CodeStream v13.6.0-4237 in VS Code (v1.70.2) initializing...
+[2022-08-30 18:23:49:333] RepositoryLocator.start: waiting on session.ready
+[2022-08-30 18:23:49:338] Node.js version: v16.13.2
+[2022-08-30 18:23:49:338] NODE_* environment variables:
+[2022-08-30 18:23:49:338] NODE_TLS_REJECT_UNAUTHORIZED=1
+[2022-08-30 18:23:49:338] NODE_EXTRA_CA_CERTS=null
+[2022-08-30 18:23:49:338] Proxy support is on, but no proxy url was found
+[2022-08-30 18:23:49:340] API Server URL: >https://api.codestream.com<
+[2022-08-30 18:23:49:341] Reject unauthorized: true
+[2022-08-30 18:23:49:342] Verifying API server connectivity
+[2022-08-30 18:23:49:366] CodeStreamAgent.registerHandler(codestream/reporting/message)
+[2022-08-30 18:23:49:369] CodeStreamAgent.registerHandler(codestream/reporting/breadcrumb)
+[2022-08-30 18:23:49:369] CodeStreamAgent.registerHandler(codestream/webview/error)
+[2022-08-30 18:23:49:369] CodeStreamAgent.registerHandler(codestream/codeErrors)
+[2022-08-30 18:23:49:369] CodeStreamAgent.registerHandler(codestream/codeError)
+[2022-08-30 18:23:49:369] CodeStreamAgent.registerHandler(codestream/codeError/update)
+[2022-08-30 18:23:49:369] CodeStreamAgent.registerHandler(codestream/codeError/delete)
+[2022-08-30 18:23:49:370] CodeStreamAgent.registerHandler(codestream/codeErrors/claim)
+[2022-08-30 18:23:49:371] CodeStreamAgent.registerHandler(codestream/codemarks/create)
+[2022-08-30 18:23:49:371] CodeStreamAgent.registerHandler(codestream/codemark/permalink)
+[2022-08-30 18:23:49:371] CodeStreamAgent.registerHandler(codestream/codemarks)
+[2022-08-30 18:23:49:372] CodeStreamAgent.registerHandler(codestream/codemark/sha1)
+[2022-08-30 18:23:49:372] CodeStreamAgent.registerHandler(codestream/codemark/range)
+[2022-08-30 18:23:49:372] CodeStreamAgent.registerHandler(codestream/codemark/delete)
+[2022-08-30 18:23:49:372] CodeStreamAgent.registerHandler(codestream/codemark/update)
+[2022-08-30 18:23:49:372] CodeStreamAgent.registerHandler(codestream/codemark/setPinned)
+[2022-08-30 18:23:49:372] CodeStreamAgent.registerHandler(codestream/codemark/pinReply)
+[2022-08-30 18:23:49:373] CodeStreamAgent.registerHandler(codestream/codemark/follow)
+[2022-08-30 18:23:49:373] CodeStreamAgent.registerHandler(codestream/review/follow)
+[2022-08-30 18:23:49:373] CodeStreamAgent.registerHandler(codestream/codeError/follow)
+[2022-08-30 18:23:49:373] CodeStreamAgent.registerHandler(codestream/codemark/setStatus)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/companies)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/posts)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/posts/byIds)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/posts/activity)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/post/replies)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/codemarks/sharing/create)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/reviews/create)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/codeErrors/create)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/posts/create)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/posts/createWithCodemark)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/post/delete)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/post/edit)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/post/share-update)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/post/markUnread)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/post/markRead)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/post/react)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/post)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/reviews)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/review)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/review/contentsLocal)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/review/allContents)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/review/coverage)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/review/contents)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/review/update)
+[2022-08-30 18:23:49:377] CodeStreamAgent.registerHandler(codestream/review/delete)
+[2022-08-30 18:23:49:378] CodeStreamAgent.registerHandler(codestream/review/checkPreconditions)
+[2022-08-30 18:23:49:378] CodeStreamAgent.registerHandler(codestream/review/pr/checkPreconditions)
+[2022-08-30 18:23:49:378] CodeStreamAgent.registerHandler(codestream/review/pr/create)
+[2022-08-30 18:23:49:378] CodeStreamAgent.registerHandler(codestream/review/start)
+[2022-08-30 18:23:49:378] CodeStreamAgent.registerHandler(codestream/review/pause)
+[2022-08-30 18:23:49:378] CodeStreamAgent.registerHandler(codestream/review/end)
+[2022-08-30 18:23:49:379] CodeStreamAgent.registerHandler(codestream/review/createForUnreviewedCommits)
+[2022-08-30 18:23:49:379] CodeStreamAgent.registerHandler(codestream/textDocument/markers/create/link)
+[2022-08-30 18:23:49:379] CodeStreamAgent.registerHandler(codestream/textDocument/markers)
+[2022-08-30 18:23:49:379] CodeStreamAgent.registerHandler(codestream/textDocument/fromKey)
+[2022-08-30 18:23:49:379] CodeStreamAgent.registerHandler(codestream/textDocument/fromMarker)
+[2022-08-30 18:23:49:379] CodeStreamAgent.registerHandler(codestream/streams/fileStream)
+[2022-08-30 18:23:49:379] CodeStreamAgent.registerHandler(codestream/streams/file)
+[2022-08-30 18:23:49:379] CodeStreamAgent.registerHandler(codestream/repos/ignore-files)
+[2022-08-30 18:23:49:379] CodeStreamAgent.registerHandler(codestream/repos/ignore-files/add)
+[2022-08-30 18:23:49:379] CodeStreamAgent.registerHandler(codestream/marker)
+[2022-08-30 18:23:49:379] CodeStreamAgent.registerHandler(codestream/marker/move)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/markers/add)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/marker/delete)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/newrelic/entities)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/newrelic/errorGroup/metadata)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/newrelic/assignments)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/newrelic/repos)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/newrelic/errors)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/newrelic/accounts)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/newrelic/errorGroup)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/newrelic/assignees)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/newrelic/fileLevelTelemetry)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/newrelic/methodLevelMethodTelemetry)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/newrelic/serviceLevelTelemetry)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/nr/parseStackTrace)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/nr/resolveStackTrace)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/nr/resolveStackTracePosition)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/nr/findCandidateMainFiles)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/nr/installNewRelic)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/nr/createNewRelicConfigFile)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/nr/addNewRelicInclude)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/pixie/clusters)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/pixie/namespaces)
+[2022-08-30 18:23:49:380] CodeStreamAgent.registerHandler(codestream/pixie/pods)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/pixie/dynamicLogging)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/pixie/dynamicLoggingCancel)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/repos/map)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/normalizeUrl)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/repos/create)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/repos)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/repo)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/commit)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/repos)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/repo/statuses)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/branches)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/create-branch)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/switch-branch)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/repo/status)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/file/info)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/range/info)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/range/sha1)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/sha1/ranges)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/latestCommitters)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/latestCommit)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/blame)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/commitAndPush)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/remotes)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/remoteBranch)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/commitsStatus)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/file/diff)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/branches/diff)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/forkPoint)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/scm/commits/files)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/api/get)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/api/post)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/api/put)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/api/delete)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/streams)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/streams/unread)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/streams/createChannel)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/streams/createDirect)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/stream/archive)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/stream/close)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/stream/join)
+[2022-08-30 18:23:49:381] CodeStreamAgent.registerHandler(codestream/stream/leave)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/stream/markRead)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/stream/mute)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/stream/open)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/stream/rename)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/stream/setPurpose)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/stream/unarchive)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/stream/updateMembership)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/stream)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/teams)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/team)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/telemetry)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/telemetry/setAnonymousId)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/text-files/read)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/text-files/write)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/scm/user/info)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/scm/workspace/repos)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/scm/workspace/autojoin)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/url/open)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/users)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/user/invite)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/user/delete)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/user/kick)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/user/update)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/user/updatePreferences)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/user/updateStatus)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/user/updateInvisible)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/user/updatePresence)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/users/me/unreads)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/user)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/users/me/preferences)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/provider/connect)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/provider/configure)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/provider/add)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/provider/remove)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/provider/disconnect)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/provider/cards/users)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/provider/cards/users/search)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/provider/boards)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/provider/cards)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/provider/cards/workflow)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/provider/cards/create)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/provider/cards/move)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/provider/channels)
+[2022-08-30 18:23:49:382] CodeStreamAgent.registerHandler(codestream/provider/status/update)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/provider/posts/create)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/provider/pullrequest)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/provider/pullrequestcommits)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/provider/generic)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/provider/query)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/providers/pullrequest/queries)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/repos/match)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/team/create)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/sendPasswordResetEmail)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/setPassword)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/company/update)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/company/delete)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/company/create)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/company/createForeign)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/team/tag/create)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/team/tag/deleete)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/team/tag/update)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/team/admin/update)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/team/update)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/team/settings/update)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/team/add-blame-map)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/team/delete-blame-map)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/users/me/delete)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/provider/token)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/upload/file)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/nr/openNewRelicSignupUrl)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/ui/state)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/verifyConnectivity)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/accessToken)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/login/password)
+[2022-08-30 18:23:49:383] CodeStreamAgent.registerHandler(codestream/login/token)
+[2022-08-30 18:23:49:384] CodeStreamAgent.registerHandler(codestream/login/otc)
+[2022-08-30 18:23:49:384] CodeStreamAgent.registerHandler(codestream/login/confirm)
+[2022-08-30 18:23:49:384] CodeStreamAgent.registerHandler(codestream/login/generate-code)
+[2022-08-30 18:23:49:384] CodeStreamAgent.registerHandler(codestream/registration)
+[2022-08-30 18:23:49:384] CodeStreamAgent.registerHandler(codestream/nr-registration)
+[2022-08-30 18:23:49:384] CodeStreamAgent.registerHandler(codestream/registration/confirm)
+[2022-08-30 18:23:49:384] CodeStreamAgent.registerHandler(codestream/registration/invite-info)
+[2022-08-30 18:23:49:384] CodeStreamAgent.registerHandler(codestream/companies/join)
+[2022-08-30 18:23:49:384] CodeStreamAgent.registerHandler(codestream/api)
+[2022-08-30 18:23:49:384] CodeStreamAgent.registerHandler(codestream/set-server)
+[2022-08-30 18:23:49:384] CodeStreamAgent.registerHandler(codestream/bootstrap)
+[2022-08-30 18:23:49:384] Agent is ready
+[2022-08-30 18:23:49:387] RepositoryLocator.start: starting startCore
+[2022-08-30 18:23:49:387] startCore: initializing promise
+[2022-08-30 18:23:49:388] getWorkspaceFolders: workspaces supported
+[2022-08-30 18:23:49:390] [d7] CodeStreamApiProvider.getTelemetryKey
+[2022-08-30 18:23:49:853] API server status: 200
+[2022-08-30 18:23:49:856] registerApiCapabilities for teamId undefined — {}
+[2022-08-30 18:23:49:857] _apiCapabilities — {"sample":{"description":"SAMPLE","version":"1.0.0"},"multipleMarkers":{"description":"Ability to have multiple code blocks per codemark","version":"1.21.20"},"moveMarkers":{"description":"Ability to change the location of code blocks pointed to by codemarks","version":"1.21.20"},"moveMarkers2":{"description":"Ability to change the location of code blocks pointed to by codemarks, with essential API server fix","version":"1.21.23"},"repoCommitMatching":{"description":"Supports the /repos/match/:teamId call, which allows matches to be found for repos by remotes and known commit hashes","version":"1.21.24"},"follow":{"description":"Ability to follow or unfollow a codemark","version":"1.21.27"},"lightningCodeReviews":{"description":"Support for lightning code reviews","version":"1.21.33","supportedIdes":["VS Code","JetBrains","VS"]},"notificationDeliveryPreference":{"description":"Support for displaying the email/desktop delivery notification preference","version":"1.21.33"},"multipleReviewersApprove":{"description":"Support for multiple reviewers being required to approve a review","version":"7.1.1"},"emailSupport":{"description":"Whether outbound emails are supported, value actually comes from configuration","version":"1.0.0"},"multiCheckpointReviews":{"description":"Reviews supporting multiple checkpoints","version":"7.2.0"},"inviteUsersOnTheFly":{"description":"Users can be invited on-the-fly in codemarks and reviews","version":"7.2.7"},"kickstart":{"description":"Kickstart features","version":"7.4.2"},"cr2pr":{"description":"Features supporting opening pull requests after code reviews","version":"7.4.2"},"shareStatusToSlack":{"description":"Whether the share to slack capability is supported, which requires a new scope for the slack app","version":"8.0.6"},"addBlameMap":{"description":"Supporting adding someone to the blame-map","version":"8.1.1"},"vsCodeGithubSignin":{"description":"Supports whether special VSCode GitHub signin is supported in the auth flow","version":"8.2.7"},"compactModifiedRepos":{"description":"Supports compact modifiedRepos structure","version":"8.2.8"},"providerReauth":{"description":"Supports re-authentication for providers if tokens are found to be invalid","version":"8.2.11"},"autoJoin":{"description":"Supports auto-join API call, to auto-join a team based on open repos in IDE","version":"8.2.13"},"testGroups":{"description":"Supports the /company-test-groups/:id call, to set randomized test groups for a company","version":"8.2.15"},"fileUploads":{"description":"Supports file uploading","version":"8.2.17","cloudOnly":true},"autoFR":{"description":"Supports automatic generation of feedback requests","version":"8.2.20"},"readItem":{"description":"Supports /read-item call to mark number of unread replies for an item","version":"8.2.33"},"echoes":{"description":"Supports periodic echoes to test broadcaster reliability","version":"8.2.39"},"multiRegion":{"description":"Supports multi-region switching","version":"12.0.7","useGlobal":true}}
+[2022-08-30 18:23:49:857] Got environment from connectivity response: — {"environment":"us","isOnPrem":false,"isProductionCloud":true,"newRelicLandingServiceUrl":"https://landing.service.newrelic.com","newRelicApiUrl":"https://api.newrelic.com","environmentHosts":[{"name":"EU","publicApiUrl":"https://eu-api.codestream.com","shortName":"eu"},{"name":"US","publicApiUrl":"https://api.codestream.com","shortName":"us"}]}
+[2022-08-30 18:23:49:857] [d8] CodeStreamAgent.sendNotification(codestream/didSetEnvironment)
+[2022-08-30 18:23:49:858] [d8] CodeStreamAgent.sendNotification(codestream/didSetEnvironment) completed • 0 ms
+[2022-08-30 18:23:49:858] [1] CodeStreamSession.verifyConnectivity completed • 516 ms
+[2022-08-30 18:23:49:865] VersionMiddlewareManager: API version changed from  to 13.0.3
+[2022-08-30 18:23:49:865] [d9] VersionMiddlewareManager.apiVersionNotify
+[2022-08-30 18:23:49:866] [da] CodeStreamSession.onApiVersionCompatibilityChanged
+[2022-08-30 18:23:49:866] [db] CodeStreamAgent.sendNotification(codestream/didChangeApiVersionCompatibility)
+[2022-08-30 18:23:49:866] [db] CodeStreamAgent.sendNotification(codestream/didChangeApiVersionCompatibility) completed • 0 ms
+[2022-08-30 18:23:49:866] [da] CodeStreamSession.onApiVersionCompatibilityChanged completed • 0 ms
+[2022-08-30 18:23:49:866] [d9] VersionMiddlewareManager.apiVersionNotify completed • 0 ms
+[2022-08-30 18:23:49:867] API(1042f683-d93a-4e85-aff8-5d494243764e): Completed GET /no-auth/telemetry-key?secret=<hidden> • 475 ms
+[2022-08-30 18:23:49:867] [d7] CodeStreamApiProvider.getTelemetryKey completed • 476 ms
+[2022-08-30 18:24:22:243] Document opened: file:///home/cmendoza/Projects/Project_Bata_Bit/index.html
+[2022-08-30 18:24:22:245] startCore: Starting repository search in 1 folders
+[2022-08-30 18:24:22:247] repositorySearch: Searching for repositories (depth=2) in '/home/cmendoza' initializing=true isInWorkspace=true...
+[2022-08-30 18:24:22:249] GIT: Running(/home/cmendoza): git rev-parse --show-toplevel
+[2022-08-30 18:24:24:540] [dc] CodeStreamSession.tokenLogin Logging alvarezmendoz@gmail.com into CodeStream (@ https://api.codestream.com) via authentication token...
+[2022-08-30 18:24:24:541] [de] CodeStreamAgent.sendNotification(codestream/didStartLogin)
+[2022-08-30 18:24:24:541] [de] CodeStreamAgent.sendNotification(codestream/didStartLogin) completed • 0 ms
+[2022-08-30 18:24:24:547] GIT: Completed(/home/cmendoza): git rev-parse --show-toplevel in 2298 ms
+[2022-08-30 18:24:24:548] repositorySearch: Repository found in '/home/cmendoza'
+[2022-08-30 18:24:25:496] API(a1d356ad-cbb2-402c-ad1c-5bc0dcd94336): Completed PUT /login body={} • 954 ms
+[2022-08-30 18:24:25:497] CodeStream user 'CMENDOZA1036' (62a8af311c3021007d502dc9) is logging into unknown and belongs to 1 team(s)
+	Everyone (62a8af3bd1bffae460f923af)
+[2022-08-30 18:24:25:497] Using team 'Everyone' (62a8af3bd1bffae460f923af) because the team was the last used team
+[2022-08-30 18:24:25:497] registerApiCapabilities for teamId 62a8af3bd1bffae460f923af — {}
+[2022-08-30 18:24:25:497] _apiCapabilities — {"sample":{"description":"SAMPLE","version":"1.0.0"},"multipleMarkers":{"description":"Ability to have multiple code blocks per codemark","version":"1.21.20"},"moveMarkers":{"description":"Ability to change the location of code blocks pointed to by codemarks","version":"1.21.20"},"moveMarkers2":{"description":"Ability to change the location of code blocks pointed to by codemarks, with essential API server fix","version":"1.21.23"},"repoCommitMatching":{"description":"Supports the /repos/match/:teamId call, which allows matches to be found for repos by remotes and known commit hashes","version":"1.21.24"},"follow":{"description":"Ability to follow or unfollow a codemark","version":"1.21.27"},"lightningCodeReviews":{"description":"Support for lightning code reviews","version":"1.21.33","supportedIdes":["VS Code","JetBrains","VS"]},"notificationDeliveryPreference":{"description":"Support for displaying the email/desktop delivery notification preference","version":"1.21.33"},"multipleReviewersApprove":{"description":"Support for multiple reviewers being required to approve a review","version":"7.1.1"},"emailSupport":{"description":"Whether outbound emails are supported, value actually comes from configuration","version":"1.0.0"},"multiCheckpointReviews":{"description":"Reviews supporting multiple checkpoints","version":"7.2.0"},"inviteUsersOnTheFly":{"description":"Users can be invited on-the-fly in codemarks and reviews","version":"7.2.7"},"kickstart":{"description":"Kickstart features","version":"7.4.2"},"cr2pr":{"description":"Features supporting opening pull requests after code reviews","version":"7.4.2"},"shareStatusToSlack":{"description":"Whether the share to slack capability is supported, which requires a new scope for the slack app","version":"8.0.6"},"addBlameMap":{"description":"Supporting adding someone to the blame-map","version":"8.1.1"},"vsCodeGithubSignin":{"description":"Supports whether special VSCode GitHub signin is supported in the auth flow","version":"8.2.7"},"compactModifiedRepos":{"description":"Supports compact modifiedRepos structure","version":"8.2.8"},"providerReauth":{"description":"Supports re-authentication for providers if tokens are found to be invalid","version":"8.2.11"},"autoJoin":{"description":"Supports auto-join API call, to auto-join a team based on open repos in IDE","version":"8.2.13"},"testGroups":{"description":"Supports the /company-test-groups/:id call, to set randomized test groups for a company","version":"8.2.15"},"fileUploads":{"description":"Supports file uploading","version":"8.2.17","cloudOnly":true},"autoFR":{"description":"Supports automatic generation of feedback requests","version":"8.2.20"},"readItem":{"description":"Supports /read-item call to mark number of unread replies for an item","version":"8.2.33"},"echoes":{"description":"Supports periodic echoes to test broadcaster reliability","version":"8.2.39"},"multiRegion":{"description":"Supports multi-region switching","version":"12.0.7","useGlobal":true}}
+[2022-08-30 18:24:25:503] GitRepositories.start: waiting for session
+[2022-08-30 18:24:25:507] GitRepositories.start: session ready
+[2022-08-30 18:24:25:507] GitRepositories.start: returning
+[2022-08-30 18:24:25:508] onWorkspaceFoldersChanged: initializing promise
+[2022-08-30 18:24:25:508] [df] CodeStreamApiProvider.fetchRepos
+[2022-08-30 18:24:25:510] CodeStreamAgent.registerHandler(codestream/reporting/message)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/reporting/breadcrumb)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/webview/error)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codeErrors)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codeError)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codeError/update)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codeError/delete)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codeErrors/claim)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codemarks/create)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codemark/permalink)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codemarks)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codemark/sha1)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codemark/range)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codemark/delete)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codemark/update)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codemark/setPinned)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codemark/pinReply)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codemark/follow)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/review/follow)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codeError/follow)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codemark/setStatus)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/companies)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/posts)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/posts/byIds)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/posts/activity)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/post/replies)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codemarks/sharing/create)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/reviews/create)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/codeErrors/create)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/posts/create)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/posts/createWithCodemark)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/post/delete)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/post/edit)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/post/share-update)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/post/markUnread)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/post/markRead)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/post/react)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/post)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/reviews)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/review)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/review/contentsLocal)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/review/allContents)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/review/coverage)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/review/contents)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/review/update)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/review/delete)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/review/checkPreconditions)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/review/pr/checkPreconditions)
+[2022-08-30 18:24:25:511] CodeStreamAgent.registerHandler(codestream/review/pr/create)
+[2022-08-30 18:24:25:512] CodeStreamAgent.registerHandler(codestream/review/start)
+[2022-08-30 18:24:25:512] CodeStreamAgent.registerHandler(codestream/review/pause)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/review/end)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/review/createForUnreviewedCommits)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/textDocument/markers/create/link)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/textDocument/markers)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/textDocument/fromKey)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/textDocument/fromMarker)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/streams/fileStream)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/streams/file)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/repos/ignore-files)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/repos/ignore-files/add)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/marker)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/marker/move)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/markers/add)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/marker/delete)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/newrelic/entities)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/newrelic/errorGroup/metadata)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/newrelic/assignments)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/newrelic/repos)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/newrelic/errors)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/newrelic/accounts)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/newrelic/errorGroup)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/newrelic/assignees)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/newrelic/fileLevelTelemetry)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/newrelic/methodLevelMethodTelemetry)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/newrelic/serviceLevelTelemetry)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/nr/parseStackTrace)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/nr/resolveStackTrace)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/nr/resolveStackTracePosition)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/nr/findCandidateMainFiles)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/nr/installNewRelic)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/nr/createNewRelicConfigFile)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/nr/addNewRelicInclude)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/pixie/clusters)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/pixie/namespaces)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/pixie/pods)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/pixie/dynamicLogging)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/pixie/dynamicLoggingCancel)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/repos/map)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/normalizeUrl)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/repos/create)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/repos)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/repo)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/commit)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/repos)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/repo/statuses)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/branches)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/create-branch)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/switch-branch)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/repo/status)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/file/info)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/range/info)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/range/sha1)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/sha1/ranges)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/latestCommitters)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/latestCommit)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/blame)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/commitAndPush)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/remotes)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/remoteBranch)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/commitsStatus)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/file/diff)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/branches/diff)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/forkPoint)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/scm/commits/files)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/api/get)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/api/post)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/api/put)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/api/delete)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/streams)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/streams/unread)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/streams/createChannel)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/streams/createDirect)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/stream/archive)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/stream/close)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/stream/join)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/stream/leave)
+[2022-08-30 18:24:25:513] CodeStreamAgent.registerHandler(codestream/stream/markRead)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/stream/mute)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/stream/open)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/stream/rename)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/stream/setPurpose)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/stream/unarchive)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/stream/updateMembership)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/stream)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/teams)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/team)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/telemetry)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/telemetry/setAnonymousId)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/text-files/read)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/text-files/write)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/scm/user/info)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/scm/workspace/repos)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/scm/workspace/autojoin)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/url/open)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/users)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/user/invite)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/user/delete)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/user/kick)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/user/update)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/user/updatePreferences)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/user/updateStatus)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/user/updateInvisible)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/user/updatePresence)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/users/me/unreads)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/user)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/users/me/preferences)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/connect)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/configure)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/add)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/remove)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/disconnect)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/cards/users)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/cards/users/search)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/boards)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/cards)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/cards/workflow)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/cards/create)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/cards/move)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/channels)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/status/update)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/posts/create)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/pullrequest)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/pullrequestcommits)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/generic)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/query)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/providers/pullrequest/queries)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/repos/match)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/team/create)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/sendPasswordResetEmail)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/setPassword)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/company/update)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/company/delete)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/company/create)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/company/createForeign)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/team/tag/create)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/team/tag/deleete)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/team/tag/update)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/team/admin/update)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/team/update)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/team/settings/update)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/team/add-blame-map)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/team/delete-blame-map)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/users/me/delete)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/provider/token)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/upload/file)
+[2022-08-30 18:24:25:514] CodeStreamAgent.registerHandler(codestream/nr/openNewRelicSignupUrl)
+[2022-08-30 18:24:25:514] [1a5] CodeStreamApiProvider.getPreferences
+[2022-08-30 18:24:25:515] Subscribing to real-time events...
+[2022-08-30 18:24:25:515] [1a6] CodeStreamApiProvider.subscribe
+[2022-08-30 18:24:25:516] [1a8] CodeStreamUnreads.compute
+[2022-08-30 18:24:25:517] [1a9] CodeStreamApiProvider.getPreferences
+[2022-08-30 18:24:25:519] [1aa] BroadcasterEvents.connect
+[2022-08-30 18:24:25:519] BROADCASTER: Broadcaster initializing...
+[2022-08-30 18:24:25:519] BROADCASTER: PUBNUB: Connection initializing...
+[2022-08-30 18:24:25:522] BROADCASTER: Request to subscribe to channels: ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-08-30 18:24:25:523] BROADCASTER: Channels were added, will need a connected message
+[2022-08-30 18:24:25:523] BROADCASTER: Ensuring subscription to all channels...
+[2022-08-30 18:24:25:523] BROADCASTER: Unsubscribed channels are: ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-08-30 18:24:25:523] BROADCASTER: Broadcaster subscribing to: ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-08-30 18:24:25:523] BROADCASTER: PUBNUB: Subscribing to ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-08-30 18:24:25:527] BROADCASTER: Broadcaster subscriptions timing out in 5s...
+[2022-08-30 18:24:25:527] [1aa] BroadcasterEvents.connect completed • 8 ms
+[2022-08-30 18:24:25:527] [1a6] CodeStreamApiProvider.subscribe completed • 11 ms
+[2022-08-30 18:24:25:527] [1ab] CodeStreamApiProvider.fetchTeams
+[2022-08-30 18:24:25:944] API(64a4ef5f-1c36-47c5-8a16-df88cc22193d): Completed GET /preferences • 429 ms
+[2022-08-30 18:24:25:944] [1a5] CodeStreamApiProvider.getPreferences completed • 430 ms
+[2022-08-30 18:24:25:957] API(f2cd71fe-ddb8-4d61-b449-468a5c13b893): Completed GET /repos?teamId=62a8af3bd1bffae460f923af • 448 ms
+[2022-08-30 18:24:25:957] [df] CodeStreamApiProvider.fetchRepos completed • 448 ms
+[2022-08-30 18:24:25:958] onWorkspaceFoldersChanged: no event - initializing
+[2022-08-30 18:24:25:958] startCore: existing promise found - awaiting
+[2022-08-30 18:24:26:062] API(279750fd-1958-4e7b-84c0-b07785542111): Completed GET /preferences • 545 ms
+[2022-08-30 18:24:26:062] [1a9] CodeStreamApiProvider.getPreferences completed • 545 ms
+[2022-08-30 18:24:26:063] [1ac] CodeStreamApiProvider.fetchUnreadStreams
+[2022-08-30 18:24:26:113] BROADCASTER: PUBNUB: Pubnub status received (category=PNConnectedCategory operation=PNSubscribeOperation)
+[2022-08-30 18:24:26:113] BROADCASTER: PUBNUB: Subscribed channels: user-62a8af311c3021007d502dc9,team-62a8af3bd1bffae460f923af
+[2022-08-30 18:24:26:114] BROADCASTER: These channels are connected: ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-08-30 18:24:26:114] BROADCASTER: No more unsubscribed channels
+[2022-08-30 18:24:26:114] BROADCASTER: Catching up on all channels
+[2022-08-30 18:24:26:114] BROADCASTER: No messages have been received yet, looks like fresh session, retrieve history since 1661883855519
+[2022-08-30 18:24:26:114] BROADCASTER: Fetching history since 1661883855519 for: ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-08-30 18:24:26:115] BROADCASTER: Calling Pubnub.fetchMessages from 16618838555190000 for user-62a8af311c3021007d502dc9,team-62a8af3bd1bffae460f923af
+[2022-08-30 18:24:26:179] API(edcc0686-4ee3-461e-974f-f568d7475dee): Completed GET /teams?mine • 651 ms
+[2022-08-30 18:24:26:179] [1ab] CodeStreamApiProvider.fetchTeams completed • 651 ms
+[2022-08-30 18:24:26:444] [1ae] CodeStreamAgent.sendNotification(codestream/agentInitialized)
+[2022-08-30 18:24:26:444] [1ae] CodeStreamAgent.sendNotification(codestream/agentInitialized) completed • 0 ms
+[2022-08-30 18:24:26:478] API(2350b927-b663-472d-bb05-7cd6b3610a2c): Completed GET /streams?teamId=62a8af3bd1bffae460f923af&unread • 415 ms
+[2022-08-30 18:24:26:478] [1ac] CodeStreamApiProvider.fetchUnreadStreams completed • 415 ms
+[2022-08-30 18:24:26:479] [1af] CodeStreamAgent.sendNotification(codestream/didChangeData:unreads)
+[2022-08-30 18:24:26:479] [1af] CodeStreamAgent.sendNotification(codestream/didChangeData:unreads) completed • 0 ms
+[2022-08-30 18:24:26:479] [1a8] CodeStreamUnreads.compute completed • 962 ms
+[2022-08-30 18:24:26:519] GIT: Running(/home/cmendoza/CMENDOZA1036): git rev-parse --show-toplevel
+[2022-08-30 18:24:27:974] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me"
+[2022-08-30 18:24:27:976] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me"
+[2022-08-30 18:24:27:991] BROADCASTER: Caught up!
+[2022-08-30 18:24:27:992] BROADCASTER: Subscription successful: ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-08-30 18:24:27:992] BROADCASTER: Emitting status Connected: ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-08-30 18:24:27:992] BROADCASTER: Connection status
+[2022-08-30 18:24:27:994] GIT: Completed(/home/cmendoza/CMENDOZA1036): git rev-parse --show-toplevel in 1475 ms
+[2022-08-30 18:24:27:995] repositorySearch: Repository found in '/home/cmendoza/CMENDOZA1036'
+[2022-08-30 18:24:27:995] GIT: Running(/home/cmendoza/HyperBlog): git rev-parse --show-toplevel
+[2022-08-30 18:24:29:962] API(7c4e5540-2b23-4926-b07a-847d5b5603b6): Completed GET /companies?mine=true • 3782 ms
+[2022-08-30 18:24:29:964] [dd] CodeStreamSession.login completed • 5423 ms
+[2022-08-30 18:24:29:964] [dc] CodeStreamSession.tokenLogin completed • 5424 ms
+[2022-08-30 18:24:29:979] [1b3] CodeStreamAgent.sendNotification(codestream/didLogin)
+[2022-08-30 18:24:29:980] [1b3] CodeStreamAgent.sendNotification(codestream/didLogin) completed • 0 ms
+[2022-08-30 18:24:29:981] GIT: Completed(/home/cmendoza/HyperBlog): git rev-parse --show-toplevel in 1986 ms
+[2022-08-30 18:24:29:981] repositorySearch: Repository found in '/home/cmendoza/HyperBlog'
+[2022-08-30 18:24:29:982] GIT: Running(/home/cmendoza/JsPractico): git rev-parse --show-toplevel
+[2022-08-30 18:24:35:013] GIT: Completed(/home/cmendoza/JsPractico): git rev-parse --show-toplevel in 5031 ms
+[2022-08-30 18:24:35:013] repositorySearch: Repository found in '/home/cmendoza/JsPractico'
+[2022-08-30 18:24:35:013] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --show-toplevel
+[2022-08-30 18:24:40:326] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --show-toplevel in 5313 ms
+[2022-08-30 18:24:40:327] repositorySearch: Repository found in '/home/cmendoza/PersonalProjects'
+[2022-08-30 18:24:40:327] GIT: Running(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --show-toplevel
+[2022-08-30 18:24:42:776] [1b4] CodeStreamApiProvider.getUnreads
+[2022-08-30 18:24:42:776] [1b4] CodeStreamApiProvider.getUnreads completed • 0 ms
+[2022-08-30 18:24:42:778] [1b5] CodeStreamApiProvider.getUnreads
+[2022-08-30 18:24:42:778] [1b5] CodeStreamApiProvider.getUnreads completed • 0 ms
+[2022-08-30 18:24:42:778] GIT: Completed(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --show-toplevel in 2450 ms
+[2022-08-30 18:24:42:778] repositorySearch: Repository found in '/home/cmendoza/Proyecto-Google-Clone'
+[2022-08-30 18:24:42:778] GIT: Running(/home/cmendoza/blender_vscode): git rev-parse --show-toplevel
+[2022-08-30 18:24:44:106] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Bata_Bit/index.html
+[2022-08-30 18:24:44:108] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/Project_Bata_Bit/index.html v15
+[2022-08-30 18:24:44:108] GIT: Running(/home/cmendoza/Projects/Project_Bata_Bit): git rev-parse --show-toplevel
+[Warn  - 1:24:45 PM] [2022-08-30 18:24:45:354] undefined 
+[Warn  - 1:24:45 PM] [2022-08-30 18:24:45:354] undefined 
+[2022-08-30 18:24:45:356] Will not notify of new PRs - no changes detected
+[2022-08-30 18:24:45:360] GIT: Completed(/home/cmendoza/blender_vscode): git rev-parse --show-toplevel in 2581 ms
+[2022-08-30 18:24:45:360] repositorySearch: Repository found in '/home/cmendoza/blender_vscode'
+[2022-08-30 18:24:45:361] GIT: Running(/home/cmendoza/escuela-js): git rev-parse --show-toplevel
+[2022-08-30 18:24:46:805] GIT: Completed(/home/cmendoza/Projects/Project_Bata_Bit): git rev-parse --show-toplevel in 2697 ms
+[2022-08-30 18:24:46:810] GIT: Completed(/home/cmendoza/escuela-js): git rev-parse --show-toplevel in 1449 ms
+[2022-08-30 18:24:46:810] repositorySearch: Repository found in '/home/cmendoza/escuela-js'
+[2022-08-30 18:24:46:811] repositorySearch: Searching for repositories (depth=2) in '/home/cmendoza' took 24563 ms
+[2022-08-30 18:24:46:811] startCore: found 8 repositories in file:///home/cmendoza
+[2022-08-30 18:24:46:811] startCore: processed 8 repositories
+[2022-08-30 18:24:46:811] startCore: resolving true
+[2022-08-30 18:24:46:811] startCore: existing promise found - done
+[2022-08-30 18:24:46:812] [1b6] GitService.getRepoRemotes
+[2022-08-30 18:24:46:812] GIT: Running(/home/cmendoza): git remote -v
+[2022-08-30 18:24:48:944] GIT: Completed(/home/cmendoza): git remote -v in 2131 ms
+[2022-08-30 18:24:51:475] [1b6] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/NewProjects.git] • 4662 ms
+[2022-08-30 18:24:51:475] GIT: Running(/home/cmendoza): git remote show upstream
+[2022-08-30 18:24:52:686] [1b7] GitService.getRepoRemotes
+[2022-08-30 18:24:52:687] GIT: Running(/home/cmendoza/CMENDOZA1036): git remote -v
+[2022-08-30 18:24:57:717] GIT: Completed(/home/cmendoza): git remote show upstream in 6241 ms
+[2022-08-30 18:24:57:717] GIT: Running(/home/cmendoza): git remote show origin
+[2022-08-30 18:24:59:016] GIT: Completed(/home/cmendoza/CMENDOZA1036): git remote -v in 6329 ms
+[2022-08-30 18:25:01:486] [1b7] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/CMENDOZA1036.git] • 8799 ms
+[2022-08-30 18:25:01:487] GIT: Running(/home/cmendoza/CMENDOZA1036): git remote show upstream
+[2022-08-30 18:25:03:498] [1b8] GitService.getRepoRemotes
+[2022-08-30 18:25:03:498] GIT: Running(/home/cmendoza/HyperBlog): git remote -v
+[2022-08-30 18:25:04:763] GIT: Completed(/home/cmendoza/CMENDOZA1036): git remote show upstream in 3276 ms
+[2022-08-30 18:25:04:764] GIT: Running(/home/cmendoza/CMENDOZA1036): git remote show origin
+[2022-08-30 18:25:06:002] GIT: Completed(/home/cmendoza/HyperBlog): git remote -v in 2504 ms
+[2022-08-30 18:25:06:004] [1b8] GitService.getRepoRemotes returned [https://github.com/CMENDOZA1036/HyperBlog.git] • 2505 ms
+[2022-08-30 18:25:06:006] GIT: Running(/home/cmendoza/HyperBlog): git remote show upstream
+[2022-08-30 18:25:07:261] [1b9] GitService.getRepoRemotes
+[2022-08-30 18:25:07:261] GIT: Running(/home/cmendoza/JsPractico): git remote -v
+[2022-08-30 18:25:08:558] GIT: Completed(/home/cmendoza/HyperBlog): git remote show upstream in 2552 ms
+[2022-08-30 18:25:08:558] GIT: Running(/home/cmendoza/HyperBlog): git remote show origin
+[2022-08-30 18:25:09:626] GIT: Completed(/home/cmendoza/JsPractico): git remote -v in 2364 ms
+[2022-08-30 18:25:12:132] [1b9] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/JsPractico.git] • 4870 ms
+[2022-08-30 18:25:12:132] GIT: Running(/home/cmendoza/JsPractico): git remote show upstream
+[2022-08-30 18:25:13:334] [1ba] GitService.getRepoRemotes
+[2022-08-30 18:25:13:335] GIT: Running(/home/cmendoza/PersonalProjects): git remote -v
+[2022-08-30 18:25:14:540] GIT: Completed(/home/cmendoza/JsPractico): git remote show upstream in 2407 ms
+[2022-08-30 18:25:14:540] GIT: Running(/home/cmendoza/JsPractico): git remote show origin
+[2022-08-30 18:25:15:736] GIT: Completed(/home/cmendoza/HyperBlog): git remote show origin in 7178 ms
+[2022-08-30 18:25:15:737] GIT: Completed(/home/cmendoza/PersonalProjects): git remote -v in 2402 ms
+[2022-08-30 18:25:17:653] [1ba] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/PersonalProjects.git] • 4318 ms
+[2022-08-30 18:25:17:653] GIT: Running(/home/cmendoza/PersonalProjects): git remote show upstream
+[2022-08-30 18:25:18:498] [1bb] GitService.getRepoRemotes
+[2022-08-30 18:25:18:498] GIT: Running(/home/cmendoza/Proyecto-Google-Clone): git remote -v
+[2022-08-30 18:25:19:441] GIT: Completed(/home/cmendoza/PersonalProjects): git remote show upstream in 1788 ms
+[2022-08-30 18:25:19:442] GIT: Running(/home/cmendoza/PersonalProjects): git remote show origin
+[2022-08-30 18:25:20:315] GIT: Completed(/home/cmendoza/Proyecto-Google-Clone): git remote -v in 1817 ms
+[2022-08-30 18:25:22:182] [1bb] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/Proyecto-Google-Clone.git] • 3683 ms
+[2022-08-30 18:25:22:186] GIT: Running(/home/cmendoza/Proyecto-Google-Clone): git remote show upstream
+[2022-08-30 18:25:23:062] [1bc] GitService.getRepoRemotes
+[2022-08-30 18:25:23:062] GIT: Running(/home/cmendoza/blender_vscode): git remote -v
+[2022-08-30 18:25:24:078] GIT: Completed(/home/cmendoza/Proyecto-Google-Clone): git remote show upstream in 1892 ms
+[2022-08-30 18:25:24:078] GIT: Running(/home/cmendoza/Proyecto-Google-Clone): git remote show origin
+[2022-08-30 18:25:24:978] GIT: Completed(/home/cmendoza/blender_vscode): git remote -v in 1916 ms
+[2022-08-30 18:25:24:980] [1bc] GitService.getRepoRemotes returned [https://github.com/JacquesLucke/blender_vscode] • 1917 ms
+[2022-08-30 18:25:24:980] GIT: Running(/home/cmendoza/blender_vscode): git remote show upstream
+[2022-08-30 18:25:25:870] [1bd] GitService.getRepoRemotes
+[2022-08-30 18:25:25:870] GIT: Running(/home/cmendoza/escuela-js): git remote -v
+[2022-08-30 18:25:26:746] GIT: Completed(/home/cmendoza/blender_vscode): git remote show upstream in 1765 ms
+[2022-08-30 18:25:26:746] GIT: Running(/home/cmendoza/blender_vscode): git remote show origin
+[2022-08-30 18:25:27:592] GIT: Completed(/home/cmendoza/escuela-js): git remote -v in 1721 ms
+[2022-08-30 18:25:28:544] GIT: Completed(/home/cmendoza/blender_vscode): git remote show origin in 1798 ms
+[2022-08-30 18:25:29:471] [1bd] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/escuela-js.git, git://github.com/marcelofarias/escuela-js.git] • 3600 ms
+[2022-08-30 18:25:29:471] GIT: Running(/home/cmendoza/escuela-js): git remote show upstream
+[2022-08-30 18:25:30:319] onWorkspaceFoldersChanged: 8 folders added from existing repos
+[2022-08-30 18:25:30:321] onWorkspaceFoldersChanged: processing 1 unassigned repositories
+[2022-08-30 18:25:30:321] [1be] GitService.getRepoRemotes
+[2022-08-30 18:25:30:322] [1be] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/NewProjects.git] • 0 ms
+[2022-08-30 18:25:30:324] GIT: Running(/home/cmendoza): git rev-list --date-order master --
+[2022-08-30 18:25:31:194] GIT: Completed(/home/cmendoza): git rev-list --date-order master -- in 870 ms
+[2022-08-30 18:25:31:194] GIT: Running(/home/cmendoza): git branch --sort=committerdate --
+[2022-08-30 18:25:32:055] GIT: Completed(/home/cmendoza): git branch --sort=committerdate -- in 861 ms
+[2022-08-30 18:25:32:056] GIT: Running(/home/cmendoza): git merge-base --fork-point master --
+[2022-08-30 18:25:33:045] GIT: Running(/home/cmendoza): git merge-base --fork-point main --
+[2022-08-30 18:25:34:026] GIT: Completed(/home/cmendoza): git merge-base --fork-point master -- in 1969 ms
+[2022-08-30 18:25:34:034] GIT: Completed(/home/cmendoza): git merge-base --fork-point main -- in 988 ms
+[2022-08-30 18:25:34:034] [1bf] CodeStreamApiProvider.matchRepos
+[2022-08-30 18:25:34:488] API(f5897573-6aaa-4969-9ad1-9ff8ebb8e592): Completed PUT /repos/match/62a8af3bd1bffae460f923af body={"repos":[{"remotes":["github.com/cmendoza1036/newprojects"],"knownCommitHashes":["c5526db268fe2086cdaa707f28a75dfcbaff8f86","147ef793061e2c870ee4dc21caba3f247d77700e","147ef793061e2c870ee4dc21caba3f247d77700e","fedc7177b0ea6b42b7a107439b85b10485f9cbf0"]}]} • 454 ms
+[2022-08-30 18:25:34:490] [1bf] CodeStreamApiProvider.matchRepos completed • 456 ms
+[2022-08-30 18:25:34:490] onWorkspaceFoldersChanged: processing 8 added repositories
+[2022-08-30 18:25:34:491] onWorkspaceFoldersChanged: processing 0 removed folders
+[2022-08-30 18:25:34:492] [1c2] RepositoryMappingManager.mapRepos
+[2022-08-30 18:25:34:498] onWorkspaceFoldersChanged: monitoring repositories
+[2022-08-30 18:25:34:502] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:25:35:338] [1c2] RepositoryMappingManager.mapRepos completed • 846 ms
+[2022-08-30 18:25:35:343] BROADCASTER: PUBNUB: Message received on team-62a8af3bd1bffae460f923af at 1661883933707
+[2022-08-30 18:25:35:343] BROADCASTER: Broadcaster message received at: 1661883933707
+[2022-08-30 18:25:35:343] BROADCASTER: _lastMessageReceivedAt updated to 1661883933707
+[2022-08-30 18:25:35:346] [1c5] CodeStreamAgent.sendNotification(codestream/didChangeData:repos)
+[2022-08-30 18:25:35:346] [1c5] CodeStreamAgent.sendNotification(codestream/didChangeData:repos) completed • 0 ms
+[2022-08-30 18:25:35:346] [1c6] RepositoryMappingManager.mapRepos
+[2022-08-30 18:25:35:351] [1c6] RepositoryMappingManager.mapRepos completed • 4 ms
+[2022-08-30 18:25:35:352] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 850 ms
+[2022-08-30 18:25:35:352] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 18:25:36:242] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 889 ms
+[2022-08-30 18:25:36:246] GIT: Running(/home/cmendoza/CMENDOZA1036): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:25:37:116] GIT: Completed(/home/cmendoza/CMENDOZA1036): git rev-parse --abbrev-ref HEAD in 870 ms
+[2022-08-30 18:25:37:117] GIT: Running(/home/cmendoza/CMENDOZA1036): git rev-parse --abbrev-ref master@{u}
+[2022-08-30 18:25:37:968] GIT: Completed(/home/cmendoza/CMENDOZA1036): git rev-parse --abbrev-ref master@{u} in 851 ms
+[2022-08-30 18:25:37:970] GIT: Running(/home/cmendoza/HyperBlog): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:25:38:820] GIT: Completed(/home/cmendoza/HyperBlog): git rev-parse --abbrev-ref HEAD in 850 ms
+[2022-08-30 18:25:38:821] GIT: Running(/home/cmendoza/HyperBlog): git rev-parse --abbrev-ref master@{u}
+[2022-08-30 18:25:39:913] GIT: Completed(/home/cmendoza/HyperBlog): git rev-parse --abbrev-ref master@{u} in 1092 ms
+[2022-08-30 18:25:39:914] GIT: Running(/home/cmendoza/JsPractico): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:25:41:169] GIT: Completed(/home/cmendoza/JsPractico): git rev-parse --abbrev-ref HEAD in 1254 ms
+[2022-08-30 18:25:41:169] GIT: Running(/home/cmendoza/JsPractico): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 18:25:46:736] GIT: Completed(/home/cmendoza/JsPractico): git rev-parse --abbrev-ref main@{u} in 5566 ms
+[2022-08-30 18:25:46:737] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD
+[Warn  - 1:25:52 PM] [2022-08-30 18:25:52:118] Error(/home/cmendoza/escuela-js): /usr/bin/git -c core.quotepath=false -c color.ui=false remote show upstream)
+    (128) Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false remote show upstream
+fatal: unable to connect to github.com:
+github.com[0: 140.82.113.3]: errno=Resource temporarily unavailable
+
+
+fatal: unable to connect to github.com:
+github.com[0: 140.82.113.3]: errno=Resource temporarily unavailable
+
+
+[Error - 1:25:52 PM] [2022-08-30 18:25:52:664] git — -c, core.quotepath=false, -c, color.ui=false, remote, show, upstream,  killed=false signal=null code=128 cwd='/home/cmendoza/escuela-js'
+
+  
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false remote show upstream
+fatal: unable to connect to github.com:
+github.com[0: 140.82.113.3]: errno=Resource temporarily unavailable
+
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false remote show upstream
+fatal: unable to connect to github.com:
+github.com[0: 140.82.113.3]: errno=Resource temporarily unavailable
+
+
+    at ChildProcess.exithandler (node:child_process:397:12)
+    at ChildProcess.emit (node:events:390:28)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Socket.<anonymous> (node:internal/child_process:450:11)
+    at Socket.emit (node:events:390:28)
+    at Pipe.<anonymous> (node:net:687:12)
+[2022-08-30 18:25:52:666] GIT: Completed(/home/cmendoza/escuela-js): git remote show upstream in 23194 ms
+[2022-08-30 18:25:52:677] GIT: Running(/home/cmendoza/escuela-js): git remote show origin
+[2022-08-30 18:25:59:377] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD in 12640 ms
+[2022-08-30 18:25:59:378] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 18:26:02:782] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref main@{u} in 3404 ms
+[2022-08-30 18:26:02:784] GIT: Running(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:26:04:256] GIT: Completed(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --abbrev-ref HEAD in 1472 ms
+[2022-08-30 18:26:04:256] GIT: Running(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --abbrev-ref master@{u}
+[2022-08-30 18:26:05:699] GIT: Completed(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --abbrev-ref master@{u} in 1443 ms
+[2022-08-30 18:26:05:701] GIT: Running(/home/cmendoza/blender_vscode): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:26:07:113] GIT: Completed(/home/cmendoza/blender_vscode): git rev-parse --abbrev-ref HEAD in 1412 ms
+[2022-08-30 18:26:07:114] GIT: Running(/home/cmendoza/blender_vscode): git rev-parse --abbrev-ref master@{u}
+[2022-08-30 18:26:08:533] GIT: Completed(/home/cmendoza/blender_vscode): git rev-parse --abbrev-ref master@{u} in 1419 ms
+[2022-08-30 18:26:08:538] GIT: Running(/home/cmendoza/escuela-js): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:26:09:954] GIT: Completed(/home/cmendoza/escuela-js): git rev-parse --abbrev-ref HEAD in 1416 ms
+[2022-08-30 18:26:09:955] GIT: Running(/home/cmendoza/escuela-js): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 18:26:11:363] GIT: Completed(/home/cmendoza/escuela-js): git rev-parse --abbrev-ref main@{u} in 1408 ms
+[2022-08-30 18:26:11:364] onWorkspaceFoldersChanged: resolving
+[2022-08-30 18:26:11:364] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:26:12:750] [1c7] CodeStreamApiProvider.fetchFileStreams
+[2022-08-30 18:26:12:756] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 1391 ms
+[2022-08-30 18:26:12:756] GIT: Running(/home/cmendoza/CMENDOZA1036): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:26:14:166] GIT: Completed(/home/cmendoza/CMENDOZA1036): git rev-parse --abbrev-ref HEAD in 1410 ms
+[2022-08-30 18:26:14:167] GIT: Running(/home/cmendoza/HyperBlog): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:26:15:566] GIT: Completed(/home/cmendoza/HyperBlog): git rev-parse --abbrev-ref HEAD in 1399 ms
+[2022-08-30 18:26:15:566] GIT: Running(/home/cmendoza/JsPractico): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:26:16:980] GIT: Completed(/home/cmendoza/JsPractico): git rev-parse --abbrev-ref HEAD in 1413 ms
+[2022-08-30 18:26:16:981] GIT: Running(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:26:18:386] GIT: Completed(/home/cmendoza/PersonalProjects): git rev-parse --abbrev-ref HEAD in 1405 ms
+[2022-08-30 18:26:18:387] GIT: Running(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:26:19:805] API(20414924-af7b-4a1f-add9-7956ef9cc26e): Completed GET /streams?teamId=62a8af3bd1bffae460f923af&repoId=630e561dcdd3c7c8fadee30e • 7054 ms
+[2022-08-30 18:26:19:806] [1c7] CodeStreamApiProvider.fetchFileStreams completed • 7055 ms
+[2022-08-30 18:26:19:809] GIT: Completed(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --abbrev-ref HEAD in 1421 ms
+[2022-08-30 18:26:19:809] GIT: Running(/home/cmendoza/blender_vscode): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:26:21:195] GIT: Completed(/home/cmendoza/blender_vscode): git rev-parse --abbrev-ref HEAD in 1386 ms
+[2022-08-30 18:26:21:196] GIT: Running(/home/cmendoza/escuela-js): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:26:22:613] GIT: Completed(/home/cmendoza/escuela-js): git rev-parse --abbrev-ref HEAD in 1417 ms
+[2022-08-30 18:30:53:360] Document saved: file:///home/cmendoza/Projects/Project_Bata_Bit/index.html
+[2022-08-30 18:30:53:361] [1c9] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-08-30 18:30:53:361] [1c9] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-08-30 18:30:55:556] [1ca] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-08-30 18:30:55:557] [1ca] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-08-30 18:30:55:562] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Bata_Bit/index.html
+[2022-08-30 18:30:55:562] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/Project_Bata_Bit/index.html v22
+[2022-08-30 18:30:55:563] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Bata_Bit/index.html
+[2022-08-30 18:30:55:563] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/Project_Bata_Bit/index.html v22
+[2022-08-30 18:31:05:852] [1cd] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-08-30 18:31:05:853] [1cd] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-08-30 18:31:05:855] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-08-30 18:31:07:933] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 2078 ms
+[2022-08-30 18:31:07:934] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-08-30 18:31:09:457] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 1522 ms

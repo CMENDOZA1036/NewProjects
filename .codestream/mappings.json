@@ -54,6 +54,12 @@
     "/home/cmendoza/blender_vscode"
    ],
    "defaultPath": "/home/cmendoza/blender_vscode"
+  },
+  "630e561dcdd3c7c8fadee30e": {
+   "paths": [
+    "/home/cmendoza"
+   ],
+   "defaultPath": "/home/cmendoza"
   }
  },
  "version": "1.0.0"

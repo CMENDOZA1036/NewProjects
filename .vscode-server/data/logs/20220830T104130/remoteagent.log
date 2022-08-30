@@ -30,3 +30,5 @@
 
 [2022-08-30 11:20:03.937] [remoteagent] [info] [127.0.0.1][1a01d3ad][ExtensionHostConnection] <174> [0mGET /PersonalProjects/WEB/Frontend/Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 3.876 ms - 204[0m
 
+[2022-08-30 13:03:55.661] [remoteagent] [info] [127.0.0.1][c73f534f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-30 13:03:56.343] [remoteagent] [info] [127.0.0.1][1a01d3ad][ExtensionHostConnection] <174> Extension Host Process exited with code: 0, signal: null.

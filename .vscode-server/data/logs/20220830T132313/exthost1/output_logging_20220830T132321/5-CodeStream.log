@@ -1,0 +1,28 @@
+[2022-08-30 18:23:37:192] CodeStream v13.6.0-4237 in VS Code (v1.70.2) starting...
+[2022-08-30 18:23:37:193] Proxy support is on, but no proxy url was found
+[2022-08-30 18:23:42:727] no NewRelic telemetry - The user aborted a request.
+[2022-08-30 18:23:42:737] no NewRelic telemetry
+[2022-08-30 18:24:22:241] CodeStream v13.6.0-4237 started • 47553 ms
+[2022-08-30 18:24:22:248] Signing alvarezmendoz@gmail.com into CodeStream (https://api.codestream.com)
+[2022-08-30 18:24:22:249] AgentConnection.sendRequest(codestream/login/token)
+[2022-08-30 18:24:26:435] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2022-08-30 18:24:26:436] [2] WebviewController.onApiVersionChanged
+[2022-08-30 18:24:26:436] [2] WebviewController.onApiVersionChanged completed • 0 ms
+[2022-08-30 18:24:26:436] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 1 ms
+[2022-08-30 18:24:40:447] [3] CodeStreamAgentConnection.onDataChanged(unreads)
+[2022-08-30 18:24:40:448] [3] CodeStreamAgentConnection.onDataChanged(unreads) completed • 0 ms
+[2022-08-30 18:24:40:492] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-08-30 18:24:41:340] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-08-30 18:24:42:777] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-08-30 18:24:42:977] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 18:24:42:978] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-08-30 18:25:35:352] [4] CodeStreamAgentConnection.onDataChanged(repos)
+[2022-08-30 18:25:35:352] [4] CodeStreamAgentConnection.onDataChanged(repos) completed • 0 ms
+[2022-08-30 18:30:53:362] [5] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-30 18:30:53:362] [5] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-30 18:30:55:559] [6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-08-30 18:30:55:561] [6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 1 ms
+[2022-08-30 18:30:55:561] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 18:30:55:562] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-30 18:31:08:527] [7] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-08-30 18:31:08:528] [7] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms

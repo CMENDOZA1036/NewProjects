@@ -1,109 +1,3 @@
-pwd
-cd ..
-ls
-cd ..
-cd /home/cmendoza
-ls
-pwd
-cd /
-ls
-cd mnt
-ls
-pwd
-cd c
-ls
-cd User
-cd usr
-cd ..
-cd usuarios
-cd Usuarios
-cd Users
-cd admin/
-ls
-cd Downloads/
-ls
-cd ~
-pwd
-mkdir PersonalProjects
-ls
-mkdir Desarrollo WEB
-ls
-touch index.html
-ls
-mv index.html Desarrollo
-ls
-mv WEB Desarrollo
-ls
-cd Desarrollo
-ls
-mv index.html WEB
-ls
-cd ..
-ls
-cd PersonalProjects
-ls
-cmendoza
-cd  cmendoza
-ls
-mv Desarrollo PersonalProjects
-ls
-cd PersonalProjects
-ls
-cd Desarrollo
-ls
-code .
-ls
-rename Tareas Backend
-mv Tareas Backend
-rename Tareas JsBasico
-mv Tareas JsBasico
-ls
-code .
-ls
-cd ~
-ls
-cd PersonalProjects
-ls
-cd Desarrollo
-code .
-ls
-cat index.html
-cd Frontend
-ls
-cd curso 1 
-cd curso 1
-ls
-cd /curso 1
-cd 'curso 1'
-ls
-catindex.html
-cat index.html
-man
-man man
-cd ~
-ls
-sudo apt-get updated
-cd ..
-cd ~
-sudo apt-get updated
-cd ~
-ls
-cd ..
-sudo apt-get updated
-cd ..
-sudo apt-get updated
-cd ..
-sudo apt-get updated
-cd..
-c ..
-cd ..
-passwd
-cd ..
-ls
-password
-passwd
-cd..
-sudo apt-get updated
 apt-get updated
 cd ..
 sudo apt-get update
@@ -1926,3 +1820,181 @@ git push origin main
 cd PersonalProjects
 git status
 git push origin main
+code .
+git status
+git add .
+git commit -am "Frontend 20"
+git push origin main
+cd PersonalProjects
+git remote
+eval $(ssh-agent -s)
+git remote origin
+git remote
+git remote -v
+git status
+git add ..
+git add .
+git status
+git commit -am "Frontend 21"
+git push origin main
+sudo apt-get update
+sudo apt-get upgrade
+git push origin main
+cd ..
+ls
+git remote set-url origin git@github.com:CMENDOZA1036/Projects.git
+git remote -v
+git pull
+ls
+git pull origin main
+git push origin main
+ls
+git remote -v
+git pull
+ls
+git pull origin main
+ls
+git branch
+ls -al
+ls
+git add Projects
+chmod ugo+rwx Projects
+ls
+cd Projects
+git status
+git add
+git add .
+git status
+ls
+chmod ugo+rwx index.html
+git status
+ls
+git commit -am "Frontend 1"
+cd ..
+ls
+git add .
+git commit -am "Cambios 2"
+cd Projects
+git push origin main
+cd ..
+git status
+git add .
+git status
+git commit -am "Cambios 2"
+git push origin main
+git pull
+git branch --set-upstream-to=origin/main
+git pull
+git status
+git remote -v
+git remote set-url origin https://github.com/CMENDOZA1036
+git remote -v
+git pull
+git remote set-url origin 
+git remote set-url origin https://github.com/CMENDOZA1036/Projects.git
+git remote -v
+git pull
+git remote set-url origin git@github.com:CMENDOZA1036/Projects.git
+git pull
+ls
+git clone git@github.com:CMENDOZA1036/Projects.git
+git config -list
+git conf -list
+rm Projects
+git pull --rebase origin main
+git remote -v
+git remote set-url origin git@github.com:CMENDOZA1036/PersonalProjects.git
+git pull --rebase origin main
+git pull
+ls
+git add .
+git status
+git add  blender_vscode
+git status
+git restore  blender_vscode
+git status
+git discard  blender_vscode
+git commit -am "Cambios 3"
+git push origin main
+git status
+git add .
+git commit -am "Cambios 4"
+git push origin main
+git status
+git add .vscode-server/data/logs/20220830T104130/exthost1/output_logging_20220830T104141/10-CodeStream (Agent).log
+ls
+cd Projects
+ls
+chmod ugo+rwx Project_Bata_Bit
+ls
+cd Project_Bata_Bit
+ls
+cd icons
+chmod ugo+rwx icons
+ls
+chmod ugo+rwx img
+chmod ugo+rwx index.html styles.css
+ls
+cd icons
+ls
+cd ..
+img
+cd img
+ls
+cd ..
+git status
+git add .
+git commit -am "Frontend 3"
+git push origin main
+cd ..
+ls
+cd Projects
+ls
+cd ..
+git pull
+ls
+git add .
+git commit -am "Cambios 5"
+git push origin main
+cd ..
+ls
+git status
+cd cmendoza
+pwd
+git remote -v
+git remote add origin git@github.com:CMENDOZA1036/NewProjects.git
+git remote -v
+git remote set-url origin git@github.com:CMENDOZA1036/NewProjects.git
+git remote -v
+git push origin master
+git status
+git push origin main
+git pull
+git pull origin main --allow-unrelated-histories
+ls
+git push origin main
+git branch
+git checkout master
+ls
+rm README.md
+ls
+git checkout master
+git push origin master
+git remote -v
+git merge main
+git add .
+git status
+git add README.md
+git status
+git rm Projects/index.html
+
+git commit -am "Cambios 6"
+git push origin main
+git status
+cd ..
+cd cmendoza
+ls
+PersonalProjects
+cd PersonalProjects
+git pull
+cd PersonalProjects

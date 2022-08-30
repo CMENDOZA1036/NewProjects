@@ -70,3 +70,7 @@
 [2022-08-30 11:33:36.682] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
 [2022-08-30 11:33:36.795] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
 [2022-08-30 11:33:38.785] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-08-30 13:03:26.879] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 13:03:55.664] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-30 13:03:55.669] [exthost] [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/d5aba56a1b1317a03906dd8671ef8bfc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-08-30 13:03:56.255] [exthost] [info] Extension host with pid 174 exiting with code 0
