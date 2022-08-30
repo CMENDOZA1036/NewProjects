@@ -4,3 +4,17 @@
 [2022-08-30 13:23:18.489] [remoteagent] [info] [127.0.0.1][7b918650][ExtensionHostConnection] <5756> Launched Extension Host Process.
 [2022-08-30 13:23:35.286] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/cmendoza/.vscode-server/data/logs/20220823T172504/exthost1' failed: No such file or directory (EUNKNOWN) (path: /home/cmendoza)
 [2022-08-30 13:23:35.287] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/cmendoza/.vscode-server/data/logs/20220823T172504/exthost1' failed: No such file or directory
+[2022-08-30 14:48:47.965] [remoteagent] [info] [127.0.0.1][7b918650][ExtensionHostConnection] <5756> [0mGET /favicon.ico [33m404[0m 2.714 ms - 150[0m
+
+[2022-08-30 15:05:16.358] [remoteagent] [info] [127.0.0.1][7b918650][ExtensionHostConnection] <5756> [0mGET /Projects/Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 2.931 ms - 183[0m
+
+[2022-08-30 15:08:12.500] [remoteagent] [info] [127.0.0.1][7b918650][ExtensionHostConnection] <5756> [0mGET /Projects/Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 10.808 ms - 183[0m
+
+[2022-08-30 16:02:45.921] [remoteagent] [info] [127.0.0.1][7b918650][ExtensionHostConnection] <5756> [0mGET /Projects/Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 16.439 ms - 183[0m
+
+[2022-08-30 17:10:20.949] [remoteagent] [info] [127.0.0.1][7b918650][ExtensionHostConnection] <5756> [0mGET /Projects/Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 8.763 ms - 183[0m
+
+[2022-08-30 17:11:15.930] [remoteagent] [info] [127.0.0.1][7b918650][ExtensionHostConnection] <5756> [0mGET /favicon.ico [33m404[0m 4.353 ms - 150[0m
+
+[2022-08-30 17:12:44.691] [remoteagent] [info] [127.0.0.1][7b918650][ExtensionHostConnection] <5756> [0mGET /Projects/Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 7.461 ms - 183[0m
+

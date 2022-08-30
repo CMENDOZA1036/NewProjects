@@ -36,3 +36,128 @@
 [2022-08-30 13:30:50.654] [exthost] [error] undefined
 [2022-08-30 13:30:51.136] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
 [2022-08-30 13:30:51.136] [exthost] [error] undefined
+[2022-08-30 14:48:22.834] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 14:48:25.513] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-08-30 14:48:36.764] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 14:48:49.359] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 14:49:03.958] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 15:03:59.322] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 15:05:23.867] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 15:06:17.133] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 15:06:21.565] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 15:08:01.211] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 15:08:05.812] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 15:12:59.586] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 15:13:11.923] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 15:13:32.536] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 15:23:44.852] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 15:26:18.722] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:26:18.722] [exthost] [error] undefined
+[2022-08-30 15:26:23.122] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:26:23.122] [exthost] [error] undefined
+[2022-08-30 15:26:23.455] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:26:23.455] [exthost] [error] undefined
+[2022-08-30 15:26:45.671] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:26:45.672] [exthost] [error] undefined
+[2022-08-30 15:26:50.419] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:26:50.419] [exthost] [error] undefined
+[2022-08-30 15:27:03.332] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:27:03.332] [exthost] [error] undefined
+[2022-08-30 15:27:14.018] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:27:14.018] [exthost] [error] undefined
+[2022-08-30 15:28:13.898] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:28:13.898] [exthost] [error] undefined
+[2022-08-30 15:28:17.965] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:28:17.966] [exthost] [error] undefined
+[2022-08-30 15:28:55.873] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:28:55.873] [exthost] [error] undefined
+[2022-08-30 15:28:56.520] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:28:56.520] [exthost] [error] undefined
+[2022-08-30 15:28:56.681] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:28:56.681] [exthost] [error] undefined
+[2022-08-30 15:28:56.914] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:28:56.915] [exthost] [error] undefined
+[2022-08-30 15:28:57.204] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:28:57.205] [exthost] [error] undefined
+[2022-08-30 15:33:06.694] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:33:06.694] [exthost] [error] undefined
+[2022-08-30 15:33:16.967] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:33:16.967] [exthost] [error] undefined
+[2022-08-30 15:34:03.564] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:34:03.564] [exthost] [error] undefined
+[2022-08-30 15:34:29.897] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:34:29.897] [exthost] [error] undefined
+[2022-08-30 15:34:58.537] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:34:58.537] [exthost] [error] undefined
+[2022-08-30 15:35:33.546] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:35:33.546] [exthost] [error] undefined
+[2022-08-30 15:36:11.650] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:36:11.650] [exthost] [error] undefined
+[2022-08-30 15:57:24.122] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:57:24.123] [exthost] [error] undefined
+[2022-08-30 15:57:41.126] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:57:41.126] [exthost] [error] undefined
+[2022-08-30 15:57:58.060] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:57:58.060] [exthost] [error] undefined
+[2022-08-30 15:58:54.080] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:58:54.080] [exthost] [error] undefined
+[2022-08-30 15:59:00.379] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:59:00.379] [exthost] [error] undefined
+[2022-08-30 15:59:15.261] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:59:15.261] [exthost] [error] undefined
+[2022-08-30 15:59:15.776] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:59:15.777] [exthost] [error] undefined
+[2022-08-30 15:59:15.918] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:59:15.919] [exthost] [error] undefined
+[2022-08-30 15:59:16.081] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:59:16.081] [exthost] [error] undefined
+[2022-08-30 15:59:16.279] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:59:16.280] [exthost] [error] undefined
+[2022-08-30 15:59:16.351] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:59:16.351] [exthost] [error] undefined
+[2022-08-30 15:59:16.480] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:59:16.480] [exthost] [error] undefined
+[2022-08-30 15:59:16.793] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:59:16.793] [exthost] [error] undefined
+[2022-08-30 15:59:29.644] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:59:29.644] [exthost] [error] undefined
+[2022-08-30 15:59:30.364] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:59:30.364] [exthost] [error] undefined
+[2022-08-30 15:59:30.527] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:59:30.527] [exthost] [error] undefined
+[2022-08-30 15:59:30.792] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:59:30.792] [exthost] [error] undefined
+[2022-08-30 15:59:31.022] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:59:31.022] [exthost] [error] undefined
+[2022-08-30 15:59:31.181] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 15:59:31.181] [exthost] [error] undefined
+[2022-08-30 16:00:05.090] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 16:00:05.090] [exthost] [error] undefined
+[2022-08-30 16:00:17.597] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 16:00:17.597] [exthost] [error] undefined
+[2022-08-30 16:01:27.886] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 16:01:48.042] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 16:06:19.496] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 16:06:28.612] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 16:09:01.493] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 16:11:11.274] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 16:17:04.447] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 16:59:21.821] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 16:59:23.611] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 17:00:00.760] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 17:00:13.571] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 17:00:18.190] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 17:01:30.347] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 17:01:45.752] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 17:01:50.976] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 17:03:07.636] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 17:04:13.367] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 17:05:27.218] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 17:06:51.731] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 17:06:59.231] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-30 17:06:59.232] [exthost] [error] undefined
+[2022-08-30 17:07:14.895] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 17:07:16.809] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 17:07:22.782] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 17:10:56.098] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-30 17:12:25.910] [exthost] [warning] TextEditor is closed/disposed
