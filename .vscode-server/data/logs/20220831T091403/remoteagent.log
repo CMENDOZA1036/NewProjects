@@ -18,3 +18,5 @@
 [2022-08-31 09:14:58.104] [remoteagent] [info] Extension installed successfully: ritwickdey.liveserver
 [2022-08-31 10:55:43.022] [remoteagent] [info] [127.0.0.1][127f5916][ExtensionHostConnection] <286> [0mGET /favicon.ico [33m404[0m 10.594 ms - 150[0m
 
+[2022-08-31 11:10:43.942] [remoteagent] [info] [127.0.0.1][f1c7edb5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-31 11:10:44.374] [remoteagent] [info] [127.0.0.1][127f5916][ExtensionHostConnection] <286> Extension Host Process exited with code: 0, signal: null.

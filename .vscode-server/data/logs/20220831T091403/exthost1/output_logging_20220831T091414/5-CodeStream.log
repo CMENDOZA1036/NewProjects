@@ -298,3 +298,11 @@
 [2022-08-31 16:07:54:269] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
 [2022-08-31 16:07:54:358] WebviewPanel: Completed posting webview/editor/didChangeVisibleRanges to the webview
 [2022-08-31 16:07:58:667] WebviewPanel: Completed posting webview/editor/didChangeSelection to the webview
+[2022-08-31 16:08:45:265] Webview: Received message codestream/provider/generic(wv:34:4tBXXhbhTiWGLIh-xtfTUQ) from the webview
+[2022-08-31 16:08:45:265] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 16:09:45:257] Webview: Received message codestream/provider/generic(wv:35:ml76tNRFSMi-8DkCVyMv0g) from the webview
+[2022-08-31 16:09:45:257] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 16:10:26:662] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-31 16:10:26:662] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-08-31 16:10:28:238] WebviewPanel: Completed posting webview/editor/didChangeSelection to the webview
+[2022-08-31 16:10:28:248] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview

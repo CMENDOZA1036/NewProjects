@@ -1,0 +1,6 @@
+[2022-08-31 11:11:44.649] [remoteagent] [info] Extension host agent started.
+[2022-08-31 11:11:44.907] [remoteagent] [info] [127.0.0.1][9c6794f7][ManagementConnection] New connection established.
+[2022-08-31 11:11:45.045] [remoteagent] [info] [127.0.0.1][d4b7d7da][ExtensionHostConnection] New connection established.
+[2022-08-31 11:11:46.271] [remoteagent] [info] [127.0.0.1][d4b7d7da][ExtensionHostConnection] <1884> Launched Extension Host Process.
+[2022-08-31 11:11:48.402] [remoteagent] [info] Deleted from disk johnpapa.vscode-peacock /home/cmendoza/.vscode-server/extensions/johnpapa.vscode-peacock-4.1.0
+[2022-08-31 11:11:52.898] [remoteagent] [info] Deleted from disk ritwickdey.liveserver /home/cmendoza/.vscode-server/extensions/ritwickdey.liveserver-5.7.8
