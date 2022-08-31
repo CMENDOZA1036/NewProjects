@@ -92,3 +92,6 @@
 [2022-08-31 10:56:17.500] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
 [2022-08-31 10:56:17.500] [exthost] [error] undefined
 [2022-08-31 11:00:51.191] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 11:04:51.556] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 11:05:12.845] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 11:07:48.432] [exthost] [warning] TextEditor is closed/disposed
