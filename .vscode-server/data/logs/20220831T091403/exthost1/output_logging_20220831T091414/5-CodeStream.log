@@ -1,0 +1,123 @@
+[2022-08-31 14:14:51:506] CodeStream v13.6.0-4237 in VS Code (v1.70.2) starting...
+[2022-08-31 14:14:51:508] Proxy support is on, but no proxy url was found
+[2022-08-31 14:14:58:057] no NewRelic telemetry - The user aborted a request.
+[2022-08-31 14:14:58:068] no NewRelic telemetry
+[2022-08-31 14:15:12:794] CodeStream v13.6.0-4237 started • 29954 ms
+[2022-08-31 14:15:12:803] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2022-08-31 14:15:12:804] [2] WebviewController.onApiVersionChanged
+[2022-08-31 14:15:12:805] [2] WebviewController.onApiVersionChanged completed • 1 ms
+[2022-08-31 14:15:12:806] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 1 ms
+[2022-08-31 14:15:12:826] Signing alvarezmendoz@gmail.com into CodeStream (https://api.codestream.com)
+[2022-08-31 14:15:12:827] AgentConnection.sendRequest(codestream/login/token)
+[2022-08-31 14:15:29:821] [3] CodeStreamAgentConnection.onDataChanged(unreads)
+[2022-08-31 14:15:29:822] [3] CodeStreamAgentConnection.onDataChanged(unreads) completed • 0 ms
+[2022-08-31 14:15:29:910] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-08-31 14:15:30:017] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-08-31 14:15:31:253] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-08-31 14:15:31:534] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 14:15:31:944] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-08-31 14:16:45:461] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview
+[2022-08-31 14:16:45:563] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-31 14:16:45:961] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 14:16:47:214] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-31 14:16:48:261] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-31 14:16:48:276] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-31 14:16:48:310] [4] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-31 14:16:48:311] [4] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-31 14:16:49:518] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-31 14:16:49:524] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-31 14:16:49:566] [5] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-31 14:16:49:566] [5] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-31 14:16:49:567] [6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-08-31 14:16:49:568] [6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-08-31 14:16:49:570] [7] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-31 14:16:49:570] [7] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-31 14:16:50:720] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-31 15:54:25:661] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-31 15:54:25:668] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:54:28:208] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-31 15:54:29:355] [8] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-31 15:54:29:356] [8] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-31 15:54:30:809] [9] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/index.html)
+[2022-08-31 15:54:30:814] [9] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/index.html) completed • 4 ms
+[2022-08-31 15:54:30:814] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:54:30:814] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:54:39:747] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-31 15:54:39:797] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-31 15:54:39:803] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:54:41:534] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-31 15:54:41:553] [a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-31 15:54:41:554] [a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-31 15:54:42:905] [b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/styles.sass)
+[2022-08-31 15:54:42:906] [b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/styles.sass) completed • 0 ms
+[2022-08-31 15:54:42:907] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:54:42:907] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:54:45:803] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-31 15:54:45:822] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-31 15:54:46:324] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-31 15:54:55:665] [c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-31 15:54:55:666] [c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-31 15:54:55:668] [d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/index.html)
+[2022-08-31 15:54:55:669] [d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/index.html) completed • 0 ms
+[2022-08-31 15:54:55:669] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:54:55:669] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:55:39:384] [e] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-31 15:55:39:385] [e] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-31 15:55:39:393] [f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/index.html)
+[2022-08-31 15:55:39:394] [f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/index.html) completed • 0 ms
+[2022-08-31 15:55:39:394] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:55:39:394] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:56:07:490] [10] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/index.html)
+[2022-08-31 15:56:07:490] [10] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/index.html) completed • 0 ms
+[2022-08-31 15:56:07:490] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:56:07:490] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:56:20:694] [11] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/index.html)
+[2022-08-31 15:56:20:694] [11] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/index.html) completed • 0 ms
+[2022-08-31 15:56:20:695] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:56:20:695] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:56:27:707] [12] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/index.html)
+[2022-08-31 15:56:27:708] [12] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/index.html) completed • 0 ms
+[2022-08-31 15:56:27:708] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:56:27:708] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:59:10:899] [13] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-31 15:59:10:900] [13] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-31 15:59:12:055] [14] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/index.html)
+[2022-08-31 15:59:12:056] [14] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/index.html) completed • 0 ms
+[2022-08-31 15:59:12:056] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:59:12:056] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 15:59:38:985] [15] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-08-31 15:59:38:985] [15] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-08-31 16:00:18:230] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-31 16:00:18:434] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-31 16:00:18:444] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 16:00:20:018] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-31 16:00:21:305] [16] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-31 16:00:21:306] [16] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-31 16:00:21:435] [17] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-08-31 16:00:21:436] [17] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-08-31 16:00:21:436] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 16:00:21:436] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 16:00:28:407] [18] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-08-31 16:00:28:407] [18] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-08-31 16:00:36:091] [19] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-31 16:00:36:091] [19] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-31 16:00:38:068] [1a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-08-31 16:00:38:069] [1a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-08-31 16:00:38:070] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 16:00:38:070] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 16:00:51:189] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-31 16:00:51:630] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-08-31 16:00:51:645] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 16:00:52:964] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-08-31 16:00:54:294] [1b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-31 16:00:54:295] [1b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-31 16:00:54:629] [1c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-31 16:00:54:629] [1c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 0 ms
+[2022-08-31 16:00:54:629] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 16:00:54:629] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 16:00:58:035] [1d] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-08-31 16:00:58:035] [1d] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-08-31 16:01:00:908] [1e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/PersonalProjects/WEB/Frontend/curso%202/main.js)
+[2022-08-31 16:01:00:910] [1e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/PersonalProjects/PersonalProjects/WEB/Frontend/curso%202/main.js) completed • 2 ms
+[2022-08-31 16:01:00:910] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-08-31 16:01:00:911] AgentConnection.sendRequest(codestream/textDocument/markers)

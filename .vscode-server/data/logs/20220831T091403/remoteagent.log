@@ -1,0 +1,20 @@
+[2022-08-31 09:14:08.215] [remoteagent] [info] Extension host agent started.
+[2022-08-31 09:14:08.615] [remoteagent] [info] [127.0.0.1][f1c7edb5][ManagementConnection] New connection established.
+[2022-08-31 09:14:08.640] [remoteagent] [info] [127.0.0.1][127f5916][ExtensionHostConnection] New connection established.
+[2022-08-31 09:14:11.789] [remoteagent] [info] [127.0.0.1][127f5916][ExtensionHostConnection] <286> Launched Extension Host Process.
+[2022-08-31 09:14:21.008] [remoteagent] [info] Getting Manifest... johnpapa.vscode-peacock
+[2022-08-31 09:14:21.009] [remoteagent] [info] Getting Manifest... ritwickdey.liveserver
+[2022-08-31 09:14:21.371] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2022-08-31 09:14:21.389] [remoteagent] [info] Installing extension: johnpapa.vscode-peacock
+[2022-08-31 09:14:24.373] [remoteagent] [info] Downloaded extension: johnpapa.vscode-peacock /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/johnpapa.vscode-peacock-4.2.0
+[2022-08-31 09:14:24.501] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.cc46e0ca-7140-49f4-95f1-0564e32d420e: johnpapa.vscode-peacock
+[2022-08-31 09:14:24.537] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/johnpapa.vscode-peacock-4.2.0
+[2022-08-31 09:14:24.553] [remoteagent] [info] Extracting completed. johnpapa.vscode-peacock
+[2022-08-31 09:14:24.573] [remoteagent] [info] Extension installed successfully: johnpapa.vscode-peacock
+[2022-08-31 09:14:29.092] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.9
+[2022-08-31 09:14:57.240] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.03793507-7f9e-4564-b9a8-b3ea52dff8c9: ritwickdey.liveserver
+[2022-08-31 09:14:58.053] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+[2022-08-31 09:14:58.065] [remoteagent] [info] Extracting completed. ritwickdey.liveserver
+[2022-08-31 09:14:58.104] [remoteagent] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-08-31 10:55:43.022] [remoteagent] [info] [127.0.0.1][127f5916][ExtensionHostConnection] <286> [0mGET /favicon.ico [33m404[0m 10.594 ms - 150[0m
+
