@@ -1,0 +1,17 @@
+// variables
+
+:root {
+    --color-principal: #ccc;
+    --color-letra: green;
+}
+body{
+    background:var(--color-principal);
+}   
+
+h1 {
+    color: var(--color-letra);
+    border: 4px solid black;
+}
+p {
+    color: var(--color-letra);
+}
