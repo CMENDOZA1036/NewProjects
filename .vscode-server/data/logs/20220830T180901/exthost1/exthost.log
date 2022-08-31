@@ -31,3 +31,7 @@
 [2022-08-30 18:12:49.402] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
 [2022-08-30 18:13:33.698] [exthost] [warning] TextEditor is closed/disposed
 [2022-08-30 18:15:03.491] [exthost] [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-08-30 18:31:47.515] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-30 18:31:47.516] [exthost] [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/d5aba56a1b1317a03906dd8671ef8bfc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-08-30 18:31:47.695] [exthost] [warning] {"name":"Canceled"}
+[2022-08-30 18:31:47.769] [exthost] [info] Extension host with pid 19519 exiting with code 0

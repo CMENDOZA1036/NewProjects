@@ -1,117 +1,3 @@
-apt-get updated
-cd ..
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt install nodejs
-node -v
-sudo apt install npm
-clean
-clear
-cd PersonalProjects
-npx create-react-app test
-node updated
-node.js apt-get update
-node apt-get updated
-npm -v
-cd ~
-sudo npm cache clean -f
-sudo npm install -g n
-sudo n stable
-npx create-react-app test
-cd PersonalProjects
-npx create-react-app test
-ls
-npx create-react-app test
-cd test
-npm start
-clear
-cd PersonalProjects
-sudo chown -R cmendoza ~/PersonalProjects
-npm start
-cd..
-ls
-PersonalProjects
-cd PersonalProjects
-ls
-Desarrollo
-cd Desarrollo
-ls
-cd ..
-npx creat-react-app test
-cd test
-npm start
-clean
-clear
-cd ~
-sudo apt-get update
-node -v
-apt-get update
-sudo apt-get update
-sudo apt-get upgrade
-sudo install nodejs
-node -v
-sudo apt install npm
-clear
-cd PersonalProjects
-npx create-react-app test1
-cd test1
-npm start
-code .
-cd ..
-ls
-cd test1
-cd ..
-rm -rf test1
-ls
-code .
-git --version
-clear
-cd ~
-ssh-keygen -t rsa -b 4096 -c "alvarezmendoz@gmail.com"
-ssh-keygen -t rsa -b 4096 -C "alvarezmendoz@gmail.com"
-eval "$(ssh-agen -s)"
-eval "$(ssh-agent -s)"
-ssh-copy-id alvarezmendoz@gmail.com
-cd ~/.ssh
-ls
-cat id_rsa.pub
-clear
-cd ~ 
-cd PersonalProjects
-echo "# PersonalProjects" >> README.md
-ls
-cd Desarrollo
-echo "# PersonalProjects" >> README.md
-ls
-git init
-git add .
-git commit -m "first commit"
-git config --global user.email "alvarezmendoz@gmail.com"
-git commit -m "first commit"
-git config --global user.email "alvarezmendoz@gmail.com"
-git config --global user.name "CMENDOZA1036"
-git config --edit --global
-git commit -m "first commit"
-git remote add origin https://github.com/CMENDOZA1036/PersonalProjects.git
-git push -u origin main
-git remote add origin https://github.com/CMENDOZA1036/PersonalProjects.git
-git push -u origin master
-git remote add origin https://github.com/CMENDOZA1036/PersonalProjects.git
-git push -u origin main
-git push -u origin master
-git remote add origin https://github.com/CMENDOZA1036/PersonalProjects.git
-git branch -M main
-git push -u origin main
-git push -u origin master
-git push -u origin main
-git push -u origin master
-git push -u origin main
-$ git clone https://github.com/username/repo.git
-$ git clone https://github.com/CMENDOZA1036/repo.git
-git clone https://github.com/CMENDOZA1036/repo.git
-git remote add origin
-git commit -m "first commit"
-cd PersonalProjects
 ls
 git commit -m "first commit"
 git branch -M main
@@ -1998,3 +1884,117 @@ PersonalProjects
 cd PersonalProjects
 git pull
 cd PersonalProjects
+LS
+ls
+cd PersonalProjects
+git status
+git commit -am "Cambios 7"
+git status
+ls
+cd ..
+ls
+cd PersonalProjects
+code .
+git remote -v
+git pull origin main
+code ..
+git add .
+git commit -am "Frontend 3"
+git push origin main
+cd ..
+ls
+git remote -v
+git pull origin main
+git pull
+git push origin main
+git remote -v
+git status
+git add .
+git commit -am "Cambios 8"
+git push origin main
+git status
+git add .
+git commit -am "Frontend 12"
+git push origin main
+git status
+git add .vscode-server/data/logs/20220830T132313/exthost1/output_logging_20220830T132321
+git commit -am "Frontend 13"
+git push origin main
+git status
+git pull
+git pull origin main
+git status
+git restore PersonalProjects
+ls
+git log
+git reset 34435106ed5390cd07c5c044f52a4d4a81925b41 --hard
+ls
+git reset 77fe6f1b5a12b98fcaea025b351487c208415026 --hard
+git status
+ls
+code .
+git reset 34435106ed5390cd07c5c044f52a4d4a81925b41 --soft
+git status
+ls
+git pull origin main
+git status
+git reset --hard HEAD~1
+LS
+ls
+git revert --no-commit 
+git revert --no-commit <commit>
+git revert --no-commit 'Fronten 12'
+cd PersonalProjects
+git clone git@github.com:CMENDOZA1036/PersonalProjects.git
+code .
+cd ..
+code .
+git status
+git add .
+git commit -am "Cambios y Carpetas"
+git push origin main
+git pull
+git push origin main
+git status
+git add .vscode-server/data/logs/20220830T180901/exthost1/output_logging_20220830T180909/5-CodeStream.log .vscode-server/data/logs/20220830T180901/exthost1/output_logging_20220830T180909/9-CodeStream (Agent).log
+git add .vscode-server/data/logs/20220830T180901/exthost1/output_logging_20220830T180909/5-CodeStream.log
+git add .vscode-server/data/logs/20220830T180901/exthost1/output_logging_20220830T180909/9-CodeStream (Agent).log
+git add '.vscode-server/data/logs/20220830T180901/exthost1/output_logging_20220830T180909/9-CodeStream (Agent).log'
+git status
+git commit -am "Cambios y Carpetas1"
+git push origin main
+ls
+cd PersonalProjects
+ls -al
+cd PersonalProjects
+ls
+cd WEB
+ls
+cd..
+cd ..
+cd cmendoza
+chmod ugo+rwx PersonalProjects
+git status
+ls
+git commit -am "Cambios y Carpetas2"
+git push origin main
+git push
+git remote -v
+git status
+cd PersonalProjects
+git status
+git add .
+cd PersonalProjects
+git status
+git add .
+git commit -am "Cambios y Carpetas3"
+git push origin main
+ls
+cd PersonalProjects
+ls
+cd PersonalProjects
+ls
+cd WEB
+ls
+chmod ugo+rwx React
+ls
