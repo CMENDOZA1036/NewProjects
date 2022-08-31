@@ -119,3 +119,173 @@
 [2022-08-31 14:28:47.811] [exthost] [warning] TextEditor is closed/disposed
 [2022-08-31 14:30:40.561] [exthost] [warning] TextEditor is closed/disposed
 [2022-08-31 14:34:00.922] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-08-31 14:36:59.678] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:37:09.226] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:37:47.338] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:38:20.012] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:38:26.658] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:38:47.622] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:39:05.839] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:39:07.136] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:39:21.478] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:40:49.312] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:40:52.421] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 14:40:52.421] [exthost] [error] undefined
+[2022-08-31 14:41:27.811] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:41:30.212] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:42:21.231] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:42:43.561] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:43:10.115] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:58:03.263] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:58:08.276] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:00:02.140] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:00:32.670] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:01:09.467] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:01:14.281] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:01:26.138] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:02:13.718] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:02:14.936] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:02:16.106] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:02:17.282] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:03:09.198] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:03:51.286] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:03:53.324] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:03:54.372] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:07:29.773] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:07:59.407] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:08:28.489] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:08:28.489] [exthost] [error] undefined
+[2022-08-31 15:09:19.071] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:09:19.072] [exthost] [error] undefined
+[2022-08-31 15:09:21.848] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:09:21.848] [exthost] [error] undefined
+[2022-08-31 15:09:23.089] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:09:23.089] [exthost] [error] undefined
+[2022-08-31 15:09:31.330] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:09:31.330] [exthost] [error] undefined
+[2022-08-31 15:09:35.127] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:09:35.127] [exthost] [error] undefined
+[2022-08-31 15:09:35.420] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:09:35.421] [exthost] [error] undefined
+[2022-08-31 15:09:36.568] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:09:36.569] [exthost] [error] undefined
+[2022-08-31 15:09:36.685] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:09:36.686] [exthost] [error] undefined
+[2022-08-31 15:13:55.647] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:13:55.647] [exthost] [error] undefined
+[2022-08-31 15:14:03.635] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:14:03.635] [exthost] [error] undefined
+[2022-08-31 15:14:03.931] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:14:03.931] [exthost] [error] undefined
+[2022-08-31 15:14:04.466] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:14:04.466] [exthost] [error] undefined
+[2022-08-31 15:14:05.255] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:14:05.255] [exthost] [error] undefined
+[2022-08-31 15:14:05.554] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:14:05.554] [exthost] [error] undefined
+[2022-08-31 15:14:05.632] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:14:05.632] [exthost] [error] undefined
+[2022-08-31 15:14:05.719] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:14:05.719] [exthost] [error] undefined
+[2022-08-31 15:14:05.890] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:14:05.890] [exthost] [error] undefined
+[2022-08-31 15:14:06.045] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:14:06.045] [exthost] [error] undefined
+[2022-08-31 15:14:07.032] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:14:07.032] [exthost] [error] undefined
+[2022-08-31 15:14:07.485] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:14:07.485] [exthost] [error] undefined
+[2022-08-31 15:14:07.621] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:14:07.621] [exthost] [error] undefined
+[2022-08-31 15:14:07.799] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:14:07.800] [exthost] [error] undefined
+[2022-08-31 15:14:07.907] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:14:07.907] [exthost] [error] undefined
+[2022-08-31 15:16:34.337] [exthost] [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-08-31 15:16:43.072] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:16:43.072] [exthost] [error] undefined
+[2022-08-31 15:16:45.991] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:16:45.991] [exthost] [error] undefined
+[2022-08-31 15:16:46.228] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:16:46.229] [exthost] [error] undefined
+[2022-08-31 15:16:52.900] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:16:52.901] [exthost] [error] undefined
+[2022-08-31 15:16:58.827] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:16:58.827] [exthost] [error] undefined
+[2022-08-31 15:23:15.802] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:23:15.802] [exthost] [error] undefined
+[2022-08-31 15:27:06.847] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:27:06.847] [exthost] [error] undefined
+[2022-08-31 15:27:09.426] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 15:27:09.426] [exthost] [error] undefined
+[2022-08-31 15:29:15.090] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 15:30:29.740] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 16:14:31.888] [exthost] [error] Error: Illegal argument
+    at C (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:10:1315)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:597:14165
+    at p.invokeFunction (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:599:325)
+    at p._tryExecuteCommand (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1692:3664)
+    at p.executeCommand (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1692:3021)
+    at w.$executeCommand (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1698:766)
+    at m._doInvokeHandler (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:13079)
+    at m._invokeHandler (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:12761)
+    at m._receiveRequest (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:11531)
+    at m._receiveOneMessage (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:10233)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:8340
+    at S.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at l.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at c.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:19267)
+    at g._receiveMessage (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:23854)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:21388
+    at S.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at l.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:16098)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:15228
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:45365
+    at S.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at l.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at FileReader._fileReader.onload (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:43296) vscode.executeCodeLensProvider undefined
+[2022-08-31 16:14:31.888] [exthost] [error] [ms-vsliveshare.vsliveshare] provider FAILED
+[2022-08-31 16:14:31.888] [exthost] [error] Error: Illegal argument
+    at C (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:10:1315)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:597:14165
+    at p.invokeFunction (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:599:325)
+    at p._tryExecuteCommand (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1692:3664)
+    at p.executeCommand (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1692:3021)
+    at w.$executeCommand (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1698:766)
+    at m._doInvokeHandler (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:13079)
+    at m._invokeHandler (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:12761)
+    at m._receiveRequest (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:11531)
+    at m._receiveOneMessage (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:10233)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:8340
+    at S.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at l.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at c.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:19267)
+    at g._receiveMessage (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:23854)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:21388
+    at S.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at l.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:16098)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:15228
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:45365
+    at S.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at l.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at FileReader._fileReader.onload (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:43296)
+[2022-08-31 16:14:47.934] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 16:14:52.454] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 16:14:52.456] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 16:14:52.457] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 16:15:01.822] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 16:17:02.364] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 16:17:26.168] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 16:17:31.903] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 16:18:29.638] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 16:19:09.471] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 17:06:24.474] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 17:06:25.843] [exthost] [warning] TextEditor is closed/disposed

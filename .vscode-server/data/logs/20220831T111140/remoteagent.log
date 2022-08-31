@@ -13,3 +13,8 @@
 [2022-08-31 14:04:13.464] [remoteagent] [info] Extension installed successfully: syler.sass-indented
 [2022-08-31 14:28:45.645] [remoteagent] [info] [127.0.0.1][d4b7d7da][ExtensionHostConnection] <1884> [0mGET /favicon.ico [33m404[0m 8.107 ms - 150[0m
 
+[2022-08-31 15:08:01.121] [remoteagent] [info] [127.0.0.1][d4b7d7da][ExtensionHostConnection] <1884> [0mGET /Projects/React/index.html [33m404[0m 10.997 ms - 164[0m
+
+[2022-08-31 16:17:34.070] [remoteagent] [info] [127.0.0.1][d4b7d7da][ExtensionHostConnection] <1884> [0mGET /favicon.ico [33m404[0m 20.658 ms - 150[0m
+
+[2022-08-31 16:27:26.625] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
