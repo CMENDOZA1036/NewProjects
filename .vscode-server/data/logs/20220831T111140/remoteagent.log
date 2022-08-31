@@ -11,3 +11,5 @@
 [2022-08-31 14:04:13.446] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/syler.sass-indented-1.8.22
 [2022-08-31 14:04:13.462] [remoteagent] [info] Extracting completed. syler.sass-indented
 [2022-08-31 14:04:13.464] [remoteagent] [info] Extension installed successfully: syler.sass-indented
+[2022-08-31 14:28:45.645] [remoteagent] [info] [127.0.0.1][d4b7d7da][ExtensionHostConnection] <1884> [0mGET /favicon.ico [33m404[0m 8.107 ms - 150[0m
+

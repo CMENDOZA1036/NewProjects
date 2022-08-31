@@ -108,3 +108,14 @@
     at FileReader._fileReader.onload (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:43296)
 [2022-08-31 14:09:29.764] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
 [2022-08-31 14:09:29.764] [exthost] [error] undefined
+[2022-08-31 14:25:00.354] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 14:25:00.354] [exthost] [error] undefined
+[2022-08-31 14:25:14.026] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:26:00.940] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 14:26:00.940] [exthost] [error] undefined
+[2022-08-31 14:26:09.268] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 14:26:09.268] [exthost] [error] undefined
+[2022-08-31 14:26:39.009] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:28:47.811] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:30:40.561] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:34:00.922] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
