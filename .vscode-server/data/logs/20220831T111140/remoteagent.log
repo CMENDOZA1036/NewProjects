@@ -4,3 +4,10 @@
 [2022-08-31 11:11:46.271] [remoteagent] [info] [127.0.0.1][d4b7d7da][ExtensionHostConnection] <1884> Launched Extension Host Process.
 [2022-08-31 11:11:48.402] [remoteagent] [info] Deleted from disk johnpapa.vscode-peacock /home/cmendoza/.vscode-server/extensions/johnpapa.vscode-peacock-4.1.0
 [2022-08-31 11:11:52.898] [remoteagent] [info] Deleted from disk ritwickdey.liveserver /home/cmendoza/.vscode-server/extensions/ritwickdey.liveserver-5.7.8
+[2022-08-31 14:04:11.210] [remoteagent] [info] Getting Manifest... syler.sass-indented
+[2022-08-31 14:04:11.584] [remoteagent] [info] Installing extension: syler.sass-indented
+[2022-08-31 14:04:13.309] [remoteagent] [info] Downloaded extension: syler.sass-indented /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/syler.sass-indented-1.8.22
+[2022-08-31 14:04:13.427] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.6f473ba3-de73-4dc6-a4a1-aba940e83d7b: syler.sass-indented
+[2022-08-31 14:04:13.446] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/syler.sass-indented-1.8.22
+[2022-08-31 14:04:13.462] [remoteagent] [info] Extracting completed. syler.sass-indented
+[2022-08-31 14:04:13.464] [remoteagent] [info] Extension installed successfully: syler.sass-indented

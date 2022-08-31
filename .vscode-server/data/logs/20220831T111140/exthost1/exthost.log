@@ -29,3 +29,82 @@
 [2022-08-31 11:13:36.311] [exthost] [warning] TextEditor is closed/disposed
 [2022-08-31 11:19:09.305] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
 [2022-08-31 11:19:09.305] [exthost] [error] undefined
+[2022-08-31 14:04:14.223] [exthost] [info] ExtensionService#_doActivateExtension syler.sass-indented, startup: false, activationEvent: 'onLanguage:sass'
+[2022-08-31 14:04:14.395] [exthost] [error] Activating extension syler.sass-indented failed due to an error:
+[2022-08-31 14:04:14.395] [exthost] [error] TypeError: Cannot read properties of undefined (reading 'document')
+	at t.activate (/home/cmendoza/.vscode-server/extensions/syler.sass-indented-1.8.22/dist/extension.js:1:544758)
+	at Function._callActivateOptional (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:97:17473)
+	at Function._callActivate (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:97:17131)
+	at /home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:97:14942
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async v._activate (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:85:8180)
+	at async v._waitForDepsThenActivate (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:85:8122)
+	at async v._initialize (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:85:7486)
+[2022-08-31 14:08:54.762] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 14:09:11.865] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:scss'
+[2022-08-31 14:09:21.983] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 14:09:21.983] [exthost] [error] undefined
+[2022-08-31 14:09:22.082] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 14:09:22.082] [exthost] [error] undefined
+[2022-08-31 14:09:22.082] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 14:09:22.082] [exthost] [error] undefined
+[2022-08-31 14:09:22.086] [exthost] [error] Error: Illegal argument
+    at C (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:10:1315)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:597:14165
+    at p.invokeFunction (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:599:325)
+    at p._tryExecuteCommand (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1692:3664)
+    at p.executeCommand (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1692:3021)
+    at w.$executeCommand (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1698:766)
+    at m._doInvokeHandler (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:13079)
+    at m._invokeHandler (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:12761)
+    at m._receiveRequest (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:11531)
+    at m._receiveOneMessage (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:10233)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:8340
+    at S.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at l.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at c.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:19267)
+    at g._receiveMessage (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:23854)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:21388
+    at S.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at l.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:16098)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:15228
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:45365
+    at S.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at l.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at FileReader._fileReader.onload (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:43296) vscode.executeCodeLensProvider undefined
+[2022-08-31 14:09:22.087] [exthost] [error] [ms-vsliveshare.vsliveshare] provider FAILED
+[2022-08-31 14:09:22.088] [exthost] [error] Error: Illegal argument
+    at C (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:10:1315)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:597:14165
+    at p.invokeFunction (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:599:325)
+    at p._tryExecuteCommand (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1692:3664)
+    at p.executeCommand (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1692:3021)
+    at w.$executeCommand (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1698:766)
+    at m._doInvokeHandler (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:13079)
+    at m._invokeHandler (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:12761)
+    at m._receiveRequest (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:11531)
+    at m._receiveOneMessage (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:10233)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:8340
+    at S.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at l.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at c.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:19267)
+    at g._receiveMessage (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:23854)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:21388
+    at S.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at l.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:16098)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:544:15228
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:45365
+    at S.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at l.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at FileReader._fileReader.onload (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:43296)
+[2022-08-31 14:09:29.764] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-08-31 14:09:29.764] [exthost] [error] undefined

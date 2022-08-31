@@ -1,0 +1,10 @@
+[2022-08-31 19:09:22.091] Function._handleError
+EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cmendoza/Projects/React/styles.scss'
+[2022-08-31 19:10:00.551] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:Projects/React/styles.sass • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:Projects/React/styles.sass • file Projects/React/styles.sass has only 0 lines • 1486 ms (slow)
+
+[2022-08-31 19:10:27.440] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:Projects/React/styles.sass • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:Projects/React/styles.sass • file Projects/React/styles.sass has only 0 lines • 1113 ms (slow)
+
+[2022-08-31 19:10:35.666] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:Projects/React/styles.sass • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:Projects/React/styles.sass • file Projects/React/styles.sass has only 0 lines • 980 ms (slow)
+
+[2022-08-31 19:10:45.716] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:Projects/React/styles.sass • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:Projects/React/styles.sass • file Projects/React/styles.sass has only 0 lines • 1081 ms (slow)
+
