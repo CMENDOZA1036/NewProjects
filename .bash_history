@@ -1,5 +1,3 @@
-ls
-git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/CMENDOZA1036/PersonalProjects.git
 git push -u origin master
@@ -1998,3 +1996,5 @@ cd WEB
 ls
 chmod ugo+rwx React
 ls
+cd Projects
+code .

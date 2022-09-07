@@ -7777,3 +7777,68 @@ Error: Request codestream/provider/generic failed with message: Network error
 [2022-08-31 23:30:35:498] WebviewPanel: Completed posting webview/editor/didChangeVisibleRanges to the webview
 [2022-08-31 23:30:35:678] WebviewPanel: Completed posting webview/editor/didChangeSelection to the webview
 [2022-08-31 23:30:35:923] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
+[2022-08-31 23:31:11:257] Webview: Received message codestream/provider/generic(wv:358:fgxE-18TTIatYgyBtzTRSA) from the webview
+[2022-08-31 23:31:11:258] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:32:11:256] Webview: Received message codestream/provider/generic(wv:359:eVBTnfBpRQGhKuQnVju68g) from the webview
+[2022-08-31 23:32:11:257] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:33:11:251] Webview: Received message codestream/provider/generic(wv:360:_bxgqiNVRp6Tj2-w4hsexQ) from the webview
+[2022-08-31 23:33:11:251] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:34:11:260] Webview: Received message codestream/provider/generic(wv:361:aSlJuAVBRX6MtpqK5dzXSg) from the webview
+[2022-08-31 23:34:11:260] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:35:11:263] Webview: Received message codestream/provider/generic(wv:362:0GnSEBZ_RCKL7U6-fvkFfQ) from the webview
+[2022-08-31 23:35:11:263] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:37:10:283] Webview: Received message codestream/provider/generic(wv:363:0TRkL7QdQLGKAjy_nVLkXA) from the webview
+[2022-08-31 23:37:10:283] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:38:10:260] Webview: Received message codestream/provider/generic(wv:364:_2Pyft0BT3O-jYKYY74dyA) from the webview
+[2022-08-31 23:38:10:260] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:39:10:260] Webview: Received message codestream/provider/generic(wv:365:wpFdyaXVQEyqSmXz0BtHGw) from the webview
+[2022-08-31 23:39:10:260] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:40:10:274] Webview: Received message codestream/provider/generic(wv:366:3Nl6cwiAQAuk3F3JKWVogQ) from the webview
+[2022-08-31 23:40:10:274] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:41:10:263] Webview: Received message codestream/provider/generic(wv:367:KLphNXqqT6S3Mfif9jnGiQ) from the webview
+[2022-08-31 23:41:10:264] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:42:10:266] Webview: Received message codestream/provider/generic(wv:368:ctNmJyQKTuaHNDi-pzrgvw) from the webview
+[2022-08-31 23:42:10:266] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:43:10:271] Webview: Received message codestream/provider/generic(wv:369:mVKkxbhTSfGwMixB3V8Kbw) from the webview
+[2022-08-31 23:43:10:271] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:44:10:259] Webview: Received message codestream/provider/generic(wv:370:Bvs0iBSrQIy7kibdp15BBg) from the webview
+[2022-08-31 23:44:10:259] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:45:10:265] Webview: Received message codestream/provider/generic(wv:371:qG_1fX06SfiSAK6LccstlA) from the webview
+[2022-08-31 23:45:10:265] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:46:10:261] Webview: Received message codestream/provider/generic(wv:372:s__B0V45S3Kk7i1NEf5yeg) from the webview
+[2022-08-31 23:46:10:261] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:47:10:255] Webview: Received message codestream/provider/generic(wv:373:XWQRntEAQQCwLp1lyo64ew) from the webview
+[2022-08-31 23:47:10:255] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:48:10:256] Webview: Received message codestream/provider/generic(wv:374:Zja9mjUwR8yqp-UX83EGIg) from the webview
+[2022-08-31 23:48:10:256] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:48:21:333] [2f7] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-08-31 23:48:21:333] [2f7] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-08-31 23:48:21:350] [2f8] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-08-31 23:48:21:350] [2f8] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-08-31 23:48:21:351] [2f9] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-08-31 23:48:21:351] [2f9] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-08-31 23:48:21:354] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-31 23:48:21:356] WebviewPanel: Completed posting codestream/didChangeData to the webview
+[2022-08-31 23:48:21:372] Webview: Received message codestream/scm/file/info(wv:375:gVJIrsSrThiYyRxR4jXBFA) from the webview
+[2022-08-31 23:48:21:372] Webview: Received message codestream/scm/file/info(wv:376:_4oGwDY7Q6K3QjTs77nbVA) from the webview
+[2022-08-31 23:48:21:373] AgentConnection.sendRequest(codestream/scm/file/info)
+[2022-08-31 23:48:21:373] AgentConnection.sendRequest(codestream/scm/file/info)
+[2022-08-31 23:49:10:257] Webview: Received message codestream/provider/generic(wv:377:3NV__V0eRwCU2lnxi6FrgA) from the webview
+[2022-08-31 23:49:10:257] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:50:10:254] Webview: Received message codestream/provider/generic(wv:378:ebM-Nm_GRiCscbwK3eLzfQ) from the webview
+[2022-08-31 23:50:10:254] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:51:10:267] Webview: Received message codestream/provider/generic(wv:379:b1QXQ_LeQdeajrD6xzNeaA) from the webview
+[2022-08-31 23:51:10:267] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:52:10:254] Webview: Received message codestream/provider/generic(wv:380:5Mp_NFy6Sf2vkldu8gLCXQ) from the webview
+[2022-08-31 23:52:10:254] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:53:10:263] Webview: Received message codestream/provider/generic(wv:381:9-DXuaUDTSGFWqhrgK7CpQ) from the webview
+[2022-08-31 23:53:10:263] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:54:10:253] Webview: Received message codestream/provider/generic(wv:382:mfUGE8MoRU2aSmy9FvieWQ) from the webview
+[2022-08-31 23:54:10:253] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:55:10:257] Webview: Received message codestream/provider/generic(wv:383:B1967VM3Qo2RUMSWGp8MUA) from the webview
+[2022-08-31 23:55:10:258] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:55:11:252] Webview: Received message codestream/provider/generic(wv:384:GX7VjMqpQbuhvdukmX3BpQ) from the webview
+[2022-08-31 23:55:11:252] AgentConnection.sendRequest(codestream/provider/generic)
+[2022-08-31 23:55:14:032] Object.R
+Canceled: Canceled
+[2022-08-31 23:55:14:033] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview

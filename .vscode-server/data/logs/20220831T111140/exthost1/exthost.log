@@ -334,3 +334,48 @@
 [2022-08-31 18:27:13.057] [exthost] [warning] TextEditor is closed/disposed
 [2022-08-31 18:27:53.795] [exthost] [warning] TextEditor is closed/disposed
 [2022-08-31 18:30:35.420] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-31 18:55:13.725] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-31 18:55:13.730] [exthost] [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/d5aba56a1b1317a03906dd8671ef8bfc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-08-31 18:55:14.037] [exthost] [error] Canceled: Canceled
+	at Object.R [as canceled] (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:7:1204)
+	at /home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:95:9094
+	at Array.forEach (<anonymous>)
+	at o.dispose (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:95:9042)
+	at b.terminate (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:97:10969)
+	at b.terminate (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:101:620)
+	at m (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:111:19088)
+	at /home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:111:17016
+	at b.invoke (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at w.deliver (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at p.fire (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at c.fire (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:19006)
+	at i._receiveMessage (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:23593)
+	at /home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:21127
+	at b.invoke (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at w.deliver (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at p.fire (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at p.acceptChunk (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:15837)
+	at /home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:14967
+	at b.invoke (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at w.deliver (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at p.fire (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at p._processReadQueue (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:33811)
+	at p.acceptFrame (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:33467)
+	at b._acceptChunk (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:31431)
+	at /home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:28420
+	at Socket.l (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:69:26303)
+	at Socket.emit (node:events:390:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:199:23) vscode.executeCodeLensProvider undefined
+[2022-08-31 18:55:14.037] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2022-08-31 18:55:14.037] [exthost] [error] Error: No provider registered for 'file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso 2/13. Carrito Compras.html'
+	at Object.getProvider (/home/cmendoza/.vscode-server/extensions/eamodio.gitlens-12.2.0/dist/gitlens.js:13:18490)
+	at Object.getBlame (/home/cmendoza/.vscode-server/extensions/eamodio.gitlens-12.2.0/dist/gitlens.js:13:21261)
+	at Object.X.<computed> (/home/cmendoza/.vscode-server/extensions/eamodio.gitlens-12.2.0/dist/gitlens.js:218:18969)
+	at aa.provideCodeLenses (/home/cmendoza/.vscode-server/extensions/eamodio.gitlens-12.2.0/dist/gitlens.js:172:34189)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async u.provideCodeLenses (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/workbench/api/node/extensionHostProcess.js:87:38531)
+[2022-08-31 18:55:14.108] [exthost] [info] Extension host with pid 1884 exiting with code 0

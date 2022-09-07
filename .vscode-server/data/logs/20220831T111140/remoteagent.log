@@ -18,3 +18,5 @@
 [2022-08-31 16:17:34.070] [remoteagent] [info] [127.0.0.1][d4b7d7da][ExtensionHostConnection] <1884> [0mGET /favicon.ico [33m404[0m 20.658 ms - 150[0m
 
 [2022-08-31 16:27:26.625] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-31 18:55:12.897] [remoteagent] [info] [127.0.0.1][9c6794f7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-31 18:55:14.218] [remoteagent] [info] [127.0.0.1][d4b7d7da][ExtensionHostConnection] <1884> Extension Host Process exited with code: 0, signal: null.
