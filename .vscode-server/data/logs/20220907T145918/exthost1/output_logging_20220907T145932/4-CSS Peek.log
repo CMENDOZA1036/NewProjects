@@ -1,0 +1,756 @@
+[Server(295) Projects/] onInitialize
+[Server(295) Projects/] setupInitialStylemap
+[Server(295) Projects/] Document opened: main.js
+[Server(295) Projects/] Document changed: main.js
+[Server(295) Projects/] Document opened: layout1.html
+[Server(295) Projects/] Document changed: layout1.html
+[Server(295) Projects/] Document opened: Inicio.html
+[Server(295) Projects/] Document changed: Inicio.html
+[Server(295) Projects/] Document opened: Login.html
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document opened: 1.%20index.html
+[Server(295) Projects/] Document changed: 1.%20index.html
+[Server(295) Projects/] Document opened: Login.html
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document opened: Login.html
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document opened: 3.%20Login.html
+[Server(295) Projects/] Document changed: 3.%20Login.html
+[Server(295) Projects/] Document opened: 1.%20crear-password.html
+[Server(295) Projects/] Document changed: 1.%20crear-password.html
+[Server(295) Projects/] Document opened: 2.%20Email%20Enviado.html
+[Server(295) Projects/] Document changed: 2.%20Email%20Enviado.html
+in 6166
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document changed: Login.html
+[Server(295) Projects/] Document changed: Login.html
+.login 1256
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+height: 1302
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+grid; 1338
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+grid-template-rows: 1454
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+grid-template-rows: 1454
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+none; 1803
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+none; 1803
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+centramos*/ 1770
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+center; 1738
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+separamos 1689
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+.form 2126
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+.label 2648
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+este 2597
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+texto*/ 2523
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+borde 2942
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+los 3549
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+los 3549
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+border-radius: 3514
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector
+background-color: 3429
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 222 227
+  link 284 288
+  link 348 352
+  link 421 425
+  style 534 539
+  style 5470 5475
+  head 5480 5484
+  body 5488 5492
+  div 5500 5503
+  div 5528 5531
+  img 5569 5572
+  form 5704 5708
+  label 5751 5756
+  label 5798 5803
+  input 5822 5827
+  label 5929 5934
+  label 5974 5979
+  input 5998 6003
+  input 6135 6140
+  a 6225 6226
+  a 6256 6257
+  form 6273 6277
+  button 6293 6299
+  button 6348 6354
+  div 6369 6372
+  div 6380 6383
+  body 6391 6395
+  html 6400 6404
+Invalid Selector

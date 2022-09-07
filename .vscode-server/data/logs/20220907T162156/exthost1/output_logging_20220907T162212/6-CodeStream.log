@@ -1,0 +1,1489 @@
+[2022-09-07 21:22:35:197] CodeStream v13.7.1-4240 in VS Code (v1.71.0) starting...
+[2022-09-07 21:22:35:198] Proxy support is on, but no proxy url was found
+[2022-09-07 21:22:41:386] no NewRelic telemetry - The user aborted a request.
+[2022-09-07 21:22:41:396] no NewRelic telemetry
+[2022-09-07 21:22:50:370] CodeStream upgraded from v13.6.0 to v13.7.1
+[2022-09-07 21:22:50:370] CodeStream v13.7.1-4240 started • 21535 ms
+[2022-09-07 21:22:50:377] Signing alvarezmendoz@gmail.com into CodeStream (https://api.codestream.com)
+[2022-09-07 21:22:50:378] AgentConnection.sendRequest(codestream/login/token)
+[2022-09-07 21:22:52:924] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2022-09-07 21:22:52:924] [2] WebviewController.onApiVersionChanged
+[2022-09-07 21:22:52:924] [2] WebviewController.onApiVersionChanged completed • 0 ms
+[2022-09-07 21:22:52:924] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 0 ms
+[2022-09-07 21:22:55:083] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview
+[2022-09-07 21:22:55:103] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:22:57:606] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:23:03:012] [3] CodeStreamAgentConnection.onDataChanged(unreads)
+[2022-09-07 21:23:03:012] [3] CodeStreamAgentConnection.onDataChanged(unreads) completed • 0 ms
+[2022-09-07 21:23:04:968] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-09-07 21:23:05:015] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-09-07 21:23:05:592] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-09-07 21:23:06:179] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:23:06:183] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-09-07 21:23:14:913] [4] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:23:14:913] [4] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:23:16:837] [5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:23:16:838] [5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:23:16:838] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:23:16:838] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:23:46:785] [6] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:23:46:786] [6] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:23:52:162] [7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:23:52:163] [7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:23:52:163] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:23:52:163] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:24:01:257] [8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:24:01:257] [8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:24:01:257] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:24:01:258] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:24:03:135] [9] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:24:03:136] [9] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:24:03:143] [a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:24:03:144] [a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:24:03:144] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:24:03:144] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:26:00:455] [b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:26:00:455] [b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:26:01:736] [c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:26:01:737] [c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:26:01:738] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:26:01:738] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:27:03:660] [d] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:27:03:660] [d] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:27:04:904] [e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:27:04:904] [e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:27:04:904] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:27:04:904] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:27:11:961] [f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:27:11:961] [f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:27:11:961] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:27:11:961] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:27:14:129] [10] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:27:14:129] [10] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:27:15:551] [11] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:27:15:551] [11] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:27:15:551] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:27:15:552] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:27:20:690] [12] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:27:20:691] [12] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:27:22:635] [13] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:27:22:637] [13] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 1 ms
+[2022-09-07 21:27:22:637] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:27:22:638] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:27:53:578] [14] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:27:53:580] [14] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 1 ms
+[2022-09-07 21:27:53:580] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:27:53:581] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:28:53:252] [15] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:28:53:252] [15] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:28:58:321] [16] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:28:58:322] [16] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:28:58:322] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:28:58:322] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:29:05:128] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:29:05:229] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:29:05:239] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:29:06:226] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:29:06:264] [17] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:29:06:264] [17] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:29:07:430] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:29:07:441] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:29:07:469] [18] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:29:07:469] [18] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:29:07:943] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:29:08:227] [19] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/Repaso_Css/styles.css)
+[2022-09-07 21:29:08:227] [19] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/React/Repaso_Css/styles.css) completed • 0 ms
+[2022-09-07 21:30:34:405] [1a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:30:34:405] [1a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:30:34:406] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:30:34:406] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:30:49:407] [1b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:30:49:407] [1b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:30:49:407] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:30:49:407] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:30:53:580] [1c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:30:53:580] [1c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:30:55:299] [1d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:30:55:300] [1d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:30:55:300] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:30:55:300] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:31:05:448] [1e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:31:05:448] [1e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:31:05:449] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:31:05:449] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:31:13:820] [1f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:31:13:820] [1f] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:31:17:056] [20] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:31:17:057] [20] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:31:17:057] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:31:17:057] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:32:01:058] [21] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:32:01:059] [21] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:32:03:338] [22] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:32:03:339] [22] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:32:03:339] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:32:03:339] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:33:35:956] [23] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:33:35:957] [23] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 1 ms
+[2022-09-07 21:33:35:958] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:33:35:958] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:33:48:608] [24] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:33:48:608] [24] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:33:51:453] [25] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:33:51:453] [25] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:33:51:453] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:33:51:454] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:33:52:549] [26] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:33:52:549] [26] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:33:55:550] [27] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:33:55:550] [27] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:33:55:551] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:33:55:551] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:34:19:943] [28] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:34:19:943] [28] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:34:19:944] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:34:19:944] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:34:23:391] [29] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:34:23:392] [29] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 1 ms
+[2022-09-07 21:34:23:392] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:34:23:393] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:34:30:247] [2a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:34:30:247] [2a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:34:30:247] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:34:30:248] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:34:41:338] [2b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:34:41:339] [2b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:34:41:339] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:34:41:339] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:34:42:282] [2c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:34:42:283] [2c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:34:46:569] [2d] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:34:46:569] [2d] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:34:50:436] [2e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:34:50:436] [2e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:34:50:436] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:34:50:436] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:34:54:590] [2f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:34:54:590] [2f] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:34:57:774] [30] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:34:57:775] [30] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:34:57:775] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:34:57:775] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:35:04:202] [31] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:35:04:202] [31] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:35:06:371] [32] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:35:06:372] [32] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:35:06:373] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:35:06:373] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:35:10:330] [33] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:35:10:330] [33] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:35:13:335] [34] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:35:13:335] [34] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:35:13:335] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:35:13:336] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:35:18:112] [35] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:35:18:112] [35] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:35:19:501] [36] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:35:19:502] [36] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 1 ms
+[2022-09-07 21:35:19:502] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:35:19:502] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:35:29:523] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:35:29:530] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:35:29:547] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:35:30:033] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:35:39:676] [37] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:35:39:676] [37] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:35:39:677] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:35:39:677] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:35:44:636] [38] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:35:44:636] [38] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:35:44:636] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:35:44:636] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:35:47:628] [39] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:35:47:628] [39] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:35:56:507] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:35:56:510] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:35:57:018] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:36:06:994] [3a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:36:06:994] [3a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:36:09:018] [3b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:36:09:018] [3b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:36:09:018] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:36:09:018] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:36:15:182] [3c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:36:15:182] [3c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:36:17:977] [3d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:36:17:977] [3d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:36:17:977] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:36:17:978] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:36:39:813] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:36:39:817] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:36:40:691] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:36:44:924] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:36:45:068] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:36:45:074] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:36:46:169] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:36:47:007] [3e] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:36:47:007] [3e] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:36:50:834] [3f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso%202/3.%20Login.html)
+[2022-09-07 21:36:50:835] [3f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso%202/3.%20Login.html) completed • 0 ms
+[2022-09-07 21:36:50:835] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:36:50:835] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:36:56:667] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:36:56:670] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:36:57:172] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:37:04:015] [40] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:37:04:016] [40] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:37:05:416] [41] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:37:05:417] [41] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:37:05:417] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:37:05:417] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:37:09:595] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:37:09:608] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:37:10:110] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:37:18:301] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:37:18:303] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:37:18:805] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:37:29:968] [42] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:37:29:968] [42] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:37:29:969] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:37:29:969] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:37:44:211] [43] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:37:44:212] [43] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:37:44:212] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:37:44:212] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:37:44:571] [44] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:37:44:571] [44] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:37:51:801] [45] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:37:51:801] [45] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:37:53:743] [46] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:37:53:744] [46] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:37:53:744] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:37:53:744] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:38:00:944] [47] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:38:00:945] [47] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:38:02:370] [48] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:38:02:371] [48] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:38:02:371] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:38:02:371] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:38:10:787] [49] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:38:10:787] [49] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:38:14:130] [4a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:38:14:130] [4a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:38:17:211] [4b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:38:17:211] [4b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:38:17:211] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:38:17:211] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:38:33:045] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:38:33:050] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:38:33:553] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:38:39:484] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:38:39:487] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:38:39:990] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:38:59:311] [4c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:38:59:311] [4c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:39:00:837] [4d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:39:00:837] [4d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:39:00:838] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:39:00:838] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:39:17:619] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:39:17:622] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:39:18:127] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:39:43:917] [4e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:39:43:919] [4e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 1 ms
+[2022-09-07 21:39:43:919] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:39:43:920] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:39:53:646] [4f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:39:53:647] [4f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:39:53:648] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:39:53:648] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:40:10:189] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:40:10:295] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:40:10:300] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:40:11:227] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:40:12:065] [50] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:40:12:065] [50] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:40:12:070] [51] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:40:12:070] [51] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:40:14:028] [52] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso%202/index.html)
+[2022-09-07 21:40:14:029] [52] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso%202/index.html) completed • 0 ms
+[2022-09-07 21:40:14:029] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:40:14:029] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:40:14:073] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:40:14:075] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:40:14:078] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:40:14:985] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:40:18:629] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:40:18:636] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:40:19:138] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:40:21:269] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:40:21:270] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:40:21:770] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:40:36:641] [53] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:40:36:642] [53] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:40:36:642] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:40:36:643] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:40:50:952] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:40:52:744] [54] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:40:52:745] [54] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:40:52:745] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:40:52:745] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:40:53:194] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:41:29:547] [55] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:41:29:548] [55] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:41:29:548] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:41:29:548] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:41:34:798] [56] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:41:34:798] [56] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:41:34:798] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:41:34:798] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:41:59:060] [57] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:41:59:061] [57] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:41:59:062] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:41:59:062] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:42:01:815] [58] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:42:01:816] [58] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:43:56:810] [59] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:43:56:811] [59] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:43:56:811] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:43:56:811] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:44:01:630] [5a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:44:01:631] [5a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:44:01:632] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:44:01:632] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:44:06:557] [5b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:44:06:557] [5b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:44:06:557] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:44:06:557] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:44:25:012] [5c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:44:25:013] [5c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:44:25:013] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:44:25:014] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:44:28:619] [5d] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:44:28:619] [5d] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:44:33:103] [5e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:44:33:104] [5e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:44:33:104] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:44:33:104] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:44:47:713] [5f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:44:47:715] [5f] CodeStreamAgentConnection.onDataChanged(documents) completed • 1 ms
+[2022-09-07 21:44:48:930] [60] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:44:48:931] [60] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 1 ms
+[2022-09-07 21:44:48:931] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:44:48:932] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:45:03:375] [61] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:45:03:375] [61] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:45:03:375] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:45:03:375] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:45:11:475] [62] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:45:11:475] [62] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:45:11:475] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:45:11:475] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:45:14:376] [63] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:45:14:376] [63] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:45:15:413] [64] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html)
+[2022-09-07 21:45:15:414] [64] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/Login.html) completed • 0 ms
+[2022-09-07 21:45:15:414] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:45:15:414] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:45:41:860] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:45:41:866] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:45:42:367] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:45:49:271] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:45:49:272] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:45:50:228] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:45:54:280] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:45:54:282] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:45:54:785] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:45:59:849] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:45:59:854] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:46:00:354] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:46:07:132] [65] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:46:07:132] [65] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:46:08:221] [66] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:46:08:221] [66] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:46:08:222] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:46:08:222] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:46:12:282] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:46:12:286] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:46:12:788] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:46:17:674] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:46:17:676] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:46:18:177] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:46:21:456] [67] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:46:21:457] [67] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:46:23:577] [68] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:46:23:578] [68] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:46:23:578] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:46:23:579] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:46:46:066] [69] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:46:46:066] [69] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:46:49:245] [6a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:46:49:245] [6a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:46:49:245] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:46:49:246] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:47:04:832] [6b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:47:04:832] [6b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:47:05:980] [6c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:47:05:980] [6c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:47:05:980] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:47:05:980] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:47:15:845] [6d] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:47:15:846] [6d] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:47:17:240] [6e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:47:17:241] [6e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:47:17:241] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:47:17:241] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:48:05:528] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:05:631] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:05:634] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:48:06:645] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:06:682] [6f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:48:06:683] [6f] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:48:11:376] [70] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.%20index.html)
+[2022-09-07 21:48:11:377] [70] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.%20index.html) completed • 0 ms
+[2022-09-07 21:48:11:377] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:48:11:377] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:48:31:098] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:31:109] [71] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:48:31:109] [71] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:48:31:207] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:31:210] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:48:32:268] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:33:177] [72] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:48:33:178] [72] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:48:33:664] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:33:667] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:34:169] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:34:208] [73] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/create_NewPass.html)
+[2022-09-07 21:48:34:208] [73] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/create_NewPass.html) completed • 0 ms
+[2022-09-07 21:48:41:706] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:41:710] [74] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:48:41:710] [74] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:48:41:793] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:41:797] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:48:42:884] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:43:829] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:43:832] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:43:839] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:48:43:844] [75] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:48:43:845] [75] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:48:44:342] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:44:795] [76] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.%20Login.html)
+[2022-09-07 21:48:44:795] [76] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.%20Login.html) completed • 0 ms
+[2022-09-07 21:48:47:505] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:47:509] [77] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:48:47:509] [77] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:48:47:618] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:47:623] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:48:48:658] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:49:564] [78] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:48:49:564] [78] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:48:50:620] [79] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/2.%20create_NewPass.html)
+[2022-09-07 21:48:50:621] [79] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/2.%20create_NewPass.html) completed • 0 ms
+[2022-09-07 21:48:50:621] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:48:50:621] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:48:52:735] [7a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:48:52:735] [7a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:48:57:710] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:57:712] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:48:57:717] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:48:58:217] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:14:552] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:14:555] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:15:060] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:15:534] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:15:537] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:15:549] [7b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:49:15:549] [7b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:49:16:039] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:16:625] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:16:626] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:17:600] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:18:995] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:19:005] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:19:507] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:42:968] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:43:071] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:43:083] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:49:44:159] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:45:204] [7c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:49:45:205] [7c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:49:46:073] [7d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso%202/1.%20crear-password.html)
+[2022-09-07 21:49:46:073] [7d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso%202/1.%20crear-password.html) completed • 0 ms
+[2022-09-07 21:49:46:074] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:49:46:074] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:49:53:794] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:53:795] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:49:54:295] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:01:705] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:01:707] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:02:209] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:06:544] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:06:557] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:07:062] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:12:552] [7e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/2.%20create_NewPass.html)
+[2022-09-07 21:50:12:552] [7e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/2.%20create_NewPass.html) completed • 0 ms
+[2022-09-07 21:50:12:552] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:50:12:552] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:50:12:797] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:12:800] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:13:301] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:19:359] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:19:360] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:20:426] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:27:560] [7f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/2.%20create_NewPass.html)
+[2022-09-07 21:50:27:561] [7f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/2.%20create_NewPass.html) completed • 0 ms
+[2022-09-07 21:50:27:561] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:50:27:561] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:50:45:491] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:45:492] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:45:994] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:49:963] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:49:966] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:50:940] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:50:945] [80] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:50:50:946] [80] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:50:54:423] [81] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:50:54:423] [81] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:50:55:469] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:55:471] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:50:55:974] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:51:17:652] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:51:17:655] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:51:18:577] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:51:19:835] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:51:19:838] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:51:20:340] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:51:23:485] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:51:23:486] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:51:23:988] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:51:50:964] [82] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:51:50:964] [82] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:51:52:369] [83] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/2.%20create_NewPass.html)
+[2022-09-07 21:51:52:371] [83] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/2.%20create_NewPass.html) completed • 1 ms
+[2022-09-07 21:51:52:371] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:51:52:372] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:51:57:011] [84] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/2.%20create_NewPass.html)
+[2022-09-07 21:51:57:012] [84] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/2.%20create_NewPass.html) completed • 0 ms
+[2022-09-07 21:51:57:012] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:51:57:012] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:51:58:353] [85] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:51:58:353] [85] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:52:00:250] [86] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/2.%20create_NewPass.html)
+[2022-09-07 21:52:00:251] [86] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/2.%20create_NewPass.html) completed • 0 ms
+[2022-09-07 21:52:00:251] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:52:00:251] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:52:18:110] [87] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:52:18:110] [87] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:52:18:995] [88] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/2.%20create_NewPass.html)
+[2022-09-07 21:52:18:996] [88] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/2.%20create_NewPass.html) completed • 0 ms
+[2022-09-07 21:52:18:996] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:52:18:997] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:53:09:149] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:53:09:152] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:53:09:663] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:53:12:683] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:53:12:684] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:53:13:625] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:53:22:421] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:53:22:423] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:53:22:925] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:53:30:134] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:53:30:136] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:53:30:637] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:54:07:390] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:54:07:392] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:54:07:895] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:54:18:300] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:54:18:301] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:54:18:802] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:54:19:256] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:54:19:259] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:54:19:763] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:54:34:846] [89] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:54:34:847] [89] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 1 ms
+[2022-09-07 21:54:34:848] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:54:34:848] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:54:50:472] [8a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:54:50:473] [8a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:54:50:473] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:54:50:473] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:54:56:699] [8b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:54:56:699] [8b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:55:01:401] [8c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:55:01:402] [8c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:55:01:402] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:55:01:402] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:55:04:290] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:04:292] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:04:794] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:10:735] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:10:736] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:11:238] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:12:216] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:12:217] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:12:719] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:18:294] [8d] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:55:18:295] [8d] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:55:22:154] [8e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:55:22:155] [8e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:55:22:155] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:55:22:156] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:55:27:214] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:27:217] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:27:719] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:30:464] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:30:470] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:30:972] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:34:036] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:34:038] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:34:540] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:55:48:481] [8f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:55:48:481] [8f] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:55:51:430] [90] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:55:51:430] [90] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 21:55:51:430] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:55:51:431] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:56:29:067] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:29:071] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:29:573] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:33:633] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:33:634] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:34:135] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:34:909] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:34:910] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:35:413] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:37:347] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:37:349] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:37:852] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:43:442] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:43:443] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:43:949] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:50:109] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:50:121] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:50:626] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:56:55:680] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:00:138] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:00:139] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:00:658] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:01:342] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:01:343] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:01:853] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:03:393] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:03:393] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:03:399] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:03:420] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:04:867] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:04:867] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:05:373] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:15:256] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:18:265] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:57:26:182] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:58:34:638] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:58:40:398] [91] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:58:40:399] [91] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:58:42:072] [92] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 21:58:42:073] [92] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 1 ms
+[2022-09-07 21:58:42:074] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:58:42:074] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 21:58:52:893] [93] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:58:52:893] [93] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 21:59:08:637] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:59:08:640] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:59:09:156] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:59:18:225] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:59:35:634] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:59:35:635] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:59:36:148] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 21:59:59:260] [94] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 21:59:59:260] [94] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 22:00:01:143] [95] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 22:00:01:144] [95] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 22:00:01:144] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:00:01:144] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:02:08:614] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 22:02:09:023] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 22:02:09:041] [96] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 22:02:09:041] [96] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 22:02:09:522] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 22:12:25:050] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 22:12:25:128] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 22:12:25:136] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:12:26:202] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 22:12:27:988] [97] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 22:12:27:988] [97] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 22:12:28:128] [98] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.%20Login.html)
+[2022-09-07 22:12:28:128] [98] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.%20Login.html) completed • 0 ms
+[2022-09-07 22:12:28:128] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:12:28:128] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:12:35:061] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 22:12:35:080] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 22:12:35:107] [99] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 22:12:35:107] [99] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 22:12:35:586] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 22:12:36:155] [9a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 22:12:36:155] [9a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 22:12:54:130] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 22:12:54:190] [9b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 22:12:54:190] [9b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 22:12:54:231] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 22:12:54:234] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:12:55:301] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 22:12:59:766] [9c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:12:59:766] [9c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:12:59:766] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:12:59:767] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:13:05:916] [9d] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 22:13:05:916] [9d] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 22:13:07:334] [9e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:13:07:335] [9e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 1 ms
+[2022-09-07 22:13:07:336] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:13:07:336] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:13:17:875] [9f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:13:17:876] [9f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:13:17:876] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:13:17:877] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:13:21:880] [a0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:13:21:880] [a0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:13:21:880] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:13:21:880] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:14:55:086] [a1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:14:55:086] [a1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:14:55:086] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:14:55:086] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:15:31:748] [a2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:15:31:748] [a2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:15:31:748] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:15:31:748] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:15:47:926] [a3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:15:47:927] [a3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:15:47:927] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:15:47:927] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:16:04:064] [a4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:16:04:064] [a4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:16:04:064] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:16:04:064] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:19:03:462] [a5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:19:03:463] [a5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:19:03:463] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:19:03:463] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:19:39:732] [a6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:19:39:733] [a6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:19:39:733] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:19:39:733] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:20:04:204] [a7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:20:04:204] [a7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:20:04:205] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:20:04:205] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:20:09:212] [a8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:20:09:213] [a8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:20:09:213] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:20:09:214] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:20:20:233] [a9] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:20:20:234] [a9] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:20:20:235] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:20:20:235] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:20:34:239] [aa] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:20:34:239] [aa] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:20:34:239] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:20:34:239] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:20:58:855] [ab] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:20:58:856] [ab] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:20:58:856] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:20:58:857] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:21:37:223] [ac] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:21:37:224] [ac] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:21:37:224] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:21:37:224] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:43:20:860] [ad] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:43:20:861] [ad] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:43:20:862] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:43:20:862] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:46:11:546] [ae] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:46:11:547] [ae] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:46:11:547] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:46:11:547] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:46:27:937] [af] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:46:27:937] [af] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:46:27:938] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:46:27:938] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:47:12:310] [b0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:47:12:310] [b0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:47:12:310] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:47:12:310] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:47:37:543] [b1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:47:37:543] [b1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:47:37:543] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:47:37:543] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:47:55:706] [b2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:47:55:707] [b2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:47:55:707] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:47:55:708] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:48:37:030] [b3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:48:37:031] [b3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:48:37:032] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:48:37:032] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:48:40:669] [b4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 22:48:40:670] [b4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 22:48:40:670] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:48:40:671] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 22:59:44:144] [b5] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 22:59:44:145] [b5] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:01:21:125] [b6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:01:21:126] [b6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 1 ms
+[2022-09-07 23:01:21:127] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:01:21:127] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:01:27:225] [b7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:01:27:225] [b7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:01:27:225] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:01:27:225] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:01:49:481] [b8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:01:49:482] [b8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:01:49:482] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:01:49:482] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:02:04:177] [b9] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:02:04:178] [b9] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:02:04:178] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:02:04:178] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:02:20:695] [ba] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:02:20:696] [ba] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:02:20:696] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:02:20:696] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:02:28:590] [bb] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:02:28:591] [bb] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:02:28:591] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:02:28:591] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:02:34:296] [bc] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:02:34:296] [bc] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:02:34:296] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:02:34:296] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:02:39:023] [bd] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:02:39:024] [bd] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:02:39:024] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:02:39:024] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:02:48:272] [be] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:02:48:273] [be] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:02:48:273] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:02:48:273] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:02:56:452] [bf] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:02:56:453] [bf] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:02:56:453] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:02:56:453] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:03:07:919] [c0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:03:07:919] [c0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:03:07:919] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:03:07:919] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:03:09:373] [c1] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:03:09:374] [c1] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:07:24:329] [c2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:07:24:329] [c2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:07:24:330] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:07:24:330] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:07:44:141] [c3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:07:44:141] [c3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:07:44:142] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:07:44:142] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:07:48:872] [c4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:07:48:873] [c4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:07:48:873] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:07:48:874] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:07:56:018] [c5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:07:56:018] [c5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:07:56:019] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:07:56:019] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:08:03:137] [c6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:08:03:137] [c6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:08:03:138] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:08:03:138] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:08:29:936] [c7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:08:29:937] [c7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:08:29:937] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:08:29:937] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:08:59:901] [c8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:08:59:901] [c8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:08:59:901] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:08:59:901] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:09:15:986] [c9] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:09:15:986] [c9] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:09:15:986] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:09:15:987] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:09:23:247] [ca] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:09:23:248] [ca] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:09:23:248] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:09:23:248] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:09:32:269] [cb] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:09:32:269] [cb] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:09:32:270] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:09:32:270] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:09:52:187] [cc] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:09:52:187] [cc] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:09:52:188] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:09:52:188] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:10:27:465] [cd] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:10:27:466] [cd] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:10:27:466] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:10:27:466] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:10:37:879] [ce] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:10:37:879] [ce] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:11:34:329] [cf] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:11:34:329] [cf] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:11:35:261] [d0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:11:35:262] [d0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:11:35:263] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:11:35:263] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:12:01:186] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:12:01:188] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:12:01:691] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:12:11:645] [d1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:12:11:646] [d1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:12:11:647] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:12:11:647] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:12:27:218] [d2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:12:27:219] [d2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:12:27:219] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:12:27:219] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:12:35:618] [d3] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:12:35:618] [d3] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:12:37:206] [d4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:12:37:207] [d4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:12:37:207] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:12:37:207] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:12:37:566] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:12:37:568] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:12:41:269] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:13:11:561] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:13:11:564] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:13:12:065] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:13:45:491] [d5] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:13:45:491] [d5] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:13:47:434] [d6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:13:47:435] [d6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 1 ms
+[2022-09-07 23:13:47:436] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:13:47:437] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:13:53:389] [d7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:13:53:390] [d7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:13:53:391] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:13:53:391] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:14:06:461] [d8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:14:06:462] [d8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:14:06:462] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:14:06:462] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:16:14:399] [d9] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:16:14:399] [d9] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:16:19:486] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:16:19:490] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:16:19:992] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:16:36:109] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:16:36:111] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:16:36:613] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:16:50:715] [da] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:16:50:715] [da] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:16:53:588] [db] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:16:53:588] [db] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:16:53:588] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:16:53:588] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:16:59:619] [dc] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:16:59:619] [dc] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:17:02:556] [dd] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:17:02:557] [dd] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:17:02:557] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:17:02:557] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:17:10:219] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:17:10:223] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:17:10:727] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:17:16:672] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:17:16:674] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:17:17:176] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:17:21:693] [de] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:17:21:693] [de] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:17:24:686] [df] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:17:24:687] [df] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:17:24:687] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:17:24:687] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:17:28:524] [e0] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:17:28:524] [e0] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:17:31:471] [e1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:17:31:471] [e1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:17:31:471] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:17:31:472] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:17:36:932] [e2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:17:36:933] [e2] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:17:36:933] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:17:36:934] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:17:56:016] [e3] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:17:56:016] [e3] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:18:00:766] [e4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:18:00:767] [e4] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:18:00:767] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:18:00:768] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:18:05:246] [e5] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:18:05:246] [e5] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:18:08:372] [e6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:18:08:372] [e6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:18:08:372] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:18:08:373] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:18:11:391] [e7] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:18:11:392] [e7] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:18:12:682] [e8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:18:12:682] [e8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:18:12:682] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:18:12:682] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:18:16:450] [e9] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:18:16:450] [e9] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:18:19:947] [ea] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:18:19:949] [ea] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 1 ms
+[2022-09-07 23:18:19:950] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:18:19:951] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:18:26:091] [eb] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:18:26:092] [eb] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:18:27:938] [ec] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:18:27:939] [ec] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:18:27:939] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:18:27:939] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:18:33:390] [ed] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:18:33:390] [ed] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:18:33:393] [ee] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:18:33:394] [ee] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:18:33:394] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:18:33:394] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:18:47:902] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:18:47:904] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:18:48:407] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:18:55:700] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:18:55:702] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:18:56:204] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:19:01:825] [ef] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:19:01:826] [ef] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:19:01:826] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:19:01:826] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:19:16:830] [f0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:19:16:831] [f0] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:19:16:831] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:19:16:831] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:19:25:214] [f1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:19:25:215] [f1] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:19:25:215] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:19:25:216] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:19:29:288] [f2] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:19:29:288] [f2] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:19:32:411] [f3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:19:32:412] [f3] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:19:32:412] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:19:32:412] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:19:34:992] [f4] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:19:34:993] [f4] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:19:38:082] [f5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:19:38:082] [f5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:19:38:082] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:19:38:083] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:20:32:072] [f6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:20:32:072] [f6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:20:32:072] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:20:32:072] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:20:32:907] [f7] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:20:32:907] [f7] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:20:35:980] [f8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:20:35:983] [f8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 3 ms
+[2022-09-07 23:20:35:984] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:20:35:984] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:20:53:430] [f9] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:20:53:430] [f9] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:20:56:271] [fa] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:20:56:271] [fa] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:20:56:271] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:20:56:271] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:21:01:442] [fb] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:21:01:443] [fb] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:21:06:081] [fc] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:21:06:081] [fc] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:21:06:081] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:21:06:082] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:21:07:118] [fd] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:21:07:118] [fd] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:21:09:084] [fe] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:21:09:084] [fe] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:21:09:084] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:21:09:085] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:21:19:282] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:21:19:285] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:21:19:786] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:21:35:215] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:21:35:216] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:21:35:719] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:21:42:839] [ff] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:21:42:839] [ff] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:21:46:085] [100] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:21:46:085] [100] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:21:46:086] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:21:46:086] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:21:47:674] [101] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:21:47:674] [101] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:22:32:481] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:22:32:485] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:22:32:987] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:22:56:373] [102] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:22:56:373] [102] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:22:56:373] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:22:56:373] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:23:09:032] [103] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:23:09:033] [103] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:23:09:033] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:23:09:033] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:23:13:805] [104] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:23:13:806] [104] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:23:13:806] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:23:13:806] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:23:26:631] [105] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:23:26:631] [105] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:23:26:631] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:23:26:631] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:23:31:552] [106] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:23:31:552] [106] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:23:31:552] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:23:31:552] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:23:45:000] [107] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:23:45:000] [107] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:23:45:001] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:23:45:001] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:24:02:263] [108] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:24:02:264] [108] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:24:02:264] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:24:02:264] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:24:20:192] [109] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:24:20:193] [109] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:24:20:193] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:24:20:194] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:24:44:339] [10a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:24:44:339] [10a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:24:44:339] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:24:44:339] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:24:49:272] [10b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:24:49:273] [10b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:24:49:273] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:24:49:273] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:24:54:659] [10c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:24:54:660] [10c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:24:54:660] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:24:54:661] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:24:56:033] [10d] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:24:56:034] [10d] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:25:21:292] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:25:21:298] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:25:21:801] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:25:30:729] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:25:30:731] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:25:31:833] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:26:17:443] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:26:17:449] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:26:17:953] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:26:33:883] [10e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:26:33:883] [10e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:26:33:883] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:26:33:884] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:26:43:274] [10f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:26:43:274] [10f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:26:43:274] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:26:43:274] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:26:47:154] [110] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:26:47:154] [110] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:26:50:299] [111] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:26:50:300] [111] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:26:50:300] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:26:50:300] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:26:53:902] [112] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:26:53:902] [112] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:27:04:041] [113] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:27:04:041] [113] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:27:07:291] [114] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:27:07:291] [114] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:27:07:292] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:27:07:292] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:27:09:439] [115] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:27:09:439] [115] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:27:11:327] [116] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:27:11:327] [116] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:27:11:327] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:27:11:327] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:27:15:025] [117] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:27:15:025] [117] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:27:18:237] [118] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:27:18:237] [118] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:27:18:237] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:27:18:238] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:27:20:361] [119] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:27:20:361] [119] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:27:21:785] [11a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:27:21:785] [11a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:27:21:786] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:27:21:786] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:27:27:074] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:27:27:079] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:27:27:581] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:28:04:783] [11b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:28:04:783] [11b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:28:04:783] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:28:04:784] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:28:11:220] [11c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:28:11:220] [11c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:28:11:220] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:28:11:220] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:28:13:613] [11d] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:28:13:614] [11d] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:28:14:811] [11e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:28:14:812] [11e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:28:14:812] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:28:14:812] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:28:30:570] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:28:30:573] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:28:31:074] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:28:40:964] [11f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:28:40:964] [11f] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:28:42:458] [120] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:28:42:458] [120] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:28:42:458] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:28:42:458] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:28:46:860] [121] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:28:46:861] [121] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:28:49:096] [122] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:28:49:097] [122] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:28:49:097] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:28:49:097] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:29:10:616] [123] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:29:10:616] [123] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:29:13:888] [124] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:29:13:888] [124] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:29:13:888] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:29:13:888] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:29:19:763] [125] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:29:19:763] [125] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:29:21:863] [126] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:29:21:863] [126] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:29:21:864] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:29:21:864] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:29:27:154] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:29:27:155] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:29:28:071] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:34:03:089] [127] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:34:03:089] [127] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:34:03:089] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:34:03:089] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:34:12:189] [128] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:34:12:190] [128] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:34:12:190] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:34:12:190] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:34:13:314] [129] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:34:13:315] [129] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:34:16:089] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:34:16:093] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:34:16:595] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:34:37:558] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:34:37:562] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:34:38:645] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:37:34:216] [12a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:37:34:217] [12a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:37:34:217] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:37:34:217] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:37:39:031] [12b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:37:39:031] [12b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:37:39:031] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:37:39:031] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:37:45:826] [12c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:37:45:827] [12c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:37:45:827] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:37:45:827] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:37:48:828] [12d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:37:48:828] [12d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:37:48:828] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:37:48:828] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:37:53:180] [12e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:37:53:181] [12e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:37:53:181] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:37:53:181] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:37:57:268] [12f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:37:57:268] [12f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:37:57:268] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:37:57:269] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:38:08:763] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:38:08:765] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:38:10:017] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:38:10:026] [130] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:38:10:026] [130] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:38:26:679] [131] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:38:26:679] [131] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:38:26:680] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:38:26:680] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:38:33:866] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:38:33:951] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:38:33:961] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:38:35:363] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:38:36:672] [132] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:38:36:673] [132] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:38:36:952] [133] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/Project_Bata_Bit/styles.css)
+[2022-09-07 23:38:36:952] [133] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-07 23:38:36:952] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:38:36:952] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:38:41:275] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:38:41:281] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:38:41:308] [134] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:38:41:309] [134] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:38:41:782] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:38:52:581] [135] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:38:52:581] [135] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:38:52:581] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:38:52:581] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:39:05:427] [136] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:39:05:427] [136] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:39:05:428] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:39:05:428] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:39:07:589] [137] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:39:07:589] [137] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:39:13:693] [138] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:39:13:694] [138] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:39:13:694] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:39:13:694] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:43:44:586] [139] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-09-07 23:43:44:586] [139] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-09-07 23:43:53:640] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:43:53:643] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:43:54:803] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:43:55:992] [13a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:43:55:992] [13a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:44:03:572] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:44:03:574] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:44:03:586] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:44:04:508] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:44:20:650] [13b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:44:20:651] [13b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:44:20:651] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:44:20:651] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:44:21:870] [13c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:44:21:870] [13c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:44:55:578] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:44:55:581] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:44:56:082] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:13:330] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:13:331] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:13:832] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:17:020] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:17:021] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:17:524] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:22:161] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:22:163] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:22:665] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:28:051] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:28:052] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:29:286] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:37:453] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:37:455] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:37:958] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:45:51:271] [13d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:45:51:271] [13d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:45:51:271] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:45:51:272] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:45:54:345] [13e] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:45:54:345] [13e] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:45:56:706] [13f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:45:56:706] [13f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:45:56:706] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:45:56:707] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:46:18:057] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:46:18:169] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:46:18:174] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:46:19:079] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:46:19:921] [140] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:46:19:921] [140] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:46:23:619] [141] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/Project_Bata_Bit/styles.css)
+[2022-09-07 23:46:23:619] [141] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-07 23:46:23:619] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:46:23:619] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:46:28:392] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:46:28:395] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:46:28:896] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:46:32:603] [142] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:46:32:604] [142] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:46:33:790] [143] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:46:33:790] [143] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:46:33:790] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:46:33:791] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:46:45:788] [144] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:46:45:788] [144] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:46:45:788] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:46:45:789] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:46:45:934] [145] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:46:45:934] [145] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:46:49:956] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:46:49:959] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:46:50:460] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:47:20:562] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:47:20:563] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:47:21:064] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:47:28:799] [146] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:47:28:799] [146] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:47:30:195] [147] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:47:30:195] [147] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:47:30:195] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:47:30:196] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:48:29:241] [148] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:48:29:241] [148] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:48:29:242] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:48:29:242] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:48:40:766] [149] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:48:40:766] [149] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:48:42:138] [14a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:48:42:139] [14a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:48:42:139] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:48:42:139] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:49:04:828] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:49:04:831] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:49:05:332] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:49:11:332] [14b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:49:11:333] [14b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:49:12:741] [14c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html)
+[2022-09-07 23:49:12:741] [14c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/3.%20main_page.html) completed • 0 ms
+[2022-09-07 23:49:12:742] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:49:12:742] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:49:15:124] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:49:15:127] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:49:15:629] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-07 23:50:40:510] [14d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:50:40:510] [14d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:50:40:510] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:50:40:510] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:50:49:285] [14e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:50:49:285] [14e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:50:49:286] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:50:49:286] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:50:58:102] [14f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:50:58:103] [14f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:50:58:103] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:50:58:103] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:51:02:452] [150] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:51:02:453] [150] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:51:02:453] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:51:02:453] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:51:08:355] [151] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:51:08:355] [151] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:51:08:355] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:51:08:355] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:51:13:900] [152] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:51:13:900] [152] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:51:13:900] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:51:13:900] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:51:24:631] [153] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:51:24:632] [153] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:51:26:581] [154] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:51:26:581] [154] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:51:26:582] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:51:26:582] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:51:42:146] [155] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:51:42:147] [155] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:51:42:147] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:51:42:147] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:51:47:539] [156] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:51:47:539] [156] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-07 23:51:49:398] [157] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css)
+[2022-09-07 23:51:49:399] [157] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/WEBHYT/1.2.%20style.css) completed • 0 ms
+[2022-09-07 23:51:49:399] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:51:49:399] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-07 23:53:02:648] [158] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-07 23:53:02:648] [158] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms

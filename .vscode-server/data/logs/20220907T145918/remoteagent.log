@@ -1,0 +1,125 @@
+[2022-09-07 14:59:22.056] [remoteagent] [info] Extension host agent started.
+[2022-09-07 14:59:22.355] [remoteagent] [info] [127.0.0.1][965d729c][ManagementConnection] New connection established.
+[2022-09-07 14:59:22.364] [remoteagent] [info] [127.0.0.1][540ea140][ExtensionHostConnection] New connection established.
+[2022-09-07 14:59:25.130] [remoteagent] [info] [127.0.0.1][540ea140][ExtensionHostConnection] <208> Launched Extension Host Process.
+[2022-09-07 14:59:29.786] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/cmendoza/.vscode-server/extensions/ms-python.vscode-pylance-2022.8.40
+[2022-09-07 14:59:29.797] [remoteagent] [info] Deleted from disk ms-vsliveshare.vsliveshare /home/cmendoza/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5696
+[2022-09-07 14:59:31.273] [remoteagent] [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+[2022-09-07 14:59:31.274] [remoteagent] [info] Getting Manifest... codestream.codestream
+[2022-09-07 14:59:31.274] [remoteagent] [info] Getting Manifest... eamodio.gitlens
+[2022-09-07 14:59:31.274] [remoteagent] [info] Getting Manifest... eamodio.gitlens-insiders
+[2022-09-07 14:59:31.275] [remoteagent] [info] Getting Manifest... github.vscode-pull-request-github
+[2022-09-07 14:59:31.276] [remoteagent] [info] Getting Manifest... johnpapa.vscode-peacock
+[2022-09-07 14:59:31.276] [remoteagent] [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+[2022-09-07 14:59:31.285] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-09-07 14:59:31.285] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-09-07 14:59:31.285] [remoteagent] [info] Getting Manifest... ms-vsliveshare.vsliveshare
+[2022-09-07 14:59:31.285] [remoteagent] [info] Getting Manifest... wallabyjs.quokka-vscode
+[2022-09-07 14:59:31.286] [remoteagent] [info] Getting Manifest... zhuangtongfa.material-theme
+[2022-09-07 14:59:31.743] [remoteagent] [info] Installing extension: codestream.codestream
+[2022-09-07 14:59:31.748] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2022-09-07 14:59:32.194] [remoteagent] [info] Installing extension: eamodio.gitlens
+[2022-09-07 14:59:32.205] [remoteagent] [info] Installing extension: johnpapa.vscode-peacock
+[2022-09-07 14:59:32.268] [remoteagent] [info] Installing extension: eamodio.gitlens-insiders
+[2022-09-07 14:59:32.325] [remoteagent] [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-es
+[2022-09-07 14:59:32.513] [remoteagent] [info] Installing extension: ms-python.python
+[2022-09-07 14:59:32.615] [remoteagent] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2022-09-07 14:59:33.025] [remoteagent] [info] Installing extension: github.vscode-pull-request-github
+[2022-09-07 14:59:37.089] [remoteagent] [info] Installing extension: wallabyjs.quokka-vscode
+[2022-09-07 14:59:37.306] [remoteagent] [info] Installing extension: zhuangtongfa.material-theme
+[2022-09-07 14:59:37.348] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-09-07 14:59:38.839] [remoteagent] [info] Downloaded extension: johnpapa.vscode-peacock /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/johnpapa.vscode-peacock-4.2.1
+[2022-09-07 14:59:38.851] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-es /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-es-1.71.9070915
+[2022-09-07 14:59:38.994] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.6c41e954-8194-40e3-9bc5-642dd721b6dc: johnpapa.vscode-peacock
+[2022-09-07 14:59:39.014] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/johnpapa.vscode-peacock-4.2.1
+[2022-09-07 14:59:39.036] [remoteagent] [info] Extracting completed. johnpapa.vscode-peacock
+[2022-09-07 14:59:39.044] [remoteagent] [info] Extension installed successfully: johnpapa.vscode-peacock
+[2022-09-07 14:59:39.782] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.b26c083b-7632-4d74-b37a-5fe98e969aec: ms-ceintl.vscode-language-pack-es
+[2022-09-07 14:59:39.805] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.71.9070915
+[2022-09-07 14:59:39.816] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+[2022-09-07 14:59:39.823] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+[2022-09-07 14:59:40.070] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+[2022-09-07 14:59:41.954] [remoteagent] [info] Downloaded extension: zhuangtongfa.material-theme /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/zhuangtongfa.material-theme-3.15.5
+[2022-09-07 14:59:42.265] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.742e0649-c235-4cad-ad81-525402204e5e: zhuangtongfa.material-theme
+[2022-09-07 14:59:42.296] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/zhuangtongfa.material-theme-3.15.5
+[2022-09-07 14:59:42.313] [remoteagent] [info] Extracting completed. zhuangtongfa.material-theme
+[2022-09-07 14:59:42.319] [remoteagent] [info] Extension installed successfully: zhuangtongfa.material-theme
+[2022-09-07 14:59:45.893] [remoteagent] [info] Downloaded extension: github.vscode-pull-request-github /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/github.vscode-pull-request-github-0.51.2022090509
+[2022-09-07 14:59:46.074] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.add72301-a58d-459c-82e4-bbd49979e6c2: github.vscode-pull-request-github
+[2022-09-07 14:59:46.113] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/github.vscode-pull-request-github-0.51.2022090509
+[2022-09-07 14:59:46.131] [remoteagent] [info] Extracting completed. github.vscode-pull-request-github
+[2022-09-07 14:59:46.136] [remoteagent] [info] Extension installed successfully: github.vscode-pull-request-github
+[2022-09-07 15:00:09.192] [remoteagent] [info] Downloaded extension: eamodio.gitlens-insiders /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-insiders-2022.9.705
+[2022-09-07 15:00:09.212] [remoteagent] [info] Downloaded extension: codestream.codestream /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/codestream.codestream-13.7.1
+[2022-09-07 15:00:09.215] [remoteagent] [info] Downloaded extension: eamodio.gitlens /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-12.2.2
+[2022-09-07 15:00:16.288] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.f78ce8b5-d530-4bf6-a74a-e4ed36cabccb: codestream.codestream
+[2022-09-07 15:00:16.405] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/codestream.codestream-13.7.1
+[2022-09-07 15:00:16.423] [remoteagent] [info] Extracting completed. codestream.codestream
+[2022-09-07 15:00:16.445] [remoteagent] [info] Extension installed successfully: codestream.codestream
+[2022-09-07 15:00:17.666] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.746fa8b4-85c9-44cd-b9c6-05daa722570c: eamodio.gitlens-insiders
+[2022-09-07 15:00:17.719] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.35a594b1-fcc8-4367-a2fc-e7360146043c: eamodio.gitlens
+[2022-09-07 15:00:17.762] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.9.705
+[2022-09-07 15:00:17.795] [remoteagent] [info] Extracting completed. eamodio.gitlens-insiders
+[2022-09-07 15:00:17.797] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-12.2.2
+[2022-09-07 15:00:17.820] [remoteagent] [info] Extracting completed. eamodio.gitlens
+[2022-09-07 15:00:17.832] [remoteagent] [info] Extension installed successfully: eamodio.gitlens-insiders
+[2022-09-07 15:00:17.865] [remoteagent] [info] Extension installed successfully: eamodio.gitlens
+[2022-09-07 15:00:25.806] [remoteagent] [info] Downloaded extension: ms-python.python /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2022.14.0
+[2022-09-07 15:00:42.465] [remoteagent] [info] Downloaded extension: wallabyjs.quokka-vscode /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/wallabyjs.quokka-vscode-1.0.501
+[2022-09-07 15:00:42.682] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.8.1002431955
+[2022-09-07 15:00:51.131] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.9d328064-c0cf-46cc-a37f-35dfc0c9c06d: ms-toolsai.jupyter
+[2022-09-07 15:00:51.206] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955
+[2022-09-07 15:00:51.308] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-09-07 15:00:51.344] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-09-07 15:01:04.668] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.6b41bfc2-2ab3-43eb-87ac-dcc4da120938: ms-python.python
+[2022-09-07 15:01:04.748] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-python.python-2022.14.0
+[2022-09-07 15:01:04.795] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-09-07 15:01:04.814] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2022-09-07 15:01:09.358] [remoteagent] [info] Downloaded extension: ms-vsliveshare.vsliveshare /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.5711
+[2022-09-07 15:01:10.027] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.6aafe259-4f8e-4929-ac81-546f61f209cb: wallabyjs.quokka-vscode
+[2022-09-07 15:01:10.193] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/wallabyjs.quokka-vscode-1.0.501
+[2022-09-07 15:01:10.204] [remoteagent] [info] Extracting completed. wallabyjs.quokka-vscode
+[2022-09-07 15:01:10.221] [remoteagent] [info] Extension installed successfully: wallabyjs.quokka-vscode
+[2022-09-07 15:01:16.109] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.fe98f637-cf6a-400d-8a7d-6e456812dce8: ms-vsliveshare.vsliveshare
+[2022-09-07 15:01:16.232] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5711
+[2022-09-07 15:01:16.251] [remoteagent] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2022-09-07 15:01:16.264] [remoteagent] [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+[2022-09-07 15:43:36.107] [remoteagent] [info] [127.0.0.1][540ea140][ExtensionHostConnection] <208> [0mGET /favicon.ico [33m404[0m 2.512 ms - 150[0m
+
+[2022-09-07 16:19:44.357] [remoteagent] [error] Error: write ECONNRESET
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:795:11)
+    at Socket._write (node:net:807:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at Socket.Writable.write (node:internal/streams/writable:334:10)
+    at write (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:31191)
+    at I._write (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:34113)
+    at y._writeFn (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:32579)
+    at y._processWriteQueue (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:37544)
+    at y.writeMessage (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:37245)
+    at I.write (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:33414)
+    at d._writeNow (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:17389)
+    at Timeout._onTimeout (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:17201)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[2022-09-07 16:19:44.359] [remoteagent] [error] Error: write ECONNRESET
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:795:11)
+    at Socket._write (node:net:807:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at Socket.Writable.write (node:internal/streams/writable:334:10)
+    at write (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:31191)
+    at I._write (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:34113)
+    at y._writeFn (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:32579)
+    at y._processWriteQueue (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:37544)
+    at y.writeMessage (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:37245)
+    at I.write (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:33414)
+    at d._writeNow (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:17389)
+    at Timeout._onTimeout (/home/cmendoza/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/out/vs/server/node/server.main.js:75:17201)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[2022-09-07 16:19:44.359] [remoteagent] [info] [127.0.0.1][965d729c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

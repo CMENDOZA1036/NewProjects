@@ -1,0 +1,75 @@
+[2022-09-07 14:59:33.059] [exthost] [info] Extension host with pid 208 started
+[2022-09-07 14:59:33.280] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-09-07 14:59:33.690] [exthost] [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-09-07 14:59:35.309] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-07 14:59:35.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-09-07 14:59:35.440] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-07 14:59:35.639] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets, startup: true, activationEvent: '*'
+[2022-09-07 14:59:35.684] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-09-07 14:59:36.423] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-09-07 14:59:36.784] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-09-07 14:59:41.105] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-09-07 14:59:41.185] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+[2022-09-07 14:59:41.205] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-09-07 14:59:41.285] [exthost] [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/5979ea734077970d694a454aaeeb4a4d/vscode.lock': Lock acquired.
+[2022-09-07 14:59:44.085] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2022-09-07 14:59:48.761] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-07 14:59:48.931] [exthost] [info] Not activating extension 'pranaygp.vscode-css-peek': Timed out while searching for 'workspaceContains' pattern **/*.css,**/*.scss,**/*.sass,**/*.less
+[2022-09-07 14:59:50.583] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-07 14:59:50.655] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-07 14:59:52.396] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek, startup: true, activationEvent: 'workspaceContains:**/*.css,**/*.scss,**/*.sass,**/*.less'
+[2022-09-07 14:59:57.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-07 14:59:57.140] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-07 14:59:57.218] [exthost] [info] ExtensionService#_doActivateExtension CodeStream.codestream, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-07 14:59:57.740] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-07 15:00:10.166] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens-insiders, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-07 15:00:12.219] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-09-07 15:00:13.461] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-07 15:00:29.602] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-07 15:01:05.336] [exthost] [error] Activating extension ms-vsliveshare.vsliveshare failed due to an error:
+[2022-09-07 15:01:05.336] [exthost] [error] Error: connect ENOENT /tmp/CoreFxPipe_vscode.2bc4cc7a5b2bb7f29c5c5c2c1f00d2eb
+	at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[2022-09-07 15:01:05.337] [exthost] [info] Eager extensions activated
+[2022-09-07 15:15:48.259] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 15:15:48.416] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-09-07 15:20:06.536] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 15:43:14.868] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-09-07 15:44:21.752] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 15:45:18.650] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 15:46:54.298] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 15:47:03.377] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 15:47:28.123] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 15:47:36.650] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 15:47:51.138] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 15:48:08.520] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 15:48:48.225] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 15:50:07.742] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 15:50:45.963] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-09-07 15:50:45.963] [exthost] [error] undefined
+[2022-09-07 15:50:48.234] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-09-07 15:50:48.234] [exthost] [error] undefined
+[2022-09-07 16:01:46.844] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:02:16.279] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:02:23.882] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:02:40.492] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:02:44.752] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:02:55.390] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:03:05.850] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:03:21.369] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:03:26.803] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:04:17.434] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:04:52.280] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:05:08.731] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:05:14.413] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:06:36.214] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:07:04.995] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:07:10.201] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:07:59.659] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:11:33.162] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:11:34.113] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:11:56.259] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:12:05.350] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:14:47.377] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:14:56.453] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:15:18.642] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-07 16:15:24.109] [exthost] [warning] TextEditor is closed/disposed

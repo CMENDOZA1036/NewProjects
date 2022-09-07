@@ -1,0 +1,41 @@
+[2022-09-01 09:34:31.383] [remoteagent] [info] Extension host agent started.
+[2022-09-01 09:34:31.402] [remoteagent] [error] ptyHost was unable to resolve shell environment {}
+[2022-09-01 09:34:31.737] [remoteagent] [info] [127.0.0.1][7f734868][ManagementConnection] New connection established.
+[2022-09-01 09:34:31.781] [remoteagent] [info] [127.0.0.1][054d6831][ExtensionHostConnection] New connection established.
+[2022-09-01 09:34:31.806] [remoteagent] [error] RequestService#request (node) resolving shell environment failed {}
+[2022-09-01 09:34:33.089] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2022-09-01 09:34:34.027] [remoteagent] [info] [127.0.0.1][054d6831][ExtensionHostConnection] <175> Launched Extension Host Process.
+[2022-09-01 09:34:44.575] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-09-01 09:34:44.575] [remoteagent] [info] Getting Manifest... ms-vsliveshare.vsliveshare
+[2022-09-01 09:34:45.048] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-09-01 09:34:45.084] [remoteagent] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2022-09-01 09:35:48.686] [remoteagent] [info] Downloaded extension: ms-vsliveshare.vsliveshare /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.5705
+[2022-09-01 09:35:49.958] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.8.50
+[2022-09-01 09:36:10.377] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.da702fb6-cb99-4cd8-9bfc-f3845a3c450a: ms-vsliveshare.vsliveshare
+[2022-09-01 09:36:10.530] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5705
+[2022-09-01 09:36:10.550] [remoteagent] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2022-09-01 09:36:10.604] [remoteagent] [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+[2022-09-01 09:36:23.527] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.879c9a96-7b8f-406e-9d6a-13bcc5f0add5: ms-python.vscode-pylance
+[2022-09-01 09:36:23.768] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-python.vscode-pylance-2022.8.50
+[2022-09-01 09:36:23.784] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-09-01 09:36:23.862] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-09-01 09:38:00.697] [remoteagent] [info] [127.0.0.1][054d6831][ExtensionHostConnection] <175> [0mGET /favicon.ico [33m404[0m 5.869 ms - 150[0m
+
+[2022-09-01 10:38:09.033] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:390:28)
+[2022-09-01 10:38:09.034] [remoteagent] [info] [127.0.0.1][7f734868][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-09-01 10:38:59.501] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-09-01 10:39:05.108] [remoteagent] [info] [127.0.0.1][7f734868][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-09-01 10:39:05.110] [remoteagent] [info] [127.0.0.1][054d6831][ExtensionHostConnection] The client has reconnected.
+[2022-09-01 10:39:05.123] [remoteagent] [info] [127.0.0.1][7f734868][ManagementConnection] The client has reconnected.
+[2022-09-01 15:46:53.911] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/cmendoza/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:390:28)
+[2022-09-01 15:46:53.913] [remoteagent] [info] [127.0.0.1][7f734868][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-09-01 16:34:49.856] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-09-01 16:34:55.637] [remoteagent] [info] [127.0.0.1][7f734868][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-09-01 16:34:55.695] [remoteagent] [info] [127.0.0.1][7f734868][ManagementConnection] The client has reconnected.
+[2022-09-01 16:34:55.778] [remoteagent] [info] [127.0.0.1][054d6831][ExtensionHostConnection] The client has reconnected.
+[2022-09-01 17:12:32.513] [remoteagent] [info] [127.0.0.1][7f734868][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-09-01 17:12:33.307] [remoteagent] [info] [127.0.0.1][054d6831][ExtensionHostConnection] <175> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,161 @@
+:root {
+    --white: #FFFFFF;
+    --black: #000000;
+    --very-ligh-pink: #C7C7C7;
+    --text-input-field: #F7F7F7;
+    --hospital-green: #ACD9B2;
+    --main-solid-blue: #00EDFA;
+    --main-solid-purpure: #3426BC;
+    --secundary-blue-1: #5FCADF;
+    --secundary-blue-2: #1992DD;
+    --secundary-blue-3: #2A70B9;
+    --secundary-blue-4: #2667D0;
+    --secundary-blue-5: #1F7ED7;
+    --secundary-blue-6: #1A6FD3;
+    --secundary-purpure-1: #2D4EC9;
+    --secundary-purpure-2: #42459C;
+    --secundary-black-1: #000000;
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #5867dd;
+    --secondary: #e1e1ef;
+    --success: #0abb87;
+    --info: #5578eb;
+    --warning: #ffb822;
+    --danger: #fd397a;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 1024px;
+    --breakpoint-xl: 1399px;
+    --sm: 14px;
+    /* Con estas en font-size podemos utilizarlos para los tamanos sm= small md = mediano = grande*/
+    --md: 16px;
+    --lg: 18px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+/** Styles of Login **/
+
+.login {
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+
+}
+
+.form-container {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    /* Con este y el de arriba centramos todo el text*/
+    width: 300px;
+
+}
+
+.logo {
+    width: 150px;
+    margin-bottom: 48px;
+    /*con este separamos del titulo*/
+    justify-self: center;
+    /* con este centramos*/
+    /* Con esta opcion no aparece en escritorio si no an app*/
+
+}
+
+.form {
+    display: flex;
+    /* Cuando ponemos esto se nos ubica uno al lado del otro*/
+    flex-direction: column;
+    /* Con este le cambiamos la direccion al anterior*/
+
+}
+
+.form a {
+    color: var(--secundary-black-1);
+    /* con esto cambiamos el color de la etiqueta a*/
+    font-size: var(--sm);
+    /*Tamano de la letra*/
+    text-decoration: none;
+    /* Con esto quita la linea de abajo del texto, como cuando hacemo sun subrayado de texto en word*/
+    text-align: center;
+    /*Con esto alineamos el texto*/
+    margin-bottom: 52px;
+    /*Con esto separamos este texto del boton de abajo*/
+
+}
+
+.label {
+    font-size: var(--sm);
+    font-weight: bold;
+    /*Pone la letra en negrilla*/
+    margin-bottom: 4px;
+}
+
+.input {
+    background-color: var(--text-input-field);
+    border: none;
+    /* con este quitamos el borde negrito*/
+    border-radius: 8px;
+    /* con este ponemos el borde que tiene con las esquinas ovaladas*/
+    height: 30px;
+    font-size: var(--md);
+    padding: 6px;
+    /* Esto es para que no quede pegado el password*/
+    margin-bottom: 1.6rem;
+    /* Con este damos espacio al input con el texto*/
+
+}
+
+.input-email {
+    margin-bottom: 22px;
+}
+
+.primary-button {
+    background-color: var(--secundary-blue-6);
+    /*color del boton*/
+    border-radius: 20px;
+    /* los bordes quedan ovalados*/
+    border: none;
+    /* con este eliminamos los bordes negros por defecto*/
+    color: var(--white);
+    /* con este le ponemos el color al texto o lo que este adentro del boton*/
+    width: 100%;
+    /*ancho completo*/
+    height: 40px;
+    /*alto*/
+    cursor: pointer;
+    /*con esto al pasar el mouse sale una manito y no la flecha del mouse*/
+    font-size: var(--md);
+    /* Con esto el boton crece, es decir un poco mas grande*/
+    font-weight: bold;
+    /* letra negrilla*/
+    border-bottom: 1px solid var(--secundary-black-1);
+
+}
