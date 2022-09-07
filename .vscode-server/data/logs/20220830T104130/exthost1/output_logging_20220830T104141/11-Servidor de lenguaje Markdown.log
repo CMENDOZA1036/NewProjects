@@ -1,5 +1,0 @@
-[Debug 16:33:38.688] TableOfContentsProvider: create - file:///home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE
-[Debug 16:33:38.691] LinkProvider: compute - file:///home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE
-[Debug 16:33:38.896] MdFoldingProvider: provideFoldingRanges - file:///home/cmendoza/PersonalProjects/WEB/Frontend/LICENSE
-[Trace 17:48:32.241] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/cmendoza/README.md
-[Trace 17:50:29.835] VsCodeClientWorkspace: onDidChangeWatchedFiles: 3: file:///home/cmendoza/README.md
