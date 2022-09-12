@@ -1,0 +1,53 @@
+[2022-09-12 21:16:03:484] CodeStream v13.7.1-4240 in VS Code (v1.71.0) starting...
+[2022-09-12 21:16:03:488] Proxy support is on, but no proxy url was found
+[2022-09-12 21:16:05:427] NewRelic telemetry enabled=true
+[2022-09-12 21:16:08:972] CodeStream v13.7.1-4240 started • 6121 ms
+[2022-09-12 21:16:08:985] Signing alvarezmendoz@gmail.com into CodeStream (https://api.codestream.com)
+[2022-09-12 21:16:08:989] AgentConnection.sendRequest(codestream/login/token)
+[2022-09-12 21:16:09:042] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2022-09-12 21:16:09:043] [2] WebviewController.onApiVersionChanged
+[2022-09-12 21:16:09:044] [2] WebviewController.onApiVersionChanged completed • 1 ms
+[2022-09-12 21:16:09:044] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 1 ms
+[2022-09-12 21:16:09:598] [3] CodeStreamAgentConnection.onVersionCompatibilityChanged
+[2022-09-12 21:16:09:598] [4] WebviewController.onVersionChanged
+[2022-09-12 21:16:09:598] [5] WebviewController.show
+[2022-09-12 21:16:09:598] [6] WebviewController.ensureWebView
+[2022-09-12 21:16:09:599] [6] WebviewController.ensureWebView completed • 0 ms
+[2022-09-12 21:16:09:600] [7] CodeStreamWebviewSidebar.show
+[2022-09-12 21:16:09:601] [7] CodeStreamWebviewSidebar.show waiting for WebView ready
+[2022-09-12 21:16:09:606] [8] CodeStreamAgentConnection.onLogout
+[2022-09-12 21:16:09:607] [9] CodeStreamSession.logout
+[2022-09-12 21:16:09:615] [8] CodeStreamAgentConnection.onLogout completed • 9 ms
+[2022-09-12 21:16:09:630] NewRelic telemetry enabled=true
+[2022-09-12 21:16:10:468] resolveWebviewView starting — {}
+[2022-09-12 21:16:10:696] [a] CodeStreamWebviewSidebar.triggerIpc
+[2022-09-12 21:16:10:696] [a] CodeStreamWebviewSidebar.triggerIpc waiting for WebView ready
+[2022-09-12 21:16:13:955] [9] CodeStreamSession.logout completed • 4348 ms
+[2022-09-12 21:16:14:559] [b] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2022-09-12 21:16:14:559] [c] WebviewController.onApiVersionChanged
+[2022-09-12 21:16:14:562] [c] WebviewController.onApiVersionChanged completed • 2 ms
+[2022-09-12 21:16:14:562] [b] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 2 ms
+[2022-09-12 21:16:14:577] WebviewPanel: Completed posting codestream/didChangeApiVersionCompatibility to the webview
+[2022-09-12 21:16:15:027] Webview: Received message host/bootstrap(wv:1:M5xT9fvrQZqI09DE38BvQw) from the webview
+[2022-09-12 21:16:15:028] WebviewPanel: Bootstrapping webview... — SignedIn=false
+[2022-09-12 21:16:15:047] WebviewPanel: Completed posting response(wv:1:M5xT9fvrQZqI09DE38BvQw) to the webview
+[2022-09-12 21:16:15:167] Webview: Received message host/didInitialize from the webview
+[2022-09-12 21:16:15:168] Webview: Received message codestream/verifyConnectivity(wv:2:zYF3NW7jTvSD8bWof4dCNw) from the webview
+[2022-09-12 21:16:15:171] AgentConnection.sendRequest(codestream/verifyConnectivity)
+[2022-09-12 21:16:15:172] [7] CodeStreamWebviewSidebar.show waiting for WebView complete. cancelled=false
+[2022-09-12 21:16:15:172] [a] CodeStreamWebviewSidebar.triggerIpc waiting for WebView complete. cancelled=false
+[2022-09-12 21:16:15:172] [7] CodeStreamWebviewSidebar.show completed • 5572 ms
+[2022-09-12 21:16:15:172] [a] CodeStreamWebviewSidebar.triggerIpc completed • 4476 ms
+[2022-09-12 21:16:15:172] resolveWebviewView completed
+[2022-09-12 21:16:15:173] [5] WebviewController.show completed • 5574 ms
+[2022-09-12 21:16:15:175] [4] WebviewController.onVersionChanged completed • 5575 ms
+[2022-09-12 21:16:15:175] [3] CodeStreamAgentConnection.onVersionCompatibilityChanged completed • 5577 ms
+[2022-09-12 21:16:15:179] Webview: Received message host/context/didChange from the webview
+[2022-09-12 21:16:15:182] Webview: Received message codestream/ui/state(wv:3:1cQVwB0FSJucQg73Ymv7kA) from the webview
+[2022-09-12 21:16:15:182] AgentConnection.sendRequest(codestream/ui/state)
+[2022-09-12 21:16:15:184] WebviewPanel: Completed posting codestream/didChangeVersionCompatibility to the webview
+[2022-09-12 21:16:15:207] WebviewPanel: Completed posting response(wv:3:1cQVwB0FSJucQg73Ymv7kA) to the webview
+[2022-09-12 21:16:16:805] WebviewPanel: Completed posting response(wv:2:zYF3NW7jTvSD8bWof4dCNw) to the webview
+[2022-09-12 21:17:28:073] WebviewPanel: Completed posting webview/focus/didChange to the webview
+[2022-09-12 21:18:09:750] WebviewPanel: Completed posting webview/editors/didChangeVisible to the webview
+[2022-09-12 21:18:10:220] WebviewPanel: Completed posting webview/editor/didChangeActive to the webview
