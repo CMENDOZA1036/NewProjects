@@ -1,40 +1,3 @@
-git branch -M main
-git remote add origin https://github.com/CMENDOZA1036/PersonalProjects.git
-git push -u origin master
-git push -u origin main
-git remote add origin https://github.com/CMENDOZA1036/PersonalProjects.git
-git push -u origin main
-git remote add origin git@github.com:CMENDOZA1036/PersonalProjects.git
-git clone https://github.com/CMENDOZA1036/repo.git
-git push -u origin main
-https://github.com/CMENDOZA1036/PersonalProjects.git
-LS
-ls
-git init
-git add README.md
-LS
-ls
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/CMENDOZA1036/PersonalProjects.git
-git push -u origin main
-code .
-clear
-git add .
-git submodule add <url> Desarrollo
-git add .
-git commit
-git commit -m "cambios agregamos sitio de otro"
-git push -u origin main
-git commit -m "Eliminacion"
-git push -u origin main
-git commit -m "Nuevo Archivo de Practica"
-git push -u origin main
-gif add .
-gif add Desarrollo
-git add Desarrollo
-git add 2. semantic.html
-git add "2. semantic.html"
 git commit -m "Nuevo Archivo de Practica"
 git push -u origin main
 git help submodule
@@ -1998,3 +1961,40 @@ chmod ugo+rwx React
 ls
 cd Projects
 code .
+ls
+cd Projects
+code .
+git log
+git status
+git add .
+git commit -am "Frontend 5"
+git push origin main
+git log
+code .
+ls
+cd PersonalProjects
+ls
+cd WEB
+ls
+cd Frontend
+ls
+cd WEBHYT
+ls
+chmod ugo+rwx icons
+ls
+cd icons
+ls
+chmod ugo+rwx Sales_Invoice.png flechita_derecha.png
+ls
+cd ..
+ls
+git status
+git add .
+git commit -am "Frontend 6"
+git push origin main
+git status
+cd ~
+git add .
+git commit -am "Updated 2"
+git push origin main
+git status
