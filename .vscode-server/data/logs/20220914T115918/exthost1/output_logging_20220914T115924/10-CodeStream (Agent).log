@@ -1734,3 +1734,239 @@ Warning: Ignoring extra certs from `null`, load failed: error:02001002:system li
 [2022-09-14 20:51:10:221] Document closed: file:///home/cmendoza/Projects/Project_Bata_Bit/index.html
 [2022-09-14 20:51:10:221] [34f] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
 [2022-09-14 20:51:10:223] [34f] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 2 ms
+[2022-09-14 20:53:41:713] MARKERS: flushing uncommitted locations
+[2022-09-14 20:53:41:716] GIT: Running(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD --
+[2022-09-14 20:53:41:759] [350] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-09-14 20:53:41:760] [350] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 1 ms
+[2022-09-14 20:53:41:769] GIT: Completed(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD -- in 53 ms
+[2022-09-14 20:53:41:770] [352] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash)
+[2022-09-14 20:53:41:771] [352] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash) completed • 0 ms
+[2022-09-14 20:53:41:773] GIT: Running(/home/cmendoza): git config user.email
+[2022-09-14 20:53:41:805] GIT: Completed(/home/cmendoza): git config user.email in 32 ms
+[2022-09-14 20:53:41:805] [354] CodeStreamAgent.sendNotification(codestream/userDidCommit)
+[2022-09-14 20:53:41:806] [354] CodeStreamAgent.sendNotification(codestream/userDidCommit) completed • 0 ms
+[2022-09-14 20:53:41:841] MARKERS: flushing uncommitted locations
+[2022-09-14 20:53:41:842] GIT: Running(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD --
+[2022-09-14 20:53:41:865] MARKERS: flushing uncommitted locations
+[2022-09-14 20:53:41:866] GIT: Awaiting(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD --
+[2022-09-14 20:53:41:866] MARKERS: flushing uncommitted locations
+[2022-09-14 20:53:41:866] GIT: Awaiting(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD --
+[2022-09-14 20:53:41:873] GIT: Completed(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD -- in 31 ms
+[2022-09-14 20:53:41:873] GIT: Completed(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD -- in 8 ms
+[2022-09-14 20:53:41:873] GIT: Completed(/home/cmendoza): git log -M -n1 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e HEAD -- in 7 ms
+[2022-09-14 20:53:41:874] [358] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash)
+[2022-09-14 20:53:41:875] [358] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash) completed • 0 ms
+[2022-09-14 20:53:41:875] [35a] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash)
+[2022-09-14 20:53:41:875] [35a] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash) completed • 0 ms
+[2022-09-14 20:53:41:875] [35c] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash)
+[2022-09-14 20:53:41:875] [35c] CodeStreamAgent.sendNotification(codestream/didChangeRepositoryCommitHash) completed • 0 ms
+[2022-09-14 20:53:41:876] GIT: Running(/home/cmendoza): git config user.email
+[2022-09-14 20:53:41:895] GIT: Awaiting(/home/cmendoza): git config user.email
+[2022-09-14 20:53:41:895] GIT: Awaiting(/home/cmendoza): git config user.email
+[2022-09-14 20:53:41:900] GIT: Completed(/home/cmendoza): git config user.email in 24 ms
+[2022-09-14 20:53:41:900] GIT: Completed(/home/cmendoza): git config user.email in 6 ms
+[2022-09-14 20:53:41:900] GIT: Completed(/home/cmendoza): git config user.email in 5 ms
+[2022-09-14 20:53:41:900] [35e] CodeStreamAgent.sendNotification(codestream/userDidCommit)
+[2022-09-14 20:53:41:902] [35e] CodeStreamAgent.sendNotification(codestream/userDidCommit) completed • 1 ms
+[2022-09-14 20:53:41:902] [35f] CodeStreamAgent.sendNotification(codestream/userDidCommit)
+[2022-09-14 20:53:41:902] [35f] CodeStreamAgent.sendNotification(codestream/userDidCommit) completed • 0 ms
+[2022-09-14 20:53:41:903] [360] CodeStreamAgent.sendNotification(codestream/userDidCommit)
+[2022-09-14 20:53:41:903] [360] CodeStreamAgent.sendNotification(codestream/userDidCommit) completed • 0 ms
+[2022-09-14 20:53:41:904] [361] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-09-14 20:53:41:905] [361] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-09-14 20:53:41:905] [362] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-09-14 20:53:41:906] [362] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-09-14 20:53:43:452] [363] CodeStreamApiProvider.fetchCodeErrors
+[2022-09-14 20:53:44:001] API(ae9bcdd9-4301-4a3b-a235-bc513f3f71a9): Completed GET /code-errors?teamId=62a8af3bd1bffae460f923af • 546 ms
+[2022-09-14 20:53:44:001] [363] CodeStreamApiProvider.fetchCodeErrors completed • 549 ms
+[2022-09-14 20:53:44:005] [364] CodeStreamApiProvider.fetchStreams
+[2022-09-14 20:53:44:007] [365] CodeStreamApiProvider.getUnreads
+[2022-09-14 20:53:44:007] [366] CodeStreamApiProvider.fetchUsers
+[2022-09-14 20:53:44:008] [367] CodeStreamApiProvider.getPreferences
+[2022-09-14 20:53:44:010] [365] CodeStreamApiProvider.getUnreads completed • 3 ms
+[2022-09-14 20:53:44:554] API(913e83bb-45ff-470b-8276-2b602abcb5f1): Completed GET /streams?teamId=62a8af3bd1bffae460f923af • 549 ms
+[2022-09-14 20:53:44:554] [364] CodeStreamApiProvider.fetchStreams completed • 549 ms
+[2022-09-14 20:53:44:665] API(d184aec4-0e1c-43a7-895d-4b4ad3f953cd): Completed GET /preferences • 656 ms
+[2022-09-14 20:53:44:665] [367] CodeStreamApiProvider.getPreferences completed • 656 ms
+[2022-09-14 20:53:44:701] API(2b9b48d5-6a71-4e43-9451-5df029475572): Completed GET /users?teamId=62a8af3bd1bffae460f923af • 694 ms
+[2022-09-14 20:53:44:702] [366] CodeStreamApiProvider.fetchUsers completed • 694 ms
+[2022-09-14 20:53:44:732] Verifying API server connectivity
+[2022-09-14 20:53:44:742] [36a] CodeStreamApiProvider.fetchCodemarks
+[2022-09-14 20:53:45:284] API server status: 200
+[2022-09-14 20:53:45:284] registerApiCapabilities for teamId 62a8af3bd1bffae460f923af — {}
+[2022-09-14 20:53:45:286] _apiCapabilities — {"sample":{"description":"SAMPLE","version":"1.0.0"},"multipleMarkers":{"description":"Ability to have multiple code blocks per codemark","version":"1.21.20"},"moveMarkers":{"description":"Ability to change the location of code blocks pointed to by codemarks","version":"1.21.20"},"moveMarkers2":{"description":"Ability to change the location of code blocks pointed to by codemarks, with essential API server fix","version":"1.21.23"},"repoCommitMatching":{"description":"Supports the /repos/match/:teamId call, which allows matches to be found for repos by remotes and known commit hashes","version":"1.21.24"},"follow":{"description":"Ability to follow or unfollow a codemark","version":"1.21.27"},"lightningCodeReviews":{"description":"Support for lightning code reviews","version":"1.21.33","supportedIdes":["VS Code","JetBrains","VS"]},"notificationDeliveryPreference":{"description":"Support for displaying the email/desktop delivery notification preference","version":"1.21.33"},"multipleReviewersApprove":{"description":"Support for multiple reviewers being required to approve a review","version":"7.1.1"},"emailSupport":{"description":"Whether outbound emails are supported, value actually comes from configuration","version":"1.0.0"},"multiCheckpointReviews":{"description":"Reviews supporting multiple checkpoints","version":"7.2.0"},"inviteUsersOnTheFly":{"description":"Users can be invited on-the-fly in codemarks and reviews","version":"7.2.7"},"kickstart":{"description":"Kickstart features","version":"7.4.2"},"cr2pr":{"description":"Features supporting opening pull requests after code reviews","version":"7.4.2"},"shareStatusToSlack":{"description":"Whether the share to slack capability is supported, which requires a new scope for the slack app","version":"8.0.6"},"addBlameMap":{"description":"Supporting adding someone to the blame-map","version":"8.1.1"},"vsCodeGithubSignin":{"description":"Supports whether special VSCode GitHub signin is supported in the auth flow","version":"8.2.7"},"compactModifiedRepos":{"description":"Supports compact modifiedRepos structure","version":"8.2.8"},"providerReauth":{"description":"Supports re-authentication for providers if tokens are found to be invalid","version":"8.2.11"},"autoJoin":{"description":"Supports auto-join API call, to auto-join a team based on open repos in IDE","version":"8.2.13"},"testGroups":{"description":"Supports the /company-test-groups/:id call, to set randomized test groups for a company","version":"8.2.15"},"fileUploads":{"description":"Supports file uploading","version":"8.2.17","cloudOnly":true},"autoFR":{"description":"Supports automatic generation of feedback requests","version":"8.2.20"},"readItem":{"description":"Supports /read-item call to mark number of unread replies for an item","version":"8.2.33"},"echoes":{"description":"Supports periodic echoes to test broadcaster reliability","version":"8.2.39"},"multiRegion":{"description":"Supports multi-region switching","version":"12.0.7","useGlobal":true}}
+[2022-09-14 20:53:45:286] Got environment from connectivity response: — {"environment":"us","isOnPrem":false,"isProductionCloud":true,"newRelicLandingServiceUrl":"https://landing.service.newrelic.com","newRelicApiUrl":"https://api.newrelic.com","environmentHosts":[{"name":"EU","publicApiUrl":"https://eu-api.codestream.com","shortName":"eu"},{"name":"US","publicApiUrl":"https://api.codestream.com","shortName":"us"}]}
+[2022-09-14 20:53:45:286] [36c] CodeStreamAgent.sendNotification(codestream/didSetEnvironment)
+[2022-09-14 20:53:45:287] [36c] CodeStreamAgent.sendNotification(codestream/didSetEnvironment) completed • 0 ms
+[2022-09-14 20:53:45:287] [369] CodeStreamSession.verifyConnectivity completed • 555 ms
+[2022-09-14 20:53:46:222] [36d] CodeStreamApiProvider.getUnreads
+[2022-09-14 20:53:46:222] [36e] CodeStreamApiProvider.getPreferences
+[2022-09-14 20:53:46:224] [36d] CodeStreamApiProvider.getUnreads completed • 2 ms
+[2022-09-14 20:53:50:215] API(cf2286f6-6af1-40f1-ae48-da1f41778246): Completed GET /codemarks?teamId=62a8af3bd1bffae460f923af&byLastAcivityAt= • 5473 ms
+[2022-09-14 20:53:50:218] [36a] CodeStreamApiProvider.fetchCodemarks completed • 5476 ms
+[2022-09-14 20:53:51:913] API(127787de-2d40-4eac-8baf-70ad2bdcf5c6): Completed GET /preferences • 5690 ms
+[2022-09-14 20:53:51:913] [36e] CodeStreamApiProvider.getPreferences completed • 5690 ms
+[2022-09-14 20:53:51:931] Verifying API server connectivity
+[2022-09-14 20:53:52:453] API server status: 200
+[2022-09-14 20:53:52:453] registerApiCapabilities for teamId 62a8af3bd1bffae460f923af — {}
+[2022-09-14 20:53:52:454] _apiCapabilities — {"sample":{"description":"SAMPLE","version":"1.0.0"},"multipleMarkers":{"description":"Ability to have multiple code blocks per codemark","version":"1.21.20"},"moveMarkers":{"description":"Ability to change the location of code blocks pointed to by codemarks","version":"1.21.20"},"moveMarkers2":{"description":"Ability to change the location of code blocks pointed to by codemarks, with essential API server fix","version":"1.21.23"},"repoCommitMatching":{"description":"Supports the /repos/match/:teamId call, which allows matches to be found for repos by remotes and known commit hashes","version":"1.21.24"},"follow":{"description":"Ability to follow or unfollow a codemark","version":"1.21.27"},"lightningCodeReviews":{"description":"Support for lightning code reviews","version":"1.21.33","supportedIdes":["VS Code","JetBrains","VS"]},"notificationDeliveryPreference":{"description":"Support for displaying the email/desktop delivery notification preference","version":"1.21.33"},"multipleReviewersApprove":{"description":"Support for multiple reviewers being required to approve a review","version":"7.1.1"},"emailSupport":{"description":"Whether outbound emails are supported, value actually comes from configuration","version":"1.0.0"},"multiCheckpointReviews":{"description":"Reviews supporting multiple checkpoints","version":"7.2.0"},"inviteUsersOnTheFly":{"description":"Users can be invited on-the-fly in codemarks and reviews","version":"7.2.7"},"kickstart":{"description":"Kickstart features","version":"7.4.2"},"cr2pr":{"description":"Features supporting opening pull requests after code reviews","version":"7.4.2"},"shareStatusToSlack":{"description":"Whether the share to slack capability is supported, which requires a new scope for the slack app","version":"8.0.6"},"addBlameMap":{"description":"Supporting adding someone to the blame-map","version":"8.1.1"},"vsCodeGithubSignin":{"description":"Supports whether special VSCode GitHub signin is supported in the auth flow","version":"8.2.7"},"compactModifiedRepos":{"description":"Supports compact modifiedRepos structure","version":"8.2.8"},"providerReauth":{"description":"Supports re-authentication for providers if tokens are found to be invalid","version":"8.2.11"},"autoJoin":{"description":"Supports auto-join API call, to auto-join a team based on open repos in IDE","version":"8.2.13"},"testGroups":{"description":"Supports the /company-test-groups/:id call, to set randomized test groups for a company","version":"8.2.15"},"fileUploads":{"description":"Supports file uploading","version":"8.2.17","cloudOnly":true},"autoFR":{"description":"Supports automatic generation of feedback requests","version":"8.2.20"},"readItem":{"description":"Supports /read-item call to mark number of unread replies for an item","version":"8.2.33"},"echoes":{"description":"Supports periodic echoes to test broadcaster reliability","version":"8.2.39"},"multiRegion":{"description":"Supports multi-region switching","version":"12.0.7","useGlobal":true}}
+[2022-09-14 20:53:52:454] Got environment from connectivity response: — {"environment":"us","isOnPrem":false,"isProductionCloud":true,"newRelicLandingServiceUrl":"https://landing.service.newrelic.com","newRelicApiUrl":"https://api.newrelic.com","environmentHosts":[{"name":"EU","publicApiUrl":"https://eu-api.codestream.com","shortName":"eu"},{"name":"US","publicApiUrl":"https://api.codestream.com","shortName":"us"}]}
+[2022-09-14 20:53:52:454] [377] CodeStreamAgent.sendNotification(codestream/didSetEnvironment)
+[2022-09-14 20:53:52:454] [377] CodeStreamAgent.sendNotification(codestream/didSetEnvironment) completed • 0 ms
+[2022-09-14 20:53:52:454] [372] CodeStreamSession.verifyConnectivity completed • 523 ms
+[2022-09-14 20:54:20:247] [378] ScmManager.getRepos
+[2022-09-14 20:54:20:254] [378] ScmManager.getRepos completed • 6 ms
+[2022-09-14 20:54:20:262] [37a] ReviewsManager.get
+[2022-09-14 20:54:20:264] [37b] CodeStreamApiProvider.fetchReviews
+[2022-09-14 20:54:20:277] [37c] ReviewsManager.get
+[2022-09-14 20:54:20:281] [37d] GitHubProvider.getBoards
+[2022-09-14 20:54:20:283] [37e] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-14 20:54:20:285] [37f] GitService.getRepoRemotes
+[2022-09-14 20:54:20:287] [37f] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/NewProjects.git] • 0 ms
+[2022-09-14 20:54:20:289] [380] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-14 20:54:20:297] [381] JiraProvider.getBoards
+[2022-09-14 20:54:20:300] refreshToken for providerId auth*atlassian*com
+[2022-09-14 20:54:20:300] [384] CodeStreamApiProvider.refreshThirdPartyProvider
+[2022-09-14 20:54:20:308] [385] GitHubProvider.getCards
+[2022-09-14 20:54:20:309] [386] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-14 20:54:20:312] [387] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-14 20:54:20:319] [388] JiraProvider.getCards
+[2022-09-14 20:54:20:321] [38a] ScmManager.getRepos
+[2022-09-14 20:54:20:323] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-09-14 20:54:20:412] [38c] CodeStreamApiProvider.updatePreferences
+[2022-09-14 20:54:20:419] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 96 ms
+[2022-09-14 20:54:20:420] [38d] GitService.getRepoRemotes
+[2022-09-14 20:54:20:420] [38d] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/NewProjects.git] • 0 ms
+[2022-09-14 20:54:20:420] [38a] ScmManager.getRepos completed • 98 ms
+[2022-09-14 20:54:20:422] [38e] ScmManager.getRepos
+[2022-09-14 20:54:20:423] [38e] ScmManager.getRepos completed • 0 ms
+[2022-09-14 20:54:20:424] [38f] CodeStreamApiProvider.updatePreferences
+[2022-09-14 20:54:20:426] [390] ScmManager.getFileInfo
+[2022-09-14 20:54:20:428] GIT: Running(/home/cmendoza/Projects): git rev-parse --abbrev-ref HEAD
+[2022-09-14 20:54:20:458] [391] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-14 20:54:20:459] [392] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-14 20:54:20:459] github getMyPullRequests {"prQueries":[{"providerId":"github*com","name":"Waiting on my Review","query":"is:pr is:open involves:@me","hidden":false},{"providerId":"github*com","name":"Assigned to Me","query":"is:pr is:open assignee:@me","hidden":false},{"providerId":"github*com","name":"Created by Me","query":"is:pr is:open author:@me","hidden":false},{"providerId":"github*com","name":"Recent","query":"recent","hidden":false}],"isOpen":true,"force":true}
+[2022-09-14 20:54:20:459] [393] ScmManager.getRepos
+[2022-09-14 20:54:20:460] [394] GitService.getRepoRemotes
+[2022-09-14 20:54:20:460] [394] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/NewProjects.git] • 0 ms
+[2022-09-14 20:54:20:460] [393] ScmManager.getRepos completed • 0 ms
+[2022-09-14 20:54:20:460] [395] ThirdPartyProviderRegistry.queryThirdParty:undefined
+[2022-09-14 20:54:20:462] [396] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-14 20:54:20:462] queryThirdParty: found matching provider for github.com. providerId=github*com
+[2022-09-14 20:54:20:462] [395] ThirdPartyProviderRegistry.queryThirdParty:undefined completed • 1 ms
+[2022-09-14 20:54:20:462] [397] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries
+[2022-09-14 20:54:20:463] [397] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries completed • 0 ms
+[2022-09-14 20:54:20:463] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/NewProjects is:pr is:open involves:@me" query=[object Object]
+[2022-09-14 20:54:20:463] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/NewProjects is:pr is:open assignee:@me" query=[object Object]
+[2022-09-14 20:54:20:463] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/NewProjects is:pr is:open author:@me" query=[object Object]
+[2022-09-14 20:54:20:463] getMyPullRequests providerId="github*com" finalQuery="repo:CMENDOZA1036/NewProjects is:pr" query=[object Object]
+[2022-09-14 20:54:20:470] [399] ScmManager.getRepos
+[2022-09-14 20:54:20:471] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-09-14 20:54:20:491] GIT: Completed(/home/cmendoza/Projects): git rev-parse --abbrev-ref HEAD in 63 ms
+[Warn  - 3:54:20 PM] [2022-09-14 20:54:20:493] getRepositoryByFilePath: Could not find git repository for /home/cmendoza/Projects
+[2022-09-14 20:54:20:493] [39a] GitService.getRepoRemotes
+[2022-09-14 20:54:20:493] [39a] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/NewProjects.git] • 0 ms
+[2022-09-14 20:54:20:494] [390] ScmManager.getFileInfo completed • 67 ms
+[2022-09-14 20:54:20:502] [39b] ScmManager.getFileInfo
+[2022-09-14 20:54:20:503] GIT: Running(/home/cmendoza/Projects): git rev-parse --abbrev-ref HEAD
+[2022-09-14 20:54:20:533] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 62 ms
+[2022-09-14 20:54:20:534] [399] ScmManager.getRepos completed • 63 ms
+[2022-09-14 20:54:20:542] GIT: Completed(/home/cmendoza/Projects): git rev-parse --abbrev-ref HEAD in 39 ms
+[Warn  - 3:54:20 PM] [2022-09-14 20:54:20:543] getRepositoryByFilePath: Could not find git repository for /home/cmendoza/Projects
+[2022-09-14 20:54:20:543] [39c] GitService.getRepoRemotes
+[2022-09-14 20:54:20:544] [39c] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/NewProjects.git] • 0 ms
+[2022-09-14 20:54:20:544] [39b] ScmManager.getFileInfo completed • 41 ms
+[2022-09-14 20:54:20:565] [39d] ScmManager.getRepoStatus
+[2022-09-14 20:54:20:568] GIT: Running(/home/cmendoza/Projects): git rev-parse --abbrev-ref HEAD
+[2022-09-14 20:54:20:626] GIT: Completed(/home/cmendoza/Projects): git rev-parse --abbrev-ref HEAD in 57 ms
+[2022-09-14 20:54:20:627] GIT: Running(/home/cmendoza): git log main -n100 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e --
+[2022-09-14 20:54:20:739] GIT: Completed(/home/cmendoza): git log main -n100 --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cc%x3e%x20%ct%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e -- in 112 ms
+[2022-09-14 20:54:20:743] GIT: Running(/home/cmendoza): git log @{push}.. --format=%H --
+[2022-09-14 20:54:20:806] GIT: Completed(/home/cmendoza): git log @{push}.. --format=%H -- in 64 ms
+[2022-09-14 20:54:20:808] [39f] GitService.getRepoRemotes
+[2022-09-14 20:54:20:810] GIT: Running(/home/cmendoza): git remote -v
+[2022-09-14 20:54:20:870] GIT: Completed(/home/cmendoza): git remote -v in 59 ms
+[2022-09-14 20:54:21:036] GitHub: Completed GET /repos/CMENDOZA1036/NewProjects • 745 ms
+[2022-09-14 20:54:21:037] core limit used 4999 of 5000, reset at Wed Sep 14 2022 16:54:21 GMT-0500 (Colombia Standard Time)
+[2022-09-14 20:54:21:039] [37d] GitHubProvider.getBoards completed • 757 ms
+[2022-09-14 20:54:21:055] [39f] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/NewProjects.git] • 246 ms
+[2022-09-14 20:54:21:056] GIT: Running(/home/cmendoza): git diff --no-ext-diff --numstat --diff-filter=D 2e583fa69e2241a1480fad0a1373a0c1686ee5b9 HEAD --
+[2022-09-14 20:54:21:481] API(86e990ae-67e1-4123-b53a-3293204ab274): Completed GET /provider-refresh/jira?teamId=62a8af3bd1bffae460f923af&refreshToken=<hidden> • 1179 ms
+[2022-09-14 20:54:21:484] [3a2] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-09-14 20:54:21:485] [3a2] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 1 ms
+[2022-09-14 20:54:21:485] [384] CodeStreamApiProvider.refreshThirdPartyProvider completed • 1185 ms
+[2022-09-14 20:54:21:486] [383] JiraProvider.refreshToken completed • 1186 ms
+[2022-09-14 20:54:21:493] [389] JiraProvider.refreshToken completed • 1172 ms
+[2022-09-14 20:54:21:516] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1663188861617
+[2022-09-14 20:54:21:516] BROADCASTER: Broadcaster message received at: 1663188861617
+[2022-09-14 20:54:21:517] BROADCASTER: _lastMessageReceivedAt updated to 1663188861617
+[2022-09-14 20:54:21:649] GitHub: Completed GET /search/issues?q=archived%3Afalse%20is%3Aissue%20is%3Aopen%20assignee%3A%40me&sort=updated • 1337 ms
+[2022-09-14 20:54:21:650] search limit used 29 of 30, reset at Wed Sep 14 2022 15:55:21 GMT-0500 (Colombia Standard Time)
+[2022-09-14 20:54:21:651] [385] GitHubProvider.getCards completed • 1342 ms
+[2022-09-14 20:54:22:171] API(f210e3cf-7eb9-4cde-a9ee-2cb70dfbb2e9): Completed PUT /preferences body={"62a8af3bd1bffae460f923af":{"shareCodemarkEnabled":false}} • 1758 ms
+[2022-09-14 20:54:22:182] [3a8] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-09-14 20:54:22:183] [3a8] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 1 ms
+[2022-09-14 20:54:22:185] [3a9] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-09-14 20:54:22:187] [3a9] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 1 ms
+[2022-09-14 20:54:22:187] [38c] CodeStreamApiProvider.updatePreferences completed • 1774 ms
+[2022-09-14 20:54:22:474] API(9d35f204-7f8f-4699-97c9-8125013fadc8): Completed PUT /preferences body={"62a8af3bd1bffae460f923af":{"shareCodemarkEnabled":false}} • 2050 ms
+[2022-09-14 20:54:22:476] [3ac] CodeStreamAgent.sendNotification(codestream/didChangeData:users)
+[2022-09-14 20:54:22:477] [3ac] CodeStreamAgent.sendNotification(codestream/didChangeData:users) completed • 1 ms
+[2022-09-14 20:54:22:478] [3ad] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences)
+[2022-09-14 20:54:22:480] [3ad] CodeStreamAgent.sendNotification(codestream/didChangeData:preferences) completed • 1 ms
+[2022-09-14 20:54:22:480] [38f] CodeStreamApiProvider.updatePreferences completed • 2055 ms
+[Warn  - 3:54:22 PM] [2022-09-14 20:54:22:781] undefined 
+[Warn  - 3:54:23 PM] [2022-09-14 20:54:23:007] undefined 
+[Warn  - 3:54:23 PM] [2022-09-14 20:54:23:431] undefined 
+[Warn  - 3:54:23 PM] [2022-09-14 20:54:23:634] undefined 
+[2022-09-14 20:54:24:310] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1663188862309
+[2022-09-14 20:54:24:310] BROADCASTER: Broadcaster message received at: 1663188862309
+[2022-09-14 20:54:24:310] BROADCASTER: _lastMessageReceivedAt updated to 1663188862309
+[2022-09-14 20:54:24:311] BROADCASTER: PUBNUB: Message received on user-62a8af311c3021007d502dc9 at 1663188862627
+[2022-09-14 20:54:24:311] BROADCASTER: Broadcaster message received at: 1663188862627
+[2022-09-14 20:54:24:311] BROADCASTER: _lastMessageReceivedAt updated to 1663188862627
+[2022-09-14 20:54:24:727] Jira: Completed GET /oauth/token/accessible-resources • 3238 ms
+[2022-09-14 20:54:25:966] API(3e4e7fd9-6ab8-49f8-ae33-84c02986d885): Completed GET /reviews?teamId=62a8af3bd1bffae460f923af • 5701 ms
+[2022-09-14 20:54:25:966] [37b] CodeStreamApiProvider.fetchReviews completed • 5701 ms
+[2022-09-14 20:54:25:968] [37a] ReviewsManager.get completed • 5705 ms
+[2022-09-14 20:54:25:969] [37c] ReviewsManager.get completed • 5691 ms
+[2022-09-14 20:54:26:677] Jira: Completed GET /rest/api/2/search?jql=assignee%3Dcurrentuser()%20AND%20NOT((status%20in%20(Closed%2C%20Done%2C%20Resolved))%20OR%20resolution%20!%3D%20Unresolved)&expand=transitions%2Cnames&fields=summary%2Cdescription%2Cupdated%2Csubtasks%2Cstatus%2Cissuetype%2Cpriority%2Cassignee • 1945 ms
+[2022-09-14 20:54:26:677] [388] JiraProvider.getCards completed • 6357 ms
+[Warn  - 3:54:28 PM] [2022-09-14 20:54:28:120] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false diff --no-ext-diff --numstat --diff-filter=D 2e583fa69e2241a1480fad0a1373a0c1686ee5b9 HEAD --): warning: inexact rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 11403 and retry the command.
+
+[2022-09-14 20:54:28:121] GIT: Completed(/home/cmendoza): git diff --no-ext-diff --numstat --diff-filter=D 2e583fa69e2241a1480fad0a1373a0c1686ee5b9 HEAD -- in 7064 ms
+[2022-09-14 20:54:28:121] GIT: Running(/home/cmendoza): git diff --no-ext-diff --numstat --diff-filter=d 2e583fa69e2241a1480fad0a1373a0c1686ee5b9 HEAD --
+[2022-09-14 20:54:31:284] Jira: Completed GET /rest/api/2/project/search • 6556 ms
+[2022-09-14 20:54:31:286] [3b5] JiraProvider.refreshToken completed • 0 ms
+[Warn  - 3:54:31 PM] [2022-09-14 20:54:31:562] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false diff --no-ext-diff --numstat --diff-filter=d 2e583fa69e2241a1480fad0a1373a0c1686ee5b9 HEAD --): warning: inexact rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 11403 and retry the command.
+
+[2022-09-14 20:54:31:562] GIT: Completed(/home/cmendoza): git diff --no-ext-diff --numstat --diff-filter=d 2e583fa69e2241a1480fad0a1373a0c1686ee5b9 HEAD -- in 3441 ms
+[2022-09-14 20:54:32:205] [3b6] IgnoreFilesManager.getIgnoreFiles
+[2022-09-14 20:54:32:206] [3b6] IgnoreFilesManager.getIgnoreFiles completed • 0 ms
+[2022-09-14 20:54:32:209] GIT: Running(/home/cmendoza): git diff --no-ext-diff --numstat --diff-filter=D --
+[2022-09-14 20:54:36:361] GIT: Completed(/home/cmendoza): git diff --no-ext-diff --numstat --diff-filter=D -- in 4151 ms
+[2022-09-14 20:54:36:362] GIT: Running(/home/cmendoza): git diff --no-ext-diff --numstat --diff-filter=d --
+[2022-09-14 20:54:37:616] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso%202/index.html
+[2022-09-14 20:54:37:616] [3b7] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-14 20:54:37:619] [3b7] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 3 ms
+[2022-09-14 20:54:37:626] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso 2/index.html
+[2022-09-14 20:54:37:626] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso 2/index.html v1
+[2022-09-14 20:54:37:627] GIT: Running(/home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --show-toplevel
+[2022-09-14 20:54:37:716] [3b8] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-14 20:54:37:718] [3b8] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-14 20:54:37:718] GIT: Completed(/home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso 2): git rev-parse --show-toplevel in 91 ms
+[2022-09-14 20:54:37:724] Jira: Completed GET /rest/api/2/issue/createmeta?projectIds=10000&expand=projects.issuetypes.fields • 6438 ms
+[2022-09-14 20:54:37:729] [381] JiraProvider.getBoards completed • 17431 ms
+[2022-09-14 20:54:40:624] [3ba] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-14 20:54:40:626] [3ba] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-14 20:54:40:631] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso 2/index.html
+[2022-09-14 20:54:40:631] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso 2/index.html v1
+[2022-09-14 20:54:40:634] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso 2/index.html
+[2022-09-14 20:54:40:634] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso 2/index.html v1
+[2022-09-14 20:54:40:674] GIT: Completed(/home/cmendoza): git diff --no-ext-diff --numstat --diff-filter=d -- in 4312 ms
+[2022-09-14 20:54:40:676] GIT: Running(/home/cmendoza): git diff --no-ext-diff --numstat --diff-filter=D --staged --
+[2022-09-14 20:54:40:785] GIT: Completed(/home/cmendoza): git diff --no-ext-diff --numstat --diff-filter=D --staged -- in 110 ms
+[2022-09-14 20:54:40:786] GIT: Running(/home/cmendoza): git diff --no-ext-diff --numstat --diff-filter=d --staged --
+[2022-09-14 20:54:40:851] GIT: Completed(/home/cmendoza): git diff --no-ext-diff --numstat --diff-filter=d --staged -- in 65 ms

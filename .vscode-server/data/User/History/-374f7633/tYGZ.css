@@ -532,7 +532,7 @@ main {
 .plans-container--slider {
     display: flex;
     height: 316px;
-    gap: 20px;
+    gap: 30px;
     /**con este generamos un espacio entre tarejtas**/
     /**De aqui para abajo hacemos el Scroll**/
 

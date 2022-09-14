@@ -60,3 +60,17 @@
 [2022-09-14 15:45:27.781] [remoteagent] [info] [127.0.0.1][4d5d8717][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
 [2022-09-14 15:45:27.786] [remoteagent] [info] [127.0.0.1][2dcbed11][ExtensionHostConnection] The client has reconnected.
 [2022-09-14 15:45:27.789] [remoteagent] [info] [127.0.0.1][4d5d8717][ManagementConnection] The client has reconnected.
+[2022-09-14 16:20:41.465] [remoteagent] [info] [127.0.0.1][2dcbed11][ExtensionHostConnection] <186> [0mGET /Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 4.395 ms - 174[0m
+
+[2022-09-14 16:44:33.244] [remoteagent] [info] [127.0.0.1][2dcbed11][ExtensionHostConnection] <186> [0mGET /Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 4.659 ms - 174[0m
+
+[2022-09-14 17:01:24.309] [remoteagent] [info] [127.0.0.1][2dcbed11][ExtensionHostConnection] <186> [0mGET /Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 43.480 ms - 174[0m
+
+[2022-09-14 17:21:04.838] [remoteagent] [info] [127.0.0.1][2dcbed11][ExtensionHostConnection] <186> [0mGET /Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 26.989 ms - 174[0m
+
+[2022-09-14 18:02:55.275] [remoteagent] [info] [127.0.0.1][2dcbed11][ExtensionHostConnection] <186> [0mGET /Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 8.922 ms - 174[0m
+
+[2022-09-14 18:07:09.435] [remoteagent] [info] [127.0.0.1][2dcbed11][ExtensionHostConnection] <186> [0mGET /Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 12.354 ms - 174[0m
+
+[2022-09-14 18:31:16.631] [remoteagent] [info] [127.0.0.1][4d5d8717][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-09-14 18:31:17.257] [remoteagent] [info] [127.0.0.1][2dcbed11][ExtensionHostConnection] <186> Extension Host Process exited with code: 0, signal: null.

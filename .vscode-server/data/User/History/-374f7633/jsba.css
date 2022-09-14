@@ -532,13 +532,11 @@ main {
 .plans-container--slider {
     display: flex;
     height: 316px;
-    gap: 20px;
-    /**con este generamos un espacio entre tarejtas**/
     /**De aqui para abajo hacemos el Scroll**/
 
     overflow-x: scroll;
     overscroll-behavior-x: contain;
-    scroll-snap-type: x proximity;
+    scroll-snap-type: proximity;
 }
 
 
@@ -547,7 +545,6 @@ main {
 .plans-container--card {
     position: relative;
     scroll-snap-align: center;
-    /** esto se debe poner en las tarejtas**/
     width: 70%;
     min-width: 230px;
     max-width: 300px;
@@ -638,8 +635,6 @@ main {
 
 .plans-container--card1 {
     position: relative;
-    scroll-snap-align: center;
-    /** esto se debe poner en las tarejtas**/
     width: 70%;
     min-width: 230px;
     max-width: 300px;
@@ -715,8 +710,6 @@ main {
 
 .plans-container--card2 {
     position: relative;
-    scroll-snap-align: center;
-    /** esto se debe poner en las tarejtas**/
     width: 70%;
     min-width: 230px;
     max-width: 300px;

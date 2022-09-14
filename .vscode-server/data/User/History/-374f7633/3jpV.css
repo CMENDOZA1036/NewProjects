@@ -528,26 +528,8 @@ main {
 
 /*! Tarjeta de los planes !*/
 
-/** Con este contenedor hacemos el scroll**/
-.plans-container--slider {
-    display: flex;
-    height: 316px;
-    gap: 20px;
-    /**con este generamos un espacio entre tarejtas**/
-    /**De aqui para abajo hacemos el Scroll**/
-
-    overflow-x: scroll;
-    overscroll-behavior-x: contain;
-    scroll-snap-type: x proximity;
-}
-
-
-/*?Tarjeta 1 ?*/
-
 .plans-container--card {
     position: relative;
-    scroll-snap-align: center;
-    /** esto se debe poner en las tarejtas**/
     width: 70%;
     min-width: 230px;
     max-width: 300px;
@@ -586,204 +568,15 @@ main {
     padding: 5px 0;
     font-size: 5.2rem;
     font-weight: bold;
-    line-height: 5.3rem;
+    line-height: 6.3rem;
     color: var(--Warm-Black);
-
 }
 
 .plan-card---price span {
-    font-size: 1.4rem;
-    font-weight: 500;
-    vertical-align: super;
-    /**Con este ponemos el signo pesos arriba**/
-    margin-right: 5px;
-}
-
-.plan-card--saving {
+    vertical-align: top;
+    font-family: “Inter”, sans-serif;
     font-size: 1.2rem;
-    color: var(--Grey-3);
-}
-
-.plan-card--ca {
-    width: 150px;
-    height: 48px;
-    margin-top: 20px;
-    background-color: var(--Just-White);
-    border: 2px solid var(--Bitcoin-Orange);
-    border-radius: 4px;
-    font-size: 1.4rem;
-    font-weight: bold;
-    line-height: 1.8rem;
-    color: var(--Warm-Black);
-    font-family: 'DM Sans', sans-serif;
-}
-
-.plan-card--ca:hover {
-    cursor: pointer;
-    border: 2px solid var(--Warm-Black);
-    color: var(--Bitcoin-Orange);
-    box-shadow: 0 4px 8px rgb(89, 73, 30, 0.16);
-}
-
-.plan-card--ca span {
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    background-image: url(../Project_Bata_Bit/icons/orange-right-arrow.svg);
-    vertical-align: text-bottom;
-}
-
-
-/*?Tarjeta 2 ?*/
-
-.plans-container--card1 {
-    position: relative;
-    scroll-snap-align: center;
-    /** esto se debe poner en las tarejtas**/
-    width: 70%;
-    min-width: 230px;
-    max-width: 300px;
-    height: 250px;
-    margin: 50px auto 0;
-    padding: 0 15px;
-    background-color: var(--Just-White);
-    border-radius: 15px;
-    box-shadow: 0 4px 8px rgb(89, 73, 30, 0.16);
-}
-
-
-.plan-card--title1 {
-    padding-top: 30px;
-    font-size: 1.4rem;
     font-weight: 500;
-    line-height: 1.8rem;
-    color: var(--Warm-Black);
-}
-
-.plan-card---price1 {
-    padding: 5px 0;
-    font-size: 5.2rem;
-    font-weight: bold;
-    line-height: 5.3rem;
-    color: var(--Warm-Black);
-
-}
-
-.plan-card---price1 span {
-    font-size: 1.4rem;
-    font-weight: 500;
-    vertical-align: super;
-    /**Con este ponemos el signo pesos arriba**/
-    margin-right: 5px;
-}
-
-.plan-card--saving1 {
-    font-size: 1.2rem;
-    color: var(--Grey-3);
-}
-
-.plan-card--ca1 {
-    width: 150px;
-    height: 48px;
-    margin-top: 20px;
-    background-color: var(--Just-White);
-    border: 2px solid var(--Bitcoin-Orange);
-    border-radius: 4px;
-    font-size: 1.4rem;
-    font-weight: bold;
-    line-height: 1.8rem;
-    color: var(--Warm-Black);
-    font-family: 'DM Sans', sans-serif;
-}
-
-.plan-card--ca1:hover {
-    cursor: pointer;
-    border: 2px solid var(--Warm-Black);
-    color: var(--Bitcoin-Orange);
-    box-shadow: 0 4px 8px rgb(89, 73, 30, 0.16);
-}
-
-.plan-card--ca1 span {
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    background-image: url(../Project_Bata_Bit/icons/orange-right-arrow.svg);
-    vertical-align: text-bottom;
-}
-
-/*?Tarjeta 3 ?*/
-
-.plans-container--card2 {
-    position: relative;
-    scroll-snap-align: center;
-    /** esto se debe poner en las tarejtas**/
-    width: 70%;
-    min-width: 230px;
-    max-width: 300px;
-    height: 250px;
-    margin: 50px auto 0;
-    padding: 0 15px;
-    background-color: var(--Just-White);
-    border-radius: 15px;
-    box-shadow: 0 4px 8px rgb(89, 73, 30, 0.16);
-}
-
-
-.plan-card--title2 {
-    padding-top: 30px;
-    font-size: 1.4rem;
-    font-weight: 500;
-    line-height: 1.8rem;
-    color: var(--Warm-Black);
-}
-
-.plan-card---price2 {
-    padding: 5px 0;
-    font-size: 5.2rem;
-    font-weight: bold;
-    line-height: 5.3rem;
-    color: var(--Warm-Black);
-
-}
-
-.plan-card---price2 span {
-    font-size: 1.4rem;
-    font-weight: 500;
-    vertical-align: super;
-    /**Con este ponemos el signo pesos arriba**/
-    margin-right: 5px;
-}
-
-.plan-card--saving2 {
-    font-size: 1.2rem;
-    color: var(--Grey-3);
-}
-
-.plan-card--ca2 {
-    width: 150px;
-    height: 48px;
-    margin-top: 20px;
-    background-color: var(--Just-White);
-    border: 2px solid var(--Bitcoin-Orange);
-    border-radius: 4px;
-    font-size: 1.4rem;
-    font-weight: bold;
-    line-height: 1.8rem;
-    color: var(--Warm-Black);
-    font-family: 'DM Sans', sans-serif;
-}
-
-.plan-card--ca2:hover {
-    cursor: pointer;
-    border: 2px solid var(--Warm-Black);
-    color: var(--Bitcoin-Orange);
-    box-shadow: 0 4px 8px rgb(89, 73, 30, 0.16);
-}
-
-.plan-card--ca2 span {
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    background-image: url(../Project_Bata_Bit/icons/orange-right-arrow.svg);
-    vertical-align: text-bottom;
+    line-height: 1.5rem;
+    color: #363636;
 }
