@@ -1,17 +1,3 @@
-git commit -m "Nuevo Archivo de Practica"
-git push -u origin main
-git help submodule
-git add Desarrollo
-git add .
-cd PersonalProjects
-git add .
-cd PersonaProjects
-cd PersonalProjects
-git push -u origin main
-git commit -m "cambio de texto"
-git push -u origin main
-cd PersonalProjects
-ls
 git init
 ls -al
 code .
@@ -1998,3 +1984,17 @@ git add .
 git commit -am "Updated 2"
 git push origin main
 git status
+ls
+git status
+git add .
+git commit -am "Frontend "
+git push origin main
+ls
+cd Projects
+ls
+code .
+cd ..
+git status
+git add .
+git commit -am "Frontend 7 - batata"
+git push origin main

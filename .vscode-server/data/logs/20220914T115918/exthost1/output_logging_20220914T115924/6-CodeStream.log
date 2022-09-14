@@ -1,0 +1,655 @@
+[2022-09-14 16:59:43:771] CodeStream v14.0.0-4241 in VS Code (v1.71.0) starting...
+[2022-09-14 16:59:43:773] Proxy support is on, but no proxy url was found
+[2022-09-14 16:59:46:425] NewRelic telemetry enabled=true
+[2022-09-14 16:59:48:447] CodeStream v14.0.0-4241 started • 5621 ms
+[2022-09-14 16:59:48:562] Signing alvarezmendoz@gmail.com into CodeStream (https://api.codestream.com)
+[2022-09-14 16:59:48:563] AgentConnection.sendRequest(codestream/login/token)
+[2022-09-14 16:59:49:322] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2022-09-14 16:59:49:322] [2] WebviewController.onApiVersionChanged
+[2022-09-14 16:59:49:323] [2] WebviewController.onApiVersionChanged completed • 0 ms
+[2022-09-14 16:59:49:323] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 1 ms
+[2022-09-14 16:59:55:805] [3] CodeStreamAgentConnection.onDataChanged(unreads)
+[2022-09-14 16:59:55:806] [3] CodeStreamAgentConnection.onDataChanged(unreads) completed • 0 ms
+[2022-09-14 16:59:56:640] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-09-14 16:59:56:646] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-09-14 16:59:56:854] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 16:59:56:885] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-09-14 16:59:57:047] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-09-14 17:04:16:648] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview
+[2022-09-14 17:04:16:663] [4] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:04:16:664] [4] CodeStreamAgentConnection.onDataChanged(documents) completed • 1 ms
+[2022-09-14 17:04:16:795] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:17:073] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:04:17:369] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:17:372] [5] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:04:17:372] [5] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:04:18:356] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:18:367] [6] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:04:18:367] [6] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:04:18:857] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:19:798] [7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:04:19:799] [7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:04:29:152] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:29:159] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:04:29:345] [8] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:04:29:345] [8] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:04:29:660] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:30:262] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:30:294] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:30:308] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:04:30:374] [9] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:04:30:374] [9] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:04:30:799] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:32:159] [a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:04:32:160] [a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:04:33:297] [b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:04:33:298] [b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:04:33:298] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:04:33:299] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:04:48:192] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:48:205] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:48:213] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:04:48:708] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:49:721] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:49:724] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:50:226] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:53:502] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:53:505] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:04:54:008] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:06:53:015] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:06:53:020] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:06:53:524] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:06:58:078] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:06:58:083] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:06:58:603] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:06:58:605] [c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:06:58:606] [c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:07:10:564] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:07:10:568] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:07:10:594] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:07:11:069] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:07:16:653] [d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:07:16:653] [d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:07:16:654] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:07:16:654] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:07:41:093] [e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:07:41:094] [e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:07:41:094] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:07:41:095] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:07:58:462] [f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:07:58:464] [f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 1 ms
+[2022-09-14 17:07:58:464] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:07:58:465] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:08:13:252] [10] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:08:13:253] [10] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:08:13:253] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:08:13:253] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:08:23:408] [11] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:08:23:408] [11] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:08:23:408] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:08:23:408] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:08:35:346] [12] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:08:35:348] [12] CodeStreamAgentConnection.onDataChanged(documents) completed • 1 ms
+[2022-09-14 17:08:35:546] [13] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:08:35:547] [13] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:08:35:547] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:08:35:547] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:10:03:581] [14] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:10:03:582] [14] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:10:05:301] [15] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:10:05:301] [15] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:10:05:302] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:10:05:302] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:10:10:774] [16] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:10:10:774] [16] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:10:35:921] [17] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:10:35:922] [17] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:10:35:922] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:10:35:922] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:10:39:392] [18] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:10:39:392] [18] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:10:39:392] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:10:39:392] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:10:46:009] [19] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:10:46:010] [19] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:10:47:450] [1a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:10:47:453] [1a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 2 ms
+[2022-09-14 17:10:47:453] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:10:47:454] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:11:13:079] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:11:13:084] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:11:13:587] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:11:21:422] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:11:21:426] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:11:21:933] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:13:25:310] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:13:25:319] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:13:25:823] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:13:34:460] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:13:34:474] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:13:34:976] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:13:43:641] [1b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:13:43:642] [1b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:13:45:860] [1c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:13:45:861] [1c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:13:45:861] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:13:45:862] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:14:04:303] [1d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:14:04:303] [1d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:14:04:303] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:14:04:303] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:14:08:504] [1e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:14:08:504] [1e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:14:08:504] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:14:08:505] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:14:19:540] [1f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:14:19:540] [1f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:14:19:540] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:14:19:540] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:14:29:583] [20] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:14:29:583] [20] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:14:29:584] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:14:29:584] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:14:49:753] [21] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:14:49:754] [21] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:14:49:754] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:14:49:754] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:16:46:825] [22] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:16:46:826] [22] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:17:02:979] [23] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:17:02:980] [23] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:17:02:980] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:17:02:981] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:17:09:034] [24] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:17:09:035] [24] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:17:09:035] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:17:09:035] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:17:53:015] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:17:53:021] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:17:53:523] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:17:54:333] [25] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:17:54:334] [25] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:17:57:367] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:17:57:369] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:17:57:375] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:17:57:871] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:18:13:774] [26] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:18:13:775] [26] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:18:13:775] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:18:13:775] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:18:28:777] [27] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:18:28:778] [27] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:18:28:778] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:18:28:778] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:18:43:776] [28] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:18:43:777] [28] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:18:43:777] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:18:43:777] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:18:47:649] [29] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:18:47:650] [29] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:18:47:650] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:18:47:650] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:19:06:203] [2a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:19:06:204] [2a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:19:06:204] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:19:06:204] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:19:21:547] [2b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:19:21:547] [2b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:19:21:547] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:19:21:547] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:19:31:706] [2c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:19:31:706] [2c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:19:34:697] [2d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:19:34:697] [2d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:19:34:698] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:19:34:698] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:20:24:765] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:20:24:769] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:20:25:276] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:20:26:487] [2e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:20:26:488] [2e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:20:31:038] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:20:31:040] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:20:31:054] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:20:31:574] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:20:47:257] [2f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:20:47:257] [2f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:20:47:257] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:20:47:257] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:21:02:257] [30] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:21:02:257] [30] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:21:02:257] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:21:02:257] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:21:17:257] [31] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:21:17:258] [31] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:21:17:258] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:21:17:258] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:21:21:970] [32] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:21:21:971] [32] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:21:23:205] [33] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:21:23:205] [33] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:21:23:206] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:21:23:206] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:22:05:121] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:22:05:131] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:22:05:648] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:22:10:205] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:22:10:215] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:22:10:717] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:22:19:949] [34] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:22:19:949] [34] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:22:19:949] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:22:19:949] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:22:23:694] [35] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:22:23:694] [35] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:22:23:695] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:22:23:695] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:22:42:555] [36] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:22:42:556] [36] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:22:42:556] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:22:42:556] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:22:53:341] [37] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:22:53:341] [37] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:22:53:341] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:22:53:341] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:23:17:748] [38] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:23:17:749] [38] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:23:20:070] [39] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:23:20:070] [39] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:23:20:070] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:23:20:070] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:23:21:368] [3a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:23:21:368] [3a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:23:24:364] [3b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:23:24:365] [3b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:23:24:365] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:23:24:365] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:23:27:367] [3c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:23:27:367] [3c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:23:27:367] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:23:27:367] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:23:38:721] [3d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:23:38:722] [3d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:23:38:722] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:23:38:722] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:23:39:150] [3e] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:23:39:150] [3e] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:23:43:773] [3f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:23:43:774] [3f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:23:43:774] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:23:43:774] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:23:49:532] [40] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:23:49:532] [40] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:23:52:367] [41] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:23:52:367] [41] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:23:52:367] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:23:52:368] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:24:03:966] [42] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:24:03:966] [42] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:24:05:885] [43] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:24:05:886] [43] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:24:05:887] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:24:05:887] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:24:13:102] [44] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:24:13:102] [44] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:24:15:192] [45] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:24:15:193] [45] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:24:15:193] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:24:15:193] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:26:29:349] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:26:29:354] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:26:29:862] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:27:08:896] [46] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:27:08:897] [46] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:27:08:897] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:27:08:898] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:27:14:824] [47] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:27:14:826] [47] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 1 ms
+[2022-09-14 17:27:14:826] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:27:14:827] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:27:18:157] [48] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:27:18:158] [48] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 1 ms
+[2022-09-14 17:27:18:159] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:27:18:161] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:27:27:789] [49] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:27:27:790] [49] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:27:27:790] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:27:27:791] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:27:44:356] [4a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:27:44:357] [4a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:27:44:357] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:27:44:357] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:27:48:803] [4b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:27:48:804] [4b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:27:48:804] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:27:48:804] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:27:52:099] [4c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:27:52:099] [4c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:27:52:099] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:27:52:099] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:28:04:912] [4d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:28:04:912] [4d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:28:04:912] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:28:04:912] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:28:13:441] [4e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:28:13:442] [4e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:28:13:442] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:28:13:442] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:28:18:290] [4f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:28:18:291] [4f] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:28:25:839] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:28:25:842] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:28:26:346] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:28:32:732] [50] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:28:32:732] [50] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:28:32:732] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:28:32:733] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:28:40:913] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:28:40:919] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:28:41:427] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:28:41:512] [51] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:28:41:512] [51] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:28:44:730] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:28:44:732] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:28:44:739] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:28:45:234] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:28:54:050] [52] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:28:54:050] [52] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:28:54:050] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:28:54:050] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:29:13:128] [53] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:29:13:128] [53] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:29:13:128] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:29:13:128] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:29:26:519] [54] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:29:26:520] [54] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:29:26:520] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:29:26:521] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:29:41:391] [55] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:29:41:392] [55] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:29:41:393] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:29:41:393] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:29:45:317] [56] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:29:45:318] [56] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:29:45:318] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:29:45:318] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:29:45:444] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:29:45:446] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:29:45:949] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:29:50:619] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:29:50:625] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:29:51:129] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:29:56:394] [57] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:29:56:396] [57] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 1 ms
+[2022-09-14 17:29:56:396] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:29:56:397] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:30:04:286] [58] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:30:04:286] [58] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:30:04:287] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:30:04:287] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:30:15:123] [59] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:30:15:123] [59] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:30:15:123] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:30:15:123] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:30:15:531] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:30:15:533] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:30:16:035] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:30:20:203] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:30:20:205] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:30:20:710] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:30:26:003] [5a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:30:26:003] [5a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:30:26:003] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:30:26:003] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:30:31:845] [5b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:30:31:846] [5b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:30:31:846] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:30:31:846] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:30:40:180] [5c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:30:40:181] [5c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:30:41:675] [5d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:30:41:676] [5d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:30:41:676] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:30:41:676] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:31:03:403] [5e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:31:03:403] [5e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:31:03:403] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:31:03:403] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:31:08:266] [5f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:31:08:266] [5f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:31:08:267] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:31:08:267] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:31:17:938] [60] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:31:17:939] [60] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:31:17:939] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:31:17:939] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:31:22:782] [61] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:31:22:782] [61] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:31:22:782] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:31:22:782] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:31:31:777] [62] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:31:31:777] [62] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:31:31:777] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:31:31:778] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:31:43:871] [63] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:31:43:871] [63] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:31:43:871] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:31:43:871] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:31:50:918] [64] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:31:50:918] [64] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:31:50:918] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:31:50:919] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:32:01:140] [65] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:32:01:140] [65] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:32:01:140] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:32:01:140] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:32:07:963] [66] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:32:07:964] [66] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:32:07:964] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:32:07:965] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:32:19:718] [67] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:32:19:718] [67] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:32:19:719] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:32:19:719] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:32:25:699] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:32:25:704] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:32:26:213] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:32:27:147] [68] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:32:27:148] [68] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:32:42:681] [69] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:32:42:681] [69] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:32:42:681] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:32:42:682] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:32:53:489] [6a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:32:53:489] [6a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:32:53:489] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:32:53:489] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:32:54:441] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:32:54:449] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:32:54:457] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:32:54:951] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:32:55:348] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:32:55:349] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:32:55:850] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:32:56:421] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:32:56:425] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:32:56:930] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:33:10:284] [6b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:33:10:285] [6b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:33:10:286] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:33:10:286] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:33:26:568] [6c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:33:26:569] [6c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:33:26:569] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:33:26:569] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:33:30:103] [6d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:33:30:104] [6d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:33:30:104] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:33:30:105] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:33:33:376] [6e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:33:33:376] [6e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:33:33:377] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:33:33:377] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:33:42:738] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:33:42:740] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:33:43:246] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:33:47:955] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:33:47:956] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:33:48:459] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:33:49:080] [6f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:33:49:080] [6f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:33:53:694] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:33:53:697] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:33:53:704] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:33:54:200] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:33:54:489] [70] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:33:54:490] [70] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:33:55:304] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:33:55:307] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:33:55:388] [71] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:33:55:389] [71] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:33:55:389] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:33:55:389] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:33:55:811] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:33:56:072] [72] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:33:56:072] [72] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:34:12:914] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:34:12:920] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:34:13:423] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:34:23:836] [73] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:34:23:836] [73] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:34:23:836] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:34:23:837] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:34:31:374] [74] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:34:31:374] [74] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:34:33:062] [75] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:34:33:063] [75] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:34:33:064] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:34:33:064] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:34:54:118] [76] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:34:54:119] [76] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:34:54:119] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:34:54:119] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:35:03:943] [77] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:35:03:944] [77] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:35:03:944] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:35:03:944] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:35:13:210] [78] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:35:13:211] [78] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:35:13:211] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:35:13:211] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:35:22:551] [79] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:35:22:551] [79] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:35:24:332] [7a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:35:24:333] [7a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 1 ms
+[2022-09-14 17:35:24:334] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:35:24:334] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:36:26:019] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:36:26:022] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:36:26:531] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:36:33:195] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:36:33:198] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:36:33:702] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:36:41:254] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:36:41:258] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:36:41:760] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:36:43:009] [7b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:36:43:009] [7b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:36:52:591] [7c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:36:52:591] [7c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:36:52:591] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:36:52:591] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:37:03:847] [7d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:37:03:848] [7d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:37:03:848] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:37:03:848] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:37:10:412] [7e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:37:10:413] [7e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:37:10:413] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:37:10:414] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:37:11:529] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:37:11:531] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:37:11:538] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:37:12:034] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:37:17:522] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:37:17:525] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:37:18:033] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:37:19:344] [7f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-14 17:37:19:345] [7f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 0 ms
+[2022-09-14 17:37:22:566] [80] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:37:22:567] [80] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:37:23:268] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:37:23:270] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:37:23:277] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:37:23:778] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:37:24:063] [81] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 17:37:24:064] [81] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 17:37:24:418] [82] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 17:37:24:418] [82] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 17:59:11:645] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:59:11:650] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 17:59:11:681] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 17:59:12:154] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 18:00:05:598] [83] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css)
+[2022-09-14 18:00:05:599] [83] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/styles.css) completed • 0 ms
+[2022-09-14 18:00:05:599] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 18:00:05:599] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-14 18:00:24:011] [84] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 18:00:24:012] [84] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 20:03:27:776] [85] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:03:27:777] [85] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:03:32:808] [86] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:03:32:808] [86] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:03:33:463] [87] CodeStreamAgentConnection.onConnectionStatusChanged(reconnected)
+[2022-09-14 20:03:33:465] [87] CodeStreamAgentConnection.onConnectionStatusChanged(reconnected) completed • 1 ms
+[2022-09-14 20:45:27:623] [88] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:45:27:624] [88] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:45:32:628] [89] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:45:32:629] [89] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:45:33:231] [8a] CodeStreamAgentConnection.onConnectionStatusChanged(reconnected)
+[2022-09-14 20:45:33:233] [8a] CodeStreamAgentConnection.onConnectionStatusChanged(reconnected) completed • 2 ms
+[2022-09-14 20:45:54:524] [8b] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:45:54:525] [8b] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:45:59:527] [8c] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:45:59:527] [8c] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:46:04:532] [8d] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:46:04:532] [8d] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:46:09:535] [8e] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:46:09:535] [8e] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:46:14:540] [8f] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:46:14:540] [8f] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:46:19:544] [90] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:46:19:544] [90] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:46:24:549] [91] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:46:24:549] [91] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:46:29:555] [92] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:46:29:555] [92] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:46:34:561] [93] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:46:34:562] [93] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:46:39:567] [94] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:46:39:567] [94] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:46:45:571] [95] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:46:45:571] [95] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:46:51:577] [96] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:46:51:577] [96] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:46:58:377] [97] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:46:58:377] [97] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:47:03:378] [98] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-09-14 20:47:03:378] [98] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-09-14 20:47:11:092] [99] CodeStreamAgentConnection.onConnectionStatusChanged(reconnected)
+[2022-09-14 20:47:11:093] [99] CodeStreamAgentConnection.onConnectionStatusChanged(reconnected) completed • 0 ms
+[2022-09-14 20:48:21:210] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 20:48:21:223] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 20:48:21:736] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 20:48:25:287] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 20:48:25:289] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 20:48:25:795] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 20:51:09:391] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 20:51:09:423] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 20:51:09:475] [9a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 20:51:09:476] [9a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 20:51:09:932] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-14 20:51:10:219] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-14 20:51:10:232] [9b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-14 20:51:10:233] [9b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-14 20:51:10:725] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
