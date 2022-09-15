@@ -1,0 +1,32 @@
+[2022-09-15 16:25:33.469] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 135,135:Projects/Project_Bata_Bit/index.html • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 135,135:Projects/Project_Bata_Bit/index.html • file Projects/Project_Bata_Bit/index.html has only 132 lines • 161 ms
+
+[2022-09-15 16:25:51.845] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 145,145:Projects/Project_Bata_Bit/index.html • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 145,145:Projects/Project_Bata_Bit/index.html • file Projects/Project_Bata_Bit/index.html has only 132 lines • 84 ms
+
+[2022-09-15 16:26:04.130] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 145,145:Projects/Project_Bata_Bit/index.html • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 145,145:Projects/Project_Bata_Bit/index.html • file Projects/Project_Bata_Bit/index.html has only 132 lines • 61 ms
+
+[2022-09-15 16:28:17.146] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 795,795:Projects/Project_Bata_Bit/styles.css • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 795,795:Projects/Project_Bata_Bit/styles.css • file Projects/Project_Bata_Bit/styles.css has only 789 lines • 58 ms
+
+[2022-09-15 16:29:15.031] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 802,802:Projects/Project_Bata_Bit/styles.css • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 802,802:Projects/Project_Bata_Bit/styles.css • file Projects/Project_Bata_Bit/styles.css has only 789 lines • 70 ms
+
+[2022-09-15 16:29:48.825] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 804,804:Projects/Project_Bata_Bit/styles.css • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 804,804:Projects/Project_Bata_Bit/styles.css • file Projects/Project_Bata_Bit/styles.css has only 789 lines • 58 ms
+
+[2022-09-15 16:31:37.245] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 808,808:Projects/Project_Bata_Bit/styles.css • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 808,808:Projects/Project_Bata_Bit/styles.css • file Projects/Project_Bata_Bit/styles.css has only 789 lines • 68 ms
+
+[2022-09-15 16:31:57.243] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 809,809:Projects/Project_Bata_Bit/styles.css • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 809,809:Projects/Project_Bata_Bit/styles.css • file Projects/Project_Bata_Bit/styles.css has only 789 lines • 79 ms
+
+[2022-09-15 16:32:26.524] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 813,813:Projects/Project_Bata_Bit/styles.css • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 813,813:Projects/Project_Bata_Bit/styles.css • file Projects/Project_Bata_Bit/styles.css has only 789 lines • 63 ms
+
+[2022-09-15 16:32:56.573] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 817,817:Projects/Project_Bata_Bit/styles.css • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 817,817:Projects/Project_Bata_Bit/styles.css • file Projects/Project_Bata_Bit/styles.css has only 789 lines • 76 ms
+
+[2022-09-15 16:33:00.980] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 817,817:Projects/Project_Bata_Bit/styles.css • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 817,817:Projects/Project_Bata_Bit/styles.css • file Projects/Project_Bata_Bit/styles.css has only 789 lines • 59 ms
+
+[2022-09-15 16:33:12.598] [GIT  ] [/home/cmendoza] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- Projects/Project_Bata_Bit/styles.css • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c color.diff=false diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- Projects/Project_Bata_Bit/styles.css • bad revision '0000000000000000000000000000000000000000-' • 129 ms
+
+[2022-09-15 16:33:34.790] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 821,821:Projects/Project_Bata_Bit/styles.css • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 821,821:Projects/Project_Bata_Bit/styles.css • file Projects/Project_Bata_Bit/styles.css has only 789 lines • 61 ms
+
+[2022-09-15 16:41:07.743] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 826,826:Projects/Project_Bata_Bit/styles.css • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 826,826:Projects/Project_Bata_Bit/styles.css • file Projects/Project_Bata_Bit/styles.css has only 789 lines • 68 ms
+
+[2022-09-15 16:42:05.049] [GIT  ] [/home/cmendoza] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- Projects/Project_Bata_Bit/index.html • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c color.diff=false diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- Projects/Project_Bata_Bit/index.html • bad revision '0000000000000000000000000000000000000000-' • 53 ms
+
+[2022-09-15 16:42:41.199] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 826,826:Projects/Project_Bata_Bit/styles.css • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 826,826:Projects/Project_Bata_Bit/styles.css • file Projects/Project_Bata_Bit/styles.css has only 789 lines • 55 ms
+

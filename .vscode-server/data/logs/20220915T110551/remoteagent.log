@@ -23,3 +23,17 @@
 
 [2022-09-15 11:13:54.796] [remoteagent] [info] [127.0.0.1][c8cb5637][ExtensionHostConnection] <207> [0mGET /Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 1.822 ms - 174[0m
 
+[2022-09-15 11:27:34.661] [remoteagent] [info] [127.0.0.1][c8cb5637][ExtensionHostConnection] <207> [0mGET /Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 7.341 ms - 174[0m
+
+[2022-09-15 11:31:54.611] [remoteagent] [info] [127.0.0.1][c8cb5637][ExtensionHostConnection] <207> [0mGET /Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 9.874 ms - 174[0m
+
+[2022-09-15 11:41:46.357] [remoteagent] [info] [127.0.0.1][c8cb5637][ExtensionHostConnection] <207> [0mGET /Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 6.185 ms - 174[0m
+
+[2022-09-15 11:42:36.473] [remoteagent] [info] [127.0.0.1][c8cb5637][ExtensionHostConnection] <207> [0mGET /Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 4.749 ms - 174[0m
+
+[2022-09-15 11:47:11.729] [remoteagent] [info] [127.0.0.1][c8cb5637][ExtensionHostConnection] <207> [0mGET /Project_Bata_Bit/DMSans-Regular.ttf [33m404[0m 29.814 ms - 174[0m
+
+[2022-09-15 14:58:18.103] [remoteagent] [info] [127.0.0.1][c8cb5637][ExtensionHostConnection] <207> [0mGET /favicon.ico [33m404[0m 10.576 ms - 150[0m
+
+[2022-09-15 15:01:44.122] [remoteagent] [info] [127.0.0.1][ba8a3af4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-09-15 15:01:44.887] [remoteagent] [info] [127.0.0.1][c8cb5637][ExtensionHostConnection] <207> Extension Host Process exited with code: 0, signal: null.
