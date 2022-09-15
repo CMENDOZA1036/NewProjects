@@ -1,0 +1,27 @@
+[2022-09-15 16:06:16:295] CodeStream v14.0.0-4241 in VS Code (v1.71.1) starting...
+[2022-09-15 16:06:16:297] Proxy support is on, but no proxy url was found
+[2022-09-15 16:06:17:780] NewRelic telemetry enabled=true
+[2022-09-15 16:06:19:704] CodeStream v14.0.0-4241 started • 3982 ms
+[2022-09-15 16:06:19:710] Signing alvarezmendoz@gmail.com into CodeStream (https://api.codestream.com)
+[2022-09-15 16:06:19:711] AgentConnection.sendRequest(codestream/login/token)
+[2022-09-15 16:06:20:139] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2022-09-15 16:06:20:139] [2] WebviewController.onApiVersionChanged
+[2022-09-15 16:06:20:140] [2] WebviewController.onApiVersionChanged completed • 0 ms
+[2022-09-15 16:06:20:140] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 1 ms
+[2022-09-15 16:06:21:984] [3] CodeStreamAgentConnection.onDataChanged(unreads)
+[2022-09-15 16:06:21:985] [3] CodeStreamAgentConnection.onDataChanged(unreads) completed • 0 ms
+[2022-09-15 16:06:22:504] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-09-15 16:06:22:508] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-09-15 16:06:22:627] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-15 16:06:22:630] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-09-15 16:06:22:670] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-09-15 16:09:22:837] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview
+[2022-09-15 16:09:22:952] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-15 16:09:23:427] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-15 16:09:23:565] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-15 16:09:23:769] [4] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-15 16:09:23:770] [4] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-15 16:09:27:143] [5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html)
+[2022-09-15 16:09:27:144] [5] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Bata_Bit/index.html) completed • 1 ms
+[2022-09-15 16:09:27:145] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-15 16:09:27:145] AgentConnection.sendRequest(codestream/textDocument/markers)
