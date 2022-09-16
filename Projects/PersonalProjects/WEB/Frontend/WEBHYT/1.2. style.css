@@ -47,10 +47,17 @@
     /* Con estas en font-size podemos utilizarlos para los tamanos sm= small md = mediano = grande*/
     --md: 16px;
     --lg: 18px;
+    --width-collapsed: 50px;
+    --hovercolor: rgb(23, 23, 23);
+    --bgcolor: rgb(52, 52, 52);
+    --padding: 10px;
+    --width: 300px;
 }
 
 body {
     font-family: 'Poppins', sans-serif;
+    background-color: var(--secondary);
+    margin-left: var(--width-collapsed);
 }
 
 * {
@@ -225,34 +232,189 @@ html {
 
 /** Styles Home**/
 
-.main-container {
-    background-color: var(--very-ligh-pink);
-    width: 100%;
-    height: 760px;
+.body-expanded {
+    margin-left: var(--width);
 }
 
-.main-container--aside__header {
-    background-color: var(--light);
-    width: 265px;
-    height: 80px;
+#main-container {
+    color: var(--secundary-black-1);
+    background-color: var(--white);
 }
 
-.main-container--aside {
-    background-color: var(--blue);
-    width: 265px;
+#sidemenu {
+    background-color: var(--secundary-blue-6);
+    color: var(--light);
+    position: fixed;
     height: 100%;
+    left: 0;
+    top: 0;
 }
 
-.main-container--aside__list {
-    padding: 20px;
+#sidemenu a {
+    color: var(--light);
+    text-decoration: none;
 }
 
-.main-container--aside__list-iconSales {
-    background-image: url(../WEBHYT/icons/Sales_Invoice.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
+
+/*! HEADER!*/
+
+#sidemenu #header {
+    box-sizing: border-box;
+    border-bottom: solid 1px var(--hovercolor);
+}
+
+#sidemenu #header #title2 {
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+#sidemenu #header #title2,
+#sidemenu #header #menu-btn {
+    vertical-align: middle;
+}
+
+#sidemenu #header #menu-btn {
     display: inline-block;
-    width: 20px;
-    height: 20px;
 }
+
+#sidemenu #header #menu-btn {
+    cursor: pointer;
+    padding: 10px;
+    width: var(--width-collapsed);
+    box-sizing: border-box;
+}
+
+#sidemenu #header #menu-btn:hover {
+    background-color: var(--hovercolor);
+}
+
+#sidemenu #header #menu-btn .btn-hamburger {
+    background-color: var(--white);
+    width: 100%;
+    height: 2px;
+    margin: 5px 0;
+}
+
+#sidemenu #profile {
+    border-bottom: solid 1px var(--hovercolor);
+    padding: var(--padding);
+    text-align: center;
+}
+
+#sidemenu #profile #photo {
+    box-sizing: border-box;
+    padding: var(--padding);
+    margin: 0 auto;
+}
+
+#sidemenu #profile #photo img {
+    width: 100%;
+}
+
+#sidemenu #profile #photo,
+#sidemenu #profile #name {
+    font-size: 24px;
+    padding: var(--padding);
+    overflow: hidden;
+}
+
+
+/*! ITEM !*/
+
+#sidemenu #menu-item {
+    overflow: hidden;
+}
+
+#sidemenu #menu-item .item {
+    width: var(--width);
+    margin: 5px 0 0 0;
+}
+
+#sidemenu #menu-item .item .icon {
+    display: inline-block;
+}
+
+#sidemenu #menu-item .item .icon,
+#sidemenu #menu-item .item .title3 {
+    font-size: 14px;
+    vertical-align: middle;
+    overflow: hidden;
+    display: inline-block;
+}
+
+#sidemenu #menu-item .item a {
+    display: block;
+}
+
+#sidemenu #menu-item .item a:hover {
+    border-radius: 8px;
+    border: solid 2px var(--white);
+}
+
+#sidemenu #menu-item .item .icon {
+    box-sizing: border-box;
+    padding: var(--padding);
+    width: var(--width-collapsed);
+}
+
+#sidemenu #menu-item .item .icon img {
+    width: 100%;
+}
+
+#sidemenu #menu-item .item .title3 {
+    padding: var(--padding) 0;
+}
+
+#sidemenu #menu-item .item.separator {
+    height: 1px;
+    width: 100%;
+    border-bottom: solid 1px var(--black);
+    margin: 5px 0;
+}
+
+.menu-expanded {
+    width: var(--width);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.menu-expanded #header #title2 {
+    display: inline-block;
+    width: calc(100% - 50px);
+    margin-right: -5px;
+    padding: var(--padding);
+}
+
+.menu-expanded #header #title2 span {
+    width: calc(var(--width) - var(--width-collapsed) - 5px);
+    overflow: hidden;
+}
+
+.menu-expanded #profile #photo {
+    width: 100%;
+}
+
+.menu-expanded #profile #name {
+    width: 100%;
+}
+
+
+.menu-collapsed {
+    width: var(--width-collapsed);
+}
+
+.menu-collapsed #header #title2 {
+    width: 0;
+    height: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.menu-collapsed #profile #name {
+    display: none;
+}
+
+.menu-collapsed .item {
+    width: 100px;
+}
+
+/**https://www.youtube.com/watch?v=sRaVhp96jxM**/

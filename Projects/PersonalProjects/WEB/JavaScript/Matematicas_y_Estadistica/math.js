@@ -1,3 +1,6 @@
+
+//!  CUADRADOS y TRIANGULOS !/
+
 console.group('Cuadrado') 
 
 const ladoCuadrado = 5;
@@ -46,3 +49,57 @@ console.log({
 });
 
 console.groupEnd('Triangulo') 
+
+
+//! CIRCULOS !/
+
+
+console.group('Circle')
+
+const radioCirculo = 3
+const diametroCirculo = radioCirculo * 2
+const PI = Math.PI.toFixed (4) //**Con esta opcion limitamos los decimales */
+
+
+const circunferencia = diametroCirculo * PI
+const areaCirculo = (radioCirculo ** 2) * PI
+
+
+console.log({
+  radioCirculo,
+  diametroCirculo,
+  PI,
+  circunferencia,
+  areaCirculo,
+});
+
+
+function calcularCirculo (radio) {
+  
+  const diametro = radio * 2
+  const radioAlCuadrado = Math.pow (radio, 2)
+  
+  
+  return {
+    circunferencia: diametro * PI,
+    area: radioAlCuadrado * PI,
+  }
+}
+
+
+console.groupEnd('Circle') 
+
+
+//! ALTURA DE UN TRIANGULO  (ISOSCELES NO EQUILATERO)!/
+
+function calcularAlturaTriangulo (lado1, base) {
+  if (lado1 == base) {
+    console.warn ("Este no es un triangulo Isoceles")
+  } else {
+    
+    // h = raizcuadrada ((lado1 ** 2) - (b ** 2) / 4 ) 
+    // Math.sqrt Es la raiz de un numero, y en parentesis ponemos al cuadrado o al cubo etc. 
+    return Math.sqrt ((lado1 ** 2) - ((base ** 2)/4))
+
+  }
+}
