@@ -1,0 +1,20 @@
+[2022-09-19 19:43:24:720] CodeStream v14.1.0-4242 in VS Code (v1.71.2) starting...
+[2022-09-19 19:43:24:722] Proxy support is on, but no proxy url was found
+[2022-09-19 19:43:26:307] NewRelic telemetry enabled=true
+[2022-09-19 19:43:28:285] CodeStream upgraded from v14.0.0 to v14.1.0
+[2022-09-19 19:43:28:285] CodeStream v14.1.0-4242 started • 3945 ms
+[2022-09-19 19:43:28:294] Signing alvarezmendoz@gmail.com into CodeStream (https://api.codestream.com)
+[2022-09-19 19:43:28:294] AgentConnection.sendRequest(codestream/login/token)
+[2022-09-19 19:43:28:885] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2022-09-19 19:43:28:885] [2] WebviewController.onApiVersionChanged
+[2022-09-19 19:43:28:886] [2] WebviewController.onApiVersionChanged completed • 0 ms
+[2022-09-19 19:43:28:886] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 0 ms
+[2022-09-19 19:43:30:764] [3] CodeStreamAgentConnection.onDataChanged(unreads)
+[2022-09-19 19:43:30:764] [3] CodeStreamAgentConnection.onDataChanged(unreads) completed • 0 ms
+[2022-09-19 19:43:31:280] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-09-19 19:43:31:282] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-09-19 19:43:33:600] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-19 19:43:33:914] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-09-19 19:43:33:923] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-09-19 21:36:58:902] [4] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-09-19 21:36:58:903] [4] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms

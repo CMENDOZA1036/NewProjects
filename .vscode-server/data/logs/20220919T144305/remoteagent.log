@@ -1,0 +1,13 @@
+[2022-09-19 14:43:06.122] [remoteagent] [info] Extension host agent started.
+[2022-09-19 14:43:06.302] [remoteagent] [info] [127.0.0.1][e0c46198][ManagementConnection] New connection established.
+[2022-09-19 14:43:06.344] [remoteagent] [info] [127.0.0.1][c6808725][ExtensionHostConnection] New connection established.
+[2022-09-19 14:43:06.800] [remoteagent] [info] [127.0.0.1][c6808725][ExtensionHostConnection] <244> Launched Extension Host Process.
+[2022-09-19 14:43:08.109] [remoteagent] [info] Deleted from disk eamodio.gitlens-insiders /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.9.1505
+[2022-09-19 14:43:08.111] [remoteagent] [info] Deleted from disk codestream.codestream /home/cmendoza/.vscode-server/extensions/codestream.codestream-14.0.0
+[2022-09-19 14:43:13.764] [remoteagent] [info] Getting Manifest... eamodio.gitlens-insiders
+[2022-09-19 14:43:14.612] [remoteagent] [info] Installing extension: eamodio.gitlens-insiders
+[2022-09-19 14:43:24.346] [remoteagent] [info] Downloaded extension: eamodio.gitlens-insiders /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-insiders-2022.9.1905
+[2022-09-19 14:43:25.339] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.2968f37b-e218-465a-82fd-867c1307cf9c: eamodio.gitlens-insiders
+[2022-09-19 14:43:25.378] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.9.1905
+[2022-09-19 14:43:25.394] [remoteagent] [info] Extracting completed. eamodio.gitlens-insiders
+[2022-09-19 14:43:25.400] [remoteagent] [info] Extension installed successfully: eamodio.gitlens-insiders
