@@ -718,3 +718,7 @@ Warning: Ignoring extra certs from `null`, load failed: error:02001002:system li
 [2022-09-19 21:53:28:164] [1ff] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
 [2022-09-19 21:53:28:919] [200] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
 [2022-09-19 21:53:28:921] [200] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-19 21:53:52:681] [201] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-09-19 21:53:52:682] [201] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-09-19 21:53:52:818] [202] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-09-19 21:53:52:819] [202] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms

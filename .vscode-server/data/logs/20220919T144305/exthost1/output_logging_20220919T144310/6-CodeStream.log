@@ -125,3 +125,9 @@
 [2022-09-19 21:53:28:922] [23] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Dise%C3%B1o-para-Dev/diseno-para-programadores/4-app/public/index.html)
 [2022-09-19 21:53:28:923] WebviewPanel: FAILED posting codestream/didChangeDocumentMarkers to the webview; Webview is invisible and can't receive messages
 [2022-09-19 21:53:28:923] [23] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Dise%C3%B1o-para-Dev/diseno-para-programadores/4-app/public/index.html) completed • 0 ms
+[2022-09-19 21:53:52:682] [24] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-09-19 21:53:52:682] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:52:682] [24] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-09-19 21:53:52:819] [25] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-09-19 21:53:52:819] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:52:819] [25] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
