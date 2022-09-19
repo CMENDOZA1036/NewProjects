@@ -18,3 +18,110 @@
 [2022-09-19 19:43:33:923] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
 [2022-09-19 21:36:58:902] [4] CodeStreamAgentConnection.onDataChanged(commits)
 [2022-09-19 21:36:58:903] [4] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-09-19 21:38:13:178] [5] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-09-19 21:38:13:178] [5] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-09-19 21:38:13:226] [6] CodeStreamAgentConnection.onUserCommitted
+[2022-09-19 21:38:13:227] User committed 29a487aa3175c399d8d0271123b2ec27fc4375cf - opening feedback request form
+[2022-09-19 21:38:13:227] [7] WebviewController.newReviewRequest
+[2022-09-19 21:38:13:227] [8] WebviewController.show
+[2022-09-19 21:38:13:227] [9] WebviewController.ensureWebView
+[2022-09-19 21:38:13:228] [6] CodeStreamAgentConnection.onUserCommitted completed • 1 ms
+[2022-09-19 21:38:13:228] [9] WebviewController.ensureWebView completed • 0 ms
+[2022-09-19 21:38:13:229] [a] CodeStreamWebviewSidebar.show
+[2022-09-19 21:38:13:229] [a] CodeStreamWebviewSidebar.show waiting for WebView ready
+[2022-09-19 21:38:13:324] [b] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-09-19 21:38:13:324] [b] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-09-19 21:38:13:526] [c] CodeStreamAgentConnection.onUserCommitted
+[2022-09-19 21:38:13:526] User committed 29a487aa3175c399d8d0271123b2ec27fc4375cf - opening feedback request form
+[2022-09-19 21:38:13:526] [d] WebviewController.newReviewRequest
+[2022-09-19 21:38:13:526] [e] WebviewController.show
+[2022-09-19 21:38:13:526] [f] WebviewController.ensureWebView
+[2022-09-19 21:38:13:527] [c] CodeStreamAgentConnection.onUserCommitted completed • 0 ms
+[2022-09-19 21:38:13:527] [f] WebviewController.ensureWebView completed • 0 ms
+[2022-09-19 21:38:13:528] [10] CodeStreamWebviewSidebar.show
+[2022-09-19 21:38:13:528] [10] CodeStreamWebviewSidebar.show waiting for WebView ready
+[2022-09-19 21:38:13:528] [11] CodeStreamAgentConnection.onUserCommitted
+[2022-09-19 21:38:13:528] User committed 29a487aa3175c399d8d0271123b2ec27fc4375cf - opening feedback request form
+[2022-09-19 21:38:13:528] [12] WebviewController.newReviewRequest
+[2022-09-19 21:38:13:529] [13] WebviewController.show
+[2022-09-19 21:38:13:529] [14] WebviewController.ensureWebView
+[2022-09-19 21:38:13:529] [11] CodeStreamAgentConnection.onUserCommitted completed • 0 ms
+[2022-09-19 21:38:13:529] [14] WebviewController.ensureWebView completed • 0 ms
+[2022-09-19 21:38:13:530] [15] CodeStreamWebviewSidebar.show
+[2022-09-19 21:38:13:530] [15] CodeStreamWebviewSidebar.show waiting for WebView ready
+[2022-09-19 21:38:13:531] [16] CodeStreamAgentConnection.onUserCommitted
+[2022-09-19 21:38:13:531] User committed 29a487aa3175c399d8d0271123b2ec27fc4375cf - opening feedback request form
+[2022-09-19 21:38:13:531] [17] WebviewController.newReviewRequest
+[2022-09-19 21:38:13:531] [18] WebviewController.show
+[2022-09-19 21:38:13:531] [19] WebviewController.ensureWebView
+[2022-09-19 21:38:13:531] [16] CodeStreamAgentConnection.onUserCommitted completed • 0 ms
+[2022-09-19 21:38:13:532] [19] WebviewController.ensureWebView completed • 0 ms
+[2022-09-19 21:38:13:532] [1a] CodeStreamWebviewSidebar.show
+[2022-09-19 21:38:13:532] [1a] CodeStreamWebviewSidebar.show waiting for WebView ready
+[2022-09-19 21:38:43:231] WebviewPanel: FAILED waiting for webview ready event; closing webview...
+[2022-09-19 21:38:43:231] [a] CodeStreamWebviewSidebar.show waiting for WebView complete. cancelled=true
+[2022-09-19 21:38:43:231] [10] CodeStreamWebviewSidebar.show waiting for WebView complete. cancelled=true
+[2022-09-19 21:38:43:231] [15] CodeStreamWebviewSidebar.show waiting for WebView complete. cancelled=true
+[2022-09-19 21:38:43:231] [1a] CodeStreamWebviewSidebar.show waiting for WebView complete. cancelled=true
+[2022-09-19 21:38:43:231] [a] CodeStreamWebviewSidebar.show completed • 30001 ms
+[2022-09-19 21:38:43:231] [10] CodeStreamWebviewSidebar.show completed • 29703 ms
+[2022-09-19 21:38:43:231] [15] CodeStreamWebviewSidebar.show completed • 29700 ms
+[2022-09-19 21:38:43:231] [1a] CodeStreamWebviewSidebar.show completed • 29698 ms
+[2022-09-19 21:38:43:231] [8] WebviewController.show completed • 30004 ms
+[2022-09-19 21:38:43:233] WebviewPanel: FAILED posting webview/review/new to the webview
+[2022-09-19 21:38:43:233] [e] WebviewController.show completed • 29706 ms
+[2022-09-19 21:38:43:233] WebviewPanel: FAILED posting webview/review/new to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:38:43:233] [13] WebviewController.show completed • 29704 ms
+[2022-09-19 21:38:43:233] WebviewPanel: FAILED posting webview/review/new to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:38:43:233] [18] WebviewController.show completed • 29701 ms
+[2022-09-19 21:38:43:233] WebviewPanel: FAILED posting webview/review/new to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:38:43:233] [7] WebviewController.newReviewRequest completed • 30006 ms
+[2022-09-19 21:38:43:233] [d] WebviewController.newReviewRequest completed • 29707 ms
+[2022-09-19 21:38:43:233] [12] WebviewController.newReviewRequest completed • 29704 ms
+[2022-09-19 21:38:43:233] [17] WebviewController.newReviewRequest completed • 29702 ms
+[2022-09-19 21:39:02:656] resolveWebviewView starting — {}
+[2022-09-19 21:39:02:674] [1b] CodeStreamWebviewSidebar.triggerIpc
+[2022-09-19 21:39:02:674] [1b] CodeStreamWebviewSidebar.triggerIpc waiting for WebView ready
+[2022-09-19 21:39:32:676] WebviewPanel: FAILED waiting for webview ready event; closing webview...
+[2022-09-19 21:39:32:676] [1b] CodeStreamWebviewSidebar.triggerIpc waiting for WebView complete. cancelled=true
+[2022-09-19 21:39:32:677] [1b] CodeStreamWebviewSidebar.triggerIpc completed • 30002 ms
+[2022-09-19 21:39:32:677] resolveWebviewView completed
+[2022-09-19 21:39:39:088] [1c] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-09-19 21:39:39:088] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:39:39:089] [1c] CodeStreamAgentConnection.onDataChanged(commits) completed • 1 ms
+[2022-09-19 21:47:33:119] [1d] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-09-19 21:47:33:120] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:47:33:120] [1d] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-09-19 21:47:33:216] [1e] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-09-19 21:47:33:216] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:47:33:216] [1e] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-09-19 21:53:18:450] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:18:533] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:18:719] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-19 21:53:19:078] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:19:161] [1f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-19 21:53:19:161] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:19:161] [1f] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-19 21:53:19:855] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:21:543] [20] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Dise%C3%B1o-para-Dev/diseno-para-programadores/4-app/public/index.html)
+[2022-09-19 21:53:21:546] WebviewPanel: FAILED posting codestream/didChangeDocumentMarkers to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:21:546] [20] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Dise%C3%B1o-para-Dev/diseno-para-programadores/4-app/public/index.html) completed • 2 ms
+[2022-09-19 21:53:21:546] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-19 21:53:21:547] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-19 21:53:25:015] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:25:965] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:26:641] [21] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-19 21:53:26:641] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:26:641] [21] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-19 21:53:28:157] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:28:163] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:28:209] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:28:210] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:28:278] [22] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-19 21:53:28:278] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:28:278] [22] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-19 21:53:28:470] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:28:666] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:28:922] [23] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Dise%C3%B1o-para-Dev/diseno-para-programadores/4-app/public/index.html)
+[2022-09-19 21:53:28:923] WebviewPanel: FAILED posting codestream/didChangeDocumentMarkers to the webview; Webview is invisible and can't receive messages
+[2022-09-19 21:53:28:923] [23] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/Project_Dise%C3%B1o-para-Dev/diseno-para-programadores/4-app/public/index.html) completed • 0 ms

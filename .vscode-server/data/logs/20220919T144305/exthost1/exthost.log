@@ -26,3 +26,8 @@
 [2022-09-19 14:43:24.192] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
 [2022-09-19 14:43:24.838] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
 [2022-09-19 14:43:25.982] [exthost] [info] Eager extensions activated
+[2022-09-19 16:53:18.460] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 16:53:18.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-09-19 16:53:25.775] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-09-19 16:53:25.775] [exthost] [error] undefined
+[2022-09-19 16:53:28.208] [exthost] [warning] TextEditor is closed/disposed
