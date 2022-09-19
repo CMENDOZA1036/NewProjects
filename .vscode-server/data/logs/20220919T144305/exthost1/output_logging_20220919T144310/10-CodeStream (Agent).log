@@ -722,3 +722,16 @@ Warning: Ignoring extra certs from `null`, load failed: error:02001002:system li
 [2022-09-19 21:53:52:682] [201] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
 [2022-09-19 21:53:52:818] [202] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
 [2022-09-19 21:53:52:819] [202] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-09-19 21:58:23:889] [203] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-09-19 21:58:23:890] [203] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-09-19 21:58:24:028] [204] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-09-19 21:58:24:029] [204] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-09-19 21:58:29:393] [206] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-19 21:58:29:393] github getMyPullRequests {"prQueries":[{"providerId":"github*com","name":"is waiting on your review","query":"is:pr is:open review-requested:@me -author:@me"},{"providerId":"github*com","name":"was assigned to you","query":"is:pr is:open assignee:@me -author:@me"}]}
+[2022-09-19 21:58:29:393] [207] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries
+[2022-09-19 21:58:29:393] [207] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries completed • 0 ms
+[2022-09-19 21:58:29:393] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me" login=CMENDOZA1036
+[2022-09-19 21:58:29:393] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me" login=CMENDOZA1036
+[Warn  - 4:58:29 PM] [2022-09-19 21:58:29:950] undefined 
+[Warn  - 4:58:29 PM] [2022-09-19 21:58:29:980] undefined 
+[2022-09-19 21:58:29:981] Will not notify of new PRs - no changes detected
