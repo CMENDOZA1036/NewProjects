@@ -1,0 +1,2 @@
+[2022-09-19 22:12:43.086] [GIT  ] [/home/cmendoza] git log --format=%x3cr%x3e%x20%H -n3 -m -L 106,106:Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 106,106:Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js • file Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js has only 105 lines • 44 ms
+

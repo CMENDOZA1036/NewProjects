@@ -143,3 +143,67 @@
 [2022-09-19 22:02:15:434] [29] CodeStreamAgentConnection.onDataChanged(commits)
 [2022-09-19 22:02:15:434] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
 [2022-09-19 22:02:15:434] [29] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-09-19 22:10:39:473] [2a] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-09-19 22:10:39:473] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:10:39:473] [2a] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-09-19 22:10:39:611] [2b] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-09-19 22:10:39:611] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:10:39:611] [2b] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-09-19 22:12:25:607] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:25:620] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:25:653] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:25:689] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:25:989] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:26:022] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:26:052] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:26:069] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:26:090] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:26:105] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:27:425] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:29:956] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:30:228] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:30:600] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:30:816] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:30:850] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:30:969] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:31:219] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:31:290] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:31:541] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:31:632] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:31:883] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:32:600] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:32:752] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:32:850] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:32:963] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:33:217] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:33:301] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:33:553] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:34:669] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:34:921] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:36:612] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:36:865] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:37:993] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:38:027] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:38:132] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:38:243] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:38:595] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:38:752] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:38:846] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:38:899] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:39:148] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:39:521] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:39:667] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:39:771] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:39:847] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:39:934] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:40:098] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:40:687] WebviewPanel: FAILED posting webview/editor/didChangeVisibleRanges to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:41:125] WebviewPanel: FAILED posting webview/editor/didChangeSelection to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:41:873] [2c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-09-19 22:12:41:873] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:41:874] [2c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-09-19 22:12:43:135] [2d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js)
+[2022-09-19 22:12:43:135] WebviewPanel: FAILED posting codestream/didChangeDocumentMarkers to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:43:135] [2d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js) completed • 0 ms
+[2022-09-19 22:12:43:135] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-19 22:12:43:135] AgentConnection.sendRequest(codestream/textDocument/markers)
