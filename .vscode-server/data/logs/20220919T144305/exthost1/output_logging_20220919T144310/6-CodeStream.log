@@ -137,3 +137,9 @@
 [2022-09-19 21:58:24:029] [27] CodeStreamAgentConnection.onDataChanged(commits)
 [2022-09-19 21:58:24:029] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
 [2022-09-19 21:58:24:029] [27] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-09-19 22:02:15:285] [28] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-09-19 22:02:15:286] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:02:15:286] [28] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-09-19 22:02:15:434] [29] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-09-19 22:02:15:434] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:02:15:434] [29] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms

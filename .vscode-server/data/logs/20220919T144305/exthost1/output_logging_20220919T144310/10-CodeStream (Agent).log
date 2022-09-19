@@ -735,3 +735,7 @@ Warning: Ignoring extra certs from `null`, load failed: error:02001002:system li
 [Warn  - 4:58:29 PM] [2022-09-19 21:58:29:950] undefined 
 [Warn  - 4:58:29 PM] [2022-09-19 21:58:29:980] undefined 
 [2022-09-19 21:58:29:981] Will not notify of new PRs - no changes detected
+[2022-09-19 22:02:15:284] [209] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-09-19 22:02:15:285] [209] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-09-19 22:02:15:427] [20a] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-09-19 22:02:15:428] [20a] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
