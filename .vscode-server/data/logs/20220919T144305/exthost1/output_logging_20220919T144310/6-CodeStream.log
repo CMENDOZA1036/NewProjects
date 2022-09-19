@@ -207,3 +207,9 @@
 [2022-09-19 22:12:43:135] [2d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js) completed • 0 ms
 [2022-09-19 22:12:43:135] AgentConnection.sendRequest(codestream/textDocument/markers)
 [2022-09-19 22:12:43:135] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-09-19 22:12:55:328] [2e] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-09-19 22:12:55:328] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:55:328] [2e] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms
+[2022-09-19 22:12:55:472] [2f] CodeStreamAgentConnection.onDataChanged(commits)
+[2022-09-19 22:12:55:472] WebviewPanel: FAILED posting codestream/didChangeData to the webview; Webview is invisible and can't receive messages
+[2022-09-19 22:12:55:473] [2f] CodeStreamAgentConnection.onDataChanged(commits) completed • 0 ms

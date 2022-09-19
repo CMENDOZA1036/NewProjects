@@ -752,3 +752,25 @@ Warning: Ignoring extra certs from `null`, load failed: error:02001002:system li
 [2022-09-19 22:12:43:136] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v23
 [2022-09-19 22:12:43:137] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
 [2022-09-19 22:12:43:137] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v23
+[2022-09-19 22:12:55:326] [211] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-09-19 22:12:55:327] [211] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-09-19 22:12:55:471] [212] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-09-19 22:12:55:472] [212] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-09-19 22:13:29:392] [214] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-19 22:13:29:392] github getMyPullRequests {"prQueries":[{"providerId":"github*com","name":"is waiting on your review","query":"is:pr is:open review-requested:@me -author:@me"},{"providerId":"github*com","name":"was assigned to you","query":"is:pr is:open assignee:@me -author:@me"}]}
+[2022-09-19 22:13:29:393] [215] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries
+[2022-09-19 22:13:29:393] [215] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries completed • 0 ms
+[2022-09-19 22:13:29:393] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me" login=CMENDOZA1036
+[2022-09-19 22:13:29:393] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me" login=CMENDOZA1036
+[Warn  - 5:13:29 PM] [2022-09-19 22:13:29:836] undefined 
+[Warn  - 5:13:29 PM] [2022-09-19 22:13:29:979] undefined 
+[2022-09-19 22:13:29:980] Will not notify of new PRs - no changes detected
+[2022-09-19 22:28:29:393] [218] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-19 22:28:29:394] github getMyPullRequests {"prQueries":[{"providerId":"github*com","name":"is waiting on your review","query":"is:pr is:open review-requested:@me -author:@me"},{"providerId":"github*com","name":"was assigned to you","query":"is:pr is:open assignee:@me -author:@me"}]}
+[2022-09-19 22:28:29:394] [219] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries
+[2022-09-19 22:28:29:394] [219] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries completed • 0 ms
+[2022-09-19 22:28:29:394] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me" login=CMENDOZA1036
+[2022-09-19 22:28:29:394] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me" login=CMENDOZA1036
+[Warn  - 5:28:29 PM] [2022-09-19 22:28:29:934] undefined 
+[Warn  - 5:28:30 PM] [2022-09-19 22:28:30:023] undefined 
+[2022-09-19 22:28:30:024] Will not notify of new PRs - no changes detected
