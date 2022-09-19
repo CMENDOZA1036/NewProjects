@@ -774,3 +774,173 @@ Warning: Ignoring extra certs from `null`, load failed: error:02001002:system li
 [Warn  - 5:28:29 PM] [2022-09-19 22:28:29:934] undefined 
 [Warn  - 5:28:30 PM] [2022-09-19 22:28:30:023] undefined 
 [2022-09-19 22:28:30:024] Will not notify of new PRs - no changes detected
+[2022-09-19 22:42:33:565] [21b] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-09-19 22:42:33:566] [21b] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-09-19 22:42:33:706] [21c] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-09-19 22:42:33:707] [21c] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-09-19 22:43:29:394] [21e] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-19 22:43:29:394] github getMyPullRequests {"prQueries":[{"providerId":"github*com","name":"is waiting on your review","query":"is:pr is:open review-requested:@me -author:@me"},{"providerId":"github*com","name":"was assigned to you","query":"is:pr is:open assignee:@me -author:@me"}]}
+[2022-09-19 22:43:29:394] [21f] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries
+[2022-09-19 22:43:29:395] [21f] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries completed • 0 ms
+[2022-09-19 22:43:29:395] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me" login=CMENDOZA1036
+[2022-09-19 22:43:29:395] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me" login=CMENDOZA1036
+[Warn  - 5:43:29 PM] [2022-09-19 22:43:29:875] undefined 
+[Warn  - 5:43:29 PM] [2022-09-19 22:43:29:986] undefined 
+[2022-09-19 22:43:29:987] Will not notify of new PRs - no changes detected
+[2022-09-19 22:48:38:675] Document opened: file:///home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/index.html
+[2022-09-19 22:48:38:675] [221] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 22:48:38:680] [221] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 4 ms
+[2022-09-19 22:48:38:702] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/index.html
+[2022-09-19 22:48:38:702] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/index.html v1
+[2022-09-19 22:48:38:703] GIT: Running(/home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public): git rev-parse --show-toplevel
+[2022-09-19 22:48:38:782] GIT: Completed(/home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public): git rev-parse --show-toplevel in 79 ms
+[2022-09-19 22:48:41:682] [223] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-19 22:48:41:683] [223] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-19 22:48:43:025] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/index.html
+[2022-09-19 22:48:43:025] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/index.html v1
+[2022-09-19 22:48:43:026] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/index.html
+[2022-09-19 22:48:43:026] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/index.html v1
+[2022-09-19 22:49:26:117] Document closed: file:///home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/index.html
+[2022-09-19 22:49:26:117] [226] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 22:49:26:118] [226] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-19 22:58:29:396] [228] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-19 22:58:29:396] github getMyPullRequests {"prQueries":[{"providerId":"github*com","name":"is waiting on your review","query":"is:pr is:open review-requested:@me -author:@me"},{"providerId":"github*com","name":"was assigned to you","query":"is:pr is:open assignee:@me -author:@me"}]}
+[2022-09-19 22:58:29:396] [229] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries
+[2022-09-19 22:58:29:396] [229] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries completed • 0 ms
+[2022-09-19 22:58:29:397] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me" login=CMENDOZA1036
+[2022-09-19 22:58:29:397] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me" login=CMENDOZA1036
+[Warn  - 5:58:29 PM] [2022-09-19 22:58:29:879] undefined 
+[Warn  - 5:58:30 PM] [2022-09-19 22:58:30:032] undefined 
+[2022-09-19 22:58:30:033] Will not notify of new PRs - no changes detected
+[2022-09-19 23:00:53:234] Document opened: file:///home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/serviceWorker.js
+[2022-09-19 23:00:53:235] [22b] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:00:53:256] [22b] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 21 ms
+[2022-09-19 23:00:53:293] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/serviceWorker.js
+[2022-09-19 23:00:53:294] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/serviceWorker.js v1
+[2022-09-19 23:00:53:295] GIT: Running(/home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src): git rev-parse --show-toplevel
+[2022-09-19 23:00:53:364] GIT: Completed(/home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src): git rev-parse --show-toplevel in 69 ms
+[2022-09-19 23:00:56:258] [22d] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-19 23:00:56:263] [22d] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 5 ms
+[2022-09-19 23:00:56:277] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/serviceWorker.js
+[2022-09-19 23:00:56:277] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/serviceWorker.js v1
+[2022-09-19 23:00:56:282] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/serviceWorker.js
+[2022-09-19 23:00:56:283] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/serviceWorker.js v1
+[2022-09-19 23:01:09:684] Document closed: file:///home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/serviceWorker.js
+[2022-09-19 23:01:09:684] [230] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:01:09:685] [230] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-19 23:01:21:440] Document opened: file:///home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/robots.txt
+[2022-09-19 23:01:21:440] [231] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:01:21:442] [231] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-19 23:01:21:445] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/robots.txt
+[2022-09-19 23:01:21:445] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/robots.txt v1
+[2022-09-19 23:01:21:445] GIT: Running(/home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public): git rev-parse --show-toplevel
+[2022-09-19 23:01:21:485] GIT: Completed(/home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public): git rev-parse --show-toplevel in 39 ms
+[2022-09-19 23:01:24:443] [233] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-19 23:01:24:447] [233] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 3 ms
+[2022-09-19 23:01:24:454] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/robots.txt
+[2022-09-19 23:01:24:454] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/robots.txt v1
+[2022-09-19 23:01:24:456] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/robots.txt
+[2022-09-19 23:01:24:456] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/robots.txt v1
+[2022-09-19 23:01:27:089] Document closed: file:///home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/robots.txt
+[2022-09-19 23:01:27:089] [236] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:01:27:091] [236] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-19 23:01:31:000] Document opened: file:///home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/manifest.json
+[2022-09-19 23:01:31:000] [237] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:01:31:004] [237] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 3 ms
+[2022-09-19 23:01:31:104] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/manifest.json
+[2022-09-19 23:01:31:104] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/manifest.json v1
+[2022-09-19 23:01:31:105] GIT: Running(/home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public): git rev-parse --show-toplevel
+[2022-09-19 23:01:31:156] GIT: Completed(/home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public): git rev-parse --show-toplevel in 50 ms
+[2022-09-19 23:01:34:004] [239] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-19 23:01:34:008] [239] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 3 ms
+[2022-09-19 23:01:34:010] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/manifest.json
+[2022-09-19 23:01:34:010] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/manifest.json v1
+[2022-09-19 23:01:34:011] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/manifest.json
+[2022-09-19 23:01:34:011] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/manifest.json v1
+[2022-09-19 23:01:40:169] Document closed: file:///home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/public/manifest.json
+[2022-09-19 23:01:40:169] [23c] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:01:40:172] [23c] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 2 ms
+[2022-09-19 23:03:36:523] Document opened: file:///home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-primary.scss
+[2022-09-19 23:03:36:523] [23d] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:03:36:524] [23d] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-19 23:03:36:729] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-primary.scss
+[2022-09-19 23:03:36:729] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-primary.scss v1
+[2022-09-19 23:03:36:730] GIT: Running(/home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables): git rev-parse --show-toplevel
+[2022-09-19 23:03:36:827] GIT: Completed(/home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables): git rev-parse --show-toplevel in 97 ms
+[2022-09-19 23:03:39:525] [23f] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-19 23:03:39:526] [23f] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-19 23:03:39:528] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-primary.scss
+[2022-09-19 23:03:39:528] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-primary.scss v1
+[2022-09-19 23:03:39:530] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-primary.scss
+[2022-09-19 23:03:39:530] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-primary.scss v1
+[2022-09-19 23:03:45:579] Document opened: file:///home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-secondary.scss
+[2022-09-19 23:03:45:579] [242] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:03:45:580] [242] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-19 23:03:45:596] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-secondary.scss
+[2022-09-19 23:03:45:596] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-secondary.scss v1
+[2022-09-19 23:03:45:631] GIT: Running(/home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables): git rev-parse --show-toplevel
+[2022-09-19 23:03:45:765] GIT: Completed(/home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables): git rev-parse --show-toplevel in 135 ms
+[2022-09-19 23:03:48:582] [244] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-19 23:03:48:583] [244] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-19 23:03:48:590] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-secondary.scss
+[2022-09-19 23:03:48:590] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-secondary.scss v1
+[2022-09-19 23:03:48:592] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-secondary.scss
+[2022-09-19 23:03:48:592] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-secondary.scss v1
+[2022-09-19 23:03:57:326] Document closed: file:///home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-secondary.scss
+[2022-09-19 23:03:57:327] [247] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:03:57:328] [247] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-19 23:03:58:587] Document closed: file:///home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/scss/variables/colors-theme-primary.scss
+[2022-09-19 23:03:58:588] [248] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:03:58:597] [248] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-19 23:06:58:824] Document opened: file:///home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/components/Icon/Icon.js
+[2022-09-19 23:06:58:825] [249] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:06:58:830] [249] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 5 ms
+[2022-09-19 23:06:58:868] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/components/Icon/Icon.js
+[2022-09-19 23:06:58:868] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/components/Icon/Icon.js v1
+[2022-09-19 23:06:58:875] GIT: Running(/home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/components/Icon): git rev-parse --show-toplevel
+[2022-09-19 23:06:58:967] GIT: Completed(/home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/components/Icon): git rev-parse --show-toplevel in 93 ms
+[2022-09-19 23:07:01:851] [24b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-19 23:07:01:853] [24b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-19 23:07:01:855] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/components/Icon/Icon.js
+[2022-09-19 23:07:01:855] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/components/Icon/Icon.js v1
+[2022-09-19 23:07:01:857] MARKERS: requested document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/components/Icon/Icon.js
+[2022-09-19 23:07:01:857] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/components/Icon/Icon.js v1
+[2022-09-19 23:07:20:282] Document closed: file:///home/cmendoza/Projects/Project_Diseno_para_Dev/4-app/src/components/Icon/Icon.js
+[2022-09-19 23:07:20:282] [24e] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:07:20:287] [24e] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 5 ms
+[2022-09-19 23:13:29:395] [250] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-19 23:13:29:395] github getMyPullRequests {"prQueries":[{"providerId":"github*com","name":"is waiting on your review","query":"is:pr is:open review-requested:@me -author:@me"},{"providerId":"github*com","name":"was assigned to you","query":"is:pr is:open assignee:@me -author:@me"}]}
+[2022-09-19 23:13:29:395] [251] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries
+[2022-09-19 23:13:29:395] [251] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries completed • 0 ms
+[2022-09-19 23:13:29:396] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me" login=CMENDOZA1036
+[2022-09-19 23:13:29:396] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me" login=CMENDOZA1036
+[Warn  - 6:13:29 PM] [2022-09-19 23:13:29:931] undefined 
+[Warn  - 6:13:29 PM] [2022-09-19 23:13:29:944] undefined 
+[2022-09-19 23:13:29:944] Will not notify of new PRs - no changes detected
+[2022-09-19 23:20:38:696] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-19 23:20:38:697] [253] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:20:38:699] [253] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 2 ms
+[2022-09-19 23:20:38:807] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html
+[2022-09-19 23:20:38:807] [254] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:20:38:809] [254] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-19 23:20:38:845] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html
+[2022-09-19 23:20:38:845] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html v1
+[2022-09-19 23:20:38:846] GIT: Running(/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica): git rev-parse --show-toplevel
+[2022-09-19 23:20:38:971] GIT: Completed(/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica): git rev-parse --show-toplevel in 124 ms
+[2022-09-19 23:20:40:112] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html
+[2022-09-19 23:20:40:113] [256] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:20:40:117] [256] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 3 ms
+[2022-09-19 23:20:40:216] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/index.html
+[2022-09-19 23:20:40:216] [257] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:20:40:217] [257] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-19 23:20:40:233] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/index.html
+[2022-09-19 23:20:40:234] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/index.html v1
+[2022-09-19 23:20:40:235] GIT: Running(/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica): git rev-parse --show-toplevel
+[2022-09-19 23:20:40:324] GIT: Completed(/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica): git rev-parse --show-toplevel in 89 ms
+[2022-09-19 23:20:40:940] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/index.html
+[2022-09-19 23:20:40:940] [259] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-19 23:20:40:942] [259] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-19 23:20:41:810] [25a] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-19 23:20:41:812] [25a] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-19 23:20:43:218] [25b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-19 23:20:43:219] [25b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms

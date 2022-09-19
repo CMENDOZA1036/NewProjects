@@ -1,4 +1,3 @@
-git init
 ls -al
 code .
 git status
@@ -1998,3 +1997,4 @@ git status
 git add .
 git commit -am "Frontend 7 - batata"
 git push origin main
+npm start

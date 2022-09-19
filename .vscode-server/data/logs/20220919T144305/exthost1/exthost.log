@@ -31,3 +31,25 @@
 [2022-09-19 16:53:25.775] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
 [2022-09-19 16:53:25.775] [exthost] [error] undefined
 [2022-09-19 16:53:28.208] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 17:48:38.547] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 17:49:26.145] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:00:53.107] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:01:09.710] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:01:21.383] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:01:27.105] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:01:30.896] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:01:31.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-09-19 18:01:40.182] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:03:36.424] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:03:36.529] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:scss'
+[2022-09-19 18:03:45.446] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:03:57.353] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:03:58.598] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:06:58.687] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:07:20.310] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:20:38.699] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:20:40.117] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:20:40.942] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-19 18:21:35.241] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-19 18:21:35.243] [exthost] [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/5979ea734077970d694a454aaeeb4a4d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-09-19 18:21:35.777] [exthost] [info] Extension host with pid 244 exiting with code 0

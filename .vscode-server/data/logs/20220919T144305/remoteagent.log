@@ -11,3 +11,13 @@
 [2022-09-19 14:43:25.378] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.9.1905
 [2022-09-19 14:43:25.394] [remoteagent] [info] Extracting completed. eamodio.gitlens-insiders
 [2022-09-19 14:43:25.400] [remoteagent] [info] Extension installed successfully: eamodio.gitlens-insiders
+[2022-09-19 17:48:48.495] [remoteagent] [info] [127.0.0.1][c6808725][ExtensionHostConnection] <244> [0mGET /Project_Diseno_para_Dev/4-app/public/%PUBLIC_URL%/favicon.ico [33m400[0m 7.349 ms - 2517[0m
+
+[2022-09-19 17:48:48.502] [remoteagent] [info] [127.0.0.1][c6808725][ExtensionHostConnection] <244> [0mGET /Project_Diseno_para_Dev/4-app/public/%PUBLIC_URL%/manifest.json [33m400[0m 12.112 ms - 2517[0m
+
+[2022-09-19 17:48:54.194] [remoteagent] [info] [127.0.0.1][c6808725][ExtensionHostConnection] <244> [0mGET /Project_Diseno_para_Dev/4-app/public/%PUBLIC_URL%/manifest.json [33m400[0m 1.097 ms - 2517[0m
+
+[2022-09-19 17:48:54.197] [remoteagent] [info] [127.0.0.1][c6808725][ExtensionHostConnection] <244> [0mGET /Project_Diseno_para_Dev/4-app/public/%PUBLIC_URL%/favicon.ico [33m400[0m 1.721 ms - 2517[0m
+
+[2022-09-19 18:21:35.242] [remoteagent] [info] [127.0.0.1][e0c46198][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-09-19 18:21:35.876] [remoteagent] [info] [127.0.0.1][c6808725][ExtensionHostConnection] <244> Extension Host Process exited with code: 0, signal: null.
