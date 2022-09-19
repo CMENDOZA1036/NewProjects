@@ -1,0 +1,38 @@
+/** Aplicando Medias Querys - es decir para que todo el proyecto se pueda ver en pc o tables**/
+
+
+/*! estilos de las tablas*/
+.main-tables-container {
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+
+
+
+/*! estilos de las cards!*/
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+
+
+/*! estilos de planes!*/
+.plans-container--slider {
+    justify-content: center;
+}
+
+.plans-container--card {
+    margin: 10px 20px;
+}
+
+.plans-container--card1 {
+    margin: 10px 20px;
+}
+
+.plans-container--card2 {
+    margin: 10px 20px;
+}

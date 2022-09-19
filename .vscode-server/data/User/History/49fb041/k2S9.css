@@ -1,0 +1,9 @@
+/** Aplicando Medias Querys - es decir para que todo el proyecto se pueda ver en pc o tables**/
+
+.plans-container--slider {
+    justify-content: center;
+}
+
+.plans-container--card .plans-container--card1 .plans-container--card2 {
+    margin: 50px 20px;
+}

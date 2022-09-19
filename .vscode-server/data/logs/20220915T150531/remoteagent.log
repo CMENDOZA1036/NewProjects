@@ -1,0 +1,49 @@
+[2022-09-15 15:05:32.008] [remoteagent] [info] Extension host agent started.
+[2022-09-15 15:05:32.459] [remoteagent] [info] [127.0.0.1][9af240c3][ManagementConnection] New connection established.
+[2022-09-15 15:05:32.517] [remoteagent] [info] [127.0.0.1][cfcb3ce9][ExtensionHostConnection] New connection established.
+[2022-09-15 15:05:33.555] [remoteagent] [info] [127.0.0.1][cfcb3ce9][ExtensionHostConnection] <156> Launched Extension Host Process.
+[2022-09-15 15:05:34.810] [remoteagent] [info] Deleted from disk eamodio.gitlens-insiders /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.9.1305
+[2022-09-15 15:05:38.147] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/cmendoza/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.10
+[2022-09-15 15:05:41.137] [remoteagent] [info] Getting Manifest... ms-vsliveshare.vsliveshare
+[2022-09-15 15:05:41.586] [remoteagent] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2022-09-15 15:06:16.160] [remoteagent] [info] Downloaded extension: ms-vsliveshare.vsliveshare /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.5723
+[2022-09-15 15:06:23.168] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.80b1779b-a57d-400c-b22a-a508b1979a58: ms-vsliveshare.vsliveshare
+[2022-09-15 15:06:23.306] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5723
+[2022-09-15 15:06:23.326] [remoteagent] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2022-09-15 15:06:23.342] [remoteagent] [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+[2022-09-15 15:30:17.792] [remoteagent] [info] [127.0.0.1][cfcb3ce9][ExtensionHostConnection] <156> [0mGET /favicon.ico [33m404[0m 11.186 ms - 150[0m
+
+[2022-09-15 15:49:26.533] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:526:28)
+[2022-09-15 15:49:26.535] [remoteagent] [info] [127.0.0.1][9af240c3][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-09-15 16:10:43.724] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-09-15 16:10:49.262] [remoteagent] [info] [127.0.0.1][9af240c3][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-09-15 16:10:49.263] [remoteagent] [info] [127.0.0.1][cfcb3ce9][ExtensionHostConnection] The client has reconnected.
+[2022-09-15 16:10:49.271] [remoteagent] [info] [127.0.0.1][9af240c3][ManagementConnection] The client has reconnected.
+[2022-09-15 16:11:52.130] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:526:28)
+[2022-09-15 16:11:57.043] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:526:28)
+[2022-09-15 16:14:34.619] [remoteagent] [info] [127.0.0.1][cfcb3ce9][ExtensionHostConnection] <156> [0mGET /PersonalProjects/WEB/Frontend/WEBHYT/main.js [33m404[0m 5.713 ms - 183[0m
+
+[2022-09-15 16:14:34.642] [remoteagent] [info] [127.0.0.1][cfcb3ce9][ExtensionHostConnection] <156> [0mGET /PersonalProjects/WEB/Frontend/WEBHYT/img/prueba.png [33m404[0m 1.487 ms - 190[0m
+
+[2022-09-15 16:14:34.646] [remoteagent] [info] [127.0.0.1][cfcb3ce9][ExtensionHostConnection] <156> [0mGET /PersonalProjects/WEB/Frontend/WEBHYT/img/wecall4u.png [33m404[0m 0.984 ms - 192[0m
+
+[2022-09-15 16:16:50.775] [remoteagent] [info] [127.0.0.1][cfcb3ce9][ExtensionHostConnection] <156> [0mGET /PersonalProjects/WEB/Frontend/WEBHYT/main.js [33m404[0m 1.590 ms - 183[0m
+
+[2022-09-15 16:16:50.794] [remoteagent] [info] [127.0.0.1][cfcb3ce9][ExtensionHostConnection] <156> [0mGET /PersonalProjects/WEB/Frontend/WEBHYT/img/prueba.png [33m404[0m 0.827 ms - 190[0m
+
+[2022-09-15 16:16:50.798] [remoteagent] [info] [127.0.0.1][cfcb3ce9][ExtensionHostConnection] <156> [0mGET /PersonalProjects/WEB/Frontend/WEBHYT/img/wecall4u.png [33m404[0m 0.837 ms - 192[0m
+
+[2022-09-15 16:16:53.128] [remoteagent] [info] [127.0.0.1][cfcb3ce9][ExtensionHostConnection] <156> [0mGET /PersonalProjects/WEB/Frontend/WEBHYT/fonts/RALEWAY-REGULAR.TTF [33m404[0m 1.040 ms - 201[0m
+
+[2022-09-15 16:16:53.131] [remoteagent] [info] [127.0.0.1][cfcb3ce9][ExtensionHostConnection] <156> [0mGET /PersonalProjects/WEB/Frontend/WEBHYT/fonts/EUROSTIB.TTF [33m404[0m 1.333 ms - 194[0m
+
+[2022-09-15 16:18:05.097] [remoteagent] [info] [127.0.0.1][cfcb3ce9][ExtensionHostConnection] <156> [0mGET /favicon.ico [33m404[0m 2.174 ms - 150[0m
+
+[2022-09-15 18:02:35.280] [remoteagent] [info] [127.0.0.1][9af240c3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-09-15 18:02:36.018] [remoteagent] [info] [127.0.0.1][cfcb3ce9][ExtensionHostConnection] <156> Extension Host Process exited with code: 0, signal: null.
