@@ -1,0 +1,6 @@
+.text-container {
+  font-size: 1.5em;/* 1 em es equivalente al valor que trae la etiqueta padre, en este caso la etiqueta html ya que main no tiene ningun valor*/
+}
+.text-container div {
+  font-size: 1.5em;
+}
