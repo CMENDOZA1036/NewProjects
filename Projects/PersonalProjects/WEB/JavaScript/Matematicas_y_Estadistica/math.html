@@ -5,12 +5,41 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Taller de Matemáticas con JavaScript</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../Matematicas_y_Estadistica/styles.css">
+
 </head>
 <body>
-  <h1>Taller de Matemáticas con JavaScript</h1>
-  <p>
-    Por favor, abre la consola del inspector de elementos
-  </p>
+
+  <header class="header">
+    <h1>Porcentages y Descuentos</h1>
+    <p>Este es el segundo Taller del Curso Practico de JavaScript</p>
+  </header>
+
+  <main class="main-container">
+
+    <section class="main-container--section1">
+      <h1>Taller de Matemáticas con JavaScript</h1>
+
+          <form action="" class="form">
+            <label for="input-price" class="label">Digita el Precio</label>
+            <input type="number" id="InputPrice" class="input" placeholder="1.250">
+
+            <label for="input-discount" class="label">Digita el Descuento</label>
+            <input type="number" id="InputDiscount" class="input" placeholder="10">
+  
+            <button type="button" onclick="calcularDiscount" class="button-1">Calcular</button>
+
+            <p id="ResultP" class="result"></p>
+          </form>
+    </section>
+
+  
+  </main>
+
+
 
   <script src="./math.js"></script>
 </body>

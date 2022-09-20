@@ -1,5 +1,8 @@
 
-//!  CUADRADOS y TRIANGULOS !/
+// todo  CUADRADOS, TRIANGULOS, PORCENTAJES
+
+
+//! CUADRADOS 
 
 console.group('Cuadrado') 
 
@@ -21,6 +24,9 @@ function calcularCuadrado(lado) {
 }
 
 console.groupEnd('Cuadrado') 
+
+
+//! TRIANGULOS
 
 console.group('Triangulo')
 
@@ -51,7 +57,7 @@ console.log({
 console.groupEnd('Triangulo') 
 
 
-//! CIRCULOS !/
+//! CIRCULOS
 
 
 console.group('Circle')
@@ -86,11 +92,10 @@ function calcularCirculo (radio) {
   }
 }
 
-
 console.groupEnd('Circle') 
 
 
-//! ALTURA DE UN TRIANGULO  (ISOSCELES NO EQUILATERO)!/
+//! ALTURA DE UN TRIANGULO  (ISOSCELES NO EQUILATERO)
 
 function calcularAlturaTriangulo (lado1, base) {
   if (lado1 == base) {
@@ -103,4 +108,36 @@ function calcularAlturaTriangulo (lado1, base) {
 
   }
 }
-//*Hola */
+
+
+//! TRIANGULO ESCALENO
+
+
+function calcularAlturaTrianguloEscaleno(a, b, c) {
+	/*
+	Calcula la altura (hb) de un triangulo escaleno
+	a = lado1
+	b = base
+	c = lado2
+	*/
+	const x = (c**2 - a**2 + b**2) / (2 * b);
+	const h = Math.sqrt(c**2 - x**2);
+
+	return h;
+}
+
+//! PORCENTAJES
+
+/* 
+Formula
+
+[ P * (100 - D)] / 100
+
+*/
+
+function porcentajes (precio, descuento) {
+
+  const resultado = precio * (100 - descuento) / 100
+
+  return resultado
+}
