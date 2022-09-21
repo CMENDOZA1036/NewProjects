@@ -4812,3 +4812,844 @@ Warning: Ignoring extra certs from `null`, load failed: error:02001002:system li
 [Warn  - 5:28:15 PM] [2022-09-20 22:28:15:071] undefined 
 [Warn  - 5:28:15 PM] [2022-09-20 22:28:15:073] undefined 
 [2022-09-20 22:28:15:074] Will not notify of new PRs - no changes detected
+[2022-09-20 22:41:49:886] [94d] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-09-20 22:41:49:887] [94d] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 1 ms
+[2022-09-20 22:41:50:030] [94e] CodeStreamAgent.sendNotification(codestream/didChangeData:commits)
+[2022-09-20 22:41:50:031] [94e] CodeStreamAgent.sendNotification(codestream/didChangeData:commits) completed • 0 ms
+[2022-09-20 22:43:14:413] [950] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-20 22:43:14:413] github getMyPullRequests {"prQueries":[{"providerId":"github*com","name":"is waiting on your review","query":"is:pr is:open review-requested:@me -author:@me"},{"providerId":"github*com","name":"was assigned to you","query":"is:pr is:open assignee:@me -author:@me"}]}
+[2022-09-20 22:43:14:414] [951] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries
+[2022-09-20 22:43:14:414] [951] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries completed • 0 ms
+[2022-09-20 22:43:14:414] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me" login=CMENDOZA1036
+[2022-09-20 22:43:14:414] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me" login=CMENDOZA1036
+[Warn  - 5:43:15 PM] [2022-09-20 22:43:15:001] undefined 
+[Warn  - 5:43:15 PM] [2022-09-20 22:43:15:013] undefined 
+[2022-09-20 22:43:15:013] Will not notify of new PRs - no changes detected
+[2022-09-20 22:43:23:620] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:43:23:620] [953] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:43:23:620] [953] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:44:29:391] [954] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:44:29:392] [954] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:44:29:393] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:44:29:393] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1278
+[2022-09-20 22:44:29:394] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:44:29:394] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1278
+[2022-09-20 22:44:47:132] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:44:47:132] [957] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:44:47:133] [957] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:45:01:771] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:45:01:771] [958] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:45:01:772] [958] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:45:03:947] [959] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:45:03:948] [959] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:45:03:949] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:45:03:949] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1296
+[2022-09-20 22:45:03:952] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:45:03:952] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1296
+[2022-09-20 22:45:07:030] Document opened: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:45:07:030] [95c] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:45:07:031] [95c] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:45:07:040] Document closed: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:45:07:041] [95d] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:45:07:042] [95d] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:45:08:967] [95e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:45:08:971] [95e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 3 ms
+[2022-09-20 22:45:08:974] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:45:08:974] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1298
+[2022-09-20 22:45:08:977] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:45:08:978] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1298
+[2022-09-20 22:45:10:034] [961] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:45:10:035] [961] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:45:10:667] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:45:10:667] [962] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:45:10:668] [962] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:45:12:702] [963] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:45:12:703] [963] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:45:12:705] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:45:12:705] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1299
+[2022-09-20 22:45:12:708] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:45:12:708] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1299
+[2022-09-20 22:46:07:981] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css
+[2022-09-20 22:46:07:981] [966] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:46:07:982] [966] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:46:10:035] [967] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:46:10:037] [967] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 22:46:10:041] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css
+[2022-09-20 22:46:10:042] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css v1763
+[2022-09-20 22:46:10:044] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css
+[2022-09-20 22:46:10:045] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css v1763
+[2022-09-20 22:46:31:111] [96a] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:46:31:112] [96a] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:46:31:115] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css
+[2022-09-20 22:46:31:115] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css v1772
+[2022-09-20 22:46:31:116] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css
+[2022-09-20 22:46:31:116] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css v1772
+[2022-09-20 22:46:33:622] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css
+[2022-09-20 22:46:33:622] [96d] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:46:33:623] [96d] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:46:35:401] [96e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:46:35:402] [96e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:46:35:403] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css
+[2022-09-20 22:46:35:403] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css v1773
+[2022-09-20 22:46:35:404] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css
+[2022-09-20 22:46:35:404] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css v1773
+[2022-09-20 22:46:41:526] [971] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:46:41:527] [971] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 22:46:41:530] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css
+[2022-09-20 22:46:41:530] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css v1782
+[2022-09-20 22:46:41:531] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css
+[2022-09-20 22:46:41:532] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css v1782
+[2022-09-20 22:46:45:409] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css
+[2022-09-20 22:46:45:409] [974] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:46:45:410] [974] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:46:47:251] [975] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:46:47:258] [975] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 5 ms
+[2022-09-20 22:46:47:262] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css
+[2022-09-20 22:46:47:263] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css v1783
+[2022-09-20 22:46:47:266] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css
+[2022-09-20 22:46:47:266] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/styles.css v1783
+[2022-09-20 22:47:42:029] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso%202/index.html
+[2022-09-20 22:47:42:029] [978] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:47:42:030] [978] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:47:43:138] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/Frontend/curso%202/3.%20Login.html
+[2022-09-20 22:47:43:138] [979] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:47:43:140] [979] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-20 22:49:45:031] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2.%20descuentos.js
+[2022-09-20 22:49:45:032] [97a] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:49:45:033] [97a] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:49:45:131] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.js
+[2022-09-20 22:49:45:132] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.js v1
+[2022-09-20 22:49:45:133] GIT: Running(/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js): git rev-parse --show-toplevel
+[2022-09-20 22:49:45:213] GIT: Completed(/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js): git rev-parse --show-toplevel in 80 ms
+[2022-09-20 22:49:48:034] [97c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:49:48:035] [97c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:49:48:037] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.js
+[2022-09-20 22:49:48:037] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.js v1
+[2022-09-20 22:49:48:037] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.js
+[2022-09-20 22:49:48:037] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.js v1
+[2022-09-20 22:50:19:136] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2.%20descuentos.js
+[2022-09-20 22:50:19:136] [97f] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:50:19:137] [97f] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:50:47:179] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2.%20descuentos.js
+[2022-09-20 22:50:47:179] [980] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:50:47:180] [980] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:50:47:186] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.js
+[2022-09-20 22:50:47:187] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.js v1
+[2022-09-20 22:50:50:182] [982] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:50:50:183] [982] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:50:50:185] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.js
+[2022-09-20 22:50:50:185] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.js v1
+[2022-09-20 22:50:50:188] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.js
+[2022-09-20 22:50:50:188] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.js v1
+[2022-09-20 22:51:13:482] [985] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:51:13:483] [985] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:51:13:484] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:51:13:484] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1302
+[2022-09-20 22:51:13:485] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:51:13:485] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1302
+[2022-09-20 22:51:19:333] [988] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:51:19:334] [988] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:51:19:335] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:51:19:335] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1303
+[2022-09-20 22:51:19:335] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:51:19:335] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1303
+[2022-09-20 22:51:31:722] [98b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:51:31:725] [98b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 22:51:31:730] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:51:31:731] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1307
+[2022-09-20 22:51:31:734] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:51:31:734] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1307
+[2022-09-20 22:51:53:711] [98e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:51:53:712] [98e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:51:53:714] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:51:53:714] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1310
+[2022-09-20 22:51:53:715] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:51:53:715] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1310
+[2022-09-20 22:52:09:248] [991] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:52:09:251] [991] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 22:52:09:257] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:52:09:257] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1326
+[2022-09-20 22:52:09:263] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:52:09:263] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1326
+[2022-09-20 22:52:15:847] [994] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:52:15:848] [994] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:52:15:849] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:52:15:849] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1334
+[2022-09-20 22:52:15:851] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:52:15:851] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1334
+[2022-09-20 22:52:23:196] [997] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:52:23:198] [997] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 22:52:23:202] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:52:23:202] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1340
+[2022-09-20 22:52:23:206] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:52:23:206] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1340
+[2022-09-20 22:52:31:836] [99a] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:52:31:837] [99a] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:52:31:839] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:52:31:839] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1385
+[2022-09-20 22:52:31:839] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:52:31:839] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1385
+[2022-09-20 22:52:42:349] [99d] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:52:42:351] [99d] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 22:52:42:356] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:52:42:357] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1400
+[2022-09-20 22:52:42:361] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:52:42:361] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1400
+[2022-09-20 22:52:51:287] [9a0] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:52:51:289] [9a0] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 22:52:51:293] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:52:51:293] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1402
+[2022-09-20 22:52:51:295] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:52:51:295] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1402
+[2022-09-20 22:53:10:567] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:53:10:567] [9a3] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:53:10:567] [9a3] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:53:12:292] [9a4] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:53:12:294] [9a4] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 22:53:12:296] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:53:12:296] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1403
+[2022-09-20 22:53:12:297] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:53:12:297] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1403
+[2022-09-20 22:53:16:277] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html
+[2022-09-20 22:53:16:277] [9a7] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:53:16:278] [9a7] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:53:18:827] [9a8] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:53:18:829] [9a8] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 22:53:18:833] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html
+[2022-09-20 22:53:18:833] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html v790
+[2022-09-20 22:53:18:836] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html
+[2022-09-20 22:53:18:836] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html v790
+[2022-09-20 22:53:59:768] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2.%20descuentos.html
+[2022-09-20 22:53:59:768] [9ab] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:53:59:769] [9ab] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:53:59:787] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.html
+[2022-09-20 22:53:59:789] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.html v1
+[2022-09-20 22:54:02:772] [9ad] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:54:02:772] [9ad] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:54:02:774] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.html
+[2022-09-20 22:54:02:775] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.html v1
+[2022-09-20 22:54:02:775] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.html
+[2022-09-20 22:54:02:775] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2. descuentos.html v1
+[2022-09-20 22:54:12:549] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html
+[2022-09-20 22:54:12:549] [9b0] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:54:12:549] [9b0] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:54:14:235] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Practic_Js/2.%20descuentos.js
+[2022-09-20 22:54:14:235] [9b1] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:54:14:235] [9b1] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:54:14:427] [9b2] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:54:14:429] [9b2] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 22:54:14:435] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html
+[2022-09-20 22:54:14:435] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html v792
+[2022-09-20 22:54:14:436] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html
+[2022-09-20 22:54:14:436] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html v792
+[2022-09-20 22:54:52:318] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:54:52:318] [9b5] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:54:52:319] [9b5] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:54:54:068] [9b6] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:54:54:069] [9b6] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:54:54:072] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:54:54:072] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1404
+[2022-09-20 22:54:54:074] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:54:54:075] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1404
+[2022-09-20 22:55:22:348] [9b9] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:55:22:350] [9b9] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 22:55:22:353] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:55:22:354] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1405
+[2022-09-20 22:55:22:358] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:55:22:358] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1405
+[2022-09-20 22:55:28:377] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:55:28:377] [9bc] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:55:28:379] [9bc] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-20 22:55:29:282] [9bd] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:55:29:283] [9bd] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 22:55:29:288] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:55:29:288] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1408
+[2022-09-20 22:55:29:291] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:55:29:292] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1408
+[2022-09-20 22:56:03:455] [9c0] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:56:03:458] [9c0] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 22:56:03:460] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:56:03:460] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1452
+[2022-09-20 22:56:03:462] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:56:03:463] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1452
+[2022-09-20 22:56:07:199] [9c3] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:56:07:199] [9c3] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:56:07:200] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:56:07:201] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1456
+[2022-09-20 22:56:07:201] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:56:07:201] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1456
+[2022-09-20 22:56:15:740] [9c6] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:56:15:742] [9c6] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 22:56:15:756] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:56:15:757] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1459
+[2022-09-20 22:56:15:760] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:56:15:761] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1459
+[2022-09-20 22:56:31:181] [9c9] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:56:31:182] [9c9] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:56:31:184] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:56:31:184] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1502
+[2022-09-20 22:56:31:185] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:56:31:185] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1502
+[2022-09-20 22:56:35:902] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html
+[2022-09-20 22:56:35:902] [9cc] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:56:35:903] [9cc] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:56:37:269] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:56:37:269] [9cd] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:56:37:270] [9cd] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:56:38:214] [9ce] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:56:38:218] [9ce] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 3 ms
+[2022-09-20 22:56:38:226] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html
+[2022-09-20 22:56:38:228] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html v802
+[2022-09-20 22:56:38:231] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html
+[2022-09-20 22:56:38:231] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html v802
+[2022-09-20 22:58:14:413] [9d2] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-20 22:58:14:414] github getMyPullRequests {"prQueries":[{"providerId":"github*com","name":"is waiting on your review","query":"is:pr is:open review-requested:@me -author:@me"},{"providerId":"github*com","name":"was assigned to you","query":"is:pr is:open assignee:@me -author:@me"}]}
+[2022-09-20 22:58:14:414] [9d3] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries
+[2022-09-20 22:58:14:414] [9d3] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries completed • 0 ms
+[2022-09-20 22:58:14:414] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me" login=CMENDOZA1036
+[2022-09-20 22:58:14:414] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me" login=CMENDOZA1036
+[Warn  - 5:58:15 PM] [2022-09-20 22:58:15:003] undefined 
+[Warn  - 5:58:15 PM] [2022-09-20 22:58:15:016] undefined 
+[2022-09-20 22:58:15:017] Will not notify of new PRs - no changes detected
+[2022-09-20 22:58:32:198] Document opened: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:58:32:198] [9d5] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:58:32:199] [9d5] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:58:32:212] Document closed: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:58:32:212] [9d6] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:58:32:212] [9d6] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:58:32:597] Document opened: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:58:32:598] [9d7] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:58:32:598] [9d7] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:58:32:609] Document closed: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:58:32:610] [9d8] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:58:32:610] [9d8] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:58:35:599] [9d9] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:58:35:608] [9d9] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 8 ms
+[2022-09-20 22:58:35:639] Document opened: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:58:35:639] [9da] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:58:35:640] [9da] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:58:35:645] Document closed: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:58:35:645] [9db] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:58:35:645] [9db] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:58:38:641] [9dc] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:58:38:644] [9dc] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 3 ms
+[2022-09-20 22:58:39:152] [9dd] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:58:39:153] [9dd] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 22:58:39:158] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:58:39:158] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1503
+[2022-09-20 22:58:39:162] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:58:39:162] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1503
+[2022-09-20 22:58:46:937] [9e0] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:58:46:939] [9e0] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 22:58:46:944] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:58:46:944] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1507
+[2022-09-20 22:58:46:947] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:58:46:947] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1507
+[2022-09-20 22:58:50:545] [9e3] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:58:50:545] [9e3] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:58:50:547] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:58:50:547] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1508
+[2022-09-20 22:58:50:548] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:58:50:548] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1508
+[2022-09-20 22:58:50:887] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:58:50:887] [9e6] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:58:50:892] [9e6] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 4 ms
+[2022-09-20 22:59:04:631] Document opened: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:04:631] [9e7] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:04:631] [9e7] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:59:04:642] Document closed: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:04:642] [9e8] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:04:643] [9e8] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:59:05:087] Document opened: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:05:088] [9e9] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:05:091] [9e9] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 3 ms
+[2022-09-20 22:59:05:099] Document closed: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:05:099] [9ea] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:05:100] [9ea] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:59:05:353] Document opened: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:05:354] [9eb] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:05:355] [9eb] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-20 22:59:05:358] Document closed: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:05:358] [9ec] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:05:358] [9ec] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:59:07:279] Document opened: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:07:279] [9ed] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:07:279] [9ed] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:59:07:285] Document closed: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:07:285] [9ee] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:07:285] [9ee] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:59:07:852] Document opened: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:07:852] [9ef] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:07:853] [9ef] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:59:07:853] Document closed: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:07:854] [9f0] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:07:855] [9f0] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:59:07:988] Document opened: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:07:989] [9f1] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:07:991] [9f1] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-20 22:59:07:997] Document closed: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:07:997] [9f2] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:07:998] [9f2] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:59:10:992] [9f3] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:59:10:993] [9f3] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:59:18:563] [9f4] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:59:18:563] [9f4] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 22:59:18:565] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:59:18:566] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1514
+[2022-09-20 22:59:18:567] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:59:18:567] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1514
+[2022-09-20 22:59:19:543] Document opened: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:19:543] [9f7] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:19:543] [9f7] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:59:19:544] Document closed: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:19:544] [9f8] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:19:545] [9f8] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:59:20:847] Document opened: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:20:848] [9f9] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:20:848] [9f9] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:59:20:855] Document closed: file:///home/cmendoza/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[2022-09-20 22:59:20:855] [9fa] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:20:855] [9fa] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 22:59:23:849] [9fb] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:59:23:851] [9fb] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 22:59:33:966] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:59:33:966] [9fc] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 22:59:33:981] [9fc] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 14 ms
+[2022-09-20 22:59:35:175] [9fd] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 22:59:35:176] [9fd] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 22:59:35:257] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:59:35:257] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1534
+[2022-09-20 22:59:35:262] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 22:59:35:263] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1534
+[2022-09-20 23:00:05:212] [a00] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:00:05:213] [a00] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:00:05:214] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:00:05:215] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1578
+[2022-09-20 23:00:05:216] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:00:05:216] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1578
+[2022-09-20 23:00:20:774] [a03] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:00:20:776] [a03] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:00:20:778] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:00:20:779] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1625
+[2022-09-20 23:00:20:780] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:00:20:780] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1625
+[2022-09-20 23:00:42:081] [a06] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:00:42:081] [a06] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:00:42:083] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:00:42:083] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1677
+[2022-09-20 23:00:42:083] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:00:42:083] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1677
+[2022-09-20 23:00:49:961] [a09] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:00:49:962] [a09] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:00:49:963] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:00:49:963] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1702
+[2022-09-20 23:00:49:964] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:00:49:964] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1702
+[2022-09-20 23:01:09:849] [a0c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:01:09:850] [a0c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:01:09:854] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:01:09:855] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1752
+[2022-09-20 23:01:09:856] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:01:09:857] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1752
+[2022-09-20 23:01:10:247] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:01:10:247] [a0f] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:01:10:248] [a0f] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:04:44:702] [a10] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:04:44:705] [a10] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 23:04:44:708] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:04:44:708] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1753
+[2022-09-20 23:04:44:710] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:04:44:711] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1753
+[2022-09-20 23:04:45:148] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:04:45:148] [a13] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:04:45:149] [a13] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-20 23:05:01:834] [a14] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:05:01:835] [a14] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:05:01:837] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:05:01:838] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1756
+[2022-09-20 23:05:01:840] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:05:01:840] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1756
+[2022-09-20 23:05:18:366] [a17] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:05:18:367] [a17] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:05:18:369] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:05:18:369] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1791
+[2022-09-20 23:05:18:373] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:05:18:373] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1791
+[2022-09-20 23:05:19:736] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:05:19:736] [a1a] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:05:19:737] [a1a] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:10:49:647] [a1b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:10:49:650] [a1b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 23:10:49:657] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:10:49:657] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1802
+[2022-09-20 23:10:49:660] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:10:49:660] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1802
+[2022-09-20 23:11:15:070] [a1e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:11:15:073] [a1e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 23:11:15:074] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:11:15:074] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1810
+[2022-09-20 23:11:15:075] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:11:15:075] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1810
+[2022-09-20 23:11:23:087] [a21] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:11:23:088] [a21] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:11:23:089] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:11:23:089] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1820
+[2022-09-20 23:11:23:090] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:11:23:090] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1820
+[2022-09-20 23:11:26:900] [a24] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:11:26:904] [a24] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 3 ms
+[2022-09-20 23:11:26:908] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:11:26:909] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1822
+[2022-09-20 23:11:26:912] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:11:26:913] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1822
+[2022-09-20 23:11:42:454] [a27] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:11:42:458] [a27] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 3 ms
+[2022-09-20 23:11:42:463] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:11:42:463] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1835
+[2022-09-20 23:11:42:466] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:11:42:466] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1835
+[2022-09-20 23:11:49:744] [a2a] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:11:49:746] [a2a] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 23:11:49:751] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:11:49:751] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1843
+[2022-09-20 23:11:49:755] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:11:49:756] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1843
+[2022-09-20 23:11:54:333] [a2d] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:11:54:341] [a2d] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 7 ms
+[2022-09-20 23:11:54:343] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:11:54:343] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1845
+[2022-09-20 23:11:54:344] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:11:54:344] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1845
+[2022-09-20 23:13:14:417] [a31] GitHubProvider.refreshToken completed • 0 ms
+[2022-09-20 23:13:14:417] github getMyPullRequests {"prQueries":[{"providerId":"github*com","name":"is waiting on your review","query":"is:pr is:open review-requested:@me -author:@me"},{"providerId":"github*com","name":"was assigned to you","query":"is:pr is:open assignee:@me -author:@me"}]}
+[2022-09-20 23:13:14:417] [a32] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries
+[2022-09-20 23:13:14:418] [a32] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries completed • 0 ms
+[2022-09-20 23:13:14:418] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me" login=CMENDOZA1036
+[2022-09-20 23:13:14:418] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me" login=CMENDOZA1036
+[Warn  - 6:13:15 PM] [2022-09-20 23:13:15:007] undefined 
+[Warn  - 6:13:15 PM] [2022-09-20 23:13:15:007] undefined 
+[2022-09-20 23:13:15:008] Will not notify of new PRs - no changes detected
+[2022-09-20 23:13:23:641] [a34] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:13:23:644] [a34] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 23:13:23:648] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:13:23:648] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1847
+[2022-09-20 23:13:23:653] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:13:23:653] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1847
+[2022-09-20 23:14:01:448] [a37] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:14:01:449] [a37] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:14:01:454] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:14:01:454] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1861
+[2022-09-20 23:14:01:457] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:14:01:458] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1861
+[2022-09-20 23:14:11:546] [a3a] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:14:11:548] [a3a] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:14:11:552] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:14:11:552] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1872
+[2022-09-20 23:14:11:555] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:14:11:556] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1872
+[2022-09-20 23:14:25:907] [a3d] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:14:25:909] [a3d] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:14:25:911] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:14:25:912] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1874
+[2022-09-20 23:14:25:913] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:14:25:913] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1874
+[2022-09-20 23:15:01:525] [a40] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:15:01:526] [a40] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:15:01:529] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:15:01:529] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1928
+[2022-09-20 23:15:01:533] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:15:01:533] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1928
+[2022-09-20 23:15:06:897] [a43] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:15:06:898] [a43] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:15:06:900] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:15:06:900] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1935
+[2022-09-20 23:15:06:902] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:15:06:902] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1935
+[2022-09-20 23:15:49:059] [a46] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:15:49:061] [a46] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:15:49:065] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:15:49:065] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1951
+[2022-09-20 23:15:49:067] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:15:49:068] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1951
+[2022-09-20 23:15:54:159] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:15:54:159] [a49] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:15:54:159] [a49] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:16:25:825] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:16:25:825] [a4a] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:16:25:825] [a4a] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:16:27:259] [a4b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:16:27:260] [a4b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:16:27:261] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:16:27:261] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1952
+[2022-09-20 23:16:27:264] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:16:27:264] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1952
+[2022-09-20 23:16:55:629] [a4e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:16:55:631] [a4e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:16:55:636] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:16:55:636] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1987
+[2022-09-20 23:16:55:640] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:16:55:640] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1987
+[2022-09-20 23:17:02:946] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:17:02:946] [a51] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:17:02:947] [a51] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:18:20:586] [a52] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:18:20:589] [a52] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 23:18:20:593] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:18:20:593] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1996
+[2022-09-20 23:18:20:594] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:18:20:594] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1996
+[2022-09-20 23:18:23:593] [a55] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:18:23:596] [a55] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 23:18:23:609] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:18:23:609] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1996
+[2022-09-20 23:18:23:612] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:18:23:613] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v1996
+[2022-09-20 23:18:36:193] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:18:36:193] [a58] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:18:36:194] [a58] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:18:38:444] [a59] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:18:38:446] [a59] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:18:38:452] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:18:38:452] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2005
+[2022-09-20 23:18:38:456] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:18:38:457] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2005
+[2022-09-20 23:19:10:892] [a5c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:19:10:893] [a5c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:19:10:895] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:19:10:895] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2007
+[2022-09-20 23:19:10:897] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:19:10:897] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2007
+[2022-09-20 23:22:20:030] [a5f] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:22:20:031] [a5f] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:22:20:036] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:22:20:036] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2009
+[2022-09-20 23:22:20:038] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:22:20:038] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2009
+[2022-09-20 23:22:31:731] [a62] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:22:31:734] [a62] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 23:22:31:739] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:22:31:739] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2032
+[2022-09-20 23:22:31:744] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:22:31:744] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2032
+[2022-09-20 23:22:47:985] [a65] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:22:47:986] [a65] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:22:47:988] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:22:47:988] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2084
+[2022-09-20 23:22:47:989] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:22:47:989] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2084
+[2022-09-20 23:22:57:241] [a68] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:22:57:244] [a68] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 23:22:57:248] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:22:57:249] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2092
+[2022-09-20 23:22:57:257] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:22:57:258] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2092
+[2022-09-20 23:23:03:873] [a6b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:23:03:874] [a6b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:23:03:875] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:23:03:875] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2104
+[2022-09-20 23:23:03:876] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:23:03:876] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2104
+[2022-09-20 23:23:17:394] [a6e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:23:17:395] [a6e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:23:17:398] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:23:17:398] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2160
+[2022-09-20 23:23:17:401] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:23:17:401] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2160
+[2022-09-20 23:23:17:594] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:23:17:594] [a71] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:23:17:595] [a71] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:24:35:711] [a72] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:24:35:712] [a72] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:24:35:713] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:24:35:714] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2176
+[2022-09-20 23:24:35:714] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:24:35:715] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2176
+[2022-09-20 23:24:42:971] [a75] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:24:42:974] [a75] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 23:24:42:977] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:24:42:978] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2180
+[2022-09-20 23:24:42:980] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:24:42:980] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2180
+[2022-09-20 23:24:46:543] [a78] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:24:46:545] [a78] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:24:46:550] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:24:46:550] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2181
+[2022-09-20 23:24:46:555] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:24:46:555] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2181
+[2022-09-20 23:24:51:044] [a7b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:24:51:046] [a7b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:24:51:051] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:24:51:051] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2184
+[2022-09-20 23:24:51:056] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:24:51:056] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2184
+[2022-09-20 23:24:56:925] [a7e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:24:56:926] [a7e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:24:56:928] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:24:56:929] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2187
+[2022-09-20 23:24:56:931] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:24:56:931] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2187
+[2022-09-20 23:25:06:495] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:25:06:496] [a81] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:25:06:497] [a81] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:25:27:513] [a82] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:25:27:514] [a82] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:25:27:517] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:25:27:517] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2190
+[2022-09-20 23:25:27:519] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:25:27:519] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2190
+[2022-09-20 23:25:36:475] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:25:36:475] [a85] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:25:36:476] [a85] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:25:38:495] [a86] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:25:38:496] [a86] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:25:38:499] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:25:38:499] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2194
+[2022-09-20 23:25:38:505] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:25:38:505] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2194
+[2022-09-20 23:25:45:622] [a89] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:25:45:626] [a89] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 3 ms
+[2022-09-20 23:25:45:632] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:25:45:632] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2195
+[2022-09-20 23:25:45:637] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:25:45:637] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2195
+[2022-09-20 23:27:16:061] [a8c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:27:16:062] [a8c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:27:16:064] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:27:16:064] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2198
+[2022-09-20 23:27:16:066] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:27:16:066] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2198
+[2022-09-20 23:27:16:693] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:27:16:693] [a8f] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:27:16:693] [a8f] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:27:50:812] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:27:50:812] [a90] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:27:50:813] [a90] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:27:52:966] [a91] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:27:52:968] [a91] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 23:27:52:970] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:27:52:970] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2205
+[2022-09-20 23:27:52:970] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:27:52:970] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2205
+[2022-09-20 23:27:53:252] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:27:53:252] [a94] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:27:53:252] [a94] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:28:14:415] [a96] GitHubProvider.refreshToken completed • 1 ms
+[2022-09-20 23:28:14:416] github getMyPullRequests {"prQueries":[{"providerId":"github*com","name":"is waiting on your review","query":"is:pr is:open review-requested:@me -author:@me"},{"providerId":"github*com","name":"was assigned to you","query":"is:pr is:open assignee:@me -author:@me"}]}
+[2022-09-20 23:28:14:416] [a97] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries
+[2022-09-20 23:28:14:417] [a97] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries completed • 0 ms
+[2022-09-20 23:28:14:417] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me" login=CMENDOZA1036
+[2022-09-20 23:28:14:418] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me" login=CMENDOZA1036
+[Warn  - 6:28:15 PM] [2022-09-20 23:28:15:122] undefined 
+[Warn  - 6:28:15 PM] [2022-09-20 23:28:15:124] undefined 
+[2022-09-20 23:28:15:125] Will not notify of new PRs - no changes detected
+[2022-09-20 23:28:44:185] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:28:44:185] [a99] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:28:44:186] [a99] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:28:45:924] [a9a] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:28:45:925] [a9a] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:28:45:927] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:28:45:927] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2207
+[2022-09-20 23:28:45:928] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:28:45:929] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2207
+[2022-09-20 23:31:44:163] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:31:44:163] [a9d] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:31:44:167] [a9d] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 4 ms
+[2022-09-20 23:31:45:644] [a9e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:31:45:645] [a9e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:31:45:676] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:31:45:676] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2211
+[2022-09-20 23:31:45:677] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:31:45:677] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2211
+[2022-09-20 23:31:53:443] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:31:53:443] [aa1] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:31:53:443] [aa1] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:32:09:322] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:32:09:322] [aa2] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:32:09:323] [aa2] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:32:10:635] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.html
+[2022-09-20 23:32:10:635] [aa3] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:32:10:637] [aa3] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-20 23:32:35:794] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:32:35:794] [aa4] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:32:35:795] [aa4] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:32:36:673] [aa5] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:32:36:674] [aa5] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:32:36:677] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:32:36:677] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2212
+[2022-09-20 23:32:36:679] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:32:36:679] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2212
+[2022-09-20 23:32:55:572] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:32:55:572] [aa8] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:32:55:573] [aa8] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:32:57:206] [aa9] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:32:57:206] [aa9] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:32:57:211] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:32:57:211] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2213
+[2022-09-20 23:32:57:212] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:32:57:212] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2213
+[2022-09-20 23:33:26:310] [aac] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:33:26:312] [aac] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 23:33:26:319] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:33:26:320] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2215
+[2022-09-20 23:33:26:326] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:33:26:326] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2215
+[2022-09-20 23:33:29:364] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:33:29:365] [aaf] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:33:29:366] [aaf] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 1 ms
+[2022-09-20 23:33:29:787] [ab0] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:33:29:789] [ab0] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:33:29:791] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:33:29:791] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2216
+[2022-09-20 23:33:29:792] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:33:29:792] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2216
+[2022-09-20 23:34:25:692] [ab3] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:34:25:695] [ab3] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 23:34:25:699] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:34:25:700] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2218
+[2022-09-20 23:34:25:703] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:34:25:704] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2218
+[2022-09-20 23:34:32:379] [ab6] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:34:32:380] [ab6] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:34:32:384] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:34:32:384] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2228
+[2022-09-20 23:34:32:389] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:34:32:389] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2228
+[2022-09-20 23:34:38:162] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:34:38:162] [ab9] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:34:38:162] [ab9] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:34:39:503] [aba] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:34:39:504] [aba] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:34:39:506] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:34:39:506] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2239
+[2022-09-20 23:34:39:506] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:34:39:506] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2239
+[2022-09-20 23:34:53:243] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:34:53:244] [abd] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:34:53:244] [abd] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:34:54:714] [abe] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:34:54:715] [abe] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-09-20 23:34:54:717] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:34:54:718] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2258
+[2022-09-20 23:34:54:719] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:34:54:719] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2258
+[2022-09-20 23:35:02:337] [ac1] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:35:02:339] [ac1] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 2 ms
+[2022-09-20 23:35:02:362] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:35:02:363] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2272
+[2022-09-20 23:35:02:369] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:35:02:370] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2272
+[2022-09-20 23:35:06:072] [ac4] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:35:06:074] [ac4] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:35:06:076] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:35:06:076] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2276
+[2022-09-20 23:35:06:081] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:35:06:082] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2276
+[2022-09-20 23:35:10:427] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:35:10:427] [ac7] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-09-20 23:35:10:428] [ac7] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-09-20 23:35:12:248] [ac8] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-09-20 23:35:12:250] [ac8] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 1 ms
+[2022-09-20 23:35:12:253] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:35:12:253] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2278
+[2022-09-20 23:35:12:258] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js
+[2022-09-20 23:35:12:258] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Matematicas_y_Estadistica/math.js v2278

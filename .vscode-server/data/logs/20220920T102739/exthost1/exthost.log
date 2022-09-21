@@ -309,3 +309,24 @@
 [2022-09-20 17:13:09.245] [exthost] [warning] TextEditor is closed/disposed
 [2022-09-20 17:18:58.426] [exthost] [warning] TextEditor is closed/disposed
 [2022-09-20 17:19:33.710] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:45:59.388] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:46:52.583] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:47:42.037] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:50:19.153] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:50:46.985] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:50:59.784] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:51:03.221] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:51:05.899] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:52:57.385] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:53:01.873] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:53:48.835] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:53:59.647] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:54:08.935] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:54:24.532] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:54:25.994] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:54:32.962] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 17:54:44.591] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-20 18:38:47.701] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-20 18:38:47.707] [exthost] [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/5979ea734077970d694a454aaeeb4a4d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-09-20 18:38:48.266] [exthost] [warning] {"name":"Canceled"}
+[2022-09-20 18:38:48.399] [exthost] [info] Extension host with pid 129 exiting with code 0

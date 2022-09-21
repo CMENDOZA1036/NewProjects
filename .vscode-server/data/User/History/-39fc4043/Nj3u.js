@@ -175,21 +175,19 @@ function calcularDiscount () {
   const ValueDiscount = Number(InputDiscount.value);
 
   //**Comprobar los campos Vacios
-  if (!ValuePrice && !ValueDiscount) {
+  if (!ValuePrice || !ValueDiscount) {
     Swal.fire({
       icon: 'error',
       title: 'Oops...',
       text: 'Debes LLenar los campos requeridos',
     })
-  }
-  
-  if (ValueDiscount > 100) {
+  } else if (ValueDiscount > 100) {
     Swal.fire({
       icon: 'error',
       title: 'Oops...',
       text: 'El descuento debe ser Menor de 100',
     })
-    return
+
   }
   //*Con esta Variable llamamos el calculo de la funcion porcentajes
   const calculo = porcentajes (ValuePrice, ValueDiscount)

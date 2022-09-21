@@ -175,7 +175,7 @@ function calcularDiscount () {
   const ValueDiscount = Number(InputDiscount.value);
 
   //**Comprobar los campos Vacios
-  if (!ValuePrice && !ValueDiscount) {
+  if (!ValuePrice & !ValueDiscount) {
     Swal.fire({
       icon: 'error',
       title: 'Oops...',

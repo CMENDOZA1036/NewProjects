@@ -157,8 +157,6 @@ const button = document.querySelector ('.button-1')
 
 
 //* Funciones
-
-
 function calcularDiscount () {
 
   //*Esta Variable es para dar Formato Moneda
@@ -168,29 +166,14 @@ function calcularDiscount () {
     minimumFractionDigits: 0,
   })
 
-  
-  //*Aca Llamamos los valores de los inputs
+  //*Aca Llamamos los inputs y sus valores
 
-  const ValuePrice = Number(InputPrice.value);
-  const ValueDiscount = Number(InputDiscount.value);
+  const ValuePrice = InputPrice.value;
 
-  //**Comprobar los campos Vacios
-  if (!ValuePrice && !ValueDiscount) {
-    Swal.fire({
-      icon: 'error',
-      title: 'Oops...',
-      text: 'Debes LLenar los campos requeridos',
-    })
-  }
-  
-  if (ValueDiscount > 100) {
-    Swal.fire({
-      icon: 'error',
-      title: 'Oops...',
-      text: 'El descuento debe ser Menor de 100',
-    })
-    return
-  }
+  const discount = document.getElementById("InputDiscount")
+  const ValueDiscount = InputDiscount.value;
+
+
   //*Con esta Variable llamamos el calculo de la funcion porcentajes
   const calculo = porcentajes (ValuePrice, ValueDiscount)
 

@@ -146,9 +146,9 @@ function porcentajes (price, discount) {
 //* Realizamos la Funcion para Calcular el Descuento
 
 //* Activacion Campos
-const price = document.querySelector ('#InputPrice')
-const discount = document.querySelector ('#InputDiscount')
-const resultP = document.querySelector('#ResultP')
+const price = document.getElementById ("InputPrice")
+const discount = document.getElementById ("InputDiscount")
+const resultP = document.getElementById("ResultP")
 const resultPMain = document.querySelector('.main-Result')
 const button = document.querySelector ('.button-1')
 
@@ -157,55 +157,22 @@ const button = document.querySelector ('.button-1')
 
 
 //* Funciones
-
-
 function calcularDiscount () {
 
-  //*Esta Variable es para dar Formato Moneda
   const formatter = new Intl.NumberFormat('en-US', {
     style: 'currency',
     currency: 'USD',
     minimumFractionDigits: 0,
   })
 
-  
-  //*Aca Llamamos los valores de los inputs
+  const price = document.getElementById ("InputPrice")
+  const ValuePrice = InputPrice.value;
 
-  const ValuePrice = Number(InputPrice.value);
-  const ValueDiscount = Number(InputDiscount.value);
+  const discount = document.getElementById("InputDiscount")
+  const ValueDiscount = InputDiscount.value;
 
-  //**Comprobar los campos Vacios
-  if (!ValuePrice && !ValueDiscount) {
-    Swal.fire({
-      icon: 'error',
-      title: 'Oops...',
-      text: 'Debes LLenar los campos requeridos',
-    })
-  }
-  
-  if (ValueDiscount > 100) {
-    Swal.fire({
-      icon: 'error',
-      title: 'Oops...',
-      text: 'El descuento debe ser Menor de 100',
-    })
-    return
-  }
-  //*Con esta Variable llamamos el calculo de la funcion porcentajes
   const calculo = porcentajes (ValuePrice, ValueDiscount)
 
-
-  //*Esta es una alerta externa - Pero primero debe estar el script en html
-    if (calculo) {
-      Swal.fire({
-        icon: 'success',
-        title: 'Perfect...',
-        text: 'Tu resultado es: ' + formatter.format(calculo),
-      })
-    }
-
-
-  //*Esta es una Alerta interna
   const resultP = document.getElementById("ResultP")
 
   resultP.innerText = "El resultado es: " + formatter.format(calculo);
