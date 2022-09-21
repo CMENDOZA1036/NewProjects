@@ -139,7 +139,16 @@ function porcentajes (price, discount) {
 
   const resultado = price * (100 - discount) / 100
 
+
   return resultado
+}
+
+function DiscounCupons (price, cupon) {
+
+  const cupones = price * (100 - cupon) / 100
+
+
+  return cupones
 }
 
 
@@ -148,13 +157,11 @@ function porcentajes (price, discount) {
 //* Activacion Campos
 const price = document.querySelector ('#InputPrice')
 const discount = document.querySelector ('#InputDiscount')
+const coupons = document.querySelector ('#InputCoupon')
 const resultP = document.querySelector('#ResultP')
 const resultPMain = document.querySelector('.main-Result')
 const button = document.querySelector ('.button-1')
-
-
-
-
+const button2 = document.querySelector ('.button-2')
 
 //* Funciones
 
@@ -175,15 +182,20 @@ function calcularDiscount () {
   const ValueDiscount = Number(InputDiscount.value);
 
   //**Comprobar los campos Vacios
-  if (!ValuePrice && !ValueDiscount) {
+  if (ValuePrice == '') {
     Swal.fire({
       icon: 'error',
       title: 'Oops...',
-      text: 'Debes LLenar los campos requeridos',
+      text: 'El Precio no debe estar vacio',
     })
-  }
-  
-  if (ValueDiscount > 100) {
+  } else if (ValueDiscount == '') {
+    Swal.fire({
+      icon: 'error',
+      title: 'Oops...',
+      text: 'El Descuento no debe estar vacio',
+    })
+    return
+  } else if (ValueDiscount > 100) {
     Swal.fire({
       icon: 'error',
       title: 'Oops...',
@@ -191,6 +203,8 @@ function calcularDiscount () {
     })
     return
   }
+  
+
   //*Con esta Variable llamamos el calculo de la funcion porcentajes
   const calculo = porcentajes (ValuePrice, ValueDiscount)
 
@@ -213,7 +227,75 @@ function calcularDiscount () {
 }
 
 
+
 function openResult () {
   resultPMain.classList.remove ('inactive')
+
+}
+
+
+
+function DiscounCuponsResult () {
+  
+  //*Esta Variable es para dar Formato Moneda
+  const formatter = new Intl.NumberFormat('en-US', {
+    style: 'currency',
+    currency: 'USD',
+    minimumFractionDigits: 0,
+  })
+
+  
+  //*Aca Llamamos los valores de los inputs
+
+  const ValuePrice = Number(InputPrice.value);
+  const Valuecoupon = InputCoupon.value;
+  let discountCoupon;
+
+
+  //*Esta es una forma de hacer cupones con IF y Switch, ambas son validas
+  
+  // if (Valuecoupon == 'Franco') {
+  //   discountCoupon = 30
+
+  // }else if (Valuecoupon == 'Mendez') {
+  //   discountCoupon = 25
+    
+  // }else {
+  //   resultP.innerText = 'El cupon no es valido'  
+  // }
+  
+
+  switch (Valuecoupon) {
+    case 'Franco':
+      discountCoupon = 30
+      break;
+
+      case 'Mendez':
+      discountCoupon = 20
+      break;
+
+    default:
+      resultP.innerText = 'El cupon no es valido'
+      return;
+  }
+  
+
+   //*Con esta Variable llamamos el calculo de la funcion porcentajes
+  const calculo = (ValuePrice * (100 - discountCoupon)) / 100;
+  
+  //*Esta es una alerta externa - Pero primero debe estar el script en html
+    if (calculo) {
+      Swal.fire({
+        icon: 'success',
+        title: 'Perfect...',
+        text: 'Tu resultado es: ' + formatter.format(calculo),
+      })
+    }
+
+  //*Esta es una Alerta interna
+  
+
+  resultP.innerText = "El resultado es: " + formatter.format(calculo);
+
 
 }

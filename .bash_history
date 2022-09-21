@@ -1,221 +1,3 @@
-ls -al
-code .
-git status
-git commit -m "Md Desarrollo"
-git add "Desarrollo"
-git status
-git commit -a "Md Carpeta"
-git commit -a Desarrollo
-git commit -a
-git add -a
-git add -p
-git add -f
-git add
-git add .
-git push -u origin main
-GIT STATUS
-git status
-git restore Desarrollo
-git status
-git discard Desarrollo
-git rm --cached Desarrollo
-git status
-git add Desarrollo
-git status
-git rm --cached Desarrollo
-git status
-git push -u origin main
-GIT STATUS
-git status
-git restore --staged Desarrollo
-git status
-git add Desarrollo
-git commit -a Desarrollo
-git commit -a
-git add .
-git commit 
-git commit -m"el primer comit"
-git status
-git add .
-git commit -m "Nueva Carpeta de Estudio"
-git push -u origin main
-GIT STATUS
-git status
-git config --list
-git status
-git log 
-git add 1.index.html
-git status
-git commit -m "Nueva lista"
-git add .
-git commit -m "Nueva lista"
-git show 1. index.html
-git show "1. index.html"
-git add .
-git commit -m "Comentario Nuevo"
-git show "1. index.html"
-git push -u origin main
-git log "1. index.html"
-git diff c0898eba068b096fb65846923fa3889644ccc034 29a6b0e9104bf02f73228e8a88f7a256c4571170
-git status
-git add .
-git status
-git add .
-git status
-git diff
-git status
-git diff
-git add .
-git status
-git commit -m "Mi projecto real"
-git status
-git log 
-cd PersonalProjects
-git status
-git commit -m "cambio color"
-git add .
-git commit -m "cambio a color pink"
-git status
-git log
-cd PersonalProjects
-git status
-git push -u origin main
-git log "1. index.html"
-git log 1. index.html
-git log
-git status
-git log
-git log --stat
-git checkout bbda47ffd3d410cc230ec2a5a1d26e64e513aa3a 1. index.html
-git checkout bbda47ffd3d410cc230ec2a5a1d26e64e513aa3a "1. index.html"
-git checkout bbda47ffd3d410cc230ec2a5a1d26e64e513aa3a estilos-index.css
-git status
-git add .
-git status
-git log
-git commit -m "cambio a color azul"
-git status
-git log estilos-index.css
-git log
-git checkout 802798831f660ac83df39064fd86345820adaf99 estilos-index.css
-git checkout 802798831f660ac83df39064fd86345820adaf99 "estilos-index.css"
-git checkout 802798831f660ac83df39064fd86345820adaf99 estilos-index.css
-git checkout 802798831f660ac83df39064fd86345820adaf99 "estilos-index.css"
-git checkout 802798831f660ac83df39064fd86345820adaf99
-git checkout master
-git checkout master estilos-index.css
-git checkout master "estilos-index.css"
-git status
-git checkout main "estilos-index.css"
-git checkout main estilos-index.css
-git checkout main
-git log
-git status
-git push -u origin main
-git status
-git commit -am "Commit al Master en su version mas reciete"
-git log
-git status
-git show
-git branch cabecera
-git show
-git status
-git checkout cabecera
-git status
-git add 1. index.html
-git add "1. index.html"
-git add 1. index.html
-git add "1. index.html"
-git add .
-git commit -m
-git commit -m "Se incluyo cabecera"
-git status
-git show
-git log
-git checkout main
-git log
-git checkout cabecera
-git show
-git checkout main
-git show
-git checkout cabecera
-git status
-git commit -am "Finalizada la cabecera con diseno azul"
-git status
-git checkout main
-git status
-git commit -am "Estoy modificando a la rama master con tipografia"
-git status
-git log
-git checkout cabecera
-git checkout main
-git status
-git merge cabecera
-git log
-git status
-cd PersonalProjects
-git status
-code .
-git checkout header
-git status
-git pull origin header
-git status
-git pull origin header
-git push origin header
-git checkout main
-git status
-ls
-cd WEB
-ls
-cd Frontend
-ls
-cd Css
-mkdire imagenes
-mkdir imagenes
-ls
-git status
-git update
-git add .
-cd ..
-git pull origin main
-git status
-git push origin header
-git push origin main
-ls
-git status
-git checkout header
-git status
-arbol
-git checkout main
-arbol
-git checkout cabecera
-arbol
-git log –all –graph –decorate –oneline
-git log --all --graph --decorate --oneline
-alias arbol="git log --all --graph --decorate --oneline"
-arbol
-git checkout header
-git status
-arbol
-git add imagenes/dragon.png
-cd Css
-cd WEB
-ls
-cd Frontend
-ls
-cd Css
-git add imagenes/dragon.png
-git add "imagenes/dragon.png"
-git status
-git pull origin header
-git push origin header
-git commit -am "Agregar carpeta"
-git add .
-git status
-git commit -am "Agregar carpeta"
-git status
-cd ..
-sudo apt-get update
 sudo apt-get upgrade
 git status
 cd .
@@ -1998,3 +1780,221 @@ git add .
 git commit -am "Frontend 7 - batata"
 git push origin main
 npm start
+cd Projects
+ls
+cd PersonalProjects\WEB\
+ls
+cd PersonalProjects
+ls
+cd WEB
+ls
+cd JavaScript
+ls
+chmod ugo+rwx Practic_Js
+cd Practic_J
+ls
+chmod '1. FigurasGeometricas.html'      '2. descuentos.js'             '4. Moda.html'          README.md '1. FigurasGeometricas.js'        '3. Mediana.js'                '4. Moda.js'            test-Basico-Js.md '1. StylefigurasGeometricas.css'  '3. PromedioMedianaModa.html'  '5. leyendoHtml.html' '2. StyleDescuentos.css'          '3. StylePromedio.css'         '5. script.js' '2. descuentos.html'              '3. promedio.js'                LICENSE
+ls
+chmod '1. FigurasGeometricas.html' '2. descuentos.js' '4. Moda.html' README.md '1. FigurasGeometricas.js' '3. Mediana.js'
+chmod ugo+rwx '1. FigurasGeometricas.html'      '2. descuentos.js'             '4. Moda.html'          README.md '1. FigurasGeometricas.js'        '3. Mediana.js'                '4. Moda.js'            test-Basico-Js.md '1. StylefigurasGeometricas.css'  '3. PromedioMedianaModa.html'  '5. leyendoHtml.html' '2. StyleDescuentos.css'          '3. StylePromedio.css'         '5. script.js' '2. descuentos.html'
+ls
+chmod ugo+rwx '3. promedio.js'                LICENSE
+ls
+cd ~
+cd /Projects/
+cd /Projects
+
+git add ..
+chmod ugo+rwx Projects/PersonalProjects/WEB/JavaScript/Practic_Js/.gitignore
+cd PersonalProjects/WEB/JavaScript/Practic_Js
+chmod ugo+rwx .gitignore
+cd ..
+git add .
+git commit -am "JsPractico - 2"
+git push origin main
+cd /PersonalProjects/WEB/Frontend
+cd PersonalProjects/WEB/Frontend
+chmod ugo+rwx Basic_Html_Css
+ls
+cd Basic_Html_Css
+ls
+chmod ugo+rwx Accesibilidad  CSS  HTML  ResponsiveDesign
+ls
+cd Accesibilidad
+ls
+chmod ugo+r
+ls
+cd claseLabelAltTitle
+ls
+chmod ugo+rwx '1. Reto1.html'   index.html   style.css   white-and-black-short-coated-dog-4587987.jpg
+ls
+cd ..
+ls
+cd texto
+ls
+chmod ugo+rwx inde.html  style.css
+ls
+cd ..
+ls
+cd Css
+cd CSS
+ls
+chmod ugo+rwx claseCombinadores  claseDisplay        claseHerencia  claseModeloCaja  clasePseudoClases claseCss           claseEspecificidad  claseMedidas   clasePosition
+ls
+claseCombinadores
+cd claseCombinadores
+ls
+chmod ugo+rwx index.html  style.css
+ls
+cd ..
+ls
+cd claseDisplay
+ls
+chmod ugo+rwx blockInline  flex
+ls
+cd blockInline
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd flex
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd claseHerencia
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd claseModeloCaja
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd clasePseudoClases
+ls
+chmod ugo+rwx claseVariables  claseWebFonts  index.html  style.css
+cd claseVariables
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd claseWebFonts
+ls
+chmod ugo+rwx 
+cd ..
+ls
+cd  claseCss
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+cd claseEspecificidad
+ls
+chmod ugo+rwx index.html  style.css
+ls
+cd ..
+cd claseMedidas
+ls
+chmod ugo+rwx absolutas  em  minMax  rem
+ls
+cd absolutas
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd em
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+cd minMax
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+cd rem
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd clasePosition
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd HTML
+ls
+chmod ugo+rwx claseButton  claseCalendario  claseForms  claseImg  claseIndex  claseVideo
+ls
+cd claseButton
+ls
+chmod ugo+rwx index.html
+cd ..
+cd claseCalendario
+ls
+chmod ugo+rwx index.html select.html
+cd ..
+cd claseForms
+ls
+chmod ugo+rwx index.html
+cd ..
+cd claseImg
+ls
+chmod ugo+rwx index.html img
+ls
+cd img
+ls
+chmod ugo+rwx large.jpg  medium.jpg  small.jpg
+cd ..
+ls
+cd claseIndex
+ls
+chmod ugo+rwx css  index.html
+ls
+cd css
+ls
+chmod ugo+rwx style.css
+cd ..
+cd claseVideo
+ls
+chmod ugo+rwx index.html
+ls
+cd ..
+ls
+cd ResponsiveDesign
+ls
+chmod ugo+rwx ResponsiveImgs  columnDrop  layoutShifter  mostlyFluid
+ls
+cd ResponsiveImgs
+ls
+chmod ugo+rwx imgs  index.html  style.css
+ls
+cd imgs
+ls
+chmod ugo+rwx large.jpg  medium.jpg  small.jpg
+cd ..
+ls
+cd ..
+ls
+cd  columnDrop
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd layoutShifter
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+cd mostlyFluid
+ls
+chmod ugo+rwx desktop.css  index.html  style.css  table.css
+cd ..
+ls
+cd ~
+git add .
+git commit -am "Updated 3"
+git push origin main
+git status
+git add ..
+git add .
+git commit -am "Updated 4"
+git push origin main

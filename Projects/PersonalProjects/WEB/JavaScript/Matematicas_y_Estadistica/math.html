@@ -29,8 +29,15 @@
 
             <label for="InputDiscount" class="label">Digita el Descuento</label>
             <input type="number" id="InputDiscount" class="input" placeholder="10">
+
+            <label for="InputCoupon" class="label">Digita el Cupon</label>
+            <input type="text" id="InputCoupon" class="input" placeholder="CRISTIAN">
   
-            <button type="button" class="button-1" onclick="openResult ();calcularDiscount ()">Calcular</button>
+            <div class="main-button">
+              <button type="button" class="button-1" onclick="openResult ();calcularDiscount ()">Calcular Discount</button>
+              <button type="button" class="button-2" onclick="openResult (); DiscounCuponsResult ()">Aplicar Cupon</button>
+            </div>
+
           </form>
 
           <div class="main-Result inactive">

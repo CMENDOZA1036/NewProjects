@@ -161,7 +161,7 @@ label {
 input {
     width: 70%;
     height: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     border: none;
     border-radius: 8px;
 
@@ -171,16 +171,31 @@ input:hover {
     border: 2px solid var(--success);
 }
 
-button {
+
+.main-button {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    min-width: 100%;
+    height: 50px;
+}
+
+.button-1 {
     background-color: var(--hospital-green);
     border-radius: 8px;
     border: 1px solid var(--dark-1);
     color: var(--white);
-    width: 70%;
+    width: 40%;
     height: 30px;
-    margin-bottom: 40px;
+}
 
-
+.button-2 {
+    background-color: var(--hospital-green);
+    border-radius: 8px;
+    border: 1px solid var(--dark-1);
+    color: var(--white);
+    width: 40%;
+    height: 30px;
 }
 
 button:hover {
