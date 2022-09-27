@@ -1,27 +1,3 @@
-sudo apt-get upgrade
-git status
-cd .
-cd
-cd Css
-cd PersonalProjects
-git checkout main
-git status
-cd WEB
-cd Frontend
-cd Css
-mkdir imagenes
-ls
-git -all
-git log --all
-git log --stat
-git config --list
-pwd
-cat imagenes
-touch imagenes
-ls
-pwd
-cat imagenes
-chmod ugo+rwx imagenes
 cat imagenes]
 ls
 cat imagenes
@@ -1997,4 +1973,28 @@ git status
 git add ..
 git add .
 git commit -am "Updated 4"
+git push origin main
+cd Personal
+ls
+cd Projects
+code .
+node -v
+cd PersonalProjects 
+ls
+cd WEB
+ls
+JavaScript
+cd JavaScript
+ls
+chmod ugo+rwx ECMAScript
+ls
+cd ~
+cd Projects
+cd PersonalProjects/WEB/JavaScript
+clear
+ls
+cd ECMAScript
+npm init
+git add .
+git commit -am "ECMAScript-1"
 git push origin main
