@@ -1,9 +1,3 @@
-cat imagenes]
-ls
-cat imagenes
-ls
-rm imagenes
-rm -r imagenes
 git status
 clear
 mkdir imagenes
@@ -1997,4 +1991,10 @@ cd ECMAScript
 npm init
 git add .
 git commit -am "ECMAScript-1"
+git push origin main
+ls
+cd Projects
+code .
+git add .
+git commit -am "ECMAScript-2"
 git push origin main
