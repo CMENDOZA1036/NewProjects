@@ -87,6 +87,61 @@ productList.push ({
     image:'https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 
 })
+productList.push ({
+    name: 'Compu',
+    price: 620,
+    image:'https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+
+})
+productList.push ({
+    name: 'Compu',
+    price: 620,
+    image:'https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+
+})
+productList.push ({
+    name: 'Compu',
+    price: 620,
+    image:'https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+
+})
+productList.push ({
+    name: 'Compu',
+    price: 620,
+    image:'https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+
+})
+productList.push ({
+    name: 'Compu',
+    price: 620,
+    image:'https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+
+})
+productList.push ({
+    name: 'Compu',
+    price: 620,
+    image:'https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+
+})
+productList.push ({
+    name: 'Compu',
+    price: 620,
+    image:'https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+
+})
+productList.push ({
+    name: 'Compu',
+    price: 620,
+    image:'https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+
+})
+productList.push ({
+    name: 'Compu',
+    price: 620,
+    image:'https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+
+})
+
 
 
 {/* <div class="product-card">

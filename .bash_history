@@ -1,8 +1,3 @@
-git status
-clear
-mkdir imagenes
-mkdir imagenes1
-ls
 git add imagenes1/dragon.png
 git status
 git commit -am "Carpeta Imagenes"
@@ -1997,4 +1992,9 @@ cd Projects
 code .
 git add .
 git commit -am "ECMAScript-2"
+git push origin main
+cd Projects
+code .
+git add .
+git commit -am "ECMAScript-3"
 git push origin main
