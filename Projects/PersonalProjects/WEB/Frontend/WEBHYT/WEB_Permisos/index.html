@@ -20,12 +20,12 @@
             <h3>SOLICITUD DE PERMISO O LICENCIA</h3>
 
             <!--Formulario de Password y new Password-->
-            <form action="/" class="form">
+            <form action="/" class="form" id="transactionForm">
                 <label for="cedula" class="label">Cedula</label>
-                <input type="number" id="cedula" placeholder="1036617898" class="input input-cc">
+                <input type="number" id="cedula" placeholder="1036617898" class="input input-cc" name="cedula">
 
                 <label for="tipos-permisos" class="label">Tipos de Permisos</label>
-                <input list="tipos" id="tipos-permisos" placeholder="Licencia no Remunerada" class="input input-permisos">
+                <input list="tipos" id="tipos-permisos" placeholder="Licencia no Remunerada" class="input input-permisos" name="tipos-permisos">
                 
                 <datalist id="tipos">
                     <option value="Licencia No Remunerada"></option>
@@ -35,16 +35,16 @@
                 </datalist>
 
                 <label for="email" class="label">Email</label>
-                <input type="email" id="email" placeholder="juancho.c@wecall4u.com" class="input input-email">
+                <input type="email" id="email" placeholder="juancho.c@wecall4u.com" class="input input-email" name="email">
 
                 <label for="date-in" class="label">Desde</label>
-                <input type="date" id="date-in" placeholder="dd/mm/aaaa" class="input input-date_in" min="2022-01-01" >
+                <input type="date" id="date-in" placeholder="dd/mm/aaaa" class="input input-date_in" min="2022-01-01" max="2022-12-31" name="date-in">
 
                 <label for="date-fi" class="label">Hasta</label>
-                <input type="date" id="date-fi" placeholder="dd/mm/aaaa" class="input input-date_fi" max="2022-12-31>
+                <input type="date" id="date-fi" placeholder="dd/mm/aaaa" class="input input-date_fi" min="2022-01-01" max="2022-12-31" name="date-fi">
 
                 <label for="horas" class="label">Numero de Horas</label>
-                <input type="number" id="horas" placeholder="8" class="input input-horas">
+                <input type="number" id="horas" placeholder="8" class="input input-horas" name="horas">
 
 
             </form>
