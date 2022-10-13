@@ -1,5 +1,3 @@
-git add imagenes1/dragon.png
-git status
 git commit -am "Carpeta Imagenes"
 git add .
 sudo git add .
@@ -1998,3 +1996,5 @@ code .
 git add .
 git commit -am "ECMAScript-3"
 git push origin main
+cd Projects
+code .

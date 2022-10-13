@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Cristian Mendoza <alvarezmendoz@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type":"module"
 }
