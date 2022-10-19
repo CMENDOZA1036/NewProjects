@@ -1,7 +1,3 @@
-git commit -am "Carpeta Imagenes"
-git add .
-sudo git add .
-git config --global --add safe.directory /home/cmendoza/PersonalProjects
 git status
 git commit -am "Carpeta Imagenes"
 git add .
@@ -1998,3 +1994,7 @@ git commit -am "ECMAScript-3"
 git push origin main
 cd Projects
 code .
+cd Projects
+code .
+git commit -am "WEB-Licencias3"
+git push origin main
