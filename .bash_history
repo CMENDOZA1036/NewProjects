@@ -1,5 +1,3 @@
-git status
-git commit -am "Carpeta Imagenes"
 git add .
 chmod ugo+rwx imagenes1
 git commit -am "Carpeta Imagenes"
@@ -1998,3 +1996,5 @@ cd Projects
 code .
 git commit -am "WEB-Licencias3"
 git push origin main
+cd Projects
+code .
