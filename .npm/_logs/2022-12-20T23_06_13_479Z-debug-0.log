@@ -1,0 +1,89 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@8.18.0
+2 info using node@v18.8.0
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 4ms
+5 timing config:load:file:/usr/local/lib/node_modules/npm/npmrc Completed in 2ms
+6 timing config:load:builtin Completed in 3ms
+7 timing config:load:cli Completed in 3ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/home/cmendoza/.cache/typescript/4.9/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 16ms
+11 timing config:load:file:/home/cmendoza/.npmrc Completed in 1ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:/usr/local/etc/npmrc Completed in 1ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:credentials Completed in 1ms
+17 timing config:load:setEnvs Completed in 2ms
+18 timing config:load Completed in 32ms
+19 timing npm:load:configload Completed in 32ms
+20 timing npm:load:mkdirpcache Completed in 2ms
+21 timing npm:load:mkdirplogs Completed in 3ms
+22 verbose title npm install @types/xml@ts4.9
+23 verbose argv "install" "--ignore-scripts" "@types/xml@ts4.9" "--save-dev" "--user-agent" "typesInstaller/4.9.4"
+24 timing npm:load:setTitle Completed in 2ms
+25 timing config:load:flatten Completed in 5ms
+26 timing npm:load:display Completed in 6ms
+27 verbose logfile logs-max:10 dir:/home/cmendoza/.npm/_logs
+28 verbose logfile /home/cmendoza/.npm/_logs/2022-12-20T23_06_13_479Z-debug-0.log
+29 timing npm:load:logFile Completed in 13ms
+30 timing npm:load:timers Completed in 0ms
+31 timing npm:load:configScope Completed in 0ms
+32 timing npm:load Completed in 61ms
+33 timing arborist:ctor Completed in 1ms
+34 silly logfile start cleaning logs, removing 1 files
+35 silly logfile done cleaning log files
+36 timing idealTree:init Completed in 46ms
+37 timing arborist:ctor Completed in 0ms
+38 http fetch GET 200 https://registry.npmjs.org/@types%2fxml 1316ms (cache miss)
+39 timing idealTree:userRequests Completed in 1329ms
+40 silly idealTree buildDeps
+41 silly fetch manifest @types/xml@1.0.8
+42 silly placeDep ROOT @types/xml@1.0.8 OK for:  want: 1.0.8
+43 silly fetch manifest @types/node@*
+44 http fetch GET 200 https://registry.npmjs.org/@types%2fnode 266ms (cache updated)
+45 timing idealTree:#root Completed in 297ms
+46 silly placeDep ROOT @types/node@18.11.17 OK for: @types/xml@1.0.8 want: *
+47 timing idealTree:node_modules/@types/xml Completed in 4ms
+48 timing idealTree:node_modules/@types/node Completed in 0ms
+49 timing idealTree:buildDeps Completed in 301ms
+50 timing idealTree:fixDepFlags Completed in 1ms
+51 timing idealTree Completed in 1679ms
+52 timing reify:loadTrees Completed in 1681ms
+53 timing reify:diffTrees Completed in 2ms
+54 silly reify moves {}
+55 timing reify:retireShallow Completed in 1ms
+56 timing reify:createSparse Completed in 7ms
+57 timing reify:loadBundles Completed in 0ms
+58 silly audit bulk request {
+58 silly audit   'types-registry': [ '0.1.623' ],
+58 silly audit   '@types/xml': [ '1.0.8' ],
+58 silly audit   '@types/node': [ '18.11.17' ]
+58 silly audit }
+59 silly tarball no local data for @types/node@https://registry.npmjs.org/@types/node/-/node-18.11.17.tgz. Extracting by manifest.
+60 silly tarball no local data for @types/xml@https://registry.npmjs.org/@types/xml/-/xml-1.0.8.tgz. Extracting by manifest.
+61 http fetch GET 200 https://registry.npmjs.org/@types/node/-/node-18.11.17.tgz 529ms (cache miss)
+62 timing reifyNode:node_modules/@types/node Completed in 545ms
+63 http fetch GET 200 https://registry.npmjs.org/@types/xml/-/xml-1.0.8.tgz 645ms (cache miss)
+64 timing reifyNode:node_modules/@types/xml Completed in 665ms
+65 timing reify:unpack Completed in 666ms
+66 timing reify:unretire Completed in 1ms
+67 timing build:queue Completed in 2ms
+68 timing build:deps Completed in 2ms
+69 timing build Completed in 2ms
+70 timing reify:build Completed in 3ms
+71 timing reify:trash Completed in 0ms
+72 timing reify:save Completed in 18ms
+73 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 1154ms
+74 timing auditReport:getReport Completed in 1157ms
+75 silly audit report {}
+76 timing auditReport:init Completed in 0ms
+77 timing reify:audit Completed in 1160ms
+78 timing reify Completed in 2859ms
+79 silly ADD node_modules/@types/node
+80 silly ADD node_modules/@types/xml
+81 timing command:install Completed in 2876ms
+82 verbose exit 0
+83 timing npm Completed in 3136ms
+84 info ok

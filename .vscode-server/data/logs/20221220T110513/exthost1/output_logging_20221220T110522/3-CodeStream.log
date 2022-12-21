@@ -1,0 +1,9 @@
+[2022-12-20 16:05:40:550] CodeStream v14.7.0-4261 in VS Code (v1.73.1) starting...
+[2022-12-20 16:05:40:553] Proxy support is on, but no proxy url was found
+[2022-12-20 16:05:43:915] NewRelic telemetry enabled=true
+[2022-12-20 16:05:51:610] CodeStream upgraded from v14.4.0 to v14.7.0
+[2022-12-20 16:05:51:611] CodeStream v14.7.0-4261 started • 15312 ms
+[2022-12-20 16:05:52:347] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2022-12-20 16:05:52:348] [2] WebviewController.onApiVersionChanged
+[2022-12-20 16:05:52:351] [2] WebviewController.onApiVersionChanged completed • 2 ms
+[2022-12-20 16:05:52:351] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 3 ms

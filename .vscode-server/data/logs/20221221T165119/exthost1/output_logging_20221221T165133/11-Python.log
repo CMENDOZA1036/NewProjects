@@ -1,0 +1,11 @@
+LSP Notebooks experiment is enabled
+LSP Notebooks interactive window support is enabled
+> conda info --json
+[ERROR 2022-11-21 17:13:11.62]: readdir() failed for "/home/cmendoza/Projects/PersonalProjects/.git" (Error: EACCES: permission denied, scandir '/home/cmendoza/Projects/PersonalProjects/.git')
+[ERROR 2022-11-21 17:13:11.71]: readdir() failed for "/home/cmendoza/Projects/Project_Diseno_para_Dev/.git" (Error: EACCES: permission denied, scandir '/home/cmendoza/Projects/Project_Diseno_para_Dev/.git')
+> /bin/python2 ~/.vscode-server/extensions/ms-python.python-2022.20.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.20.1/pythonFiles/interpreterInfo.py
+> /bin/python3 ~/.vscode-server/extensions/ms-python.python-2022.20.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.20.1/pythonFiles/interpreterInfo.py
+> /usr/bin/python2 ~/.vscode-server/extensions/ms-python.python-2022.20.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.20.1/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2022.20.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.20.1/pythonFiles/interpreterInfo.py
+Ruta de acceso del intérprete de Python: /bin/python3
+Iniciando el servidor de lenguaje Pylance.

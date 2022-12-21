@@ -1,0 +1,358 @@
+2022-12-20 11:46:27.123 [info] Extension host with pid 3243 started
+2022-12-20 11:46:27.234 [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/5979ea734077970d694a454aaeeb4a4d/vscode.lock': Lock acquired.
+2022-12-20 11:46:28.730 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onLanguage:code-runner-output'
+2022-12-20 11:46:28.738 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2022-12-20 11:46:28.741 [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets, startup: true, activationEvent: '*'
+2022-12-20 11:46:28.743 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2022-12-20 11:46:28.745 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2022-12-20 11:46:28.747 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2022-12-20 11:46:28.749 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2022-12-20 11:46:28.752 [info] ExtensionService#_doActivateExtension spywhere.guides, startup: true, activationEvent: '*'
+2022-12-20 11:46:28.754 [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+2022-12-20 11:46:36.596 [info] Not activating extension 'ms-python.isort': Timed out while searching for 'workspaceContains' pattern *.py
+2022-12-20 11:46:36.597 [info] Not activating extension 'pranaygp.vscode-css-peek': Timed out while searching for 'workspaceContains' pattern **/*.css,**/*.scss,**/*.sass,**/*.less
+2022-12-20 11:46:40.643 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: WallabyJs.quokka-vscode
+2022-12-20 11:46:43.206 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 11:46:43.208 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 11:46:43.210 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 11:46:43.213 [info] ExtensionService#_doActivateExtension CodeStream.codestream, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 11:46:43.216 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 11:46:43.219 [info] ExtensionService#_doActivateExtension eamodio.gitlens-insiders, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 11:46:43.221 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2022-12-20 11:46:43.222 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 11:46:46.236 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-20 11:46:49.645 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-20 11:46:49.647 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-20 11:46:49.648 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-20 11:46:51.430 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 11:46:51.508 [info] Eager extensions activated
+2022-12-20 11:46:52.784 [warning] Using default string since no string found in i18n bundle that has the key: Configure
+2022-12-20 11:46:52.784 [warning] Using default string since no string found in i18n bundle that has the key: JSON Language Server
+2022-12-20 11:46:54.091 [error] Error: Unknown webview handle:37032dc9-6320-4b51-8320-60cd84a1ebc4
+    at qa.k (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1683:67174)
+    at qa.$postMessage (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1683:66204)
+    at v.N (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1690:10803)
+    at v.M (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1690:10521)
+    at v.H (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1690:9614)
+    at v.G (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1690:8595)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1690:7383
+    at u.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:2029)
+    at d.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:1667)
+    at o.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:550:14605)
+    at p.y (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:550:17615)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:550:16086
+    at u.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:2029)
+    at d.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:1667)
+    at d.acceptChunk (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:550:12336)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:550:11623
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:641:38616
+    at u.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:2029)
+    at d.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:1667)
+    at S.i.onload (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:641:36883)
+2022-12-20 11:46:54.093 [error] Error: Unknown webview handle:37032dc9-6320-4b51-8320-60cd84a1ebc4
+    at qa.k (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1683:67174)
+    at qa.$postMessage (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1683:66204)
+    at v.N (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1690:10803)
+    at v.M (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1690:10521)
+    at v.H (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1690:9614)
+    at v.G (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1690:8595)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1690:7383
+    at u.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:2029)
+    at d.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:1667)
+    at o.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:550:14605)
+    at p.y (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:550:17615)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:550:16086
+    at u.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:2029)
+    at d.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:1667)
+    at d.acceptChunk (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:550:12336)
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:550:11623
+    at vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:641:38616
+    at u.invoke (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:145)
+    at s.deliver (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:2029)
+    at d.fire (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:1667)
+    at S.i.onload (vscode-file://vscode-app/c:/Users/admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:641:36883)
+2022-12-20 11:46:55.145 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2022-12-20 11:46:56.487 [warning] Using default string since no string found in i18n bundle that has the key: JSON: Schema Resolution Error
+2022-12-20 11:46:59.554 [warning] Using default string since no string found in i18n bundle that has the key: Unable to resolve schema. Click to retry.
+2022-12-20 11:46:59.557 [warning] Using default string since no string found in i18n bundle that has the key: JSON Validation Status
+2022-12-20 11:46:59.563 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2022-12-20 17:02:30.076 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2022-12-20 17:02:30.085 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2022-12-20 17:02:30.087 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:json'
+2022-12-20 17:02:32.231 [warning] Using default string since no string found in i18n bundle that has the key: Schema Validated
+2022-12-20 17:02:32.231 [warning] Using default string since no string found in i18n bundle that has the key: multiple JSON schemas configured
+2022-12-20 17:02:32.231 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2022-12-20 17:27:36.745 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2022-12-20 17:27:36.915 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2022-12-20 17:27:37.155 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2022-12-20 17:27:37.155 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2022-12-20 17:27:37.155 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2022-12-20 17:33:37.210 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2022-12-20 17:34:34.854 [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:javascript'
+2022-12-20 17:34:41.083 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2022-12-20 17:34:41.337 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2022-12-20 17:34:41.337 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2022-12-20 17:34:41.337 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2022-12-20 17:44:43.882 [error] SyntaxError: Legacy octal literals are not allowed in strict mode. (19:3)
+    at instantiate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:72:32)
+    at toParseError (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:358:12)
+    at Object.raise (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:3335:19)
+    at Object.recordStrictModeErrors (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:3137:12)
+    at Object.readNumber (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:2904:12)
+    at Object.getTokenFromCode (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:2612:14)
+    at Object.getTokenFromCode (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:8070:18)
+    at Object.getTokenFromCode (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6181:20)
+    at Object.nextToken (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:2019:10)
+    at Object.next (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:1923:10)
+    at Object.eat (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:1928:12)
+    at Object.expect (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:4002:10)
+    at Object.parseCallExpressionArguments (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12748:14)
+    at Object.parseCoverCallAndAsyncArrowHead (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12663:29)
+    at Object.parseSubscript (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12588:19)
+    at Object.parseSubscript (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6781:18)
+    at Object.parseSubscripts (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12557:19)
+    at Object.parseSubscripts (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6744:18)
+    at Object.parseExprSubscripts (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12546:17)
+    at Object.parseUpdate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12519:21)
+    at Object.parseMaybeUnary (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12490:23)
+    at Object.parseMaybeUnaryOrPrivate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12284:61)
+    at Object.parseExprOps (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12291:23)
+    at Object.parseMaybeConditional (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12261:23)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12214:21)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6662:18)
+    at Object.parseExpressionBase (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12150:23)
+    at callback (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12144:39)
+    at Object.allowInAnd (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14236:16)
+    at Object.parseExpression (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12144:17)
+    at Object.parseStatementContent (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14676:23)
+    at Object.parseStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14533:17)
+    at Object.parseStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:5823:24)
+    at Object.parseBlockOrModuleBlockBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15176:25)
+    at Object.parseBlockBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15167:10)
+    at Object.parseProgram (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14451:10)
+    at Object.parseTopLevel (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14438:25)
+    at Object.parseTopLevel (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6827:28)
+    at Object.parse (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:16401:10)
+    at jsParse (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:16453:38)
+    at parse (/home/cmendoza/.vscode-server/extensions/import-cost/src/babel-parser.js:65:10)
+    at getPackagesFromJS (/home/cmendoza/.vscode-server/extensions/import-cost/src/babel-parser.js:57:15)
+    at getPackages (/home/cmendoza/.vscode-server/extensions/import-cost/src/parser.js:37:12)
+    at Timeout._onTimeout (/home/cmendoza/.vscode-server/extensions/import-cost/src/index.js:21:21)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-12-20 18:00:48.006 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2022-12-20 18:01:02.919 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2022-12-20 18:01:03.232 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2022-12-20 18:01:03.232 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2022-12-20 18:01:03.232 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2022-12-20 18:46:01.503 [error] SyntaxError: Unexpected token (35:4)
+    at instantiate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:72:32)
+    at toParseError (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:358:12)
+    at Object.raise (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:3335:19)
+    at Object.unexpected (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:3373:16)
+    at Object.parseExprAtom (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13015:22)
+    at Object.parseExprAtom (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:8034:20)
+    at Object.parseExprSubscripts (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12540:23)
+    at Object.parseUpdate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12519:21)
+    at Object.parseMaybeUnary (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12490:23)
+    at Object.parseMaybeUnaryOrPrivate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12284:61)
+    at Object.parseExprOps (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12291:23)
+    at Object.parseMaybeConditional (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12261:23)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12214:21)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6662:18)
+    at Object.parseExpressionBase (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12150:23)
+    at callback (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12144:39)
+    at Object.allowInAnd (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14236:16)
+    at Object.parseExpression (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12144:17)
+    at Object.parseStatementContent (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14676:23)
+    at Object.parseStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14533:17)
+    at Object.parseStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:5823:24)
+    at Object.parseIfStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14931:28)
+    at Object.parseStatementContent (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14584:21)
+    at Object.parseStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14533:17)
+    at Object.parseStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:5823:24)
+    at Object.parseBlockOrModuleBlockBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15176:25)
+    at Object.parseBlockBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15167:10)
+    at Object.parseBlock (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15151:10)
+    at Object.parseFunctionBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13841:24)
+    at Object.parseFunctionBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:5795:18)
+    at Object.parseFunctionBodyAndFinish (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13825:10)
+    at Object.parseFunctionBodyAndFinish (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:5805:11)
+    at callback (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15326:12)
+    at Object.withSmartMixTopicForbiddingContext (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14213:14)
+    at Object.parseFunction (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15325:10)
+    at Object.parseFunctionOrFunctionSent (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13172:17)
+    at Object.parseExprAtom (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12894:21)
+    at Object.parseExprAtom (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:8034:20)
+    at Object.parseExprSubscripts (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12540:23)
+    at Object.parseUpdate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12519:21)
+    at Object.parseMaybeUnary (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12490:23)
+    at Object.parseMaybeUnaryOrPrivate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12284:61)
+    at Object.parseExprOps (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12291:23)
+    at Object.parseMaybeConditional (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12261:23)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12214:21)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6662:18)
+    at callback (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12172:39)
+    at Object.allowInAnd (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14242:12)
+    at Object.parseMaybeAssignAllowIn (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12172:17)
+    at Object.parseExprListItem (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13947:18)
+    at Object.parseCallExpressionArguments (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12766:22)
+    at Object.parseCoverCallAndAsyncArrowHead (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12663:29)
+    at Object.parseSubscript (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12588:19)
+    at Object.parseSubscript (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6781:18)
+    at Object.parseSubscripts (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12557:19)
+    at Object.parseSubscripts (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6744:18)
+    at Object.parseExprSubscripts (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12546:17)
+    at Object.parseUpdate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12519:21)
+    at Object.parseMaybeUnary (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12490:23)
+    at Object.parseMaybeUnaryOrPrivate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12284:61)
+    at Object.parseExprOps (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12291:23)
+    at Object.parseMaybeConditional (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12261:23)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12214:21)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6662:18)
+    at Object.parseExpressionBase (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12150:23)
+    at callback (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12144:39)
+    at Object.allowInAnd (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14236:16)
+    at Object.parseExpression (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12144:17)
+    at Object.parseStatementContent (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14676:23)
+    at Object.parseStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14533:17)
+    at Object.parseStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:5823:24)
+    at Object.parseBlockOrModuleBlockBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15176:25)
+    at Object.parseBlockBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15167:10)
+    at Object.parseBlock (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15151:10)
+    at Object.parseFunctionBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13841:24)
+    at Object.parseFunctionBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:5795:18)
+    at Object.parseFunctionBodyAndFinish (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13825:10)
+    at Object.parseFunctionBodyAndFinish (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:5805:11)
+    at callback (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15326:12)
+    at Object.withSmartMixTopicForbiddingContext (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14213:14)
+    at Object.parseFunction (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15325:10)
+    at Object.parseFunctionOrFunctionSent (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13172:17)
+    at Object.parseExprAtom (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12894:21)
+    at Object.parseExprAtom (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:8034:20)
+    at Object.parseExprSubscripts (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12540:23)
+    at Object.parseUpdate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12519:21)
+    at Object.parseMaybeUnary (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12490:23)
+    at Object.parseMaybeUnaryOrPrivate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12284:61)
+    at Object.parseExprOps (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12291:23)
+    at Object.parseMaybeConditional (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12261:23)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12214:21)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6662:18)
+    at callback (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12172:39)
+    at Object.allowInAnd (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14242:12)
+    at Object.parseMaybeAssignAllowIn (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12172:17)
+    at Object.parseExprListItem (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13947:18)
+    at Object.parseCallExpressionArguments (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12766:22)
+    at Object.parseCoverCallAndAsyncArrowHead (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12663:29)
+    at Object.parseSubscript (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12588:19)
+    at Object.parseSubscript (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6781:18)
+2022-12-20 18:46:01.520 [error] SyntaxError: Unexpected token (35:4)
+    at instantiate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:72:32)
+    at toParseError (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:358:12)
+    at Object.raise (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:3335:19)
+    at Object.unexpected (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:3373:16)
+    at Object.parseExprAtom (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13015:22)
+    at Object.parseExprAtom (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:8034:20)
+    at Object.parseExprSubscripts (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12540:23)
+    at Object.parseUpdate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12519:21)
+    at Object.parseMaybeUnary (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12490:23)
+    at Object.parseMaybeUnaryOrPrivate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12284:61)
+    at Object.parseExprOps (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12291:23)
+    at Object.parseMaybeConditional (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12261:23)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12214:21)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6662:18)
+    at Object.parseExpressionBase (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12150:23)
+    at callback (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12144:39)
+    at Object.allowInAnd (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14236:16)
+    at Object.parseExpression (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12144:17)
+    at Object.parseStatementContent (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14676:23)
+    at Object.parseStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14533:17)
+    at Object.parseStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:5823:24)
+    at Object.parseIfStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14931:28)
+    at Object.parseStatementContent (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14584:21)
+    at Object.parseStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14533:17)
+    at Object.parseStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:5823:24)
+    at Object.parseBlockOrModuleBlockBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15176:25)
+    at Object.parseBlockBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15167:10)
+    at Object.parseBlock (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15151:10)
+    at Object.parseFunctionBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13841:24)
+    at Object.parseFunctionBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:5795:18)
+    at Object.parseFunctionBodyAndFinish (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13825:10)
+    at Object.parseFunctionBodyAndFinish (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:5805:11)
+    at callback (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15326:12)
+    at Object.withSmartMixTopicForbiddingContext (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14213:14)
+    at Object.parseFunction (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15325:10)
+    at Object.parseFunctionOrFunctionSent (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13172:17)
+    at Object.parseExprAtom (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12894:21)
+    at Object.parseExprAtom (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:8034:20)
+    at Object.parseExprSubscripts (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12540:23)
+    at Object.parseUpdate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12519:21)
+    at Object.parseMaybeUnary (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12490:23)
+    at Object.parseMaybeUnaryOrPrivate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12284:61)
+    at Object.parseExprOps (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12291:23)
+    at Object.parseMaybeConditional (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12261:23)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12214:21)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6662:18)
+    at callback (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12172:39)
+    at Object.allowInAnd (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14242:12)
+    at Object.parseMaybeAssignAllowIn (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12172:17)
+    at Object.parseExprListItem (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13947:18)
+    at Object.parseCallExpressionArguments (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12766:22)
+    at Object.parseCoverCallAndAsyncArrowHead (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12663:29)
+    at Object.parseSubscript (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12588:19)
+    at Object.parseSubscript (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6781:18)
+    at Object.parseSubscripts (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12557:19)
+    at Object.parseSubscripts (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6744:18)
+    at Object.parseExprSubscripts (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12546:17)
+    at Object.parseUpdate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12519:21)
+    at Object.parseMaybeUnary (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12490:23)
+    at Object.parseMaybeUnaryOrPrivate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12284:61)
+    at Object.parseExprOps (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12291:23)
+    at Object.parseMaybeConditional (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12261:23)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12214:21)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6662:18)
+    at Object.parseExpressionBase (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12150:23)
+    at callback (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12144:39)
+    at Object.allowInAnd (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14236:16)
+    at Object.parseExpression (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12144:17)
+    at Object.parseStatementContent (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14676:23)
+    at Object.parseStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14533:17)
+    at Object.parseStatement (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:5823:24)
+    at Object.parseBlockOrModuleBlockBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15176:25)
+    at Object.parseBlockBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15167:10)
+    at Object.parseBlock (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15151:10)
+    at Object.parseFunctionBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13841:24)
+    at Object.parseFunctionBody (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:5795:18)
+    at Object.parseFunctionBodyAndFinish (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13825:10)
+    at Object.parseFunctionBodyAndFinish (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:5805:11)
+    at callback (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15326:12)
+    at Object.withSmartMixTopicForbiddingContext (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14213:14)
+    at Object.parseFunction (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:15325:10)
+    at Object.parseFunctionOrFunctionSent (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13172:17)
+    at Object.parseExprAtom (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12894:21)
+    at Object.parseExprAtom (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:8034:20)
+    at Object.parseExprSubscripts (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12540:23)
+    at Object.parseUpdate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12519:21)
+    at Object.parseMaybeUnary (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12490:23)
+    at Object.parseMaybeUnaryOrPrivate (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12284:61)
+    at Object.parseExprOps (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12291:23)
+    at Object.parseMaybeConditional (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12261:23)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12214:21)
+    at Object.parseMaybeAssign (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6662:18)
+    at callback (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12172:39)
+    at Object.allowInAnd (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:14242:12)
+    at Object.parseMaybeAssignAllowIn (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12172:17)
+    at Object.parseExprListItem (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:13947:18)
+    at Object.parseCallExpressionArguments (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12766:22)
+    at Object.parseCoverCallAndAsyncArrowHead (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12663:29)
+    at Object.parseSubscript (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:12588:19)
+    at Object.parseSubscript (/home/cmendoza/.vscode-server/node_modules/@babel/parser/lib/index.js:6781:18)
+2022-12-20 18:48:27.494 [info] Extension host terminating: received terminate message from renderer
+2022-12-20 18:48:27.499 [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/5979ea734077970d694a454aaeeb4a4d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-12-20 18:48:28.359 [warning] {"name":"Canceled"}
+2022-12-20 18:48:28.644 [info] Extension host with pid 3243 exiting with code 0

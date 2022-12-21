@@ -1,0 +1,1037 @@
+Warning: Ignoring extra certs from `null`, load failed: error:02001002:system library:fopen:No such file or directory
+New Relic for Node.js was unable to bootstrap itself due to an error:
+Error: New Relic requires that you name this application!
+Set app_name in your newrelic.js file or set environment variable
+NEW_RELIC_APP_NAME. Not starting!
+    at createAgent (/home/cmendoza/.vscode-server/extensions/codestream.codestream-14.11.0/node_modules/newrelic/index.js:140:11)
+    at initialize (/home/cmendoza/.vscode-server/extensions/codestream.codestream-14.11.0/node_modules/newrelic/index.js:81:15)
+    at /home/cmendoza/.vscode-server/extensions/codestream.codestream-14.11.0/node_modules/newrelic/index.js:36:3
+    at /home/cmendoza/.vscode-server/extensions/codestream.codestream-14.11.0/dist/agent.js:1:279
+    at Object.<anonymous> (/home/cmendoza/.vscode-server/extensions/codestream.codestream-14.11.0/src/agent.ts:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+(node:981) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[2022-12-21 21:52:11:837] Git found: 2.25.1 @ /usr/bin/git • 166 ms
+[2022-12-21 21:52:11:840] Agent for CodeStream v14.11.0-4270 in VS Code (v1.74.2) initializing...
+[2022-12-21 21:52:11:843] RepositoryLocator.start: waiting on session.ready
+[2022-12-21 21:52:12:406] Loaded /home/cmendoza/.vscode-server/extensions/codestream.codestream-14.11.0/dist/index.js.map mapper
+[2022-12-21 21:52:12:418] Node.js version: v16.14.2
+[2022-12-21 21:52:12:419] NODE_* environment variables:
+[2022-12-21 21:52:12:419] NODE_TLS_REJECT_UNAUTHORIZED=1
+[2022-12-21 21:52:12:419] NODE_EXTRA_CA_CERTS=null
+[2022-12-21 21:52:12:420] Proxy support is on, but no proxy url was found
+[2022-12-21 21:52:12:423] API Server URL: >https://api.codestream.com<
+[2022-12-21 21:52:12:423] Reject unauthorized: true
+[2022-12-21 21:52:12:426] Verifying API server connectivity
+[2022-12-21 21:52:12:473] CodeStreamAgent.registerHandler(codestream/reporting/message)
+[2022-12-21 21:52:12:474] CodeStreamAgent.registerHandler(codestream/reporting/breadcrumb)
+[2022-12-21 21:52:12:474] CodeStreamAgent.registerHandler(codestream/webview/error)
+[2022-12-21 21:52:12:474] CodeStreamAgent.registerHandler(codestream/codeErrors)
+[2022-12-21 21:52:12:474] CodeStreamAgent.registerHandler(codestream/codeError)
+[2022-12-21 21:52:12:474] CodeStreamAgent.registerHandler(codestream/codeError/update)
+[2022-12-21 21:52:12:474] CodeStreamAgent.registerHandler(codestream/codeError/delete)
+[2022-12-21 21:52:12:474] CodeStreamAgent.registerHandler(codestream/codeErrors/claim)
+[2022-12-21 21:52:12:474] CodeStreamAgent.registerHandler(codestream/codemarks/create)
+[2022-12-21 21:52:12:475] CodeStreamAgent.registerHandler(codestream/codemark/permalink)
+[2022-12-21 21:52:12:475] CodeStreamAgent.registerHandler(codestream/codemarks)
+[2022-12-21 21:52:12:475] CodeStreamAgent.registerHandler(codestream/codemark/sha1)
+[2022-12-21 21:52:12:475] CodeStreamAgent.registerHandler(codestream/codemark/range)
+[2022-12-21 21:52:12:475] CodeStreamAgent.registerHandler(codestream/codemark/delete)
+[2022-12-21 21:52:12:475] CodeStreamAgent.registerHandler(codestream/codemark/update)
+[2022-12-21 21:52:12:475] CodeStreamAgent.registerHandler(codestream/codemark/setPinned)
+[2022-12-21 21:52:12:475] CodeStreamAgent.registerHandler(codestream/codemark/pinReply)
+[2022-12-21 21:52:12:480] CodeStreamAgent.registerHandler(codestream/codemark/follow)
+[2022-12-21 21:52:12:481] CodeStreamAgent.registerHandler(codestream/review/follow)
+[2022-12-21 21:52:12:482] CodeStreamAgent.registerHandler(codestream/codeError/follow)
+[2022-12-21 21:52:12:483] CodeStreamAgent.registerHandler(codestream/codemark/setStatus)
+[2022-12-21 21:52:12:483] CodeStreamAgent.registerHandler(codestream/companies)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/posts)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/posts/byIds)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/posts/activity)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/post/replies)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/codemarks/sharing/create)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/reviews/create)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/codeErrors/create)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/posts/create)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/posts/createWithCodemark)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/post/delete)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/post/edit)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/post/share-update)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/post/share-via-server)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/post/markUnread)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/post/markRead)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/post/react)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/post)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/reviews)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/review)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/review/contentsLocal)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/review/allContents)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/review/coverage)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/review/contents)
+[2022-12-21 21:52:12:484] CodeStreamAgent.registerHandler(codestream/review/update)
+[2022-12-21 21:52:12:485] CodeStreamAgent.registerHandler(codestream/review/delete)
+[2022-12-21 21:52:12:485] CodeStreamAgent.registerHandler(codestream/review/checkPreconditions)
+[2022-12-21 21:52:12:485] CodeStreamAgent.registerHandler(codestream/review/pr/checkPreconditions)
+[2022-12-21 21:52:12:485] CodeStreamAgent.registerHandler(codestream/review/pr/create)
+[2022-12-21 21:52:12:485] CodeStreamAgent.registerHandler(codestream/review/start)
+[2022-12-21 21:52:12:485] CodeStreamAgent.registerHandler(codestream/review/pause)
+[2022-12-21 21:52:12:485] CodeStreamAgent.registerHandler(codestream/review/end)
+[2022-12-21 21:52:12:485] CodeStreamAgent.registerHandler(codestream/review/createForUnreviewedCommits)
+[2022-12-21 21:52:12:486] CodeStreamAgent.registerHandler(codestream/textDocument/markers/create/link)
+[2022-12-21 21:52:12:486] CodeStreamAgent.registerHandler(codestream/textDocument/markers)
+[2022-12-21 21:52:12:486] CodeStreamAgent.registerHandler(codestream/textDocument/fromKey)
+[2022-12-21 21:52:12:486] CodeStreamAgent.registerHandler(codestream/textDocument/fromMarker)
+[2022-12-21 21:52:12:486] CodeStreamAgent.registerHandler(codestream/textDocument/calculateNonLocalRanges)
+[2022-12-21 21:52:12:486] CodeStreamAgent.registerHandler(codestream/streams/fileStream)
+[2022-12-21 21:52:12:486] CodeStreamAgent.registerHandler(codestream/streams/file)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/repos/ignore-files)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/repos/ignore-files/add)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/marker)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/marker/move)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/markers/add)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/marker/delete)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/newrelic/entities)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/newrelic/errorGroup/metadata)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/newrelic/assignments)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/newrelic/repos)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/newrelic/errors)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/newrelic/accounts)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/newrelic/relatedEntities)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/newrelic/url)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/newrelic/errorGroup)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/newrelic/assignees)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/newrelic/fileLevelTelemetry)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/newrelic/methodLevelMethodTelemetry)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/newrelic/serviceLevelTelemetry)
+[2022-12-21 21:52:12:488] CodeStreamAgent.registerHandler(codestream/newrelic/serviceLevelObjectives)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/newrelic/entityCount)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/nr/parseStackTrace)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/nr/resolveStackTrace)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/nr/resolveStackTracePosition)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/nr/findCandidateMainFiles)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/nr/installNewRelic)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/nr/createNewRelicConfigFile)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/nr/addNewRelicInclude)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/pixie/clusters)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/pixie/namespaces)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/pixie/pods)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/pixie/dynamicLogging)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/pixie/dynamicLoggingCancel)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/repos/map)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/normalizeUrl)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/repos/create)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/repos)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/repo)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/scm/commit)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/scm/repos)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/scm/repo/statuses)
+[2022-12-21 21:52:12:489] CodeStreamAgent.registerHandler(codestream/scm/branches)
+[2022-12-21 21:52:12:490] CodeStreamAgent.registerHandler(codestream/scm/create-branch)
+[2022-12-21 21:52:12:490] CodeStreamAgent.registerHandler(codestream/scm/switch-branch)
+[2022-12-21 21:52:12:490] CodeStreamAgent.registerHandler(codestream/scm/repo/status)
+[2022-12-21 21:52:12:490] CodeStreamAgent.registerHandler(codestream/scm/file/info)
+[2022-12-21 21:52:12:490] CodeStreamAgent.registerHandler(codestream/scm/range/info)
+[2022-12-21 21:52:12:490] CodeStreamAgent.registerHandler(codestream/scm/range/sha1)
+[2022-12-21 21:52:12:490] CodeStreamAgent.registerHandler(codestream/scm/sha1/ranges)
+[2022-12-21 21:52:12:490] CodeStreamAgent.registerHandler(codestream/scm/latestCommitters)
+[2022-12-21 21:52:12:490] CodeStreamAgent.registerHandler(codestream/scm/latestCommit)
+[2022-12-21 21:52:12:490] CodeStreamAgent.registerHandler(codestream/scm/blame)
+[2022-12-21 21:52:12:490] CodeStreamAgent.registerHandler(codestream/scm/commitAndPush)
+[2022-12-21 21:52:12:490] CodeStreamAgent.registerHandler(codestream/scm/remotes)
+[2022-12-21 21:52:12:490] CodeStreamAgent.registerHandler(codestream/scm/remoteBranch)
+[2022-12-21 21:52:12:490] CodeStreamAgent.registerHandler(codestream/scm/commitsStatus)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/scm/file/diff)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/scm/branches/diff)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/scm/forkPoint)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/scm/commits/files)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/api/get)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/api/post)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/api/put)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/api/delete)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/streams)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/streams/unread)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/streams/createChannel)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/streams/createDirect)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/stream/archive)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/stream/close)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/stream/join)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/stream/leave)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/stream/markRead)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/stream/mute)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/stream/open)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/stream/rename)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/stream/setPurpose)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/stream/unarchive)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/stream/updateMembership)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/stream)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/teams)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/team)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/telemetry)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/telemetry/setAnonymousId)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/text-files/read)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/text-files/write)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/scm/user/info)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/scm/workspace/repos)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/scm/workspace/autojoin)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/url/open)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/uri/resolveLocal)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/users)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/user/invite)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/user/delete)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/user/kick)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/user/update)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/user/updatePreferences)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/user/updateStatus)
+[2022-12-21 21:52:12:491] CodeStreamAgent.registerHandler(codestream/user/updateInvisible)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/user/updatePresence)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/users/me/unreads)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/user)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/users/me/preferences)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/connect)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/configure)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/add)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/remove)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/disconnect)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/cards/users)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/cards/users/search)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/boards)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/cards)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/cards/workflow)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/cards/create)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/cards/move)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/channels)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/status/update)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/posts/create)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/pullrequest)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/pullrequestcommits)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/generic)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/query)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/provider/builds)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/providers/pullrequest/queries)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/repos/match)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/team/create)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/sendPasswordResetEmail)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/setPassword)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/company/update)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/company/delete)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/company/create)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/company/createForeign)
+[2022-12-21 21:52:12:492] CodeStreamAgent.registerHandler(codestream/team/tag/create)
+[2022-12-21 21:52:12:494] CodeStreamAgent.registerHandler(codestream/team/tag/deleete)
+[2022-12-21 21:52:12:494] CodeStreamAgent.registerHandler(codestream/team/tag/update)
+[2022-12-21 21:52:12:494] CodeStreamAgent.registerHandler(codestream/team/admin/update)
+[2022-12-21 21:52:12:494] CodeStreamAgent.registerHandler(codestream/team/update)
+[2022-12-21 21:52:12:494] CodeStreamAgent.registerHandler(codestream/team/settings/update)
+[2022-12-21 21:52:12:494] CodeStreamAgent.registerHandler(codestream/team/add-blame-map)
+[2022-12-21 21:52:12:494] CodeStreamAgent.registerHandler(codestream/team/delete-blame-map)
+[2022-12-21 21:52:12:494] CodeStreamAgent.registerHandler(codestream/users/me/delete)
+[2022-12-21 21:52:12:494] CodeStreamAgent.registerHandler(codestream/provider/token)
+[2022-12-21 21:52:12:495] CodeStreamAgent.registerHandler(codestream/upload/file)
+[2022-12-21 21:52:12:495] CodeStreamAgent.registerHandler(codestream/nr/openNewRelicSignupUrl)
+[2022-12-21 21:52:12:495] CodeStreamAgent.registerHandler(codestream/newrelic/securityIssues)
+[2022-12-21 21:52:12:495] CodeStreamAgent.registerHandler(codestream/newrelic/libraryDetails)
+[2022-12-21 21:52:12:495] CodeStreamAgent.registerHandler(codestream/ui/state)
+[2022-12-21 21:52:12:495] CodeStreamAgent.registerHandler(codestream/verifyConnectivity)
+[2022-12-21 21:52:12:495] CodeStreamAgent.registerHandler(codestream/accessToken)
+[2022-12-21 21:52:12:495] CodeStreamAgent.registerHandler(codestream/login/password)
+[2022-12-21 21:52:12:495] CodeStreamAgent.registerHandler(codestream/login/token)
+[2022-12-21 21:52:12:495] CodeStreamAgent.registerHandler(codestream/login/otc)
+[2022-12-21 21:52:12:495] CodeStreamAgent.registerHandler(codestream/login/confirm)
+[2022-12-21 21:52:12:495] CodeStreamAgent.registerHandler(codestream/login/generate-code)
+[2022-12-21 21:52:12:495] CodeStreamAgent.registerHandler(codestream/registration)
+[2022-12-21 21:52:12:495] CodeStreamAgent.registerHandler(codestream/nr-registration)
+[2022-12-21 21:52:12:495] CodeStreamAgent.registerHandler(codestream/registration/confirm)
+[2022-12-21 21:52:12:496] CodeStreamAgent.registerHandler(codestream/registration/invite-info)
+[2022-12-21 21:52:12:496] CodeStreamAgent.registerHandler(codestream/companies/join)
+[2022-12-21 21:52:12:497] CodeStreamAgent.registerHandler(codestream/companies/decline)
+[2022-12-21 21:52:12:498] CodeStreamAgent.registerHandler(codestream/api)
+[2022-12-21 21:52:12:498] CodeStreamAgent.registerHandler(codestream/set-server)
+[2022-12-21 21:52:12:499] CodeStreamAgent.registerHandler(codestream/bootstrap)
+[2022-12-21 21:52:12:504] Agent is ready
+[2022-12-21 21:52:12:506] RepositoryLocator.start: starting startCore
+[2022-12-21 21:52:12:507] startCore: initializing promise
+[2022-12-21 21:52:12:508] getWorkspaceFolders: workspaces supported
+[2022-12-21 21:52:12:509] [e2] CodeStreamApiProvider.getTelemetryKey
+[2022-12-21 21:52:12:649] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:52:12:666] startCore: Starting repository search in 1 folders
+[2022-12-21 21:52:12:670] repositorySearch: Searching for repositories (depth=2) in '/home/cmendoza/Projects' initializing=true isInWorkspace=true...
+[2022-12-21 21:52:12:673] GIT: Running(/home/cmendoza/Projects): git rev-parse --show-toplevel
+[2022-12-21 21:52:12:824] [e3] CodeStreamAgent.sendNotification(codestream/agentInitialized)
+[2022-12-21 21:52:12:825] [e3] CodeStreamAgent.sendNotification(codestream/agentInitialized) completed • 0 ms
+[2022-12-21 21:52:12:831] [e4] CodeStreamSession.tokenLogin Logging alvarezmendoz@gmail.com into CodeStream (@ https://api.codestream.com) via authentication token...
+[2022-12-21 21:52:12:833] [e6] CodeStreamAgent.sendNotification(codestream/didStartLogin)
+[2022-12-21 21:52:12:833] [e6] CodeStreamAgent.sendNotification(codestream/didStartLogin) completed • 0 ms
+[2022-12-21 21:52:12:841] GIT: Completed(/home/cmendoza/Projects): git rev-parse --show-toplevel in 168 ms
+[2022-12-21 21:52:12:844] repositorySearch: Repository found in '/home/cmendoza'
+[2022-12-21 21:52:12:871] GIT: Running(/home/cmendoza/Projects/PersonalProjects): git rev-parse --show-toplevel
+[2022-12-21 21:52:12:979] GIT: Completed(/home/cmendoza/Projects/PersonalProjects): git rev-parse --show-toplevel in 107 ms
+[2022-12-21 21:52:12:979] repositorySearch: Repository found in '/home/cmendoza'
+[2022-12-21 21:52:12:981] GIT: Running(/home/cmendoza/Projects/Project_Diseno_para_Dev): git rev-parse --show-toplevel
+[2022-12-21 21:52:13:095] API server status: 200
+[2022-12-21 21:52:13:101] registerApiCapabilities for teamId undefined — {}
+[2022-12-21 21:52:13:102] _apiCapabilities — {"sample":{"description":"SAMPLE","version":"1.0.0"},"multipleMarkers":{"description":"Ability to have multiple code blocks per codemark","version":"1.21.20"},"moveMarkers":{"description":"Ability to change the location of code blocks pointed to by codemarks","version":"1.21.20"},"moveMarkers2":{"description":"Ability to change the location of code blocks pointed to by codemarks, with essential API server fix","version":"1.21.23"},"repoCommitMatching":{"description":"Supports the /repos/match/:teamId call, which allows matches to be found for repos by remotes and known commit hashes","version":"1.21.24"},"follow":{"description":"Ability to follow or unfollow a codemark","version":"1.21.27"},"lightningCodeReviews":{"description":"Support for lightning code reviews","version":"1.21.33","supportedIdes":["VS Code","JetBrains","VS"]},"notificationDeliveryPreference":{"description":"Support for displaying the email/desktop delivery notification preference","version":"1.21.33"},"multipleReviewersApprove":{"description":"Support for multiple reviewers being required to approve a review","version":"7.1.1"},"emailSupport":{"description":"Whether outbound emails are supported, value actually comes from configuration","version":"1.0.0"},"multiCheckpointReviews":{"description":"Reviews supporting multiple checkpoints","version":"7.2.0"},"inviteUsersOnTheFly":{"description":"Users can be invited on-the-fly in codemarks and reviews","version":"7.2.7"},"kickstart":{"description":"Kickstart features","version":"7.4.2"},"cr2pr":{"description":"Features supporting opening pull requests after code reviews","version":"7.4.2"},"shareStatusToSlack":{"description":"Whether the share to slack capability is supported, which requires a new scope for the slack app","version":"8.0.6"},"addBlameMap":{"description":"Supporting adding someone to the blame-map","version":"8.1.1"},"vsCodeGithubSignin":{"description":"Supports whether special VSCode GitHub signin is supported in the auth flow","version":"8.2.7"},"compactModifiedRepos":{"description":"Supports compact modifiedRepos structure","version":"8.2.8"},"providerReauth":{"description":"Supports re-authentication for providers if tokens are found to be invalid","version":"8.2.11"},"autoJoin":{"description":"Supports auto-join API call, to auto-join a team based on open repos in IDE","version":"8.2.13"},"testGroups":{"description":"Supports the /company-test-groups/:id call, to set randomized test groups for a company","version":"8.2.15"},"fileUploads":{"description":"Supports file uploading","version":"8.2.17","cloudOnly":true},"autoFR":{"description":"Supports automatic generation of feedback requests","version":"8.2.20"},"readItem":{"description":"Supports /read-item call to mark number of unread replies for an item","version":"8.2.33"},"echoes":{"description":"Supports periodic echoes to test broadcaster reliability","version":"8.2.39"},"multiRegion":{"description":"Supports multi-region switching","version":"12.0.7","useGlobal":true}}
+[2022-12-21 21:52:13:103] Got environment from connectivity response: — {"environment":"us","isOnPrem":false,"isProductionCloud":true,"newRelicLandingServiceUrl":"https://landing.service.newrelic.com","newRelicApiUrl":"https://api.newrelic.com","environmentHosts":[{"name":"EU","publicApiUrl":"https://eu-api.codestream.com","shortName":"eu"},{"name":"US","publicApiUrl":"https://api.codestream.com","shortName":"us"}]}
+[2022-12-21 21:52:13:103] [e7] CodeStreamAgent.sendNotification(codestream/didSetEnvironment)
+[2022-12-21 21:52:13:103] [e7] CodeStreamAgent.sendNotification(codestream/didSetEnvironment) completed • 0 ms
+[2022-12-21 21:52:13:103] [1] CodeStreamSession.verifyConnectivity completed • 678 ms
+[2022-12-21 21:52:13:115] GIT: Completed(/home/cmendoza/Projects/Project_Diseno_para_Dev): git rev-parse --show-toplevel in 133 ms
+[2022-12-21 21:52:13:115] repositorySearch: Repository found in '/home/cmendoza'
+[2022-12-21 21:52:13:115] repositorySearch: Searching for repositories (depth=2) in '/home/cmendoza/Projects' took 445 ms
+[2022-12-21 21:52:13:116] startCore: found 3 repositories in file:///home/cmendoza/Projects
+[2022-12-21 21:52:13:116] startCore: processed 3 repositories
+[2022-12-21 21:52:13:118] startCore: resolving true
+[2022-12-21 21:52:13:208] VersionMiddlewareManager: API version changed from  to 14.0.9
+[2022-12-21 21:52:13:209] [e8] VersionMiddlewareManager.apiVersionNotify
+[2022-12-21 21:52:13:210] [e9] CodeStreamSession.onApiVersionCompatibilityChanged
+[2022-12-21 21:52:13:211] [ea] CodeStreamAgent.sendNotification(codestream/didChangeApiVersionCompatibility)
+[2022-12-21 21:52:13:211] [ea] CodeStreamAgent.sendNotification(codestream/didChangeApiVersionCompatibility) completed • 0 ms
+[2022-12-21 21:52:13:211] [e9] CodeStreamSession.onApiVersionCompatibilityChanged completed • 0 ms
+[2022-12-21 21:52:13:211] [e8] VersionMiddlewareManager.apiVersionNotify completed • 2 ms
+[2022-12-21 21:52:13:215] API(56cfcfdd-c4a1-468d-ba64-adc348120e91): Completed GET /no-auth/telemetry-key?secret=<hidden> • 702 ms
+[2022-12-21 21:52:13:215] [e2] CodeStreamApiProvider.getTelemetryKey completed • 704 ms
+[2022-12-21 21:52:13:825] API(72f77fe0-3e62-45c5-a0ca-598f5a44b446): Completed PUT /login body={} • 990 ms
+[2022-12-21 21:52:13:826] CodeStream user 'CMENDOZA1036' (62a8af311c3021007d502dc9) is logging into unknown and belongs to 1 team(s)
+	Everyone (62a8af3bd1bffae460f923af)
+[2022-12-21 21:52:13:826] Using team 'Everyone' (62a8af3bd1bffae460f923af) because the team was the last used team
+[2022-12-21 21:52:13:826] registerApiCapabilities for teamId 62a8af3bd1bffae460f923af — {}
+[2022-12-21 21:52:13:827] _apiCapabilities — {"sample":{"description":"SAMPLE","version":"1.0.0"},"multipleMarkers":{"description":"Ability to have multiple code blocks per codemark","version":"1.21.20"},"moveMarkers":{"description":"Ability to change the location of code blocks pointed to by codemarks","version":"1.21.20"},"moveMarkers2":{"description":"Ability to change the location of code blocks pointed to by codemarks, with essential API server fix","version":"1.21.23"},"repoCommitMatching":{"description":"Supports the /repos/match/:teamId call, which allows matches to be found for repos by remotes and known commit hashes","version":"1.21.24"},"follow":{"description":"Ability to follow or unfollow a codemark","version":"1.21.27"},"lightningCodeReviews":{"description":"Support for lightning code reviews","version":"1.21.33","supportedIdes":["VS Code","JetBrains","VS"]},"notificationDeliveryPreference":{"description":"Support for displaying the email/desktop delivery notification preference","version":"1.21.33"},"multipleReviewersApprove":{"description":"Support for multiple reviewers being required to approve a review","version":"7.1.1"},"emailSupport":{"description":"Whether outbound emails are supported, value actually comes from configuration","version":"1.0.0"},"multiCheckpointReviews":{"description":"Reviews supporting multiple checkpoints","version":"7.2.0"},"inviteUsersOnTheFly":{"description":"Users can be invited on-the-fly in codemarks and reviews","version":"7.2.7"},"kickstart":{"description":"Kickstart features","version":"7.4.2"},"cr2pr":{"description":"Features supporting opening pull requests after code reviews","version":"7.4.2"},"shareStatusToSlack":{"description":"Whether the share to slack capability is supported, which requires a new scope for the slack app","version":"8.0.6"},"addBlameMap":{"description":"Supporting adding someone to the blame-map","version":"8.1.1"},"vsCodeGithubSignin":{"description":"Supports whether special VSCode GitHub signin is supported in the auth flow","version":"8.2.7"},"compactModifiedRepos":{"description":"Supports compact modifiedRepos structure","version":"8.2.8"},"providerReauth":{"description":"Supports re-authentication for providers if tokens are found to be invalid","version":"8.2.11"},"autoJoin":{"description":"Supports auto-join API call, to auto-join a team based on open repos in IDE","version":"8.2.13"},"testGroups":{"description":"Supports the /company-test-groups/:id call, to set randomized test groups for a company","version":"8.2.15"},"fileUploads":{"description":"Supports file uploading","version":"8.2.17","cloudOnly":true},"autoFR":{"description":"Supports automatic generation of feedback requests","version":"8.2.20"},"readItem":{"description":"Supports /read-item call to mark number of unread replies for an item","version":"8.2.33"},"echoes":{"description":"Supports periodic echoes to test broadcaster reliability","version":"8.2.39"},"multiRegion":{"description":"Supports multi-region switching","version":"12.0.7","useGlobal":true}}
+[2022-12-21 21:52:13:837] Login environment: us
+[2022-12-21 21:52:13:839] GitRepositories.start: waiting for session
+[2022-12-21 21:52:13:852] GitRepositories.start: session ready
+[2022-12-21 21:52:13:853] GitRepositories.start: returning
+[2022-12-21 21:52:13:853] onWorkspaceFoldersChanged: initializing promise
+[2022-12-21 21:52:13:854] [eb] CodeStreamApiProvider.fetchRepos
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/reporting/message)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/reporting/breadcrumb)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/webview/error)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codeErrors)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codeError)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codeError/update)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codeError/delete)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codeErrors/claim)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codemarks/create)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codemark/permalink)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codemarks)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codemark/sha1)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codemark/range)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codemark/delete)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codemark/update)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codemark/setPinned)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codemark/pinReply)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codemark/follow)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/review/follow)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codeError/follow)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codemark/setStatus)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/companies)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/posts)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/posts/byIds)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/posts/activity)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/post/replies)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codemarks/sharing/create)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/reviews/create)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/codeErrors/create)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/posts/create)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/posts/createWithCodemark)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/post/delete)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/post/edit)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/post/share-update)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/post/share-via-server)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/post/markUnread)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/post/markRead)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/post/react)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/post)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/reviews)
+[2022-12-21 21:52:13:857] CodeStreamAgent.registerHandler(codestream/review)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/review/contentsLocal)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/review/allContents)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/review/coverage)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/review/contents)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/review/update)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/review/delete)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/review/checkPreconditions)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/review/pr/checkPreconditions)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/review/pr/create)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/review/start)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/review/pause)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/review/end)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/review/createForUnreviewedCommits)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/textDocument/markers/create/link)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/textDocument/markers)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/textDocument/fromKey)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/textDocument/fromMarker)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/textDocument/calculateNonLocalRanges)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/streams/fileStream)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/streams/file)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/repos/ignore-files)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/repos/ignore-files/add)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/marker)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/marker/move)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/markers/add)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/marker/delete)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/newrelic/entities)
+[2022-12-21 21:52:13:858] CodeStreamAgent.registerHandler(codestream/newrelic/errorGroup/metadata)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/newrelic/assignments)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/newrelic/repos)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/newrelic/errors)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/newrelic/accounts)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/newrelic/relatedEntities)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/newrelic/url)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/newrelic/errorGroup)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/newrelic/assignees)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/newrelic/fileLevelTelemetry)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/newrelic/methodLevelMethodTelemetry)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/newrelic/serviceLevelTelemetry)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/newrelic/serviceLevelObjectives)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/newrelic/entityCount)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/nr/parseStackTrace)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/nr/resolveStackTrace)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/nr/resolveStackTracePosition)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/nr/findCandidateMainFiles)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/nr/installNewRelic)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/nr/createNewRelicConfigFile)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/nr/addNewRelicInclude)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/pixie/clusters)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/pixie/namespaces)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/pixie/pods)
+[2022-12-21 21:52:13:859] CodeStreamAgent.registerHandler(codestream/pixie/dynamicLogging)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/pixie/dynamicLoggingCancel)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/repos/map)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/normalizeUrl)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/repos/create)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/repos)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/repo)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/commit)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/repos)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/repo/statuses)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/branches)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/create-branch)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/switch-branch)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/repo/status)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/file/info)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/range/info)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/range/sha1)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/sha1/ranges)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/latestCommitters)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/latestCommit)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/blame)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/commitAndPush)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/remotes)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/remoteBranch)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/commitsStatus)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/file/diff)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/branches/diff)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/forkPoint)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/scm/commits/files)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/api/get)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/api/post)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/api/put)
+[2022-12-21 21:52:13:860] CodeStreamAgent.registerHandler(codestream/api/delete)
+[2022-12-21 21:52:13:861] CodeStreamAgent.registerHandler(codestream/streams)
+[2022-12-21 21:52:13:861] CodeStreamAgent.registerHandler(codestream/streams/unread)
+[2022-12-21 21:52:13:861] CodeStreamAgent.registerHandler(codestream/streams/createChannel)
+[2022-12-21 21:52:13:861] CodeStreamAgent.registerHandler(codestream/streams/createDirect)
+[2022-12-21 21:52:13:861] CodeStreamAgent.registerHandler(codestream/stream/archive)
+[2022-12-21 21:52:13:861] CodeStreamAgent.registerHandler(codestream/stream/close)
+[2022-12-21 21:52:13:861] CodeStreamAgent.registerHandler(codestream/stream/join)
+[2022-12-21 21:52:13:861] CodeStreamAgent.registerHandler(codestream/stream/leave)
+[2022-12-21 21:52:13:861] CodeStreamAgent.registerHandler(codestream/stream/markRead)
+[2022-12-21 21:52:13:861] CodeStreamAgent.registerHandler(codestream/stream/mute)
+[2022-12-21 21:52:13:861] CodeStreamAgent.registerHandler(codestream/stream/open)
+[2022-12-21 21:52:13:861] CodeStreamAgent.registerHandler(codestream/stream/rename)
+[2022-12-21 21:52:13:861] CodeStreamAgent.registerHandler(codestream/stream/setPurpose)
+[2022-12-21 21:52:13:863] CodeStreamAgent.registerHandler(codestream/stream/unarchive)
+[2022-12-21 21:52:13:864] CodeStreamAgent.registerHandler(codestream/stream/updateMembership)
+[2022-12-21 21:52:13:864] CodeStreamAgent.registerHandler(codestream/stream)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/teams)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/team)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/telemetry)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/telemetry/setAnonymousId)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/text-files/read)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/text-files/write)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/scm/user/info)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/scm/workspace/repos)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/scm/workspace/autojoin)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/url/open)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/uri/resolveLocal)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/users)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/user/invite)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/user/delete)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/user/kick)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/user/update)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/user/updatePreferences)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/user/updateStatus)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/user/updateInvisible)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/user/updatePresence)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/users/me/unreads)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/user)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/users/me/preferences)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/provider/connect)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/provider/configure)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/provider/add)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/provider/remove)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/provider/disconnect)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/provider/cards/users)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/provider/cards/users/search)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/provider/boards)
+[2022-12-21 21:52:13:865] CodeStreamAgent.registerHandler(codestream/provider/cards)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/provider/cards/workflow)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/provider/cards/create)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/provider/cards/move)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/provider/channels)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/provider/status/update)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/provider/posts/create)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/provider/pullrequest)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/provider/pullrequestcommits)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/provider/generic)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/provider/query)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/provider/builds)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/providers/pullrequest/queries)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/repos/match)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/team/create)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/sendPasswordResetEmail)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/setPassword)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/company/update)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/company/delete)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/company/create)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/company/createForeign)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/team/tag/create)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/team/tag/deleete)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/team/tag/update)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/team/admin/update)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/team/update)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/team/settings/update)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/team/add-blame-map)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/team/delete-blame-map)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/users/me/delete)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/provider/token)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/upload/file)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/nr/openNewRelicSignupUrl)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/newrelic/securityIssues)
+[2022-12-21 21:52:13:866] CodeStreamAgent.registerHandler(codestream/newrelic/libraryDetails)
+[2022-12-21 21:52:13:867] [1bb] CodeStreamApiProvider.getPreferences
+[2022-12-21 21:52:13:870] Subscribing to real-time events...
+[2022-12-21 21:52:13:870] [1bc] CodeStreamApiProvider.subscribe
+[2022-12-21 21:52:13:871] [1be] CodeStreamUnreads.compute
+[2022-12-21 21:52:13:872] [1bf] CodeStreamApiProvider.getPreferences
+[2022-12-21 21:52:13:874] [1c0] BroadcasterEvents.connect
+[2022-12-21 21:52:13:875] BROADCASTER: Broadcaster initializing...
+[2022-12-21 21:52:13:876] BROADCASTER: PUBNUB: Connection initializing...
+[2022-12-21 21:52:13:887] BROADCASTER: Request to subscribe to channels: ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-12-21 21:52:13:887] BROADCASTER: Channels were added, will need a connected message
+[2022-12-21 21:52:13:887] BROADCASTER: Ensuring subscription to all channels...
+[2022-12-21 21:52:13:887] BROADCASTER: Unsubscribed channels are: ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-12-21 21:52:13:887] BROADCASTER: Broadcaster subscribing to: ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-12-21 21:52:13:888] BROADCASTER: PUBNUB: Subscribing to ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-12-21 21:52:13:901] BROADCASTER: Broadcaster subscriptions timing out in 5s...
+[2022-12-21 21:52:13:902] [1c0] BroadcasterEvents.connect completed • 27 ms
+[2022-12-21 21:52:13:902] [1bc] CodeStreamApiProvider.subscribe completed • 32 ms
+[2022-12-21 21:52:13:903] [1c1] CodeStreamApiProvider.fetchTeams
+[2022-12-21 21:52:14:336] API(8ba07b0e-b368-4b47-9092-77040388972b): Completed GET /repos?teamId=62a8af3bd1bffae460f923af • 481 ms
+[2022-12-21 21:52:14:336] [eb] CodeStreamApiProvider.fetchRepos completed • 481 ms
+[2022-12-21 21:52:14:338] onWorkspaceFoldersChanged: no event - initializing
+[2022-12-21 21:52:14:338] startCore: existing promise found - awaiting
+[2022-12-21 21:52:14:338] startCore: existing promise found - done
+[2022-12-21 21:52:14:339] [1c2] GitService.getRepoRemotes
+[2022-12-21 21:52:14:339] GIT: Running(/home/cmendoza): git remote -v
+[2022-12-21 21:52:14:475] API(a0d10ebd-a8c9-4c5b-a858-7f103a8c37cd): Completed GET /preferences • 608 ms
+[2022-12-21 21:52:14:484] [1bb] CodeStreamApiProvider.getPreferences completed • 616 ms
+[2022-12-21 21:52:14:488] API(4b92e242-5170-43a6-bcd8-724b7d25e033): Completed GET /preferences • 616 ms
+[2022-12-21 21:52:14:489] [1bf] CodeStreamApiProvider.getPreferences completed • 616 ms
+[2022-12-21 21:52:14:489] [1c3] CodeStreamApiProvider.fetchUnreadStreams
+[2022-12-21 21:52:14:521] GIT: Completed(/home/cmendoza): git remote -v in 181 ms
+[2022-12-21 21:52:14:705] API(b4cc97f5-d98c-4508-8f82-8b12ae9538b0): Completed GET /teams?mine • 801 ms
+[2022-12-21 21:52:14:705] [1c1] CodeStreamApiProvider.fetchTeams completed • 802 ms
+[2022-12-21 21:52:15:001] BROADCASTER: PUBNUB: Pubnub status received (category=PNConnectedCategory operation=PNSubscribeOperation)
+[2022-12-21 21:52:15:001] BROADCASTER: PUBNUB: Subscribed channels: user-62a8af311c3021007d502dc9,team-62a8af3bd1bffae460f923af
+[2022-12-21 21:52:15:002] BROADCASTER: These channels are connected: ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-12-21 21:52:15:002] BROADCASTER: No more unsubscribed channels
+[2022-12-21 21:52:15:002] BROADCASTER: Catching up on all channels
+[2022-12-21 21:52:15:003] BROADCASTER: No messages have been received yet, looks like fresh session, retrieve history since 1671659523875
+[2022-12-21 21:52:15:003] BROADCASTER: Fetching history since 1671659523875 for: ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-12-21 21:52:15:004] BROADCASTER: Calling Pubnub.fetchMessages from 16716595238750000 for user-62a8af311c3021007d502dc9,team-62a8af3bd1bffae460f923af
+[2022-12-21 21:52:15:027] [1c2] GitService.getRepoRemotes returned [ssh://git@github.com:cmendoza1036/NewProjects.git] • 686 ms
+[2022-12-21 21:52:15:034] GIT: Running(/home/cmendoza): git remote show upstream
+[2022-12-21 21:52:15:122] onWorkspaceFoldersChanged: 1 folders added from existing repos
+[2022-12-21 21:52:15:122] onWorkspaceFoldersChanged: processing 0 unassigned repositories
+[2022-12-21 21:52:15:122] onWorkspaceFoldersChanged: processing 1 added repositories
+[2022-12-21 21:52:15:122] onWorkspaceFoldersChanged: processing 0 removed folders
+[2022-12-21 21:52:15:122] [1c5] RepositoryMappingManager.mapRepos
+[2022-12-21 21:52:15:134] onWorkspaceFoldersChanged: monitoring repositories
+[2022-12-21 21:52:15:136] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-12-21 21:52:15:217] [1c5] RepositoryMappingManager.mapRepos completed • 94 ms
+[2022-12-21 21:52:15:226] GIT: Completed(/home/cmendoza): git remote show upstream in 192 ms
+[2022-12-21 21:52:15:227] GIT: Running(/home/cmendoza): git remote show origin
+[2022-12-21 21:52:15:334] API(408d43c6-5b03-47a9-b891-1c96d8d718b4): Completed GET /streams?teamId=62a8af3bd1bffae460f923af&unread • 844 ms
+[2022-12-21 21:52:15:335] [1c3] CodeStreamApiProvider.fetchUnreadStreams completed • 845 ms
+[2022-12-21 21:52:15:337] [1c6] CodeStreamAgent.sendNotification(codestream/didChangeData:unreads)
+[2022-12-21 21:52:15:337] [1c6] CodeStreamAgent.sendNotification(codestream/didChangeData:unreads) completed • 0 ms
+[2022-12-21 21:52:15:337] [1be] CodeStreamUnreads.compute completed • 1465 ms
+[2022-12-21 21:52:15:344] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 208 ms
+[2022-12-21 21:52:15:348] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref main@{u}
+[2022-12-21 21:52:15:586] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref main@{u} in 241 ms
+[2022-12-21 21:52:15:606] onWorkspaceFoldersChanged: resolving
+[2022-12-21 21:52:15:607] GIT: Running(/home/cmendoza): git rev-parse --abbrev-ref HEAD
+[2022-12-21 21:52:15:798] API(e0a4dcac-e538-479a-b51c-da685a330192): Completed GET /companies?mine=true • 1090 ms
+[2022-12-21 21:52:15:801] [e5] CodeStreamSession.login completed • 2969 ms
+[2022-12-21 21:52:15:801] [e4] CodeStreamSession.tokenLogin completed • 2970 ms
+[2022-12-21 21:52:15:847] [1c8] CodeStreamAgent.sendNotification(codestream/didLogin)
+[2022-12-21 21:52:15:848] [1c8] CodeStreamAgent.sendNotification(codestream/didLogin) completed • 0 ms
+[2022-12-21 21:52:15:868] github getMyPullRequests {"prQueries":[{"providerId":"github*com","name":"is waiting on your review","query":"is:pr is:open review-requested:@me -author:@me"},{"providerId":"github*com","name":"was assigned to you","query":"is:pr is:open assignee:@me -author:@me"}]}
+[2022-12-21 21:52:15:868] [1cb] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries
+[2022-12-21 21:52:15:871] [1cb] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries completed • 2 ms
+[2022-12-21 21:52:15:871] Getting login for providerId: github*com
+[2022-12-21 21:52:15:888] [1cd] CodeStreamApiProvider.getUnreads
+[2022-12-21 21:52:15:890] [1cd] CodeStreamApiProvider.getUnreads completed • 1 ms
+[2022-12-21 21:52:15:891] GIT: Completed(/home/cmendoza): git rev-parse --abbrev-ref HEAD in 283 ms
+[2022-12-21 21:52:16:059] BROADCASTER: Caught up!
+[2022-12-21 21:52:16:059] BROADCASTER: Subscription successful: ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-12-21 21:52:16:064] BROADCASTER: Emitting status Connected: ["user-62a8af311c3021007d502dc9","team-62a8af3bd1bffae460f923af"]
+[2022-12-21 21:52:16:065] BROADCASTER: Connection status
+[2022-12-21 21:52:16:084] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:52:16:086] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v1
+[2022-12-21 21:52:16:088] GIT: Running(/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback): git rev-parse --show-toplevel
+[2022-12-21 21:52:16:309] GIT: Completed(/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback): git rev-parse --show-toplevel in 221 ms
+[2022-12-21 21:52:16:314] [1ce] CodeStreamApiProvider.fetchFileStreams
+[2022-12-21 21:52:16:489] [1cf] CodeStreamApiProvider.getUnreads
+[2022-12-21 21:52:16:489] [1cf] CodeStreamApiProvider.getUnreads completed • 0 ms
+[2022-12-21 21:52:16:537] githubLogin: {"viewer":{"id":"U_kgDOBlsQXA","login":"CMENDOZA1036"}}
+[2022-12-21 21:52:16:537] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me" login=CMENDOZA1036
+[2022-12-21 21:52:16:538] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me" login=CMENDOZA1036
+[2022-12-21 21:52:16:841] API(098d63ed-514a-4b81-acf0-d583f829d52b): Completed GET /streams?teamId=62a8af3bd1bffae460f923af&repoId=630e561dcdd3c7c8fadee30e • 526 ms
+[2022-12-21 21:52:16:841] [1ce] CodeStreamApiProvider.fetchFileStreams completed • 527 ms
+[2022-12-21 21:52:17:084] Will not notify of new PRs - no changes detected
+[2022-12-21 21:54:28:960] [1d1] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:54:28:962] [1d1] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:54:28:965] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:54:28:965] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v2
+[2022-12-21 21:54:28:966] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:54:28:966] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v2
+[2022-12-21 21:54:32:210] [1d4] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:54:32:211] [1d4] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:54:32:214] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:54:32:214] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v3
+[2022-12-21 21:54:32:215] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:54:32:215] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v3
+[2022-12-21 21:54:58:348] [1d7] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:54:58:349] [1d7] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:54:58:352] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:54:58:352] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v10
+[2022-12-21 21:54:58:354] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:54:58:354] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v10
+[2022-12-21 21:55:12:731] [1da] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:55:12:731] [1da] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:55:12:732] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:55:12:732] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v21
+[2022-12-21 21:55:12:733] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:55:12:733] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v21
+[2022-12-21 21:55:18:802] [1dd] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:55:18:802] [1dd] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:55:18:806] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:55:18:806] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v22
+[2022-12-21 21:55:18:806] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:55:18:807] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v22
+[2022-12-21 21:55:29:428] [1e0] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:55:29:429] [1e0] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:55:29:434] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:55:29:434] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v31
+[2022-12-21 21:55:29:436] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:55:29:437] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v31
+[2022-12-21 21:56:08:686] [1e3] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:56:08:686] [1e3] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:56:08:687] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:56:08:688] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v35
+[2022-12-21 21:56:08:688] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:56:08:688] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v35
+[2022-12-21 21:56:32:322] [1e6] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:56:32:323] [1e6] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:56:32:331] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:56:32:331] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v67
+[2022-12-21 21:56:32:333] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:56:32:333] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v67
+[2022-12-21 21:56:38:124] [1e9] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:56:38:124] [1e9] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:56:38:127] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:56:38:127] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v71
+[2022-12-21 21:56:38:132] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:56:38:132] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v71
+[2022-12-21 21:56:43:989] [1ec] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:56:43:989] [1ec] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:56:43:990] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:56:43:990] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v72
+[2022-12-21 21:56:43:991] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:56:43:991] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v72
+[2022-12-21 21:57:10:767] [1ef] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:57:10:767] [1ef] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:57:10:769] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:57:10:769] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v92
+[2022-12-21 21:57:10:770] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:57:10:770] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v92
+[2022-12-21 21:57:18:619] [1f2] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:57:18:619] [1f2] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:57:18:621] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:57:18:621] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v96
+[2022-12-21 21:57:18:622] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:57:18:622] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v96
+[2022-12-21 21:57:32:200] [1f5] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:57:32:200] [1f5] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:57:32:203] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:57:32:203] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v123
+[2022-12-21 21:57:32:205] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:57:32:205] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v123
+[2022-12-21 21:57:40:603] [1f8] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:57:40:603] [1f8] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:57:40:604] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:57:40:604] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v124
+[2022-12-21 21:57:40:606] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:57:40:606] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v124
+[2022-12-21 21:57:55:724] [1fb] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:57:55:724] [1fb] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:57:55:726] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:57:55:727] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v139
+[2022-12-21 21:57:55:731] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:57:55:731] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v139
+[2022-12-21 21:58:06:524] [1fe] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 21:58:06:524] [1fe] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 21:58:06:528] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:58:06:528] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v149
+[2022-12-21 21:58:06:530] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:58:06:530] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v149
+[2022-12-21 21:58:06:754] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 21:58:06:754] [201] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-12-21 21:58:06:755] [201] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-12-21 22:03:16:282] [202] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:03:16:282] [202] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:03:16:284] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 22:03:16:284] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v152
+[2022-12-21 22:03:16:285] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 22:03:16:285] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v152
+[2022-12-21 22:03:17:817] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 22:03:17:817] [205] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-12-21 22:03:17:817] [205] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-12-21 22:04:51:268] [206] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:04:51:268] [206] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:04:51:272] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 22:04:51:272] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v153
+[2022-12-21 22:04:51:274] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 22:04:51:274] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v153
+[2022-12-21 22:05:34:382] [209] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:05:34:382] [209] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:05:34:383] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 22:05:34:383] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v154
+[2022-12-21 22:05:34:384] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 22:05:34:384] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v154
+[2022-12-21 22:05:40:278] [20c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:05:40:278] [20c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:05:40:280] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 22:05:40:281] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v157
+[2022-12-21 22:05:40:282] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 22:05:40:282] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js v157
+[2022-12-21 22:05:57:303] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 22:05:57:303] [20f] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-12-21 22:05:57:303] [20f] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-12-21 22:07:13:848] github getMyPullRequests {"prQueries":[{"providerId":"github*com","name":"is waiting on your review","query":"is:pr is:open review-requested:@me -author:@me"},{"providerId":"github*com","name":"was assigned to you","query":"is:pr is:open assignee:@me -author:@me"}]}
+[2022-12-21 22:07:13:848] [211] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries
+[2022-12-21 22:07:13:849] [211] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries completed • 0 ms
+[2022-12-21 22:07:13:849] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me" login=CMENDOZA1036
+[2022-12-21 22:07:13:849] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me" login=CMENDOZA1036
+[2022-12-21 22:07:14:515] Will not notify of new PRs - no changes detected
+[2022-12-21 22:13:08:416] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json
+[2022-12-21 22:13:08:416] [213] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-12-21 22:13:08:416] [213] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-12-21 22:13:08:436] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json
+[2022-12-21 22:13:08:436] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json v1
+[2022-12-21 22:13:08:436] GIT: Running(/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo): git rev-parse --show-toplevel
+[2022-12-21 22:13:08:602] GIT: Completed(/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo): git rev-parse --show-toplevel in 165 ms
+[2022-12-21 22:13:11:416] [215] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:13:11:417] [215] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:13:11:648] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json
+[2022-12-21 22:13:11:648] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json v1
+[2022-12-21 22:13:11:649] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json
+[2022-12-21 22:13:11:649] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json v1
+[2022-12-21 22:13:32:131] [218] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:13:32:131] [218] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:13:32:136] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json
+[2022-12-21 22:13:32:137] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json v14
+[2022-12-21 22:13:32:138] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json
+[2022-12-21 22:13:32:139] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json v14
+[2022-12-21 22:13:39:094] [21b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:13:39:094] [21b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:13:39:095] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json
+[2022-12-21 22:13:39:096] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json v15
+[2022-12-21 22:13:39:096] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json
+[2022-12-21 22:13:39:096] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json v15
+[2022-12-21 22:14:04:476] [21e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:14:04:476] [21e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:14:04:478] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json
+[2022-12-21 22:14:04:478] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json v43
+[2022-12-21 22:14:04:479] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json
+[2022-12-21 22:14:04:479] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json v43
+[2022-12-21 22:14:19:337] [221] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:14:19:338] [221] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:14:19:340] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json
+[2022-12-21 22:14:19:340] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json v44
+[2022-12-21 22:14:19:342] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json
+[2022-12-21 22:14:19:343] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json v44
+[2022-12-21 22:14:20:399] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json
+[2022-12-21 22:14:20:399] [224] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-12-21 22:14:20:399] [224] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-12-21 22:19:25:714] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json
+[2022-12-21 22:19:25:715] [225] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-12-21 22:19:25:715] [225] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-12-21 22:19:28:850] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js
+[2022-12-21 22:19:28:850] [226] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-12-21 22:19:28:850] [226] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-12-21 22:21:35:901] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:21:35:901] [227] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-12-21 22:21:35:901] [227] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-12-21 22:21:35:914] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:21:35:914] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v1
+[2022-12-21 22:21:35:915] GIT: Running(/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise): git rev-parse --show-toplevel
+[2022-12-21 22:21:36:030] GIT: Completed(/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise): git rev-parse --show-toplevel in 115 ms
+[2022-12-21 22:21:38:902] [229] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:21:38:903] [229] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:21:38:907] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:21:38:907] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v1
+[2022-12-21 22:21:38:908] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:21:38:908] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v1
+[2022-12-21 22:22:13:849] github getMyPullRequests {"prQueries":[{"providerId":"github*com","name":"is waiting on your review","query":"is:pr is:open review-requested:@me -author:@me"},{"providerId":"github*com","name":"was assigned to you","query":"is:pr is:open assignee:@me -author:@me"}]}
+[2022-12-21 22:22:13:849] [22d] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries
+[2022-12-21 22:22:13:849] [22d] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries completed • 0 ms
+[2022-12-21 22:22:13:849] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me" login=CMENDOZA1036
+[2022-12-21 22:22:13:850] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me" login=CMENDOZA1036
+[2022-12-21 22:22:14:497] Will not notify of new PRs - no changes detected
+[2022-12-21 22:28:21:934] [22f] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:28:21:934] [22f] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:28:22:294] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:28:22:294] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v28
+[2022-12-21 22:28:22:295] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:28:22:295] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v28
+[2022-12-21 22:28:32:032] [232] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:28:32:032] [232] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:28:32:033] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:28:32:033] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v45
+[2022-12-21 22:28:32:034] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:28:32:034] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v45
+[2022-12-21 22:28:56:482] [235] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:28:56:482] [235] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:28:56:484] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:28:56:484] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v69
+[2022-12-21 22:28:56:484] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:28:56:484] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v69
+[2022-12-21 22:29:00:912] [238] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:29:00:912] [238] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:29:00:914] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:29:00:914] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v71
+[2022-12-21 22:29:00:915] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:29:00:915] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v71
+[2022-12-21 22:29:44:208] [23b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:29:44:208] [23b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:29:44:209] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:29:44:209] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v84
+[2022-12-21 22:29:44:210] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:29:44:210] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v84
+[2022-12-21 22:30:24:351] [23e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:30:24:352] [23e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:30:24:355] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:30:24:355] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v125
+[2022-12-21 22:30:24:356] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:30:24:356] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v125
+[2022-12-21 22:30:32:933] [241] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:30:32:933] [241] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:30:32:935] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:30:32:936] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v132
+[2022-12-21 22:30:32:939] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:30:32:939] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v132
+[2022-12-21 22:30:56:221] [244] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:30:56:222] [244] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:30:56:223] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:30:56:223] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v142
+[2022-12-21 22:30:56:224] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:30:56:224] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v142
+[2022-12-21 22:31:09:083] [247] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:31:09:084] [247] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:31:09:085] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:31:09:085] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v159
+[2022-12-21 22:31:09:086] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:31:09:086] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v159
+[2022-12-21 22:31:28:513] [24a] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:31:28:513] [24a] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:31:28:515] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:31:28:515] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v198
+[2022-12-21 22:31:28:515] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:31:28:515] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v198
+[2022-12-21 22:32:18:143] [24d] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:32:18:144] [24d] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:32:18:145] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:32:18:145] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v225
+[2022-12-21 22:32:18:145] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:32:18:145] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v225
+[2022-12-21 22:32:23:755] [250] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:32:23:756] [250] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:32:23:759] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:32:23:759] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v228
+[2022-12-21 22:32:23:760] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:32:23:760] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v228
+[2022-12-21 22:32:34:769] [253] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:32:34:769] [253] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:32:34:771] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:32:34:772] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v235
+[2022-12-21 22:32:34:772] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:32:34:772] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v235
+[2022-12-21 22:32:52:698] [256] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:32:52:698] [256] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:32:52:700] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:32:52:700] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v256
+[2022-12-21 22:32:52:701] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:32:52:701] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v256
+[2022-12-21 22:34:21:261] [259] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:34:21:261] [259] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:34:21:262] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:34:21:262] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v263
+[2022-12-21 22:34:21:263] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:34:21:263] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v263
+[2022-12-21 22:34:32:268] [25c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:34:32:268] [25c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:34:32:270] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:34:32:270] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v280
+[2022-12-21 22:34:32:271] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:34:32:271] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v280
+[2022-12-21 22:34:59:976] [25f] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:34:59:976] [25f] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:34:59:977] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:34:59:977] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v303
+[2022-12-21 22:34:59:978] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:34:59:978] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v303
+[2022-12-21 22:35:08:877] [262] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:35:08:877] [262] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:35:08:878] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:35:08:878] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v325
+[2022-12-21 22:35:08:878] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:35:08:878] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v325
+[2022-12-21 22:35:32:517] [265] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:35:32:517] [265] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:35:32:527] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:35:32:527] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v354
+[2022-12-21 22:35:32:527] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:35:32:527] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v354
+[2022-12-21 22:35:35:996] [268] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:35:35:996] [268] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:35:35:997] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:35:35:997] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v356
+[2022-12-21 22:35:35:998] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:35:35:998] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v356
+[2022-12-21 22:35:46:094] [26b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:35:46:095] [26b] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:35:46:098] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:35:46:098] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v362
+[2022-12-21 22:35:46:100] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:35:46:100] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v362
+[2022-12-21 22:36:03:937] [26e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:36:03:937] [26e] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:36:03:941] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:36:03:941] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v387
+[2022-12-21 22:36:03:943] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:36:03:943] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v387
+[2022-12-21 22:36:18:297] [271] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:36:18:298] [271] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:36:18:299] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:36:18:299] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v388
+[2022-12-21 22:36:18:299] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:36:18:299] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v388
+[2022-12-21 22:36:33:628] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:36:33:628] [274] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-12-21 22:36:33:629] [274] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-12-21 22:36:51:502] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:36:51:502] [275] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-12-21 22:36:51:503] [275] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-12-21 22:36:53:391] [276] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:36:53:391] [276] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:36:53:395] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:36:53:395] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v391
+[2022-12-21 22:36:53:397] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:36:53:397] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v391
+[2022-12-21 22:37:13:847] github getMyPullRequests {"prQueries":[{"providerId":"github*com","name":"is waiting on your review","query":"is:pr is:open review-requested:@me -author:@me"},{"providerId":"github*com","name":"was assigned to you","query":"is:pr is:open assignee:@me -author:@me"}]}
+[2022-12-21 22:37:13:848] [27a] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries
+[2022-12-21 22:37:13:848] [27a] ThirdPartyProviderRegistry.getProviderDefaultPullRequestQueries completed • 0 ms
+[2022-12-21 22:37:13:848] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open review-requested:@me -author:@me" login=CMENDOZA1036
+[2022-12-21 22:37:13:848] getMyPullRequests providerId="github*com" finalQuery="is:pr is:open assignee:@me -author:@me" login=CMENDOZA1036
+[2022-12-21 22:37:14:434] Will not notify of new PRs - no changes detected
+[2022-12-21 22:37:18:442] [27c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:37:18:443] [27c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:37:18:447] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:37:18:447] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v400
+[2022-12-21 22:37:18:450] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:37:18:450] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v400
+[2022-12-21 22:37:22:486] [27f] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:37:22:486] [27f] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:37:22:491] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:37:22:491] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v402
+[2022-12-21 22:37:22:493] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:37:22:493] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v402
+[2022-12-21 22:37:41:176] [282] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:37:41:176] [282] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:37:41:177] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:37:41:177] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v437
+[2022-12-21 22:37:41:177] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:37:41:177] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v437
+[2022-12-21 22:37:54:111] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:37:54:111] [285] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-12-21 22:37:54:111] [285] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-12-21 22:38:19:829] [286] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:38:19:829] [286] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:38:19:830] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:38:19:830] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v443
+[2022-12-21 22:38:19:831] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:38:19:831] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v443
+[2022-12-21 22:38:31:976] [289] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:38:31:976] [289] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:38:31:978] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:38:31:978] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v446
+[2022-12-21 22:38:31:978] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:38:31:978] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v446
+[2022-12-21 22:38:37:200] [28c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:38:37:201] [28c] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:38:37:203] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:38:37:204] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v449
+[2022-12-21 22:38:37:204] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:38:37:204] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v449
+[2022-12-21 22:38:41:164] [28f] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:38:41:164] [28f] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:38:41:165] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:38:41:165] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v450
+[2022-12-21 22:38:41:166] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:38:41:166] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v450
+[2022-12-21 22:39:03:554] [292] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:39:03:554] [292] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:39:03:555] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:39:03:556] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v452
+[2022-12-21 22:39:03:556] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:39:03:556] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v452
+[2022-12-21 22:39:19:715] [295] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:39:19:715] [295] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:39:19:718] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:39:19:718] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v484
+[2022-12-21 22:39:19:722] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:39:19:722] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v484
+[2022-12-21 22:39:44:209] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:39:44:210] [298] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-12-21 22:39:44:210] [298] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-12-21 22:39:44:540] [299] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:39:44:540] [299] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:39:44:542] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:39:44:543] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v487
+[2022-12-21 22:39:44:543] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:39:44:544] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v487
+[2022-12-21 22:40:03:431] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:40:03:431] [29c] CodeStreamAgent.sendNotification(codestream/didChangeData:documents)
+[2022-12-21 22:40:03:431] [29c] CodeStreamAgent.sendNotification(codestream/didChangeData:documents) completed • 0 ms
+[2022-12-21 22:40:04:266] [29d] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers)
+[2022-12-21 22:40:04:267] [29d] CodeStreamAgent.sendNotification(codestream/didChangeDocumentMarkers) completed • 0 ms
+[2022-12-21 22:40:04:269] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:40:04:270] MARKERS: calculating codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v490
+[2022-12-21 22:40:04:270] MARKERS: requested document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js
+[2022-12-21 22:40:04:271] MARKERS: found cached codemark document markers for /home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/index.js v490

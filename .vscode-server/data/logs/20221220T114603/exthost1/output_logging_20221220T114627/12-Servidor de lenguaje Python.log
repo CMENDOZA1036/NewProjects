@@ -1,0 +1,14 @@
+[Info  - 5:02:36 PM] (8108) Pylance language server 2022.12.20 (pyright 621d886b) starting
+[Info  - 5:02:36 PM] (8108) Server root directory: /home/cmendoza/.vscode-server/extensions/ms-python.vscode-pylance-2022.12.20/dist
+[Info  - 5:02:36 PM] (8108) Starting service instance "Projects"
+[Info  - 5:02:36 PM] (8108) Notebook support: LSP
+[Info  - 5:02:36 PM] (8108) Interactive window support: LSP
+[Info  - 5:02:36 PM] (8108) No configuration file found.
+[Info  - 5:02:36 PM] (8108) No pyproject.toml file found.
+[Info  - 5:02:36 PM] (8108) Setting pythonPath for service "Projects": "C:/Users/admin/AppData/Local/Programs/Python/Python310/python.exe"
+[Warn  - 5:02:36 PM] (8108) stubPath /home/cmendoza/Projects/typings is not a valid directory.
+[Info  - 5:02:36 PM] (8108) Assuming Python platform Linux
+[Info  - 5:02:36 PM] (8108) Searching for source files
+[Info  - 5:02:37 PM] (8108) No source files found.
+[Info  - 5:02:37 PM] (8108) Background analysis(1) root directory: /home/cmendoza/.vscode-server/extensions/ms-python.vscode-pylance-2022.12.20/dist
+[Info  - 5:02:37 PM] (8108) Background analysis(1) started

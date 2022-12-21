@@ -1,0 +1,95 @@
+2022-11-16 15:07:07.798 [info] Extension host agent started.
+2022-11-16 15:07:08.427 [info] [127.0.0.1][765f1cf2][ManagementConnection] New connection established.
+2022-11-16 15:07:08.440 [info] [127.0.0.1][69c15dfd][ExtensionHostConnection] New connection established.
+2022-11-16 15:07:10.168 [info] [127.0.0.1][69c15dfd][ExtensionHostConnection] <1741> Launched Extension Host Process.
+2022-11-16 15:07:12.682 [info] Deleted from disk eamodio.gitlens-insiders /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.10.2605
+2022-11-16 15:07:13.734 [warning] No ptyHost heartbeat after 6 seconds
+2022-11-16 15:07:17.835 [info] Deleted from disk ms-python.vscode-pylance /home/cmendoza/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.30
+2022-11-16 15:07:17.857 [info] Deleted from disk ms-vsliveshare.vsliveshare /home/cmendoza/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5750
+2022-11-16 15:07:21.232 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2022-11-16 15:07:21.232 [info] Getting Manifest... codestream.codestream
+2022-11-16 15:07:21.233 [info] Getting Manifest... eamodio.gitlens
+2022-11-16 15:07:21.233 [info] Getting Manifest... eamodio.gitlens-insiders
+2022-11-16 15:07:21.233 [info] Getting Manifest... github.vscode-pull-request-github
+2022-11-16 15:07:21.234 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2022-11-16 15:07:21.234 [info] Getting Manifest... ms-python.python
+2022-11-16 15:07:21.234 [info] Getting Manifest... ms-python.vscode-pylance
+2022-11-16 15:07:21.234 [info] Getting Manifest... ms-toolsai.jupyter
+2022-11-16 15:07:21.234 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2022-11-16 15:07:21.234 [info] Getting Manifest... pkief.material-icon-theme
+2022-11-16 15:07:21.234 [info] Getting Manifest... wallabyjs.quokka-vscode
+2022-11-16 15:07:21.598 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2022-11-16 15:07:21.635 [info] Installing extension: codestream.codestream
+2022-11-16 15:07:22.142 [info] Installing extension: eamodio.gitlens-insiders
+2022-11-16 15:07:22.253 [info] Installing extension: eamodio.gitlens
+2022-11-16 15:07:22.376 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-es
+2022-11-16 15:07:22.378 [info] Installing extension: github.vscode-pull-request-github
+2022-11-16 15:07:22.599 [info] Installing extension: ms-python.vscode-pylance
+2022-11-16 15:07:22.617 [info] Installing extension: ms-python.python
+2022-11-16 15:07:22.923 [info] Installing extension: ms-toolsai.jupyter
+2022-11-16 15:07:23.259 [info] Installing extension: ms-toolsai.jupyter-renderers
+2022-11-16 15:07:23.262 [info] Installing extension: pkief.material-icon-theme
+2022-11-16 15:07:24.531 [info] Installing extension: wallabyjs.quokka-vscode
+2022-11-16 15:07:26.531 [info] Getting Manifest... ms-python.isort
+2022-11-16 15:07:28.596 [info] Installing extension: ms-python.isort ms-python.python
+2022-11-16 15:07:32.157 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.7c207595-579a-4082-a064-0ee377c8b75f: ms-ceintl.vscode-language-pack-es
+2022-11-16 15:07:32.174 [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.73.11020955
+2022-11-16 15:07:32.186 [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+2022-11-16 15:07:32.192 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2022-11-16 15:07:32.559 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2022-11-16 15:07:36.528 [info] Getting Manifest... ms-python.python
+2022-11-16 15:07:41.652 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.d03e0efd-aaa2-4d0a-b3ed-ea3194d35949: pkief.material-icon-theme
+2022-11-16 15:07:41.723 [info] Renamed to /home/cmendoza/.vscode-server/extensions/pkief.material-icon-theme-4.22.0
+2022-11-16 15:07:41.735 [info] Extracting completed. pkief.material-icon-theme
+2022-11-16 15:07:41.815 [info] Extension installed successfully: pkief.material-icon-theme
+2022-11-16 15:07:42.981 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.377d0e66-d8f2-4b78-9925-8b3ec7c5fcc6: github.vscode-pull-request-github
+2022-11-16 15:07:43.070 [info] Getting Manifest... ms-python.isort
+2022-11-16 15:07:43.183 [info] Renamed to /home/cmendoza/.vscode-server/extensions/github.vscode-pull-request-github-0.55.2022111609
+2022-11-16 15:07:43.246 [info] Extracting completed. github.vscode-pull-request-github
+2022-11-16 15:07:43.439 [info] Extension installed successfully: github.vscode-pull-request-github
+2022-11-16 15:07:48.769 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2022-11-16 15:07:48.771 [info] Waiting for already requested installing extension ms-python.isort ms-python.vscode-pylance
+2022-11-16 15:08:16.044 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.00ab782b-1a5a-412e-9673-e80a4b9fb3c2: ms-toolsai.jupyter-renderers
+2022-11-16 15:08:16.111 [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.12
+2022-11-16 15:08:16.160 [info] Extracting completed. ms-toolsai.jupyter-renderers
+2022-11-16 15:08:16.252 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2022-11-16 15:08:24.493 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.ba4eb51c-7495-49dd-9c79-a03ed28109df: eamodio.gitlens
+2022-11-16 15:08:24.562 [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-13.0.4
+2022-11-16 15:08:24.586 [info] Extracting completed. eamodio.gitlens
+2022-11-16 15:08:24.600 [info] Extension installed successfully: eamodio.gitlens
+2022-11-16 15:08:25.024 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.35fa6a19-5e72-45c0-92de-319bf676aa41: eamodio.gitlens-insiders
+2022-11-16 15:08:25.090 [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.11.1604
+2022-11-16 15:08:25.116 [info] Extracting completed. eamodio.gitlens-insiders
+2022-11-16 15:08:25.125 [info] Extension installed successfully: eamodio.gitlens-insiders
+2022-11-16 15:08:33.432 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.85a9c5e9-aeaa-4ac1-8643-10e5316176bc: codestream.codestream
+2022-11-16 15:08:33.476 [info] Renamed to /home/cmendoza/.vscode-server/extensions/codestream.codestream-14.7.0
+2022-11-16 15:08:33.490 [info] Extracting completed. codestream.codestream
+2022-11-16 15:08:33.529 [info] Extension installed successfully: codestream.codestream
+2022-11-16 15:08:41.487 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.2be58629-9876-4d63-9152-d3464a900c9e: ms-toolsai.jupyter
+2022-11-16 15:08:41.546 [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-toolsai.jupyter-2022.9.1303220346
+2022-11-16 15:08:41.594 [info] Extracting completed. ms-toolsai.jupyter
+2022-11-16 15:08:41.645 [info] Extension installed successfully: ms-toolsai.jupyter
+2022-11-16 15:08:46.576 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.91d8eca9-0b9f-4846-ad09-66770cb2e3f7: wallabyjs.quokka-vscode
+2022-11-16 15:08:46.822 [info] Renamed to /home/cmendoza/.vscode-server/extensions/wallabyjs.quokka-vscode-1.0.511
+2022-11-16 15:08:46.834 [info] Extracting completed. wallabyjs.quokka-vscode
+2022-11-16 15:08:46.947 [info] Extension installed successfully: wallabyjs.quokka-vscode
+2022-11-16 15:08:49.510 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.da23344c-1b37-425b-80b5-b77292ff666e: ms-python.python
+2022-11-16 15:08:49.705 [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-python.python-2022.18.2
+2022-11-16 15:08:49.730 [info] Extracting completed. ms-python.python
+2022-11-16 15:08:54.253 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.36dcdbff-9f88-4629-88d3-688a935ff0f9: ms-python.isort
+2022-11-16 15:08:54.328 [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-python.isort-2022.8.0
+2022-11-16 15:08:54.355 [info] Extracting completed. ms-python.isort
+2022-11-16 15:08:54.357 [info] Extension installed successfully: ms-python.python
+2022-11-16 15:08:54.357 [info] Extension installed successfully: ms-python.isort
+2022-11-16 15:09:27.055 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.669f5d3e-64c6-4d59-934f-c565579b81ab: ms-python.vscode-pylance
+2022-11-16 15:09:27.731 [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.20
+2022-11-16 15:09:27.744 [info] Extracting completed. ms-python.vscode-pylance
+2022-11-16 15:09:27.982 [info] Extension installed successfully: ms-python.vscode-pylance
+2022-11-16 15:15:52.288 [info] [127.0.0.1][69c15dfd][ExtensionHostConnection] <1741> [0mGET /favicon.ico [33m404[0m 4.743 ms - 150[0m
+
+2022-11-16 15:16:40.239 [info] [127.0.0.1][69c15dfd][ExtensionHostConnection] <1741> [0mGET /cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module [33m404[0m 1.654 ms - 215[0m
+
+2022-11-16 15:18:37.991 [info] [127.0.0.1][69c15dfd][ExtensionHostConnection] <1741> [0mGET /cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module [33m404[0m 1.777 ms - 215[0m
+
+2022-11-16 17:08:02.230 [info] [127.0.0.1][765f1cf2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-11-16 17:08:03.210 [info] [127.0.0.1][69c15dfd][ExtensionHostConnection] <1741> Extension Host Process exited with code: 0, signal: null.

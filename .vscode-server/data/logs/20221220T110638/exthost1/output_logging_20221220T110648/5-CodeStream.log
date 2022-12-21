@@ -1,0 +1,56 @@
+[2022-12-20 16:07:14:313] CodeStream v14.7.0-4261 in VS Code (v1.73.1) starting...
+[2022-12-20 16:07:14:320] Proxy support is on, but no proxy url was found
+[2022-12-20 16:07:19:568] no NewRelic telemetry - The user aborted a request.
+[2022-12-20 16:07:19:639] no NewRelic telemetry
+[2022-12-20 16:07:32:046] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview
+[2022-12-20 16:07:35:803] CodeStream v14.7.0-4261 started • 23574 ms
+[2022-12-20 16:07:35:844] TokenManager.get: Checking local storage; migrate=true
+[2022-12-20 16:07:35:898] Signing alvarezmendoz@gmail.com into CodeStream (https://api.codestream.com)
+[2022-12-20 16:07:35:900] AgentConnection.sendRequest(codestream/login/token)
+[2022-12-20 16:07:36:418] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2022-12-20 16:07:36:419] [2] WebviewController.onApiVersionChanged
+[2022-12-20 16:07:36:421] [2] WebviewController.onApiVersionChanged completed • 1 ms
+[2022-12-20 16:07:36:421] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 3 ms
+[2022-12-20 16:07:42:780] [3] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-12-20 16:07:42:780] [3] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-12-20 16:07:45:555] [4] CodeStreamAgentConnection.onConnectionStatusChanged(reconnected)
+[2022-12-20 16:07:45:556] [4] CodeStreamAgentConnection.onConnectionStatusChanged(reconnected) completed • 0 ms
+[2022-12-20 16:07:46:311] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-12-20 16:07:46:311] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-12-20 16:07:49:318] [5] CodeStreamAgentConnection.onDataChanged(unreads)
+[2022-12-20 16:07:49:320] [5] CodeStreamAgentConnection.onDataChanged(unreads) completed • 2 ms
+[2022-12-20 16:07:49:322] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-12-20 16:07:51:653] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 16:07:51:697] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-12-20 16:13:04:158] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 16:13:04:362] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 16:13:04:376] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 16:13:04:884] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-12-20 16:13:12:151] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 16:13:12:152] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 16:13:12:161] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 16:13:12:236] [6] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 16:13:12:236] [6] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 16:13:18:657] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 16:13:18:683] [7] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 16:13:18:683] [7] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 16:13:18:831] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 16:13:18:842] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 16:13:19:202] [8] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 16:13:19:203] [8] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 16:13:19:946] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-12-20 16:13:20:037] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 16:13:20:062] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 16:13:20:092] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 16:13:20:318] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 16:13:20:405] [9] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 16:13:20:405] [9] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 16:13:20:408] [a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 16:13:20:409] [a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 16:13:20:413] [b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 16:13:20:414] [b] CodeStreamAgentConnection.onDataChanged(documents) completed • 1 ms
+[2022-12-20 16:13:20:820] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-12-20 16:13:21:864] [c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html)
+[2022-12-20 16:13:21:865] [c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html) completed • 0 ms
+[2022-12-20 16:13:23:097] [d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js)
+[2022-12-20 16:13:23:097] [d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js) completed • 0 ms

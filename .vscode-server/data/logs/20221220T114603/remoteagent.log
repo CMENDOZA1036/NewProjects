@@ -1,0 +1,52 @@
+2022-12-20 11:46:04.167 [info] Extension host agent started.
+2022-12-20 11:46:05.169 [info] [127.0.0.1][9c266a48][ManagementConnection] New connection established.
+2022-12-20 11:46:05.175 [info] Started initializing default profile extensions in extensions installation folder. file:///home/cmendoza/.vscode-server/extensions
+2022-12-20 11:46:05.242 [info] [127.0.0.1][91e83ec9][ExtensionHostConnection] New connection established.
+2022-12-20 11:46:06.308 [info] [127.0.0.1][91e83ec9][ExtensionHostConnection] <3243> Launched Extension Host Process.
+2022-12-20 11:46:09.840 [info] Deleted from disk codestream.codestream /home/cmendoza/.vscode-server/extensions/codestream.codestream-14.7.0
+2022-12-20 11:46:09.965 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-20 11:46:11.409 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/cmendoza/.vscode-server/extensions
+2022-12-20 11:46:17.767 [info] Deleted from disk wallabyjs.quokka-vscode /home/cmendoza/.vscode-server/extensions/wallabyjs.quokka-vscode-1.0.511
+2022-12-20 11:46:18.032 [info] Deleted from disk ms-python.vscode-pylance /home/cmendoza/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.20
+2022-12-20 11:46:19.426 [info] Deleted from disk ms-vsliveshare.vsliveshare /home/cmendoza/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5762
+2022-12-20 11:46:26.800 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2022-12-20 11:46:26.801 [info] Getting Manifest... github.vscode-pull-request-github
+2022-12-20 11:46:26.801 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2022-12-20 11:46:26.802 [info] Getting Manifest... ms-python.python
+2022-12-20 11:46:26.802 [info] Getting Manifest... ms-toolsai.jupyter
+2022-12-20 11:46:27.298 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2022-12-20 11:46:27.326 [info] Installing extension: github.vscode-pull-request-github
+2022-12-20 11:46:27.486 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-es
+2022-12-20 11:46:27.520 [info] Installing extension: ms-python.python
+2022-12-20 11:46:27.664 [info] Installing extension: ms-toolsai.jupyter
+2022-12-20 11:46:37.283 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.928641b3-939b-491d-8996-3ecd3b253ca3: github.vscode-pull-request-github
+2022-12-20 11:46:37.443 [info] Renamed to /home/cmendoza/.vscode-server/extensions/github.vscode-pull-request-github-0.57.2022121916
+2022-12-20 11:46:37.575 [info] Extracting completed. github.vscode-pull-request-github
+2022-12-20 11:46:37.614 [info] Extension installed successfully: github.vscode-pull-request-github
+2022-12-20 11:46:37.661 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.58b60f41-95cf-497e-8454-59dee987d9fa: ms-ceintl.vscode-language-pack-es
+2022-12-20 11:46:38.141 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.55.2022111609
+2022-12-20 11:46:38.142 [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.74.12140936
+2022-12-20 11:46:38.283 [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+2022-12-20 11:46:38.348 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2022-12-20 11:46:39.275 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.73.11020955
+2022-12-20 11:46:39.336 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2022-12-20 11:47:06.544 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.1fd373f8-128f-4e4c-b93d-3dab45444a83: ms-toolsai.jupyter
+2022-12-20 11:47:06.643 [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-toolsai.jupyter-2022.11.1003412109
+2022-12-20 11:47:06.783 [info] Extracting completed. ms-toolsai.jupyter
+2022-12-20 11:47:06.806 [info] Extension installed successfully: ms-toolsai.jupyter
+2022-12-20 11:47:07.213 [info] Marked extension as uninstalled ms-toolsai.jupyter-2022.9.1303220346
+2022-12-20 11:47:20.126 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.550b4751-65f7-4c0f-8f3b-ea1555ac2987: ms-python.python
+2022-12-20 11:47:20.366 [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-python.python-2022.20.1
+2022-12-20 11:47:20.393 [info] Extracting completed. ms-python.python
+2022-12-20 11:47:20.406 [info] Extension installed successfully: ms-python.python
+2022-12-20 11:47:20.646 [info] Marked extension as uninstalled ms-python.python-2022.18.2
+2022-12-20 13:55:09.241 [info] [127.0.0.1][91e83ec9][ExtensionHostConnection] The client has reconnected.
+2022-12-20 13:55:09.265 [info] [127.0.0.1][9c266a48][ManagementConnection] The client has reconnected.
+2022-12-20 16:58:42.506 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-20 16:58:53.214 [info] [127.0.0.1][9c266a48][ManagementConnection] The client has reconnected.
+2022-12-20 16:58:53.309 [info] [127.0.0.1][91e83ec9][ExtensionHostConnection] The client has reconnected.
+2022-12-20 17:20:10.702 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-20 17:20:21.048 [info] [127.0.0.1][91e83ec9][ExtensionHostConnection] The client has reconnected.
+2022-12-20 17:20:21.058 [info] [127.0.0.1][9c266a48][ManagementConnection] The client has reconnected.
+2022-12-20 18:48:27.500 [info] [127.0.0.1][9c266a48][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-20 18:48:28.745 [info] [127.0.0.1][91e83ec9][ExtensionHostConnection] <3243> Extension Host Process exited with code: 0, signal: null.

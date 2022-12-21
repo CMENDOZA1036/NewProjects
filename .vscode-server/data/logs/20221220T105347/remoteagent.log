@@ -1,0 +1,46 @@
+2022-12-20 10:53:47.935 [info] Extension host agent started.
+2022-12-20 10:53:49.252 [info] [127.0.0.1][cc8914a5][ManagementConnection] New connection established.
+2022-12-20 10:53:49.304 [info] [127.0.0.1][eae48448][ExtensionHostConnection] New connection established.
+2022-12-20 10:53:52.136 [info] [127.0.0.1][eae48448][ExtensionHostConnection] <2483> Launched Extension Host Process.
+2022-12-20 10:53:53.810 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-20 10:53:53.861 [info] Deleted from disk ms-ceintl.vscode-language-pack-es /home/cmendoza/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.72.10121011
+2022-12-20 10:53:54.169 [info] Deleted from disk pkief.material-icon-theme /home/cmendoza/.vscode-server/extensions/pkief.material-icon-theme-4.21.0
+2022-12-20 10:53:54.174 [info] Deleted from disk ms-toolsai.jupyter-renderers /home/cmendoza/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.10
+2022-12-20 10:53:56.875 [info] Deleted from disk eamodio.gitlens /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-13.0.3
+2022-12-20 10:53:56.878 [info] Deleted from disk codestream.codestream /home/cmendoza/.vscode-server/extensions/codestream.codestream-14.4.0
+2022-12-20 10:53:56.883 [info] Deleted from disk github.vscode-pull-request-github /home/cmendoza/.vscode-server/extensions/github.vscode-pull-request-github-0.53.2022101809
+2022-12-20 10:53:56.887 [info] Deleted from disk eamodio.gitlens-insiders /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.11.305
+2022-12-20 10:54:03.991 [info] Deleted from disk ms-toolsai.jupyter /home/cmendoza/.vscode-server/extensions/ms-toolsai.jupyter-2022.9.1202862440
+2022-12-20 10:54:08.986 [info] Deleted from disk wallabyjs.quokka-vscode /home/cmendoza/.vscode-server/extensions/wallabyjs.quokka-vscode-1.0.508
+2022-12-20 10:54:09.088 [info] Deleted from disk ms-python.vscode-pylance /home/cmendoza/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.10
+2022-12-20 10:54:09.375 [info] Deleted from disk ms-python.python /home/cmendoza/.vscode-server/extensions/ms-python.python-2022.16.1
+2022-12-20 10:54:12.955 [info] Getting Manifest... christian-kohler.path-intellisense
+2022-12-20 10:54:12.956 [info] Getting Manifest... codestream.codestream
+2022-12-20 10:54:12.956 [info] Getting Manifest... eamodio.gitlens
+2022-12-20 10:54:12.956 [info] Getting Manifest... eamodio.gitlens-insiders
+2022-12-20 10:54:12.957 [info] Getting Manifest... esbenp.prettier-vscode
+2022-12-20 10:54:12.957 [info] Getting Manifest... ms-python.vscode-pylance
+2022-12-20 10:54:12.957 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2022-12-20 10:54:12.957 [info] Getting Manifest... pkief.material-icon-theme
+2022-12-20 10:54:12.958 [info] Getting Manifest... syler.sass-indented
+2022-12-20 10:54:12.958 [info] Getting Manifest... wallabyjs.quokka-vscode
+2022-12-20 10:54:13.497 [info] Installing extension: christian-kohler.path-intellisense
+2022-12-20 10:54:13.519 [info] Installing extension: codestream.codestream
+2022-12-20 10:54:14.096 [info] Installing extension: eamodio.gitlens
+2022-12-20 10:54:14.138 [info] Installing extension: ms-python.vscode-pylance
+2022-12-20 10:54:14.344 [info] Installing extension: esbenp.prettier-vscode
+2022-12-20 10:54:14.381 [info] Installing extension: pkief.material-icon-theme
+2022-12-20 10:54:14.656 [info] Installing extension: syler.sass-indented
+2022-12-20 10:54:15.174 [info] Installing extension: eamodio.gitlens-insiders
+2022-12-20 10:54:15.181 [info] Installing extension: wallabyjs.quokka-vscode
+2022-12-20 10:54:20.081 [info] Installing extension: ms-vsliveshare.vsliveshare
+2022-12-20 10:54:28.634 [info] Getting Manifest... ms-python.python
+2022-12-20 10:54:30.035 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.748ea34e-19c6-48be-bc9d-3b9bddc994b2: christian-kohler.path-intellisense
+2022-12-20 10:54:30.100 [info] Renamed to /home/cmendoza/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.4
+2022-12-20 10:54:30.150 [info] Extracting completed. christian-kohler.path-intellisense
+2022-12-20 10:54:30.169 [info] Extension installed successfully: christian-kohler.path-intellisense
+2022-12-20 10:54:30.303 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.a6ce924d-6253-4b00-bcd7-a4f19dbbc006: syler.sass-indented
+2022-12-20 10:54:30.784 [info] Renamed to /home/cmendoza/.vscode-server/extensions/syler.sass-indented-1.8.23
+2022-12-20 10:54:30.936 [info] Extracting completed. syler.sass-indented
+2022-12-20 10:54:30.962 [info] Extension installed successfully: syler.sass-indented
+2022-12-20 10:54:32.066 [info] [127.0.0.1][cc8914a5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

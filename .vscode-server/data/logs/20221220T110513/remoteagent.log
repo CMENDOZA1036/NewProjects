@@ -1,0 +1,29 @@
+2022-12-20 11:05:13.347 [info] Extension host agent started.
+2022-12-20 11:05:13.748 [info] [127.0.0.1][9992ab9f][ManagementConnection] New connection established.
+2022-12-20 11:05:13.796 [info] [127.0.0.1][f2f722a4][ExtensionHostConnection] New connection established.
+2022-12-20 11:05:14.651 [info] [127.0.0.1][f2f722a4][ExtensionHostConnection] <2739> Launched Extension Host Process.
+2022-12-20 11:05:16.974 [info] Deleted from disk esbenp.prettier-vscode /home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.9.0
+2022-12-20 11:05:17.212 [info] Deleted from disk pkief.material-icon-theme /home/cmendoza/.vscode-server/extensions/pkief.material-icon-theme-4.22.0
+2022-12-20 11:05:23.264 [info] Getting Manifest... codestream.codestream
+2022-12-20 11:05:23.266 [info] Getting Manifest... eamodio.gitlens
+2022-12-20 11:05:23.266 [info] Getting Manifest... eamodio.gitlens-insiders
+2022-12-20 11:05:23.266 [info] Getting Manifest... ms-python.vscode-pylance
+2022-12-20 11:05:23.267 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2022-12-20 11:05:23.268 [info] Getting Manifest... wallabyjs.quokka-vscode
+2022-12-20 11:05:23.814 [info] Installing extension: codestream.codestream
+2022-12-20 11:05:24.008 [info] Installing extension: ms-python.vscode-pylance
+2022-12-20 11:05:24.381 [info] Installing extension: eamodio.gitlens
+2022-12-20 11:05:24.411 [info] Installing extension: eamodio.gitlens-insiders
+2022-12-20 11:05:24.418 [info] Installing extension: wallabyjs.quokka-vscode
+2022-12-20 11:05:24.537 [info] Installing extension: ms-vsliveshare.vsliveshare
+2022-12-20 11:05:33.171 [info] Getting Manifest... ms-python.python
+2022-12-20 11:05:52.867 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.13e71a34-90ba-42e1-8eb9-dd13c4b5a99a: eamodio.gitlens-insiders
+2022-12-20 11:05:52.981 [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.12.2004
+2022-12-20 11:05:53.034 [info] Extracting completed. eamodio.gitlens-insiders
+2022-12-20 11:05:53.085 [info] Extension installed successfully: eamodio.gitlens-insiders
+2022-12-20 11:06:04.286 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.c2814d1e-a07c-4b6d-99a3-d27c5d23fbec: eamodio.gitlens
+2022-12-20 11:06:04.369 [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-13.1.1
+2022-12-20 11:06:04.404 [info] Extracting completed. eamodio.gitlens
+2022-12-20 11:06:04.414 [info] Extension installed successfully: eamodio.gitlens
+2022-12-20 11:06:07.020 [info] [127.0.0.1][9992ab9f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-20 11:06:07.831 [info] [127.0.0.1][f2f722a4][ExtensionHostConnection] <2739> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,34 @@
+[2022-10-25 17:22:33.045] [exthost] [info] Extension host with pid 178 started
+[2022-10-25 17:22:33.121] [exthost] [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/5979ea734077970d694a454aaeeb4a4d/vscode.lock': Lock acquired.
+[2022-10-25 17:22:33.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-10-25 17:22:33.296] [exthost] [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-10-25 17:22:33.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-25 17:22:33.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-10-25 17:22:33.300] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-25 17:22:33.301] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets, startup: true, activationEvent: '*'
+[2022-10-25 17:22:33.302] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-10-25 17:22:33.313] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-10-25 17:22:33.314] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-10-25 17:22:33.315] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-10-25 17:22:33.316] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+[2022-10-25 17:22:33.317] [exthost] [info] ExtensionService#_doActivateExtension spywhere.guides, startup: true, activationEvent: '*'
+[2022-10-25 17:22:33.318] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-10-25 17:22:40.611] [exthost] [info] Not activating extension 'pranaygp.vscode-css-peek': Timed out while searching for 'workspaceContains' pattern **/*.css,**/*.scss,**/*.sass,**/*.less
+[2022-10-25 17:22:43.341] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-25 17:22:43.744] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-25 17:22:43.746] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-25 17:22:43.746] [exthost] [info] ExtensionService#_doActivateExtension CodeStream.codestream, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-25 17:22:43.747] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-25 17:22:43.748] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens-insiders, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-25 17:22:43.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-10-25 17:22:43.750] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-25 17:22:43.751] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-25 17:22:50.042] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2022-10-25 17:22:51.590] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-25 17:22:51.591] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-25 17:22:53.758] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-25 17:22:59.953] [exthost] [info] Eager extensions activated
+[2022-10-25 17:45:56.929] [exthost] [warning] TextEditor is closed/disposed
+[2022-10-25 18:18:20.753] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-25 18:18:20.756] [exthost] [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/5979ea734077970d694a454aaeeb4a4d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-25 18:18:21.219] [exthost] [info] Extension host with pid 178 exiting with code 0

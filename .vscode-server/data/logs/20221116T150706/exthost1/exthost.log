@@ -1,0 +1,141 @@
+2022-11-16 15:07:21.361 [info] Extension host with pid 1741 started
+2022-11-16 15:07:21.568 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2022-11-16 15:07:21.570 [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets, startup: true, activationEvent: '*'
+2022-11-16 15:07:21.571 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2022-11-16 15:07:21.572 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2022-11-16 15:07:21.574 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+2022-11-16 15:07:21.583 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2022-11-16 15:07:21.584 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2022-11-16 15:07:21.585 [info] ExtensionService#_doActivateExtension spywhere.guides, startup: true, activationEvent: '*'
+2022-11-16 15:07:21.586 [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+2022-11-16 15:07:29.204 [info] Not activating extension 'pranaygp.vscode-css-peek': Timed out while searching for 'workspaceContains' pattern **/*.css,**/*.scss,**/*.sass,**/*.less
+2022-11-16 15:07:29.209 [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/32df426cb7af36a347ed6120fb7ec54c/vscode.lock': Lock acquired.
+2022-11-16 15:07:30.541 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+2022-11-16 15:07:31.389 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-11-16 15:07:31.395 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-11-16 15:07:31.396 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-11-16 15:07:31.397 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-11-16 15:07:31.609 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-11-16 15:07:31.611 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-11-16 15:07:31.612 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-11-16 15:07:31.614 [info] ExtensionService#_doActivateExtension CodeStream.codestream, startup: false, activationEvent: 'onStartupFinished'
+2022-11-16 15:07:31.615 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2022-11-16 15:07:31.617 [info] ExtensionService#_doActivateExtension eamodio.gitlens-insiders, startup: false, activationEvent: 'onStartupFinished'
+2022-11-16 15:07:31.619 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2022-11-16 15:07:31.619 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2022-11-16 15:07:31.620 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2022-11-16 15:07:43.669 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2022-11-16 15:07:46.502 [info] Eager extensions activated
+2022-11-16 15:08:18.214 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2022-11-16 15:11:54.408 [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:javascript'
+2022-11-16 15:34:52.127 [warning] TextEditor is closed/disposed
+2022-11-16 16:22:46.201 [warning] TextEditor is closed/disposed
+2022-11-16 16:22:47.218 [warning] TextEditor is closed/disposed
+2022-11-16 16:22:48.661 [warning] TextEditor is closed/disposed
+2022-11-16 16:22:49.707 [warning] TextEditor is closed/disposed
+2022-11-16 16:22:51.042 [warning] TextEditor is closed/disposed
+2022-11-16 16:22:51.991 [warning] TextEditor is closed/disposed
+2022-11-16 16:22:53.442 [warning] TextEditor is closed/disposed
+2022-11-16 16:22:55.588 [warning] TextEditor is closed/disposed
+2022-11-16 16:25:10.381 [warning] TextEditor is closed/disposed
+2022-11-16 16:25:53.491 [warning] TextEditor is closed/disposed
+2022-11-16 16:25:56.203 [warning] TextEditor is closed/disposed
+2022-11-16 16:25:57.698 [warning] TextEditor is closed/disposed
+2022-11-16 16:25:59.156 [warning] TextEditor is closed/disposed
+2022-11-16 16:26:01.338 [warning] TextEditor is closed/disposed
+2022-11-16 16:26:04.025 [warning] TextEditor is closed/disposed
+2022-11-16 16:26:55.618 [warning] TextEditor is closed/disposed
+2022-11-16 16:26:57.321 [warning] TextEditor is closed/disposed
+2022-11-16 16:27:02.227 [warning] TextEditor is closed/disposed
+2022-11-16 16:27:04.456 [warning] TextEditor is closed/disposed
+2022-11-16 16:27:09.343 [warning] TextEditor is closed/disposed
+2022-11-16 16:27:11.173 [warning] TextEditor is closed/disposed
+2022-11-16 16:27:14.375 [warning] TextEditor is closed/disposed
+2022-11-16 16:27:17.424 [warning] TextEditor is closed/disposed
+2022-11-16 16:27:19.138 [warning] TextEditor is closed/disposed
+2022-11-16 16:30:28.502 [warning] TextEditor is closed/disposed
+2022-11-16 16:31:42.840 [warning] TextEditor is closed/disposed
+2022-11-16 16:32:10.214 [warning] TextEditor is closed/disposed
+2022-11-16 16:32:21.677 [warning] TextEditor is closed/disposed
+2022-11-16 16:32:28.228 [warning] TextEditor is closed/disposed
+2022-11-16 16:32:33.375 [warning] TextEditor is closed/disposed
+2022-11-16 16:32:34.418 [warning] TextEditor is closed/disposed
+2022-11-16 16:32:35.196 [warning] TextEditor is closed/disposed
+2022-11-16 16:32:36.836 [warning] TextEditor is closed/disposed
+2022-11-16 16:32:38.619 [warning] TextEditor is closed/disposed
+2022-11-16 16:32:40.066 [warning] TextEditor is closed/disposed
+2022-11-16 16:32:41.578 [warning] TextEditor is closed/disposed
+2022-11-16 16:32:42.987 [warning] TextEditor is closed/disposed
+2022-11-16 16:32:44.412 [warning] TextEditor is closed/disposed
+2022-11-16 16:32:45.878 [warning] TextEditor is closed/disposed
+2022-11-16 16:33:07.523 [warning] TextEditor is closed/disposed
+2022-11-16 16:33:14.306 [warning] TextEditor is closed/disposed
+2022-11-16 16:33:15.164 [warning] TextEditor is closed/disposed
+2022-11-16 16:33:16.670 [warning] TextEditor is closed/disposed
+2022-11-16 16:33:18.840 [warning] TextEditor is closed/disposed
+2022-11-16 16:33:39.471 [warning] TextEditor is closed/disposed
+2022-11-16 16:35:23.348 [warning] TextEditor is closed/disposed
+2022-11-16 16:35:24.622 [warning] TextEditor is closed/disposed
+2022-11-16 16:35:26.501 [warning] TextEditor is closed/disposed
+2022-11-16 16:35:30.142 [warning] TextEditor is closed/disposed
+2022-11-16 16:36:44.538 [warning] TextEditor is closed/disposed
+2022-11-16 16:36:48.921 [warning] TextEditor is closed/disposed
+2022-11-16 16:37:04.677 [warning] TextEditor is closed/disposed
+2022-11-16 16:37:06.891 [warning] TextEditor is closed/disposed
+2022-11-16 16:37:11.467 [warning] TextEditor is closed/disposed
+2022-11-16 16:37:14.214 [warning] TextEditor is closed/disposed
+2022-11-16 16:37:15.122 [warning] TextEditor is closed/disposed
+2022-11-16 16:37:16.021 [warning] TextEditor is closed/disposed
+2022-11-16 16:37:17.218 [warning] TextEditor is closed/disposed
+2022-11-16 16:38:30.589 [warning] TextEditor is closed/disposed
+2022-11-16 16:38:36.401 [warning] TextEditor is closed/disposed
+2022-11-16 16:38:37.851 [warning] TextEditor is closed/disposed
+2022-11-16 16:38:41.091 [warning] TextEditor is closed/disposed
+2022-11-16 16:38:47.738 [warning] TextEditor is closed/disposed
+2022-11-16 16:40:03.334 [error] Error: Illegal value for `line`
+    at E._lineAt (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:91:1174)
+    at Object.lineAt (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:91:95)
+    at GuidesController.updateSelection (/home/cmendoza/.vscode-server/extensions/spywhere.guides-0.9.3/out/extension.js:45:51)
+    at GuidesController.<anonymous> (/home/cmendoza/.vscode-server/extensions/spywhere.guides-0.9.3/out/extension.js:17:70)
+    at h.invoke (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at g.fire (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at S.$acceptEditorPropertiesChanged (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:94:180507)
+    at l._doInvokeHandler (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:102:13680)
+    at l._invokeHandler (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:102:13362)
+    at l._receiveRequest (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:102:12132)
+    at l._receiveOneMessage (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:102:10834)
+    at /home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:102:8941
+    at h.invoke (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at g.fire (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at r.fire (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+    at /home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:118:17104
+    at h.invoke (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at g.fire (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at r.fire (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+    at o._receiveMessage (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:70:21327)
+    at /home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:70:18770
+    at h.invoke (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at g.fire (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at g.acceptChunk (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:70:13346)
+    at /home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:70:12476
+    at h.invoke (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at g.fire (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at g._processReadQueue (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:70:32036)
+    at g.acceptFrame (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:70:31692)
+    at h._acceptChunk (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:70:29656)
+    at /home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:70:26841
+    at Socket.i (/home/cmendoza/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/workbench/api/node/extensionHostProcess.js:70:24594)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-11-16 16:58:31.351 [warning] TextEditor is closed/disposed
+2022-11-16 17:08:02.234 [info] Extension host terminating: received terminate message from renderer
+2022-11-16 17:08:02.240 [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/32df426cb7af36a347ed6120fb7ec54c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-11-16 17:08:03.019 [info] Extension host with pid 1741 exiting with code 0

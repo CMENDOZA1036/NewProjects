@@ -1,0 +1,124 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@8.18.0
+2 info using node@v18.8.0
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/usr/local/lib/node_modules/npm/npmrc Completed in 5ms
+6 timing config:load:builtin Completed in 6ms
+7 timing config:load:cli Completed in 5ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:project Completed in 17ms
+10 timing config:load:file:/home/cmendoza/.npmrc Completed in 1ms
+11 timing config:load:user Completed in 1ms
+12 timing config:load:file:/usr/local/etc/npmrc Completed in 0ms
+13 timing config:load:global Completed in 1ms
+14 timing config:load:validate Completed in 0ms
+15 timing config:load:credentials Completed in 5ms
+16 timing config:load:setEnvs Completed in 1ms
+17 timing config:load Completed in 39ms
+18 timing npm:load:configload Completed in 39ms
+19 timing npm:load:mkdirpcache Completed in 3ms
+20 timing npm:load:mkdirplogs Completed in 1ms
+21 verbose title npm install node-fetch
+22 verbose argv "install" "node-fetch"
+23 timing npm:load:setTitle Completed in 3ms
+24 timing config:load:flatten Completed in 4ms
+25 timing npm:load:display Completed in 7ms
+26 verbose logfile logs-max:10 dir:/home/cmendoza/.npm/_logs
+27 verbose logfile /home/cmendoza/.npm/_logs/2022-11-16T20_51_48_984Z-debug-0.log
+28 timing npm:load:logFile Completed in 9ms
+29 timing npm:load:timers Completed in 0ms
+30 timing npm:load:configScope Completed in 0ms
+31 timing npm:load Completed in 64ms
+32 timing arborist:ctor Completed in 1ms
+33 silly logfile start cleaning logs, removing 1 files
+34 silly logfile done cleaning log files
+35 timing idealTree:init Completed in 39ms
+36 timing idealTree:userRequests Completed in 7ms
+37 silly idealTree buildDeps
+38 silly fetch manifest node-fetch@*
+39 timing arborist:ctor Completed in 0ms
+40 http fetch GET 200 https://registry.npmjs.org/node-fetch 541ms (cache miss)
+41 silly placeDep ROOT node-fetch@3.3.0 OK for:  want: *
+42 silly fetch manifest data-uri-to-buffer@^4.0.0
+43 silly fetch manifest fetch-blob@^3.1.4
+44 silly fetch manifest formdata-polyfill@^4.0.10
+45 http fetch GET 200 https://registry.npmjs.org/data-uri-to-buffer 114ms (cache miss)
+46 http fetch GET 200 https://registry.npmjs.org/fetch-blob 129ms (cache miss)
+47 http fetch GET 200 https://registry.npmjs.org/formdata-polyfill 132ms (cache miss)
+48 timing idealTree:#root Completed in 707ms
+49 silly placeDep ROOT data-uri-to-buffer@4.0.0 OK for: node-fetch@3.3.0 want: ^4.0.0
+50 silly placeDep ROOT fetch-blob@3.2.0 OK for: node-fetch@3.3.0 want: ^3.1.4
+51 silly placeDep ROOT formdata-polyfill@4.0.10 OK for: node-fetch@3.3.0 want: ^4.0.10
+52 silly fetch manifest node-domexception@^1.0.0
+53 silly fetch manifest web-streams-polyfill@^3.0.3
+54 http fetch GET 200 https://registry.npmjs.org/node-domexception 118ms (cache miss)
+55 http fetch GET 200 https://registry.npmjs.org/web-streams-polyfill 120ms (cache miss)
+56 timing idealTree:node_modules/node-fetch Completed in 134ms
+57 timing idealTree:node_modules/data-uri-to-buffer Completed in 0ms
+58 silly placeDep ROOT node-domexception@1.0.0 OK for: fetch-blob@3.2.0 want: ^1.0.0
+59 silly placeDep ROOT web-streams-polyfill@3.2.1 OK for: fetch-blob@3.2.0 want: ^3.0.3
+60 timing idealTree:node_modules/fetch-blob Completed in 7ms
+61 timing idealTree:node_modules/formdata-polyfill Completed in 0ms
+62 timing idealTree:node_modules/node-domexception Completed in 0ms
+63 timing idealTree:node_modules/web-streams-polyfill Completed in 0ms
+64 timing idealTree:buildDeps Completed in 852ms
+65 timing idealTree:fixDepFlags Completed in 1ms
+66 timing idealTree Completed in 913ms
+67 timing reify:loadTrees Completed in 913ms
+68 timing reify:diffTrees Completed in 4ms
+69 silly reify moves {}
+70 timing reify:retireShallow Completed in 3ms
+71 timing reify:createSparse Completed in 6ms
+72 timing reify:loadBundles Completed in 0ms
+73 silly audit bulk request {
+73 silly audit   sweetalert2: [ '11.4.23' ],
+73 silly audit   'node-fetch': [ '3.3.0' ],
+73 silly audit   'data-uri-to-buffer': [ '4.0.0' ],
+73 silly audit   'fetch-blob': [ '3.2.0' ],
+73 silly audit   'formdata-polyfill': [ '4.0.10' ],
+73 silly audit   'node-domexception': [ '1.0.0' ],
+73 silly audit   'web-streams-polyfill': [ '3.2.1' ]
+73 silly audit }
+74 silly tarball no local data for web-streams-polyfill@https://registry.npmjs.org/web-streams-polyfill/-/web-streams-polyfill-3.2.1.tgz. Extracting by manifest.
+75 silly tarball no local data for formdata-polyfill@https://registry.npmjs.org/formdata-polyfill/-/formdata-polyfill-4.0.10.tgz. Extracting by manifest.
+76 silly tarball no local data for data-uri-to-buffer@https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-4.0.0.tgz. Extracting by manifest.
+77 silly tarball no local data for fetch-blob@https://registry.npmjs.org/fetch-blob/-/fetch-blob-3.2.0.tgz. Extracting by manifest.
+78 silly tarball no local data for node-domexception@https://registry.npmjs.org/node-domexception/-/node-domexception-1.0.0.tgz. Extracting by manifest.
+79 silly tarball no local data for node-fetch@https://registry.npmjs.org/node-fetch/-/node-fetch-3.3.0.tgz. Extracting by manifest.
+80 http fetch GET 200 https://registry.npmjs.org/formdata-polyfill/-/formdata-polyfill-4.0.10.tgz 176ms (cache miss)
+81 timing reifyNode:node_modules/formdata-polyfill Completed in 194ms
+82 http fetch GET 200 https://registry.npmjs.org/fetch-blob/-/fetch-blob-3.2.0.tgz 232ms (cache miss)
+83 timing reifyNode:node_modules/fetch-blob Completed in 255ms
+84 http fetch GET 200 https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-4.0.0.tgz 283ms (cache miss)
+85 timing reifyNode:node_modules/data-uri-to-buffer Completed in 315ms
+86 http fetch GET 200 https://registry.npmjs.org/node-domexception/-/node-domexception-1.0.0.tgz 324ms (cache miss)
+87 timing reifyNode:node_modules/node-domexception Completed in 357ms
+88 http fetch GET 200 https://registry.npmjs.org/node-fetch/-/node-fetch-3.3.0.tgz 348ms (cache miss)
+89 timing reifyNode:node_modules/node-fetch Completed in 375ms
+90 http fetch GET 200 https://registry.npmjs.org/web-streams-polyfill/-/web-streams-polyfill-3.2.1.tgz 533ms (cache miss)
+91 timing reifyNode:node_modules/web-streams-polyfill Completed in 548ms
+92 timing reify:unpack Completed in 548ms
+93 timing reify:unretire Completed in 0ms
+94 timing build:queue Completed in 3ms
+95 timing build:deps Completed in 5ms
+96 timing build Completed in 5ms
+97 timing reify:build Completed in 5ms
+98 timing reify:trash Completed in 0ms
+99 timing reify:save Completed in 18ms
+100 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 860ms
+101 timing auditReport:getReport Completed in 864ms
+102 silly audit report {}
+103 timing auditReport:init Completed in 0ms
+104 timing reify:audit Completed in 868ms
+105 timing reify Completed in 1818ms
+106 silly ADD node_modules/web-streams-polyfill
+107 silly ADD node_modules/node-domexception
+108 silly ADD node_modules/formdata-polyfill
+109 silly ADD node_modules/fetch-blob
+110 silly ADD node_modules/data-uri-to-buffer
+111 silly ADD node_modules/node-fetch
+112 timing command:install Completed in 1841ms
+113 verbose exit 0
+114 timing npm Completed in 2160ms
+115 info ok

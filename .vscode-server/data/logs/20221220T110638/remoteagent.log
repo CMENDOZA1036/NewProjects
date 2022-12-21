@@ -1,0 +1,33 @@
+2022-12-20 11:06:38.648 [info] Extension host agent started.
+2022-12-20 11:06:39.137 [info] [127.0.0.1][6da6d566][ManagementConnection] New connection established.
+2022-12-20 11:06:39.264 [info] [127.0.0.1][044648d1][ExtensionHostConnection] New connection established.
+2022-12-20 11:06:40.359 [info] [127.0.0.1][044648d1][ExtensionHostConnection] <2933> Launched Extension Host Process.
+2022-12-20 11:06:43.415 [info] Deleted from disk eamodio.gitlens /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-13.0.4
+2022-12-20 11:06:43.722 [info] Deleted from disk eamodio.gitlens-insiders /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.11.1604
+2022-12-20 11:06:49.086 [info] Getting Manifest... codestream.codestream
+2022-12-20 11:06:49.087 [info] Getting Manifest... ms-python.vscode-pylance
+2022-12-20 11:06:49.087 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2022-12-20 11:06:49.088 [info] Getting Manifest... wallabyjs.quokka-vscode
+2022-12-20 11:06:49.466 [info] Installing extension: codestream.codestream
+2022-12-20 11:06:49.543 [info] Installing extension: ms-python.vscode-pylance
+2022-12-20 11:06:49.778 [info] Installing extension: ms-vsliveshare.vsliveshare
+2022-12-20 11:06:49.786 [info] Installing extension: wallabyjs.quokka-vscode
+2022-12-20 11:06:53.442 [info] Getting Manifest... ms-python.python
+2022-12-20 11:07:43.952 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.f9d295d3-57fe-471c-a86c-6f0f9e0f9cc0: ms-vsliveshare.vsliveshare
+2022-12-20 11:07:44.110 [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5788
+2022-12-20 11:07:44.231 [info] Extracting completed. ms-vsliveshare.vsliveshare
+2022-12-20 11:07:44.257 [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+2022-12-20 11:07:47.397 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.464d0e71-71d1-4a48-b849-27ec6e53d39c: codestream.codestream
+2022-12-20 11:07:47.487 [info] Renamed to /home/cmendoza/.vscode-server/extensions/codestream.codestream-14.11.0
+2022-12-20 11:07:47.534 [info] Extracting completed. codestream.codestream
+2022-12-20 11:07:47.550 [info] Extension installed successfully: codestream.codestream
+2022-12-20 11:08:15.402 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.829baa7a-f0e2-407b-8284-02c7d12c95ac: wallabyjs.quokka-vscode
+2022-12-20 11:08:16.109 [info] Renamed to /home/cmendoza/.vscode-server/extensions/wallabyjs.quokka-vscode-1.0.519
+2022-12-20 11:08:16.134 [info] Extracting completed. wallabyjs.quokka-vscode
+2022-12-20 11:08:16.141 [info] Extension installed successfully: wallabyjs.quokka-vscode
+2022-12-20 11:08:43.027 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.d490c2a1-5f0b-4c2c-a48a-18cb7b3878ae: ms-python.vscode-pylance
+2022-12-20 11:08:43.785 [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-python.vscode-pylance-2022.12.20
+2022-12-20 11:08:43.815 [info] Extracting completed. ms-python.vscode-pylance
+2022-12-20 11:08:43.964 [info] Extension installed successfully: ms-python.vscode-pylance
+2022-12-20 11:40:48.643 [info] [127.0.0.1][6da6d566][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-20 11:40:49.386 [info] [127.0.0.1][044648d1][ExtensionHostConnection] <2933> Extension Host Process exited with code: 0, signal: null.

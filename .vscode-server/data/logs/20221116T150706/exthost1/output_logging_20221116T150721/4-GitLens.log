@@ -1,0 +1,2 @@
+[2022-11-16 20:07:38.391] [GIT  ] [/home] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 541 ms (slow)
+

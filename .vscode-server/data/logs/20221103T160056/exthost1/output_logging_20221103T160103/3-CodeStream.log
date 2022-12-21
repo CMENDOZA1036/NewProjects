@@ -1,0 +1,479 @@
+[2022-11-03 21:01:20:760] CodeStream v14.4.0-4250 in VS Code (v1.72.2) starting...
+[2022-11-03 21:01:20:762] Proxy support is on, but no proxy url was found
+[2022-11-03 21:01:25:764] no NewRelic telemetry - The user aborted a request.
+[2022-11-03 21:01:25:777] no NewRelic telemetry
+[2022-11-03 21:01:29:898] CodeStream v14.4.0-4250 started • 10835 ms
+[2022-11-03 21:01:29:907] Signing alvarezmendoz@gmail.com into CodeStream (https://api.codestream.com)
+[2022-11-03 21:01:29:907] AgentConnection.sendRequest(codestream/login/token)
+[2022-11-03 21:01:35:197] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2022-11-03 21:01:35:197] [2] WebviewController.onApiVersionChanged
+[2022-11-03 21:01:35:198] [2] WebviewController.onApiVersionChanged completed • 0 ms
+[2022-11-03 21:01:35:198] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 1 ms
+[2022-11-03 21:01:36:957] [3] CodeStreamAgentConnection.onDataChanged(unreads)
+[2022-11-03 21:01:36:958] [3] CodeStreamAgentConnection.onDataChanged(unreads) completed • 0 ms
+[2022-11-03 21:01:37:884] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-11-03 21:01:37:885] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-11-03 21:01:38:052] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:01:38:248] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-11-03 21:01:38:254] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-11-03 21:02:32:135] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview
+[2022-11-03 21:02:32:162] [4] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:02:32:163] [4] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:02:32:637] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:02:53:559] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:02:53:599] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:02:53:974] [5] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:02:53:974] [5] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:02:54:065] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:02:56:563] [6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:02:56:564] [6] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 1 ms
+[2022-11-03 21:02:56:564] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:02:56:565] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:03:26:433] [7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:03:26:434] [7] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 1 ms
+[2022-11-03 21:03:26:435] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:03:26:435] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:03:41:437] [8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:03:41:438] [8] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:03:41:438] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:03:41:439] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:03:50:926] [9] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:03:50:926] [9] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:03:50:926] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:03:50:926] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:03:58:233] [a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:03:58:234] [a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:03:58:234] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:03:58:234] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:04:03:932] [b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:04:03:933] [b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:04:03:933] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:04:03:933] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:04:08:050] [c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:04:08:050] [c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:04:08:051] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:04:08:051] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:04:13:997] [d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:04:13:998] [d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:04:13:998] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:04:13:998] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:04:30:866] [e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:04:30:867] [e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:04:30:867] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:04:30:867] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:04:44:142] [f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:04:44:142] [f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:04:44:143] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:04:44:143] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:04:53:286] [10] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:04:53:288] [10] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 1 ms
+[2022-11-03 21:04:53:288] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:04:53:289] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:05:04:012] [11] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:05:04:012] [11] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:05:04:013] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:05:04:013] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:05:26:349] [12] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:05:26:350] [12] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:05:26:350] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:05:26:350] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:05:29:353] [13] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:05:29:353] [13] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:05:29:354] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:05:29:354] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:05:43:025] [14] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:05:43:026] [14] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:05:43:026] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:05:43:026] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:05:51:639] [15] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:05:51:640] [15] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:05:51:640] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:05:51:641] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:06:06:352] [16] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:06:06:352] [16] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:06:06:352] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:06:06:352] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:06:08:149] [17] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:06:08:150] [17] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:06:30:651] [18] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:06:30:652] [18] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:06:30:652] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:06:30:652] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:06:36:594] [19] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:06:36:594] [19] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:06:36:594] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:06:36:594] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:06:42:600] [1a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:06:42:600] [1a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:06:42:601] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:06:42:601] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:06:54:799] [1b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:06:54:800] [1b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:06:54:800] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:06:54:800] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:07:34:650] [1c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:07:34:651] [1c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:07:34:651] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:07:34:651] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:07:47:012] [1d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:07:47:012] [1d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:07:47:012] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:07:47:012] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:07:56:701] [1e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js)
+[2022-11-03 21:07:56:701] [1e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js) completed • 0 ms
+[2022-11-03 21:07:56:701] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:07:56:702] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:08:56:951] [1f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:08:56:952] [1f] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:09:36:350] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:09:36:387] [20] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:09:36:387] [20] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:09:36:853] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:10:25:963] [21] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:10:25:964] [21] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:10:26:044] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:10:26:066] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:10:26:550] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:10:28:956] [22] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js)
+[2022-11-03 21:10:28:959] [22] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js) completed • 2 ms
+[2022-11-03 21:10:28:959] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:10:28:960] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:11:24:118] [23] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js)
+[2022-11-03 21:11:24:120] [23] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js) completed • 1 ms
+[2022-11-03 21:11:24:120] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:11:24:121] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:14:21:568] [24] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:14:21:568] [24] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:14:21:570] [25] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:14:21:570] [25] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:14:24:570] [26] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/extensions/node_modules/typescript/lib/lib.dom.d.ts)
+[2022-11-03 21:14:24:570] [26] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/extensions/node_modules/typescript/lib/lib.dom.d.ts) completed • 0 ms
+[2022-11-03 21:14:29:244] [27] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js)
+[2022-11-03 21:14:29:244] [27] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js) completed • 0 ms
+[2022-11-03 21:14:29:244] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:14:29:244] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:14:45:502] [28] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js)
+[2022-11-03 21:14:45:503] [28] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js) completed • 0 ms
+[2022-11-03 21:14:45:503] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:14:45:503] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:15:09:405] [29] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js)
+[2022-11-03 21:15:09:407] [29] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js) completed • 1 ms
+[2022-11-03 21:15:09:409] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:15:09:410] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:15:23:589] [2a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js)
+[2022-11-03 21:15:23:589] [2a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js) completed • 0 ms
+[2022-11-03 21:15:23:590] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:15:23:591] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:15:24:243] [2b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:15:24:243] [2b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:15:24:244] [2c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:15:24:244] [2c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:15:27:245] [2d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/extensions/node_modules/typescript/lib/lib.dom.d.ts)
+[2022-11-03 21:15:27:246] [2d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/extensions/node_modules/typescript/lib/lib.dom.d.ts) completed • 0 ms
+[2022-11-03 21:15:38:882] [2e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js)
+[2022-11-03 21:15:38:882] [2e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js) completed • 0 ms
+[2022-11-03 21:15:38:882] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:15:38:883] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:15:50:187] [2f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js)
+[2022-11-03 21:15:50:187] [2f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js) completed • 0 ms
+[2022-11-03 21:15:50:187] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:15:50:187] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:15:51:299] [30] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:15:51:300] [30] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:15:51:310] [31] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:15:51:311] [31] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:15:54:251] [32] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/extensions/node_modules/typescript/lib/lib.dom.d.ts)
+[2022-11-03 21:15:54:252] [32] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/extensions/node_modules/typescript/lib/lib.dom.d.ts) completed • 1 ms
+[2022-11-03 21:16:05:585] [33] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js)
+[2022-11-03 21:16:05:586] [33] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js) completed • 0 ms
+[2022-11-03 21:16:05:587] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:16:05:587] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:16:19:434] [34] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js)
+[2022-11-03 21:16:19:434] [34] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js) completed • 0 ms
+[2022-11-03 21:16:19:435] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:16:19:435] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:16:35:279] [35] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js)
+[2022-11-03 21:16:35:280] [35] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js) completed • 1 ms
+[2022-11-03 21:16:35:281] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:16:35:281] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:17:56:977] [36] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:17:56:977] [36] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:18:07:718] [37] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js)
+[2022-11-03 21:18:07:719] [37] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js) completed • 0 ms
+[2022-11-03 21:18:07:719] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:18:07:719] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:18:13:304] [38] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js)
+[2022-11-03 21:18:13:304] [38] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js) completed • 0 ms
+[2022-11-03 21:18:13:304] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:18:13:305] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:18:23:484] [39] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:18:23:485] [39] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:18:26:801] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:18:26:822] [3a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:18:26:823] [3a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:18:27:306] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:18:44:896] [3b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:18:44:896] [3b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:18:45:045] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:18:45:110] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:18:45:551] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:18:47:896] [3c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:18:47:897] [3c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:18:47:897] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:18:47:897] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:19:05:610] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:24:05:473] [3d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:24:05:474] [3d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:24:05:475] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:24:05:476] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:24:53:812] [3e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:24:53:812] [3e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:24:53:812] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:24:53:812] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:24:59:473] [3f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:24:59:473] [3f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:24:59:474] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:24:59:474] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:25:29:346] [40] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:25:29:346] [40] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:25:29:346] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:25:29:346] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:25:33:596] [41] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:25:33:596] [41] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:25:33:596] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:25:33:596] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:25:49:311] [42] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:25:49:311] [42] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:25:49:312] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:25:49:312] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:26:00:952] [43] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:26:00:952] [43] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:26:00:952] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:26:00:952] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:26:15:720] [44] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:26:15:720] [44] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:26:15:721] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:26:15:724] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:26:24:577] [45] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:26:24:577] [45] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:26:24:577] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:26:24:577] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:26:36:946] [46] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:26:36:946] [46] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:26:36:947] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:26:36:947] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:26:51:948] [47] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:26:51:949] [47] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:26:51:949] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:26:51:949] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:26:55:470] [48] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:26:55:470] [48] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:26:55:470] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:26:55:470] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:27:00:198] [49] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:27:00:199] [49] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:27:00:199] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:27:00:200] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:27:14:426] [4a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:27:14:427] [4a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:27:14:427] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:27:14:427] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:27:20:803] [4b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js)
+[2022-11-03 21:27:20:804] [4b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js) completed • 0 ms
+[2022-11-03 21:27:20:804] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:27:20:804] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:27:23:114] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:28:01:086] [4c] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:28:01:086] [4c] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:28:19:053] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:28:19:088] [4d] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:28:19:089] [4d] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:28:19:558] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:28:40:928] [4e] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:28:40:928] [4e] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:28:41:033] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:28:41:079] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:28:41:539] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:28:43:928] [4f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js)
+[2022-11-03 21:28:43:929] [4f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js) completed • 0 ms
+[2022-11-03 21:28:43:929] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:28:43:929] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:31:16:850] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:16:915] [50] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:31:16:915] [50] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:31:17:011] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:17:032] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:31:17:517] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:19:915] [51] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js)
+[2022-11-03 21:31:19:915] [51] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js) completed • 0 ms
+[2022-11-03 21:31:19:915] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:31:19:915] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:31:25:001] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:25:670] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:25:673] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:25:685] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:31:25:852] [52] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:31:25:853] [52] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:31:26:285] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:28:068] [53] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html)
+[2022-11-03 21:31:28:068] [53] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html) completed • 0 ms
+[2022-11-03 21:31:28:068] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:31:28:068] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:31:29:390] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:29:396] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:29:899] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:31:459] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:31:463] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:31:967] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:33:169] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:33:176] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:33:677] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:31:50:701] [54] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js)
+[2022-11-03 21:31:50:701] [54] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js) completed • 0 ms
+[2022-11-03 21:31:50:701] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:31:50:701] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:32:02:565] [55] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js)
+[2022-11-03 21:32:02:565] [55] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js) completed • 0 ms
+[2022-11-03 21:32:02:565] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:32:02:565] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:32:16:318] [56] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js)
+[2022-11-03 21:32:16:319] [56] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js) completed • 0 ms
+[2022-11-03 21:32:16:319] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:32:16:319] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:32:40:503] [57] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:32:40:503] [57] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:32:40:638] [58] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js)
+[2022-11-03 21:32:40:639] [58] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js) completed • 0 ms
+[2022-11-03 21:32:40:640] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:32:40:640] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:32:42:963] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:32:42:975] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:32:43:479] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:32:50:520] [59] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html)
+[2022-11-03 21:32:50:521] [59] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html) completed • 0 ms
+[2022-11-03 21:32:50:521] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:32:50:521] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:33:10:667] [5a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:33:10:668] [5a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:33:29:303] [5b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html)
+[2022-11-03 21:33:29:303] [5b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html) completed • 0 ms
+[2022-11-03 21:33:29:303] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:33:29:303] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:33:35:978] [5c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html)
+[2022-11-03 21:33:35:978] [5c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html) completed • 0 ms
+[2022-11-03 21:33:35:979] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:33:35:979] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:34:12:796] [5d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html)
+[2022-11-03 21:34:12:796] [5d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html) completed • 0 ms
+[2022-11-03 21:34:12:796] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:34:12:797] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:34:17:006] [5e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html)
+[2022-11-03 21:34:17:006] [5e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html) completed • 0 ms
+[2022-11-03 21:34:17:006] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:34:17:006] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:34:23:616] [5f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html)
+[2022-11-03 21:34:23:616] [5f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html) completed • 0 ms
+[2022-11-03 21:34:23:616] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:34:23:616] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:34:29:973] [60] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:34:29:974] [60] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:34:43:945] [61] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html)
+[2022-11-03 21:34:43:945] [61] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html) completed • 0 ms
+[2022-11-03 21:34:43:945] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:34:43:945] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:34:51:020] [62] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html)
+[2022-11-03 21:34:51:021] [62] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html) completed • 0 ms
+[2022-11-03 21:34:51:021] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:34:51:021] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:34:55:233] [63] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html)
+[2022-11-03 21:34:55:234] [63] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html) completed • 0 ms
+[2022-11-03 21:34:55:234] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:34:55:234] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:35:07:880] [64] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html)
+[2022-11-03 21:35:07:880] [64] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html) completed • 0 ms
+[2022-11-03 21:35:07:880] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:35:07:880] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:35:21:710] [65] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html)
+[2022-11-03 21:35:21:712] [65] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html) completed • 1 ms
+[2022-11-03 21:35:21:712] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:35:21:713] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:35:25:097] [66] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html)
+[2022-11-03 21:35:25:098] [66] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html) completed • 0 ms
+[2022-11-03 21:35:25:098] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:35:25:099] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:35:34:626] [67] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html)
+[2022-11-03 21:35:34:627] [67] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html) completed • 0 ms
+[2022-11-03 21:35:34:627] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:35:34:627] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:36:04:433] [68] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:36:04:433] [68] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:36:07:180] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:36:07:192] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:36:07:694] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:36:11:389] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:36:11:401] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:36:11:903] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:36:18:061] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:36:18:068] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:36:18:582] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:36:34:081] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:36:34:089] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:36:34:593] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-11-03 21:37:04:589] [69] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js)
+[2022-11-03 21:37:04:590] [69] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js) completed • 1 ms
+[2022-11-03 21:37:04:590] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:37:04:590] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:37:16:814] [6a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js)
+[2022-11-03 21:37:16:815] [6a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js) completed • 0 ms
+[2022-11-03 21:37:16:815] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:37:16:815] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:37:21:350] [6b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js)
+[2022-11-03 21:37:21:350] [6b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js) completed • 0 ms
+[2022-11-03 21:37:21:350] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:37:21:350] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:37:26:453] [6c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js)
+[2022-11-03 21:37:26:453] [6c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js) completed • 0 ms
+[2022-11-03 21:37:26:453] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:37:26:453] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:37:30:660] [6d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js)
+[2022-11-03 21:37:30:661] [6d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js) completed • 0 ms
+[2022-11-03 21:37:30:662] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:37:30:662] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:37:30:903] [6e] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-11-03 21:37:30:904] [6e] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-11-03 21:37:49:488] [6f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js)
+[2022-11-03 21:37:49:489] [6f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js) completed • 0 ms
+[2022-11-03 21:37:49:489] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:37:49:490] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:38:01:170] [70] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js)
+[2022-11-03 21:38:01:170] [70] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js) completed • 0 ms
+[2022-11-03 21:38:01:171] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:38:01:171] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:38:22:159] [71] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js)
+[2022-11-03 21:38:22:159] [71] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js) completed • 0 ms
+[2022-11-03 21:38:22:159] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:38:22:159] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:38:37:984] [72] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js)
+[2022-11-03 21:38:37:985] [72] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js) completed • 0 ms
+[2022-11-03 21:38:37:985] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:38:37:985] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:38:50:647] [73] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js)
+[2022-11-03 21:38:50:647] [73] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js) completed • 0 ms
+[2022-11-03 21:38:50:647] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:38:50:647] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:39:07:252] [74] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js)
+[2022-11-03 21:39:07:252] [74] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js) completed • 0 ms
+[2022-11-03 21:39:07:252] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:39:07:252] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:39:10:832] [75] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js)
+[2022-11-03 21:39:10:832] [75] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js) completed • 0 ms
+[2022-11-03 21:39:10:832] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:39:10:832] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:39:15:153] [76] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js)
+[2022-11-03 21:39:15:153] [76] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js) completed • 0 ms
+[2022-11-03 21:39:15:153] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:39:15:153] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:39:25:184] [77] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js)
+[2022-11-03 21:39:25:184] [77] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js) completed • 0 ms
+[2022-11-03 21:39:25:184] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-11-03 21:39:25:184] AgentConnection.sendRequest(codestream/textDocument/markers)

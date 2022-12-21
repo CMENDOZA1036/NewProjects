@@ -1,0 +1,595 @@
+[2022-12-20 16:46:47:490] CodeStream v14.11.0-4270 in VS Code (v1.74.1) starting...
+[2022-12-20 16:46:47:494] Proxy support is on, but no proxy url was found
+[2022-12-20 16:46:52:862] no NewRelic telemetry - The user aborted a request.
+[2022-12-20 16:46:52:886] no NewRelic telemetry
+[2022-12-20 16:47:03:342] CodeStream upgraded from v14.7.0 to v14.11.0
+[2022-12-20 16:47:03:342] CodeStream v14.11.0-4270 started • 16659 ms
+[2022-12-20 16:47:03:379] Signing alvarezmendoz@gmail.com into CodeStream (https://api.codestream.com)
+[2022-12-20 16:47:03:380] AgentConnection.sendRequest(codestream/login/token)
+[2022-12-20 16:47:04:341] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2022-12-20 16:47:04:342] [2] WebviewController.onApiVersionChanged
+[2022-12-20 16:47:04:343] [2] WebviewController.onApiVersionChanged completed • 1 ms
+[2022-12-20 16:47:04:344] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 2 ms
+[2022-12-20 16:47:06:893] [3] CodeStreamAgentConnection.onDataChanged(unreads)
+[2022-12-20 16:47:06:894] [3] CodeStreamAgentConnection.onDataChanged(unreads) completed • 0 ms
+[2022-12-20 16:47:07:391] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-12-20 16:47:07:394] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-12-20 16:47:08:311] AgentConnection.sendRequest(codestream/users/me/unreads)
+[2022-12-20 16:47:08:324] alvarezmendoz@gmail.com signed into CodeStream (https://api.codestream.com); userId=62a8af311c3021007d502dc9, teamId=62a8af3bd1bffae460f923af
+[2022-12-20 18:55:04:013] [4] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-12-20 18:55:04:014] [4] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-12-20 18:55:09:026] [5] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-12-20 18:55:09:026] [5] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-12-20 18:55:09:998] [6] CodeStreamAgentConnection.onConnectionStatusChanged(reconnected)
+[2022-12-20 18:55:10:003] [6] CodeStreamAgentConnection.onConnectionStatusChanged(reconnected) completed • 0 ms
+[2022-12-20 21:58:47:553] [7] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-12-20 21:58:47:555] [7] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 1 ms
+[2022-12-20 21:58:52:558] [8] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-12-20 21:58:52:559] [8] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-12-20 21:58:57:569] [9] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-12-20 21:58:57:569] [9] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-12-20 21:58:58:106] [a] CodeStreamAgentConnection.onConnectionStatusChanged(reconnected)
+[2022-12-20 21:58:58:107] [a] CodeStreamAgentConnection.onConnectionStatusChanged(reconnected) completed • 0 ms
+[2022-12-20 22:02:30:047] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview
+[2022-12-20 22:02:30:089] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:02:31:554] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-12-20 22:02:32:408] [b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 22:02:32:410] [b] CodeStreamAgentConnection.onDataChanged(documents) completed • 1 ms
+[2022-12-20 22:02:33:415] [c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json)
+[2022-12-20 22:02:33:417] [c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/package.json) completed • 1 ms
+[2022-12-20 22:02:33:418] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:02:33:418] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:20:15:697] [d] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-12-20 22:20:15:698] [d] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-12-20 22:20:20:698] [e] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting)
+[2022-12-20 22:20:20:698] [e] CodeStreamAgentConnection.onConnectionStatusChanged(reconnecting) completed • 0 ms
+[2022-12-20 22:20:21:216] [f] CodeStreamAgentConnection.onConnectionStatusChanged(reconnected)
+[2022-12-20 22:20:21:217] [f] CodeStreamAgentConnection.onConnectionStatusChanged(reconnected) completed • 1 ms
+[2022-12-20 22:27:36:738] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 22:27:36:794] [10] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 22:27:36:797] [10] CodeStreamAgentConnection.onDataChanged(documents) completed • 3 ms
+[2022-12-20 22:27:36:893] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 22:27:36:927] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:27:37:403] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-12-20 22:27:39:770] [11] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/.gitignore)
+[2022-12-20 22:27:39:771] [11] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/.gitignore) completed • 0 ms
+[2022-12-20 22:27:39:771] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:27:39:771] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:30:03:180] [12] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/.gitignore)
+[2022-12-20 22:30:03:181] [12] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/.gitignore) completed • 1 ms
+[2022-12-20 22:30:03:182] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:30:03:182] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:30:04:377] [13] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 22:30:04:378] [13] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 22:30:19:438] [14] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 22:30:19:438] [14] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 22:33:37:204] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 22:33:37:247] [15] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 22:33:37:248] [15] CodeStreamAgentConnection.onDataChanged(documents) completed • 1 ms
+[2022-12-20 22:33:37:707] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-12-20 22:34:41:068] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 22:34:41:098] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:34:41:659] [16] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 22:34:41:662] [16] CodeStreamAgentConnection.onDataChanged(documents) completed • 2 ms
+[2022-12-20 22:34:41:671] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-12-20 22:34:41:683] [17] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:34:41:684] [17] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 1 ms
+[2022-12-20 22:34:41:685] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:34:41:686] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:36:26:835] [18] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:36:26:836] [18] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:36:26:836] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:36:26:836] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:36:38:886] [19] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:36:38:886] [19] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:36:38:887] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:36:38:887] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:36:41:477] [1a] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 22:36:41:478] [1a] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 22:36:43:819] [1b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:36:43:820] [1b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:36:43:820] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:36:43:820] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:37:00:363] [1c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:37:00:364] [1c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:37:00:364] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:37:00:364] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:37:16:716] [1d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:37:16:716] [1d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:37:16:716] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:37:16:717] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:37:43:727] [1e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:37:43:727] [1e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:37:43:728] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:37:43:728] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:37:58:368] [1f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:37:58:369] [1f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:37:58:369] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:37:58:369] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:38:24:269] [20] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:38:24:269] [20] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:38:24:269] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:38:24:270] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:38:33:630] [21] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:38:33:630] [21] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:38:33:633] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:38:33:633] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:38:37:957] [22] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:38:37:958] [22] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:38:37:959] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:38:37:960] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:38:44:639] [23] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:38:44:640] [23] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:38:44:641] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:38:44:642] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:39:35:409] [24] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 22:39:35:410] [24] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 22:40:36:292] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 22:42:11:297] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 22:42:16:222] [25] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:42:16:222] [25] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:42:16:223] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:42:16:223] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:42:31:226] [26] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:42:31:226] [26] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:42:31:226] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:42:31:227] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:42:48:104] [27] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:42:48:105] [27] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:42:48:105] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:42:48:106] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:43:00:620] [28] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:43:00:621] [28] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:43:00:622] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:43:00:623] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:43:10:666] [29] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:43:10:666] [29] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:43:10:666] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:43:10:666] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:43:18:832] [2a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:43:18:833] [2a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:43:18:833] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:43:18:833] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:43:26:862] [2b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:43:26:864] [2b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 1 ms
+[2022-12-20 22:43:26:866] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:43:26:866] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:43:43:292] [2c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:43:43:293] [2c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:43:43:293] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:43:43:293] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:43:52:371] [2d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:43:52:372] [2d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:43:52:372] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:43:52:373] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:44:14:818] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 22:44:34:244] [2e] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 22:44:34:245] [2e] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 22:44:45:353] [2f] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 22:44:45:353] [2f] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 22:44:46:523] [30] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:44:46:525] [30] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 2 ms
+[2022-12-20 22:44:46:526] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:44:46:528] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:45:24:592] [31] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:45:24:593] [31] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:45:24:593] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:45:24:593] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:45:32:731] [32] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:45:32:732] [32] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:45:32:732] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:45:32:732] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:45:51:261] [33] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:45:51:262] [33] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:45:51:262] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:45:51:262] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:45:59:744] [34] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:45:59:744] [34] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:45:59:744] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:45:59:745] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:46:16:678] [35] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:46:16:678] [35] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:46:16:678] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:46:16:678] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:46:26:732] [36] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:46:26:733] [36] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:46:26:733] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:46:26:733] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:46:34:898] [37] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:46:34:898] [37] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:46:34:898] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:46:34:898] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:46:45:735] [38] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:46:45:735] [38] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:46:45:735] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:46:45:735] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:46:55:452] [39] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:46:55:452] [39] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:46:55:452] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:46:55:453] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:47:05:481] [3a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:47:05:483] [3a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 1 ms
+[2022-12-20 22:47:05:484] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:47:05:484] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:47:12:312] [3b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:47:12:312] [3b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:47:12:312] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:47:12:313] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:47:15:866] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 22:47:28:920] [3c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:47:28:920] [3c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:47:28:921] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:47:28:921] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:47:39:517] [3d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:47:39:517] [3d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:47:39:517] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:47:39:517] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:47:50:447] [3e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:47:50:447] [3e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:47:50:448] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:47:50:448] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:48:02:742] [3f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:48:02:742] [3f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:48:02:742] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:48:02:742] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:48:06:662] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 22:48:25:057] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 22:49:01:211] [40] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js)
+[2022-12-20 22:49:01:212] [40] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/index.js) completed • 0 ms
+[2022-12-20 22:49:01:212] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:49:01:212] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 22:49:02:918] [41] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 22:49:02:918] [41] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 23:00:47:999] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 23:00:48:039] [42] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 23:00:48:040] [42] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 23:00:48:502] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-12-20 23:01:02:767] [43] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 23:01:02:767] [43] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 23:01:02:845] WebviewPanel: FAILED posting webview/editors/didChangeVisible to the webview; Webview is invisible and can't receive messages
+[2022-12-20 23:01:02:963] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:01:03:364] WebviewPanel: FAILED posting webview/editor/didChangeActive to the webview; Webview is invisible and can't receive messages
+[2022-12-20 23:01:05:752] [44] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:01:05:753] [44] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:01:05:754] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:01:05:755] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:05:48:465] [45] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:05:48:466] [45] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:05:48:466] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:05:48:467] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:06:04:050] [46] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:06:04:051] [46] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:06:04:051] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:06:04:051] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:06:15:489] [47] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:06:15:489] [47] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:06:15:489] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:06:15:489] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:06:27:141] [48] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:06:27:142] [48] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:06:27:142] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:06:27:142] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:07:00:923] [49] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 23:07:00:924] [49] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 23:07:11:339] [4a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:07:11:339] [4a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:07:11:340] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:07:11:340] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:07:23:538] [4b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:07:23:539] [4b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:07:23:539] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:07:23:539] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:07:38:541] [4c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:07:38:542] [4c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:07:38:542] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:07:38:542] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:07:48:507] [4d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:07:48:509] [4d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 1 ms
+[2022-12-20 23:07:48:510] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:07:48:511] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:07:56:459] [4e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:07:56:460] [4e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:07:56:460] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:07:56:460] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:08:03:987] [4f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:08:03:987] [4f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:08:03:988] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:08:03:988] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:08:08:907] [50] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:08:08:908] [50] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:08:08:908] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:08:08:908] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:09:11:563] [51] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:09:11:563] [51] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:09:11:564] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:09:11:564] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:09:39:553] [52] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 23:09:39:554] [52] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms
+[2022-12-20 23:09:49:846] [53] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:09:49:846] [53] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:09:49:846] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:09:49:846] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:10:04:905] [54] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:10:04:906] [54] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:10:04:907] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:10:04:907] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:10:34:259] [55] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:10:34:260] [55] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:10:34:260] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:10:34:260] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:10:50:437] [56] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:10:50:438] [56] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:10:50:438] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:10:50:438] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:10:54:540] [57] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:10:54:541] [57] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:10:54:541] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:10:54:541] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:12:02:281] [58] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:12:02:282] [58] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:12:02:282] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:12:02:282] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:12:16:625] [59] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:12:16:625] [59] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:12:16:626] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:12:16:626] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:12:26:864] [5a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:12:26:865] [5a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:12:26:865] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:12:26:866] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:12:37:515] [5b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:12:37:515] [5b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:12:37:515] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:12:37:516] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:12:48:195] [5c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:12:48:196] [5c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:12:48:196] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:12:48:196] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:13:34:519] [5d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:13:34:520] [5d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:13:34:520] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:13:34:521] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:13:40:777] [5e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:13:40:778] [5e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:13:40:778] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:13:40:778] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:13:47:694] [5f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:13:47:695] [5f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:13:47:695] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:13:47:695] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:19:14:613] [60] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:19:14:614] [60] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:19:14:615] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:19:14:615] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:29:54:678] [61] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:29:54:682] [61] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 2 ms
+[2022-12-20 23:29:54:682] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:29:54:683] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:30:22:521] [62] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:30:22:525] [62] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 3 ms
+[2022-12-20 23:30:22:525] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:30:22:525] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:30:54:305] [63] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:30:54:306] [63] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:30:54:306] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:30:54:306] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:31:01:889] [64] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:31:01:890] [64] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:31:01:890] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:31:01:891] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:31:21:306] [65] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:31:21:307] [65] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:31:21:307] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:31:21:307] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:32:04:971] [66] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:32:04:972] [66] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:32:04:972] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:32:04:972] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:32:10:325] [67] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:32:10:326] [67] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:32:10:326] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:32:10:326] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:32:17:853] [68] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:32:17:853] [68] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:32:17:853] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:32:17:854] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:32:25:176] [69] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:32:25:177] [69] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:32:25:177] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:32:25:177] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:32:30:014] [6a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:32:30:015] [6a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:32:30:015] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:32:30:016] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:33:31:641] [6b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:33:31:641] [6b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:33:31:641] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:33:31:642] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:33:35:427] [6c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:33:35:427] [6c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:33:35:427] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:33:35:427] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:33:39:723] [6d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:33:39:723] [6d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:33:39:724] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:33:39:724] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:35:17:400] [6e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:35:17:400] [6e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:35:17:400] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:35:17:401] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:35:20:945] [6f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:35:20:946] [6f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:35:20:946] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:35:20:946] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:35:36:171] [70] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:35:36:172] [70] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:35:36:172] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:35:36:172] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:36:29:102] [71] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:36:29:103] [71] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:36:29:103] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:36:29:103] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:36:36:029] [72] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:36:36:030] [72] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:36:36:030] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:36:36:030] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:36:49:225] [73] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:36:49:226] [73] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:36:49:226] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:36:49:226] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:37:17:098] [74] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:37:17:101] [74] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 3 ms
+[2022-12-20 23:37:17:102] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:37:17:102] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:37:52:325] [75] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:37:52:325] [75] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:37:52:325] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:37:52:325] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:38:15:427] [76] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 23:38:15:431] [76] CodeStreamAgentConnection.onDataChanged(documents) completed • 2 ms
+[2022-12-20 23:39:09:254] [77] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:39:09:255] [77] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:39:09:255] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:39:09:255] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:39:25:304] [78] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:39:25:304] [78] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:39:25:304] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:39:25:304] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:40:40:176] [79] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:40:40:176] [79] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:40:40:176] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:40:40:177] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:40:49:191] [7a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:40:49:191] [7a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:40:49:191] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:40:49:191] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:40:55:373] [7b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:40:55:374] [7b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:40:55:374] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:40:55:374] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:41:03:312] [7c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:41:03:312] [7c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:41:03:312] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:41:03:312] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:41:19:622] [7d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:41:19:623] [7d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:41:19:623] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:41:19:623] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:41:29:674] [7e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:41:29:674] [7e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:41:29:674] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:41:29:675] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:41:54:536] [7f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:41:54:537] [7f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:41:54:537] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:41:54:537] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:41:59:414] [80] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:41:59:414] [80] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:41:59:415] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:41:59:415] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:42:11:280] [81] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:42:11:281] [81] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:42:11:281] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:42:11:282] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:42:22:341] [82] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:42:22:341] [82] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:42:22:341] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:42:22:341] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:42:33:959] [83] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:42:33:959] [83] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:42:33:959] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:42:33:959] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:43:00:603] [84] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:43:00:604] [84] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:43:00:604] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:43:00:604] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:43:03:607] [85] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:43:03:607] [85] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:43:03:607] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:43:03:607] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:43:15:963] [86] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:43:15:964] [86] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 1 ms
+[2022-12-20 23:43:15:965] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:43:15:965] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:43:55:157] [87] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:43:55:158] [87] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:43:55:158] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:43:55:158] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:44:14:953] [88] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:44:14:954] [88] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:44:14:954] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:44:14:954] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:44:31:339] [89] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:44:31:340] [89] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:44:31:340] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:44:31:340] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:44:45:925] [8a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:44:45:926] [8a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:44:45:927] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:44:45:927] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:44:56:651] [8b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:44:56:651] [8b] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:44:56:651] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:44:56:652] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:45:20:834] [8c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:45:20:834] [8c] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:45:20:835] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:45:20:835] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:45:27:636] [8d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:45:27:636] [8d] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:45:27:637] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:45:27:637] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:45:39:470] [8e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:45:39:470] [8e] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:45:39:470] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:45:39:470] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:45:46:511] [8f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:45:46:511] [8f] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:45:46:511] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:45:46:512] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:45:51:967] [90] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:45:51:967] [90] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:45:51:968] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:45:51:968] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:46:13:191] [91] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:46:13:192] [91] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:46:13:192] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:46:13:193] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:46:17:269] [92] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:46:17:270] [92] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:46:17:270] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:46:17:270] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:46:24:353] [93] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:46:24:353] [93] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:46:24:354] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:46:24:354] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:46:37:888] [94] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:46:37:888] [94] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:46:37:888] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:46:37:888] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:46:45:524] [95] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:46:45:524] [95] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:46:45:524] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:46:45:524] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:46:51:379] [96] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:46:51:380] [96] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 1 ms
+[2022-12-20 23:46:51:381] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:46:51:381] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:47:02:191] [97] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:47:02:191] [97] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:47:02:191] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:47:02:192] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:47:06:018] [98] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:47:06:018] [98] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:47:06:018] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:47:06:018] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:47:22:688] [99] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:47:22:688] [99] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 0 ms
+[2022-12-20 23:47:22:689] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:47:22:689] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:47:33:228] [9a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js)
+[2022-12-20 23:47:33:229] [9a] CodeStreamAgentConnection.onDocumentMarkersChanged(file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/challenge.js) completed • 1 ms
+[2022-12-20 23:47:33:231] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:47:33:233] AgentConnection.sendRequest(codestream/textDocument/markers)
+[2022-12-20 23:48:16:735] [9b] CodeStreamAgentConnection.onDataChanged(documents)
+[2022-12-20 23:48:16:735] [9b] CodeStreamAgentConnection.onDataChanged(documents) completed • 0 ms

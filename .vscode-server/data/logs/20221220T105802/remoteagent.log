@@ -1,0 +1,33 @@
+2022-12-20 10:58:02.565 [info] Extension host agent started.
+2022-12-20 10:58:02.852 [info] [127.0.0.1][1da1c81b][ManagementConnection] New connection established.
+2022-12-20 10:58:02.964 [info] [127.0.0.1][0c9f7fdd][ExtensionHostConnection] New connection established.
+2022-12-20 10:58:04.138 [info] [127.0.0.1][0c9f7fdd][ExtensionHostConnection] <2600> Launched Extension Host Process.
+2022-12-20 10:58:05.456 [info] Deleted from disk syler.sass-indented /home/cmendoza/.vscode-server/extensions/syler.sass-indented-1.8.22
+2022-12-20 10:58:05.572 [info] Deleted from disk christian-kohler.path-intellisense /home/cmendoza/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.1
+2022-12-20 10:58:10.132 [info] Getting Manifest... codestream.codestream
+2022-12-20 10:58:10.133 [info] Getting Manifest... eamodio.gitlens
+2022-12-20 10:58:10.134 [info] Getting Manifest... eamodio.gitlens-insiders
+2022-12-20 10:58:10.134 [info] Getting Manifest... esbenp.prettier-vscode
+2022-12-20 10:58:10.136 [info] Getting Manifest... ms-python.vscode-pylance
+2022-12-20 10:58:10.136 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2022-12-20 10:58:10.136 [info] Getting Manifest... pkief.material-icon-theme
+2022-12-20 10:58:10.138 [info] Getting Manifest... wallabyjs.quokka-vscode
+2022-12-20 10:58:10.507 [info] Installing extension: codestream.codestream
+2022-12-20 10:58:10.793 [info] Installing extension: esbenp.prettier-vscode
+2022-12-20 10:58:10.928 [info] Installing extension: eamodio.gitlens
+2022-12-20 10:58:11.194 [info] Installing extension: ms-python.vscode-pylance
+2022-12-20 10:58:11.204 [info] Installing extension: ms-vsliveshare.vsliveshare
+2022-12-20 10:58:11.339 [info] Installing extension: wallabyjs.quokka-vscode
+2022-12-20 10:58:11.346 [info] Installing extension: pkief.material-icon-theme
+2022-12-20 10:58:11.997 [info] Installing extension: eamodio.gitlens-insiders
+2022-12-20 10:58:18.357 [info] Getting Manifest... ms-python.python
+2022-12-20 10:58:19.795 [info] [127.0.0.1][1da1c81b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-20 10:58:20.502 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.2458a299-8c5e-411d-bc03-d00aa9f1f05c: esbenp.prettier-vscode
+2022-12-20 10:58:20.552 [info] Renamed to /home/cmendoza/.vscode-server/extensions/esbenp.prettier-vscode-9.10.3
+2022-12-20 10:58:20.618 [info] Extracting completed. esbenp.prettier-vscode
+2022-12-20 10:58:20.630 [info] Extension installed successfully: esbenp.prettier-vscode
+2022-12-20 10:58:21.591 [info] [127.0.0.1][0c9f7fdd][ExtensionHostConnection] <2600> Extension Host Process exited with code: 0, signal: null.
+2022-12-20 10:58:22.941 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.9979df50-fb3d-4f57-ade0-625f2b283caf: pkief.material-icon-theme
+2022-12-20 10:58:22.999 [info] Renamed to /home/cmendoza/.vscode-server/extensions/pkief.material-icon-theme-4.23.0
+2022-12-20 10:58:23.016 [info] Extracting completed. pkief.material-icon-theme
+2022-12-20 10:58:23.022 [info] Extension installed successfully: pkief.material-icon-theme

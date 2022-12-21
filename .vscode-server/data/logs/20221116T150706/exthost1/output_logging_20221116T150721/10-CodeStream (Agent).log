@@ -1,0 +1,623 @@
+Warning: Ignoring extra certs from `null`, load failed: error:02001002:system library:fopen:No such file or directory
+New Relic for Node.js was unable to bootstrap itself due to an error:
+Error: New Relic requires that you name this application!
+Set app_name in your newrelic.js file or set environment variable
+NEW_RELIC_APP_NAME. Not starting!
+    at createAgent (/home/cmendoza/.vscode-server/extensions/codestream.codestream-14.4.0/node_modules/newrelic/index.js:140:11)
+    at initialize (/home/cmendoza/.vscode-server/extensions/codestream.codestream-14.4.0/node_modules/newrelic/index.js:81:15)
+    at /home/cmendoza/.vscode-server/extensions/codestream.codestream-14.4.0/node_modules/newrelic/index.js:36:3
+    at /home/cmendoza/.vscode-server/extensions/codestream.codestream-14.4.0/dist/agent.js:1:279
+    at Object.<anonymous> (/home/cmendoza/.vscode-server/extensions/codestream.codestream-14.4.0/src/agent.ts:3:27)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+(node:1810) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[2022-11-16 20:07:51:425] Git found: 2.25.1 @ /usr/bin/git • 99 ms
+[2022-11-16 20:07:51:427] Agent for CodeStream v14.4.0-4250 in VS Code (v1.73.0) initializing...
+[2022-11-16 20:07:51:434] RepositoryLocator.start: waiting on session.ready
+[2022-11-16 20:07:51:575] Loaded /home/cmendoza/.vscode-server/extensions/codestream.codestream-14.4.0/dist/index.js.map mapper
+[2022-11-16 20:07:51:577] Node.js version: v16.14.2
+[2022-11-16 20:07:51:577] NODE_* environment variables:
+[2022-11-16 20:07:51:577] NODE_TLS_REJECT_UNAUTHORIZED=1
+[2022-11-16 20:07:51:577] NODE_EXTRA_CA_CERTS=null
+[2022-11-16 20:07:51:577] Proxy support is on, but no proxy url was found
+[2022-11-16 20:07:51:579] API Server URL: >https://api.codestream.com<
+[2022-11-16 20:07:51:579] Reject unauthorized: true
+[2022-11-16 20:07:51:581] Verifying API server connectivity
+[2022-11-16 20:07:51:597] CodeStreamAgent.registerHandler(codestream/reporting/message)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/reporting/breadcrumb)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/webview/error)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/codeErrors)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/codeError)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/codeError/update)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/codeError/delete)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/codeErrors/claim)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/codemarks/create)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/codemark/permalink)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/codemarks)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/codemark/sha1)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/codemark/range)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/codemark/delete)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/codemark/update)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/codemark/setPinned)
+[2022-11-16 20:07:51:598] CodeStreamAgent.registerHandler(codestream/codemark/pinReply)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/codemark/follow)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/review/follow)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/codeError/follow)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/codemark/setStatus)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/companies)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/posts)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/posts/byIds)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/posts/activity)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/post/replies)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/codemarks/sharing/create)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/reviews/create)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/codeErrors/create)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/posts/create)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/posts/createWithCodemark)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/post/delete)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/post/edit)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/post/share-update)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/post/share-via-server)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/post/markUnread)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/post/markRead)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/post/react)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/post)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/reviews)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/review)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/review/contentsLocal)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/review/allContents)
+[2022-11-16 20:07:51:599] CodeStreamAgent.registerHandler(codestream/review/coverage)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/review/contents)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/review/update)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/review/delete)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/review/checkPreconditions)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/review/pr/checkPreconditions)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/review/pr/create)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/review/start)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/review/pause)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/review/end)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/review/createForUnreviewedCommits)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/textDocument/markers/create/link)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/textDocument/markers)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/textDocument/fromKey)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/textDocument/fromMarker)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/textDocument/calculateNonLocalRanges)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/streams/fileStream)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/streams/file)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/repos/ignore-files)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/repos/ignore-files/add)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/marker)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/marker/move)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/markers/add)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/marker/delete)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/newrelic/entities)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/newrelic/errorGroup/metadata)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/newrelic/assignments)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/newrelic/repos)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/newrelic/errors)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/newrelic/accounts)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/newrelic/relatedEntities)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/newrelic/url)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/newrelic/errorGroup)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/newrelic/assignees)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/newrelic/fileLevelTelemetry)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/newrelic/methodLevelMethodTelemetry)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/newrelic/serviceLevelTelemetry)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/newrelic/entityCount)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/nr/parseStackTrace)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/nr/resolveStackTrace)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/nr/resolveStackTracePosition)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/nr/findCandidateMainFiles)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/nr/installNewRelic)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/nr/createNewRelicConfigFile)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/nr/addNewRelicInclude)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/pixie/clusters)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/pixie/namespaces)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/pixie/pods)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/pixie/dynamicLogging)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/pixie/dynamicLoggingCancel)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/repos/map)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/normalizeUrl)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/repos/create)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/repos)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/repo)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/commit)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/repos)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/repo/statuses)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/branches)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/create-branch)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/switch-branch)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/repo/status)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/file/info)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/range/info)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/range/sha1)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/sha1/ranges)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/latestCommitters)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/latestCommit)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/blame)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/commitAndPush)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/remotes)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/remoteBranch)
+[2022-11-16 20:07:51:600] CodeStreamAgent.registerHandler(codestream/scm/commitsStatus)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/scm/file/diff)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/scm/branches/diff)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/scm/forkPoint)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/scm/commits/files)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/api/get)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/api/post)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/api/put)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/api/delete)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/streams)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/streams/unread)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/streams/createChannel)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/streams/createDirect)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/stream/archive)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/stream/close)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/stream/join)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/stream/leave)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/stream/markRead)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/stream/mute)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/stream/open)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/stream/rename)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/stream/setPurpose)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/stream/unarchive)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/stream/updateMembership)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/stream)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/teams)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/team)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/telemetry)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/telemetry/setAnonymousId)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/text-files/read)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/text-files/write)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/scm/user/info)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/scm/workspace/repos)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/scm/workspace/autojoin)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/url/open)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/uri/resolveLocal)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/users)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/user/invite)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/user/delete)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/user/kick)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/user/update)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/user/updatePreferences)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/user/updateStatus)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/user/updateInvisible)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/user/updatePresence)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/users/me/unreads)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/user)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/users/me/preferences)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/connect)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/configure)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/add)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/remove)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/disconnect)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/cards/users)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/cards/users/search)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/boards)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/cards)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/cards/workflow)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/cards/create)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/cards/move)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/channels)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/status/update)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/posts/create)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/pullrequest)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/pullrequestcommits)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/generic)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/query)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/builds)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/providers/pullrequest/queries)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/repos/match)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/team/create)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/sendPasswordResetEmail)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/setPassword)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/company/update)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/company/delete)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/company/create)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/company/createForeign)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/team/tag/create)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/team/tag/deleete)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/team/tag/update)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/team/admin/update)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/team/update)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/team/settings/update)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/team/add-blame-map)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/team/delete-blame-map)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/users/me/delete)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/provider/token)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/upload/file)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/nr/openNewRelicSignupUrl)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/ui/state)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/verifyConnectivity)
+[2022-11-16 20:07:51:601] CodeStreamAgent.registerHandler(codestream/accessToken)
+[2022-11-16 20:07:51:602] CodeStreamAgent.registerHandler(codestream/login/password)
+[2022-11-16 20:07:51:602] CodeStreamAgent.registerHandler(codestream/login/token)
+[2022-11-16 20:07:51:602] CodeStreamAgent.registerHandler(codestream/login/otc)
+[2022-11-16 20:07:51:602] CodeStreamAgent.registerHandler(codestream/login/confirm)
+[2022-11-16 20:07:51:602] CodeStreamAgent.registerHandler(codestream/login/generate-code)
+[2022-11-16 20:07:51:602] CodeStreamAgent.registerHandler(codestream/registration)
+[2022-11-16 20:07:51:602] CodeStreamAgent.registerHandler(codestream/nr-registration)
+[2022-11-16 20:07:51:602] CodeStreamAgent.registerHandler(codestream/registration/confirm)
+[2022-11-16 20:07:51:602] CodeStreamAgent.registerHandler(codestream/registration/invite-info)
+[2022-11-16 20:07:51:602] CodeStreamAgent.registerHandler(codestream/companies/join)
+[2022-11-16 20:07:51:602] CodeStreamAgent.registerHandler(codestream/api)
+[2022-11-16 20:07:51:602] CodeStreamAgent.registerHandler(codestream/set-server)
+[2022-11-16 20:07:51:602] CodeStreamAgent.registerHandler(codestream/bootstrap)
+[2022-11-16 20:07:51:602] Agent is ready
+[2022-11-16 20:07:51:602] RepositoryLocator.start: starting startCore
+[2022-11-16 20:07:51:602] startCore: initializing promise
+[2022-11-16 20:07:51:603] getWorkspaceFolders: workspaces supported
+[2022-11-16 20:07:51:603] [de] CodeStreamApiProvider.getTelemetryKey
+[2022-11-16 20:07:51:632] startCore: Starting repository search in 1 folders
+[2022-11-16 20:07:51:634] repositorySearch: Searching for repositories (depth=2) in '/home' initializing=true isInWorkspace=true...
+[2022-11-16 20:07:51:636] GIT: Running(/home): git rev-parse --show-toplevel
+[2022-11-16 20:07:51:689] [df] CodeStreamAgent.sendNotification(codestream/agentInitialized)
+[2022-11-16 20:07:51:690] [df] CodeStreamAgent.sendNotification(codestream/agentInitialized) completed • 0 ms
+[Warn  - 3:07:51 PM] [2022-11-16 20:07:51:695] Error(/home): /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel)
+    (128) Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+fatal: not a git repository (or any of the parent directories): .git
+
+[Error - 3:07:51 PM] [2022-11-16 20:07:51:701] git — -c, core.quotepath=false, -c, color.ui=false, rev-parse, --show-toplevel,  killed=false signal=null code=128 cwd='/home'
+
+  
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+    at ChildProcess.exithandler (node:child_process:399:12)
+    at ChildProcess.emit (node:events:526:28)
+    at maybeClose (node:internal/child_process:1092:16)
+    at Socket.<anonymous> (node:internal/child_process:451:11)
+    at Socket.emit (node:events:526:28)
+    at Pipe.<anonymous> (node:net:687:12)
+[2022-11-16 20:07:51:702] GIT: Completed(/home): git rev-parse --show-toplevel in 66 ms
+[2022-11-16 20:07:51:723] GIT: Running(/home/cmendoza): git rev-parse --show-toplevel
+[2022-11-16 20:07:51:797] GIT: Completed(/home/cmendoza): git rev-parse --show-toplevel in 74 ms
+[2022-11-16 20:07:51:799] repositorySearch: Repository found in '/home/cmendoza'
+[2022-11-16 20:07:51:800] GIT: Running(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --show-toplevel
+[2022-11-16 20:07:51:849] GIT: Completed(/home/cmendoza/Proyecto-Google-Clone): git rev-parse --show-toplevel in 49 ms
+[2022-11-16 20:07:51:850] repositorySearch: Repository found in '/home/cmendoza/Proyecto-Google-Clone'
+[2022-11-16 20:07:51:850] repositorySearch: Searching for repositories (depth=2) in '/home' took 215 ms
+[2022-11-16 20:07:51:850] startCore: found 2 repositories in file:///home
+[2022-11-16 20:07:51:850] startCore: processed 2 repositories
+[2022-11-16 20:07:51:851] startCore: resolving true
+[2022-11-16 20:07:52:051] API server status: 200
+[2022-11-16 20:07:52:054] registerApiCapabilities for teamId undefined — {}
+[2022-11-16 20:07:52:055] _apiCapabilities — {"sample":{"description":"SAMPLE","version":"1.0.0"},"multipleMarkers":{"description":"Ability to have multiple code blocks per codemark","version":"1.21.20"},"moveMarkers":{"description":"Ability to change the location of code blocks pointed to by codemarks","version":"1.21.20"},"moveMarkers2":{"description":"Ability to change the location of code blocks pointed to by codemarks, with essential API server fix","version":"1.21.23"},"repoCommitMatching":{"description":"Supports the /repos/match/:teamId call, which allows matches to be found for repos by remotes and known commit hashes","version":"1.21.24"},"follow":{"description":"Ability to follow or unfollow a codemark","version":"1.21.27"},"lightningCodeReviews":{"description":"Support for lightning code reviews","version":"1.21.33","supportedIdes":["VS Code","JetBrains","VS"]},"notificationDeliveryPreference":{"description":"Support for displaying the email/desktop delivery notification preference","version":"1.21.33"},"multipleReviewersApprove":{"description":"Support for multiple reviewers being required to approve a review","version":"7.1.1"},"emailSupport":{"description":"Whether outbound emails are supported, value actually comes from configuration","version":"1.0.0"},"multiCheckpointReviews":{"description":"Reviews supporting multiple checkpoints","version":"7.2.0"},"inviteUsersOnTheFly":{"description":"Users can be invited on-the-fly in codemarks and reviews","version":"7.2.7"},"kickstart":{"description":"Kickstart features","version":"7.4.2"},"cr2pr":{"description":"Features supporting opening pull requests after code reviews","version":"7.4.2"},"shareStatusToSlack":{"description":"Whether the share to slack capability is supported, which requires a new scope for the slack app","version":"8.0.6"},"addBlameMap":{"description":"Supporting adding someone to the blame-map","version":"8.1.1"},"vsCodeGithubSignin":{"description":"Supports whether special VSCode GitHub signin is supported in the auth flow","version":"8.2.7"},"compactModifiedRepos":{"description":"Supports compact modifiedRepos structure","version":"8.2.8"},"providerReauth":{"description":"Supports re-authentication for providers if tokens are found to be invalid","version":"8.2.11"},"autoJoin":{"description":"Supports auto-join API call, to auto-join a team based on open repos in IDE","version":"8.2.13"},"testGroups":{"description":"Supports the /company-test-groups/:id call, to set randomized test groups for a company","version":"8.2.15"},"fileUploads":{"description":"Supports file uploading","version":"8.2.17","cloudOnly":true},"autoFR":{"description":"Supports automatic generation of feedback requests","version":"8.2.20"},"readItem":{"description":"Supports /read-item call to mark number of unread replies for an item","version":"8.2.33"},"echoes":{"description":"Supports periodic echoes to test broadcaster reliability","version":"8.2.39"},"multiRegion":{"description":"Supports multi-region switching","version":"12.0.7","useGlobal":true}}
+[2022-11-16 20:07:52:055] Got environment from connectivity response: — {"environment":"us","isOnPrem":false,"isProductionCloud":true,"newRelicLandingServiceUrl":"https://landing.service.newrelic.com","newRelicApiUrl":"https://api.newrelic.com","environmentHosts":[{"name":"EU","publicApiUrl":"https://eu-api.codestream.com","shortName":"eu"},{"name":"US","publicApiUrl":"https://api.codestream.com","shortName":"us"}]}
+[2022-11-16 20:07:52:055] [e0] CodeStreamAgent.sendNotification(codestream/didSetEnvironment)
+[2022-11-16 20:07:52:055] [e0] CodeStreamAgent.sendNotification(codestream/didSetEnvironment) completed • 0 ms
+[2022-11-16 20:07:52:055] [1] CodeStreamSession.verifyConnectivity completed • 475 ms
+[2022-11-16 20:07:52:061] VersionMiddlewareManager: API version changed from  to 14.0.6
+[2022-11-16 20:07:52:062] [e1] VersionMiddlewareManager.apiVersionNotify
+[2022-11-16 20:07:52:063] [e2] CodeStreamSession.onApiVersionCompatibilityChanged
+[2022-11-16 20:07:52:064] [e3] CodeStreamAgent.sendNotification(codestream/didChangeApiVersionCompatibility)
+[2022-11-16 20:07:52:064] [e3] CodeStreamAgent.sendNotification(codestream/didChangeApiVersionCompatibility) completed • 0 ms
+[2022-11-16 20:07:52:064] [e2] CodeStreamSession.onApiVersionCompatibilityChanged completed • 0 ms
+[2022-11-16 20:07:52:064] [e1] VersionMiddlewareManager.apiVersionNotify completed • 2 ms
+[2022-11-16 20:07:52:067] API(008e6e7a-f1dd-4c13-91df-d643092927bb): Completed GET /no-auth/telemetry-key?secret=<hidden> • 462 ms
+[2022-11-16 20:07:52:068] [de] CodeStreamApiProvider.getTelemetryKey completed • 464 ms
+[2022-11-16 20:08:18:187] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html
+[2022-11-16 20:11:53:823] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html
+[2022-11-16 20:11:54:335] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js
+[2022-11-16 20:11:59:097] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js
+[2022-11-16 20:11:59:117] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html
+[2022-11-16 20:11:59:117] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js
+[2022-11-16 20:11:59:858] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js
+[2022-11-16 20:15:15:600] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js
+[2022-11-16 20:18:36:259] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js
+[2022-11-16 20:19:08:176] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js
+[2022-11-16 20:22:22:103] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js
+[2022-11-16 20:22:24:397] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js
+[2022-11-16 20:23:19:944] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/00-numeric-separators.js
+[2022-11-16 20:23:21:875] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js
+[2022-11-16 20:23:22:577] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js
+[2022-11-16 20:23:24:127] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/index.html
+[2022-11-16 20:24:27:407] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/00-numeric-separators.js
+[2022-11-16 20:25:29:442] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/00-numeric-separators.js
+[2022-11-16 20:25:55:754] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/00-numeric-separators.js
+[2022-11-16 20:25:58:148] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/00-numeric-separators.js
+[2022-11-16 20:26:09:693] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/01-replaceall.js
+[2022-11-16 20:28:13:282] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/01-replaceall.js
+[2022-11-16 20:29:13:186] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/01-replaceall.js
+[2022-11-16 20:29:39:303] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/02-promise-any.js
+[2022-11-16 20:29:52:451] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js
+[2022-11-16 20:29:57:994] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js
+[2022-11-16 20:34:05:946] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/02-promise-any.js
+[2022-11-16 20:34:07:014] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/02-promise-any.js
+[2022-11-16 20:34:26:857] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/03-private.js
+[2022-11-16 20:34:33:159] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/07-clases.js
+[2022-11-16 20:35:19:823] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/07-clases.js
+[2022-11-16 20:35:58:343] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/03-private.js
+[2022-11-16 20:37:56:921] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/03-private.js
+[2022-11-16 20:38:51:606] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es13/00-at.js
+[2022-11-16 20:44:41:522] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es13/00-at.js
+[2022-11-16 20:46:58:084] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es13/00-at.js
+[2022-11-16 20:46:58:985] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es13/00-at.js
+[2022-11-16 20:49:59:544] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es13/00-at.js
+[2022-11-16 20:50:25:137] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es13/01-top-level-await.js
+[2022-11-16 20:50:35:267] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es13/products.js
+[2022-11-16 21:01:45:361] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es13/products.js
+[2022-11-16 21:06:19:289] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es13/01-top-level-await.js
+[2022-11-16 21:11:13:572] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es13/products.js
+[2022-11-16 21:19:52:379] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/01-bigint.js
+[2022-11-16 21:21:56:210] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/01-bigint.js
+[2022-11-16 21:21:56:309] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js
+[2022-11-16 21:22:41:072] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/00-let-const.js
+[2022-11-16 21:22:42:276] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/00-let-const.js
+[2022-11-16 21:22:42:324] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:22:47:218] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:22:47:247] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:22:48:542] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:22:48:554] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/03-default-params.js
+[2022-11-16 21:22:49:702] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/03-default-params.js
+[2022-11-16 21:22:49:713] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/04-rest-spread.js
+[2022-11-16 21:22:51:038] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/04-rest-spread.js
+[2022-11-16 21:22:51:064] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/05-object-literals.js
+[2022-11-16 21:22:51:990] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/05-object-literals.js
+[2022-11-16 21:22:52:319] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/06-promises.js
+[2022-11-16 21:22:53:436] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/06-promises.js
+[2022-11-16 21:22:53:443] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/07-clases.js
+[2022-11-16 21:22:54:335] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/07-clases.js
+[2022-11-16 21:22:54:370] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:22:55:588] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:22:55:606] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:22:56:661] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:22:56:704] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:22:58:394] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:22:58:420] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:23:00:475] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:23:00:549] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es7/00-exponential.js
+[2022-11-16 21:23:03:297] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es7/00-exponential.js
+[2022-11-16 21:23:03:337] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es7/01-array-includes.js
+[2022-11-16 21:23:05:126] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es7/01-array-includes.js
+[2022-11-16 21:23:05:201] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es7/00-exponential.js
+[2022-11-16 21:23:23:912] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es7/00-exponential.js
+[2022-11-16 21:23:23:960] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:24:56:037] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:24:56:087] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:25:10:379] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:25:10:442] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:25:16:492] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:25:16:556] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es8/03-string-padding.js
+[2022-11-16 21:25:46:350] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es8/03-string-padding.js
+[2022-11-16 21:25:46:403] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:25:53:490] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:25:53:554] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/03-default-params.js
+[2022-11-16 21:25:56:202] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/03-default-params.js
+[2022-11-16 21:25:56:240] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/04-rest-spread.js
+[2022-11-16 21:25:57:694] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/04-rest-spread.js
+[2022-11-16 21:25:57:776] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/05-object-literals.js
+[2022-11-16 21:25:59:155] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/05-object-literals.js
+[2022-11-16 21:25:59:188] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/06-promises.js
+[2022-11-16 21:26:01:337] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/06-promises.js
+[2022-11-16 21:26:01:421] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/07-clases.js
+[2022-11-16 21:26:02:526] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/07-clases.js
+[2022-11-16 21:26:02:563] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:26:04:024] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:26:04:093] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:26:05:217] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:26:05:247] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:26:09:318] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:26:09:416] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es8/03-string-padding.js
+[2022-11-16 21:26:15:560] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es8/03-string-padding.js
+[2022-11-16 21:26:15:606] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es8/04-trailling-commas.js
+[2022-11-16 21:26:16:839] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es8/04-trailling-commas.js
+[2022-11-16 21:26:16:918] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es8/05-async-function.js
+[2022-11-16 21:26:28:023] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es8/05-async-function.js
+[2022-11-16 21:26:28:085] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es9/00-regex.js
+[2022-11-16 21:26:29:232] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es9/00-regex.js
+[2022-11-16 21:26:29:279] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es9/01-spread.js
+[2022-11-16 21:26:30:426] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es9/01-spread.js
+[2022-11-16 21:26:30:479] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es9/02-finally.js
+[2022-11-16 21:26:32:549] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es9/02-finally.js
+[2022-11-16 21:26:32:635] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es9/03-async.js
+[2022-11-16 21:26:50:843] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es9/03-async.js
+[2022-11-16 21:26:50:900] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/00-let-const.js
+[2022-11-16 21:26:55:618] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/00-let-const.js
+[2022-11-16 21:26:55:677] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:26:57:320] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:26:57:357] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:27:02:225] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:27:02:309] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/03-default-params.js
+[2022-11-16 21:27:04:456] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/03-default-params.js
+[2022-11-16 21:27:04:493] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/04-rest-spread.js
+[2022-11-16 21:27:09:342] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/04-rest-spread.js
+[2022-11-16 21:27:09:379] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/05-object-literals.js
+[2022-11-16 21:27:11:172] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/05-object-literals.js
+[2022-11-16 21:27:11:270] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/06-promises.js
+[2022-11-16 21:27:14:374] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/06-promises.js
+[2022-11-16 21:27:14:420] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/07-clases.js
+[2022-11-16 21:27:17:423] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/07-clases.js
+[2022-11-16 21:27:17:501] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:27:19:137] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:27:19:209] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:27:24:665] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:27:24:695] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:27:26:446] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:27:26:547] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:27:29:297] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:27:29:341] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es7/00-exponential.js
+[2022-11-16 21:27:30:567] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es7/00-exponential.js
+[2022-11-16 21:27:30:641] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es7/01-array-includes.js
+[2022-11-16 21:28:21:118] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es7/01-array-includes.js
+[2022-11-16 21:28:21:177] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es8/04-trailling-commas.js
+[2022-11-16 21:29:24:439] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es8/04-trailling-commas.js
+[2022-11-16 21:29:24:485] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:30:28:501] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:30:28:556] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/00-optional-chaining.js
+[2022-11-16 21:30:30:608] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/00-optional-chaining.js
+[2022-11-16 21:30:30:637] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/01-bigint.js
+[2022-11-16 21:30:31:961] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/01-bigint.js
+[2022-11-16 21:30:32:003] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/02-nullish.js
+[2022-11-16 21:30:32:977] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/02-nullish.js
+[2022-11-16 21:30:33:023] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js
+[2022-11-16 21:30:36:217] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js
+[2022-11-16 21:30:36:246] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js
+[2022-11-16 21:30:38:686] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js
+[2022-11-16 21:30:38:736] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js
+[2022-11-16 21:30:42:138] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/module.js
+[2022-11-16 21:30:42:176] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js
+[2022-11-16 21:31:11:066] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js
+[2022-11-16 21:31:11:137] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/03-default-params.js
+[2022-11-16 21:31:42:839] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/03-default-params.js
+[2022-11-16 21:31:42:872] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:31:54:744] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:31:54:781] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:31:55:942] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:31:56:014] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:31:58:739] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:31:58:770] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:32:10:212] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:32:10:249] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:32:15:556] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:32:15:636] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:32:21:676] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:32:21:715] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:32:26:263] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:32:26:295] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:32:28:226] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:32:28:255] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:32:32:728] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:32:32:801] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:32:33:374] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:32:33:422] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/00-let-const.js
+[2022-11-16 21:32:34:417] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/00-let-const.js
+[2022-11-16 21:32:34:485] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:32:35:195] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:32:35:246] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:32:36:834] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:32:36:893] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/03-default-params.js
+[2022-11-16 21:32:38:619] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/03-default-params.js
+[2022-11-16 21:32:38:652] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/04-rest-spread.js
+[2022-11-16 21:32:40:061] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/04-rest-spread.js
+[2022-11-16 21:32:40:142] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/05-object-literals.js
+[2022-11-16 21:32:41:578] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/05-object-literals.js
+[2022-11-16 21:32:41:611] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/06-promises.js
+[2022-11-16 21:32:42:986] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/06-promises.js
+[2022-11-16 21:32:43:023] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/07-clases.js
+[2022-11-16 21:32:44:401] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/07-clases.js
+[2022-11-16 21:32:44:408] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:32:45:877] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:32:45:943] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:32:50:320] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:32:50:347] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:32:51:916] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:32:51:976] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:32:57:554] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:32:57:615] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:33:07:522] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:33:07:556] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:33:10:548] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:33:10:610] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:33:11:646] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:33:11:680] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:33:12:915] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:33:12:959] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:33:14:303] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:33:14:331] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/07-clases.js
+[2022-11-16 21:33:15:161] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/07-clases.js
+[2022-11-16 21:33:15:238] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/06-promises.js
+[2022-11-16 21:33:16:669] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/06-promises.js
+[2022-11-16 21:33:16:732] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/00-let-const.js
+[2022-11-16 21:33:18:839] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/00-let-const.js
+[2022-11-16 21:33:18:865] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:33:22:622] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/module.js
+[2022-11-16 21:33:22:698] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:33:23:236] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:33:23:278] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:33:24:024] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:33:24:059] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:35:19:121] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:35:19:188] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/00-let-const.js
+[2022-11-16 21:35:23:345] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/00-let-const.js
+[2022-11-16 21:35:23:407] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:35:24:622] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:35:24:656] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:35:26:499] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:35:26:595] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/04-rest-spread.js
+[2022-11-16 21:35:30:141] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/04-rest-spread.js
+[2022-11-16 21:35:30:176] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/00-let-const.js
+[2022-11-16 21:36:44:538] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/00-let-const.js
+[2022-11-16 21:36:44:623] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:36:48:919] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:36:48:965] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:37:04:675] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:37:04:716] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/03-default-params.js
+[2022-11-16 21:37:06:890] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/03-default-params.js
+[2022-11-16 21:37:06:957] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/04-rest-spread.js
+[2022-11-16 21:37:11:465] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/04-rest-spread.js
+[2022-11-16 21:37:11:496] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/05-object-literals.js
+[2022-11-16 21:37:14:212] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/05-object-literals.js
+[2022-11-16 21:37:14:304] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/06-promises.js
+[2022-11-16 21:37:15:120] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/06-promises.js
+[2022-11-16 21:37:15:407] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/07-clases.js
+[2022-11-16 21:37:16:020] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/07-clases.js
+[2022-11-16 21:37:16:105] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:37:17:216] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/08-module.js
+[2022-11-16 21:37:17:247] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:37:18:055] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/09-generator.js
+[2022-11-16 21:37:18:133] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:37:48:485] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/10-set-add.js
+[2022-11-16 21:37:48:567] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es8/05-async-function.js
+[2022-11-16 21:38:01:255] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es8/05-async-function.js
+[2022-11-16 21:38:01:321] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es10/01-trimstart-trimend.js
+[2022-11-16 21:38:28:633] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es10/01-trimstart-trimend.js
+[2022-11-16 21:38:28:701] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/00-let-const.js
+[2022-11-16 21:38:30:588] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/00-let-const.js
+[2022-11-16 21:38:30:653] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:38:36:396] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/01-arrow-function.js
+[2022-11-16 21:38:36:436] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:38:37:850] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/02-strings.js
+[2022-11-16 21:38:37:910] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/03-default-params.js
+[2022-11-16 21:38:41:087] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/03-default-params.js
+[2022-11-16 21:38:41:135] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/04-rest-spread.js
+[2022-11-16 21:38:47:736] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/04-rest-spread.js
+[2022-11-16 21:38:47:792] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/00-optional-chaining.js
+[2022-11-16 21:39:04:795] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/00-optional-chaining.js
+[2022-11-16 21:39:04:834] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/01-bigint.js
+[2022-11-16 21:39:07:568] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/01-bigint.js
+[2022-11-16 21:39:07:637] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/02-nullish.js
+[2022-11-16 21:39:14:930] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/02-nullish.js
+[2022-11-16 21:39:14:970] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/00-optional-chaining.js
+[2022-11-16 21:40:01:243] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/00-optional-chaining.js
+[2022-11-16 21:40:01:298] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/03-private.js
+[2022-11-16 21:40:02:425] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/03-private.js
+[2022-11-16 21:40:02:505] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/02-promise-any.js
+[2022-11-16 21:40:03:275] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/02-promise-any.js
+[2022-11-16 21:40:03:310] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/01-replaceall.js
+[2022-11-16 21:40:04:280] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/01-replaceall.js
+[2022-11-16 21:40:04:352] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/00-numeric-separators.js
+[2022-11-16 21:40:06:138] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es12/00-numeric-separators.js
+[2022-11-16 21:40:06:173] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js
+[2022-11-16 21:40:10:313] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/06-dynamic-import.js
+[2022-11-16 21:40:10:343] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js
+[2022-11-16 21:40:11:439] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/04-globalthis.js
+[2022-11-16 21:40:11:510] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js
+[2022-11-16 21:40:12:916] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js
+[2022-11-16 21:40:12:965] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/02-nullish.js
+[2022-11-16 21:40:13:741] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/02-nullish.js
+[2022-11-16 21:40:13:773] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/01-bigint.js
+[2022-11-16 21:40:15:638] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/01-bigint.js
+[2022-11-16 21:40:15:686] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/00-optional-chaining.js
+[2022-11-16 21:40:17:291] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/00-optional-chaining.js
+[2022-11-16 21:40:17:339] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es10/03-fromentries.js
+[2022-11-16 21:40:19:482] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es10/03-fromentries.js
+[2022-11-16 21:40:19:524] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es10/02-try-catch.js
+[2022-11-16 21:41:06:897] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es10/02-try-catch.js
+[2022-11-16 21:41:06:961] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js
+[2022-11-16 21:41:24:148] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/03-promise-allsettled.js
+[2022-11-16 21:41:24:237] Document opened: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/06-promises.js
+[2022-11-16 21:58:31:331] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es6/06-promises.js
+[2022-11-16 21:58:32:632] Document saved: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js
+[2022-11-16 21:58:33:276] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/05-matchall.js
+[2022-11-16 21:58:34:134] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es13/products.js
+[2022-11-16 21:58:34:799] Document closed: file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es13/01-top-level-await.js

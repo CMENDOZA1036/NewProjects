@@ -1,0 +1,25 @@
+2022-12-21 16:51:20.407 [info] Extension host agent started.
+2022-12-21 16:51:21.904 [info] [127.0.0.1][318fa9b5][ManagementConnection] New connection established.
+2022-12-21 16:51:22.884 [info] [127.0.0.1][618957b8][ExtensionHostConnection] New connection established.
+2022-12-21 16:51:26.289 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-21 16:51:26.453 [info] [127.0.0.1][618957b8][ExtensionHostConnection] <901> Launched Extension Host Process.
+2022-12-21 16:51:26.764 [info] Deleted from disk ms-ceintl.vscode-language-pack-es /home/cmendoza/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.73.11020955
+2022-12-21 16:51:27.066 [info] Deleted from disk github.vscode-pull-request-github /home/cmendoza/.vscode-server/extensions/github.vscode-pull-request-github-0.55.2022111609
+2022-12-21 16:51:28.057 [info] Deleted from disk ms-toolsai.jupyter /home/cmendoza/.vscode-server/extensions/ms-toolsai.jupyter-2022.9.1303220346
+2022-12-21 16:51:30.233 [info] Deleted from disk ms-python.python /home/cmendoza/.vscode-server/extensions/ms-python.python-2022.18.2
+2022-12-21 16:51:32.457 [info] Getting Manifest... eamodio.gitlens
+2022-12-21 16:51:32.458 [info] Getting Manifest... eamodio.gitlens-insiders
+2022-12-21 16:51:33.189 [info] Installing extension: eamodio.gitlens-insiders
+2022-12-21 16:51:33.207 [info] Installing extension: eamodio.gitlens
+2022-12-21 16:51:51.417 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.2459ce00-20e3-41f7-9293-c77d44d433c4: eamodio.gitlens-insiders
+2022-12-21 16:51:51.418 [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.6f6cebf5-caca-42f8-9fd3-7153e06326bc: eamodio.gitlens
+2022-12-21 16:51:52.445 [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-13.2.0
+2022-12-21 16:51:52.541 [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.12.2104
+2022-12-21 16:51:52.544 [info] Extracting completed. eamodio.gitlens
+2022-12-21 16:51:52.578 [info] Extension installed successfully: eamodio.gitlens
+2022-12-21 16:51:52.897 [info] Extracting completed. eamodio.gitlens-insiders
+2022-12-21 16:51:53.141 [info] Marked extension as uninstalled eamodio.gitlens-13.1.1
+2022-12-21 16:51:53.141 [info] Marked extension as uninstalled eamodio.gitlens-insiders-2022.12.2004
+2022-12-21 16:51:53.221 [info] Extension installed successfully: eamodio.gitlens-insiders
+2022-12-21 17:40:34.619 [info] [127.0.0.1][318fa9b5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-21 17:40:35.312 [info] [127.0.0.1][618957b8][ExtensionHostConnection] <901> Extension Host Process exited with code: 0, signal: null.

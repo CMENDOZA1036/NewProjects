@@ -1,0 +1,333 @@
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js"
+/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:13
+    let xhtpp = new XMLHttpRequest ()
+                ^
+
+TypeError: XMLHttpRequest is not a constructor
+    at fetchData (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:13:17)
+    at Object.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:31:1)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+
+[Done] exited with code=1 in 0.503 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js"
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at exports.XMLHttpRequest.send (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:396:12)
+    at fetchData (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:26:11)
+    at Object.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:31:1)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at ClientRequest.responseHandler (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:430:9)
+    at Object.onceWrapper (node:events:628:26)
+    at ClientRequest.emit (node:events:513:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:693:27)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:117:17)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+    at TLSSocket.emit (node:events:513:28)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+Error: Errorhttps://api.escuelajs.co/api/v1/products
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:22:27)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:440:13)
+    at IncomingMessage.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:293:11)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at HTTPParser.parserOnBody (node:_http_common:129:24)
+    at TLSSocket.socketOnData (node:_http_client:534:22)
+undefined:1
+undefined
+^
+
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at xhtpp.onreadystatechange (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js:19:37)
+    at exports.XMLHttpRequest.dispatchEvent (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:591:25)
+    at setState (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:610:14)
+    at IncomingMessage.<anonymous> (/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/node_modules/xmlhttprequest/lib/XMLHttpRequest.js:447:13)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+
+Node.js v18.8.0
+
+[Done] exited with code=1 in 1.718 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/callback/tempCodeRunnerFile.js"
+{
+  id: 5,
+  title: 'Incredible Granite Bike',
+  price: 9786,
+  description: 'New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016',
+  category: {
+    id: 5,
+    name: 'Others',
+    image: 'https://api.lorem.space/image?w=640&h=480&r=2873'
+  },
+  images: [ 'https://api.lorem.space/image?w=640&h=480&r=7972' ]
+}
+Incredible Granite Bike
+Others
+
+[Done] exited with code=0 in 3.019 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/tempCodeRunnerFile.js"
+We Have 15 cows on the farm
+
+[Done] exited with code=0 in 0.505 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/tempCodeRunnerFile.js"
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "There is no cows on the farm".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+
+Node.js v18.8.0
+
+[Done] exited with code=1 in 0.166 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/tempCodeRunnerFile.js"
+There is no cows on the farm
+
+[Done] exited with code=0 in 0.185 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/tempCodeRunnerFile.js"
+There is no cows on the farm
+Finished
+
+[Done] exited with code=0 in 0.168 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/Asincronismo/src/Promise/tempCodeRunnerFile.js"
+We Have 15 cows on the farm
+Finished
+
+[Done] exited with code=0 in 0.165 seconds
+

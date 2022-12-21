@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HYT|Login</title>
+    <link rel="stylesheet" href="../WEB_Permisos/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;500&display=swap" rel="stylesheet">
+    <link rel="icon" href="../Logos/logo-pequeño.png">
+</head>
+<body>
+    <div class="login">
+        <div class="form-container">
+            <img src="../Logos/logo-pequeño (1).png" alt="logo" class="logo">
+
+
+            <!--Formulario de Password y new Password-->
+            <form action="/" class="form">
+                <label for="cedula" class="label">Cedula</label>
+                <input type="number" id="cedula" placeholder="1036617898" class="input input-cc">
+
+                <label for="tipos-permisos" class="label">Tipos de Permisos</label>
+                <input list="tipos" id="tipos-permisos" placeholder="Licencia no Remunerada" class="input input-permisos">
+                
+                <datalist id="tipos">
+                    <option value="Licencia No Remunerada"></option>
+                    <option value="Licencia Remunerada"></option>
+                    <option value="Permiso x Horas"></option>
+                    <option value="Dia de la Familia"></option>
+                </datalist>
+
+                <label for="email" class="label">Password</label>
+                <input type="email" id="email" placeholder="juancho@mail.com" class="input input-email">
+
+                <label for="password" class="label">Password</label>
+                <input type="password" id="password" placeholder="*********" class="input input-password">
+
+                <label for="password" class="label">Password</label>
+                <input type="password" id="password" placeholder="*********" class="input input-password">
+
+                <label for="password" class="label">Password</label>
+                <input type="password" id="password" placeholder="*********" class="input input-password">
+
+
+            </form>
+
+            <button class="secondary-button signup-button">Grabar</button>
+
+
+
+        </div>
+    </div>
+</body>
+</html>

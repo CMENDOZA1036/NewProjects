@@ -1,0 +1,56 @@
+[2022-10-25 17:22:16.701] [remoteagent] [info] Extension host agent started.
+[2022-10-25 17:22:17.180] [remoteagent] [info] [127.0.0.1][f01e17ef][ManagementConnection] New connection established.
+[2022-10-25 17:22:17.231] [remoteagent] [info] [127.0.0.1][12f3cefd][ExtensionHostConnection] New connection established.
+[2022-10-25 17:22:18.216] [remoteagent] [info] [127.0.0.1][12f3cefd][ExtensionHostConnection] <178> Launched Extension Host Process.
+[2022-10-25 17:22:25.162] [remoteagent] [info] Deleted from disk vscode-icons-team.vscode-icons /home/cmendoza/.vscode-server/extensions/vscode-icons-team.vscode-icons-11.20.0
+[2022-10-25 17:22:26.033] [remoteagent] [info] Deleted from disk eamodio.gitlens-insiders /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.10.1305
+[2022-10-25 17:22:26.034] [remoteagent] [info] Deleted from disk eamodio.gitlens /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-12.2.2
+[2022-10-25 17:22:26.035] [remoteagent] [info] Deleted from disk github.vscode-pull-request-github /home/cmendoza/.vscode-server/extensions/github.vscode-pull-request-github-0.53.2022101310
+[2022-10-25 17:22:30.592] [remoteagent] [info] Deleted from disk wallabyjs.quokka-vscode /home/cmendoza/.vscode-server/extensions/wallabyjs.quokka-vscode-1.0.504
+[2022-10-25 17:22:30.732] [remoteagent] [info] Deleted from disk ms-python.python /home/cmendoza/.vscode-server/extensions/ms-python.python-2022.16.0
+[2022-10-25 17:22:30.742] [remoteagent] [info] Deleted from disk ms-vsliveshare.vsliveshare /home/cmendoza/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5735
+[2022-10-25 17:22:33.445] [remoteagent] [info] Getting Manifest... codestream.codestream
+[2022-10-25 17:22:33.450] [remoteagent] [info] Getting Manifest... eamodio.gitlens
+[2022-10-25 17:22:33.450] [remoteagent] [info] Getting Manifest... eamodio.gitlens-insiders
+[2022-10-25 17:22:33.450] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-10-25 17:22:33.454] [remoteagent] [info] Getting Manifest... ms-vsliveshare.vsliveshare
+[2022-10-25 17:22:33.454] [remoteagent] [info] Getting Manifest... vscode-icons-team.vscode-icons
+[2022-10-25 17:22:34.005] [remoteagent] [info] Installing extension: codestream.codestream
+[2022-10-25 17:22:34.176] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-10-25 17:22:34.333] [remoteagent] [info] Installing extension: eamodio.gitlens
+[2022-10-25 17:22:34.509] [remoteagent] [info] Installing extension: vscode-icons-team.vscode-icons
+[2022-10-25 17:22:34.696] [remoteagent] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2022-10-25 17:22:34.970] [remoteagent] [info] Installing extension: eamodio.gitlens-insiders
+[2022-10-25 17:22:38.048] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-10-25 17:22:41.282] [remoteagent] [info] Downloaded extension: vscode-icons-team.vscode-icons /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/vscode-icons-team.vscode-icons-12.0.1
+[2022-10-25 17:22:43.983] [remoteagent] [info] Downloaded extension: eamodio.gitlens /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-13.0.3
+[2022-10-25 17:22:48.404] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.f105f90a-be08-4d70-b9cb-5316ee3c24c7: eamodio.gitlens
+[2022-10-25 17:22:48.783] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-13.0.3
+[2022-10-25 17:22:48.857] [remoteagent] [info] Extracting completed. eamodio.gitlens
+[2022-10-25 17:22:48.865] [remoteagent] [info] Extension installed successfully: eamodio.gitlens
+[2022-10-25 17:22:50.992] [remoteagent] [info] Downloaded extension: eamodio.gitlens-insiders /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-insiders-2022.10.2505
+[2022-10-25 17:22:51.546] [remoteagent] [info] Downloaded extension: codestream.codestream /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/codestream.codestream-14.4.0
+[2022-10-25 17:22:52.322] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.d64bd337-6cde-4f49-89b5-07d7c71e6c33: vscode-icons-team.vscode-icons
+[2022-10-25 17:22:52.441] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/vscode-icons-team.vscode-icons-12.0.1
+[2022-10-25 17:22:52.468] [remoteagent] [info] Extracting completed. vscode-icons-team.vscode-icons
+[2022-10-25 17:22:52.478] [remoteagent] [info] Extension installed successfully: vscode-icons-team.vscode-icons
+[2022-10-25 17:22:53.783] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.6764307d-6383-40c2-8b4b-0f922dc77dfd: eamodio.gitlens-insiders
+[2022-10-25 17:22:53.969] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/eamodio.gitlens-insiders-2022.10.2505
+[2022-10-25 17:22:53.998] [remoteagent] [info] Extracting completed. eamodio.gitlens-insiders
+[2022-10-25 17:22:54.006] [remoteagent] [info] Extension installed successfully: eamodio.gitlens-insiders
+[2022-10-25 17:22:55.355] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.a1655275-cc17-43a4-aea4-4258204db0e9: codestream.codestream
+[2022-10-25 17:22:55.460] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/codestream.codestream-14.4.0
+[2022-10-25 17:22:55.474] [remoteagent] [info] Extracting completed. codestream.codestream
+[2022-10-25 17:22:55.483] [remoteagent] [info] Extension installed successfully: codestream.codestream
+[2022-10-25 17:23:01.385] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.10.30
+[2022-10-25 17:23:17.656] [remoteagent] [info] Downloaded extension: ms-vsliveshare.vsliveshare /home/cmendoza/.vscode-server/data/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.5750
+[2022-10-25 17:23:24.390] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.81dd5922-cca9-4bfa-b183-55e321168c3d: ms-python.vscode-pylance
+[2022-10-25 17:23:24.717] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.30
+[2022-10-25 17:23:24.735] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-10-25 17:23:24.754] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-10-25 17:23:27.032] [remoteagent] [info] Extracted extension to /home/cmendoza/.vscode-server/extensions/.3df08862-26a1-4d04-95c5-f7ba456b8131: ms-vsliveshare.vsliveshare
+[2022-10-25 17:23:27.167] [remoteagent] [info] Renamed to /home/cmendoza/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5750
+[2022-10-25 17:23:27.193] [remoteagent] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2022-10-25 17:23:27.200] [remoteagent] [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+[2022-10-25 18:18:20.745] [remoteagent] [info] [127.0.0.1][f01e17ef][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-25 18:18:21.330] [remoteagent] [info] [127.0.0.1][12f3cefd][ExtensionHostConnection] <178> Extension Host Process exited with code: 0, signal: null.

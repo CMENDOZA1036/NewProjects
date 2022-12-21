@@ -1,0 +1,84 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@8.18.0
+2 info using node@v18.8.0
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/usr/local/lib/node_modules/npm/npmrc Completed in 2ms
+6 timing config:load:builtin Completed in 3ms
+7 timing config:load:cli Completed in 4ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/home/cmendoza/.cache/typescript/4.8/.npmrc Completed in 1ms
+10 timing config:load:project Completed in 14ms
+11 timing config:load:file:/home/cmendoza/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/usr/local/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:credentials Completed in 1ms
+17 timing config:load:setEnvs Completed in 1ms
+18 timing config:load Completed in 27ms
+19 timing npm:load:configload Completed in 27ms
+20 timing npm:load:mkdirpcache Completed in 1ms
+21 timing npm:load:mkdirplogs Completed in 0ms
+22 verbose title npm install @types/node@ts4.8
+23 verbose argv "install" "--ignore-scripts" "@types/node@ts4.8" "--save-dev" "--user-agent" "typesInstaller/4.8.4"
+24 timing npm:load:setTitle Completed in 2ms
+25 timing config:load:flatten Completed in 3ms
+26 timing npm:load:display Completed in 5ms
+27 verbose logfile logs-max:10 dir:/home/cmendoza/.npm/_logs
+28 verbose logfile /home/cmendoza/.npm/_logs/2022-11-16T20_53_49_889Z-debug-0.log
+29 timing npm:load:logFile Completed in 12ms
+30 timing npm:load:timers Completed in 0ms
+31 timing npm:load:configScope Completed in 0ms
+32 timing npm:load Completed in 50ms
+33 timing arborist:ctor Completed in 1ms
+34 silly logfile start cleaning logs, removing 1 files
+35 silly logfile done cleaning log files
+36 timing idealTree:init Completed in 70ms
+37 timing arborist:ctor Completed in 1ms
+38 http fetch GET 200 https://registry.npmjs.org/@types%2fnode 1090ms (cache updated)
+39 timing idealTree:userRequests Completed in 1121ms
+40 silly idealTree buildDeps
+41 silly fetch manifest @types/node@18.11.9
+42 silly placeDep ROOT @types/node@18.11.9 OK for:  want: 18.11.9
+43 timing idealTree:#root Completed in 8ms
+44 timing idealTree:node_modules/@types/node Completed in 0ms
+45 timing idealTree:buildDeps Completed in 9ms
+46 timing idealTree:fixDepFlags Completed in 0ms
+47 timing idealTree Completed in 1202ms
+48 timing reify:loadTrees Completed in 1203ms
+49 timing reify:diffTrees Completed in 2ms
+50 silly reify moves {}
+51 timing reify:retireShallow Completed in 1ms
+52 timing reify:createSparse Completed in 2ms
+53 timing reify:loadBundles Completed in 1ms
+54 silly audit bulk request {
+54 silly audit   '@types/prop-types': [ '15.7.5' ],
+54 silly audit   '@types/react': [ '18.0.20' ],
+54 silly audit   '@types/scheduler': [ '0.16.2' ],
+54 silly audit   csstype: [ '3.1.1' ],
+54 silly audit   'types-registry': [ '0.1.618' ],
+54 silly audit   '@types/node': [ '18.11.9' ]
+54 silly audit }
+55 silly tarball no local data for @types/node@https://registry.npmjs.org/@types/node/-/node-18.11.9.tgz. Extracting by manifest.
+56 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 262ms
+57 timing auditReport:getReport Completed in 264ms
+58 silly audit report {}
+59 timing auditReport:init Completed in 0ms
+60 timing reify:audit Completed in 264ms
+61 http fetch GET 200 https://registry.npmjs.org/@types/node/-/node-18.11.9.tgz 880ms (cache miss)
+62 timing reifyNode:node_modules/@types/node Completed in 889ms
+63 timing reify:unpack Completed in 890ms
+64 timing reify:unretire Completed in 0ms
+65 timing build:queue Completed in 0ms
+66 timing build:deps Completed in 2ms
+67 timing build Completed in 2ms
+68 timing reify:build Completed in 2ms
+69 timing reify:trash Completed in 0ms
+70 timing reify:save Completed in 8ms
+71 timing reify Completed in 2131ms
+72 silly ADD node_modules/@types/node
+73 timing command:install Completed in 2135ms
+74 verbose exit 0
+75 timing npm Completed in 2368ms
+76 info ok

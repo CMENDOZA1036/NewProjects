@@ -1,0 +1,70 @@
+[2022-11-03 16:01:03.096] [exthost] [info] Extension host with pid 177 started
+[2022-11-03 16:01:03.173] [exthost] [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/5979ea734077970d694a454aaeeb4a4d/vscode.lock': Lock acquired.
+[2022-11-03 16:01:03.265] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-11-03 16:01:03.266] [exthost] [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-11-03 16:01:03.267] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-11-03 16:01:03.267] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-11-03 16:01:03.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-11-03 16:01:03.268] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets, startup: true, activationEvent: '*'
+[2022-11-03 16:01:03.268] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-11-03 16:01:03.269] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-11-03 16:01:03.269] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-11-03 16:01:03.270] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-11-03 16:01:03.270] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+[2022-11-03 16:01:03.270] [exthost] [info] ExtensionService#_doActivateExtension spywhere.guides, startup: true, activationEvent: '*'
+[2022-11-03 16:01:03.271] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-11-03 16:01:10.694] [exthost] [info] Not activating extension 'pranaygp.vscode-css-peek': Timed out while searching for 'workspaceContains' pattern **/*.css,**/*.scss,**/*.sass,**/*.less
+[2022-11-03 16:01:13.180] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-11-03 16:01:13.466] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-03 16:01:13.467] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-03 16:01:13.470] [exthost] [info] ExtensionService#_doActivateExtension CodeStream.codestream, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-03 16:01:13.478] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-03 16:01:13.479] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens-insiders, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-03 16:01:13.481] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-11-03 16:01:13.482] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-03 16:01:13.484] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-03 16:01:18.896] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2022-11-03 16:01:20.382] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-11-03 16:01:20.383] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-11-03 16:01:21.894] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-03 16:01:35.713] [exthost] [info] Eager extensions activated
+[2022-11-03 16:31:25.067] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-11-03 16:32:45.990] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:32:45.991] [exthost] [error] undefined
+[2022-11-03 16:33:23.001] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:33:23.001] [exthost] [error] undefined
+[2022-11-03 16:33:23.462] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:33:23.462] [exthost] [error] undefined
+[2022-11-03 16:33:23.602] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:33:23.602] [exthost] [error] undefined
+[2022-11-03 16:33:23.716] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:33:23.716] [exthost] [error] undefined
+[2022-11-03 16:33:24.800] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:33:24.800] [exthost] [error] undefined
+[2022-11-03 16:33:24.963] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:33:24.963] [exthost] [error] undefined
+[2022-11-03 16:33:25.480] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:33:25.480] [exthost] [error] undefined
+[2022-11-03 16:33:25.960] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:33:25.960] [exthost] [error] undefined
+[2022-11-03 16:33:26.111] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:33:26.111] [exthost] [error] undefined
+[2022-11-03 16:33:31.601] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:33:31.601] [exthost] [error] undefined
+[2022-11-03 16:34:05.666] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:34:05.666] [exthost] [error] undefined
+[2022-11-03 16:34:13.238] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:34:13.239] [exthost] [error] undefined
+[2022-11-03 16:34:13.651] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:34:13.651] [exthost] [error] undefined
+[2022-11-03 16:34:13.814] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:34:13.814] [exthost] [error] undefined
+[2022-11-03 16:34:39.696] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:34:39.696] [exthost] [error] undefined
+[2022-11-03 16:34:50.932] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:34:50.932] [exthost] [error] undefined
+[2022-11-03 16:35:03.394] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-11-03 16:35:03.394] [exthost] [error] undefined
+[2022-11-03 17:09:37.880] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-11-03 17:09:37.883] [exthost] [info] Lock '/home/cmendoza/.vscode-server/data/User/workspaceStorage/5979ea734077970d694a454aaeeb4a4d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-11-03 17:09:38.223] [exthost] [info] Extension host with pid 177 exiting with code 0

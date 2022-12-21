@@ -1,0 +1,193 @@
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js"
+5
+
+[Done] exited with code=0 in 0.315 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js"
+[
+  { status: 'rejected', reason: 'Reject' },
+  { status: 'fulfilled', value: 'Resolve1' },
+  { status: 'fulfilled', value: 'Resolve2' }
+]
+
+[Done] exited with code=0 in 0.583 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js"
+file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js:1
+console.log(window)
+            ^
+
+ReferenceError: window is not defined
+    at file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:528:24)
+    at async loadESM (node:internal/process/esm_loader:91:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+
+Node.js v18.8.0
+
+[Done] exited with code=1 in 0.204 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js"
+<ref *1> Object [global] {
+  global: [Circular *1],
+  queueMicrotask: [Function: queueMicrotask],
+  clearImmediate: [Function: clearImmediate],
+  setImmediate: [Function: setImmediate] {
+    [Symbol(nodejs.util.promisify.custom)]: [Getter]
+  },
+  structuredClone: [Function: structuredClone],
+  clearInterval: [Function: clearInterval],
+  clearTimeout: [Function: clearTimeout],
+  setInterval: [Function: setInterval],
+  setTimeout: [Function: setTimeout] {
+    [Symbol(nodejs.util.promisify.custom)]: [Getter]
+  },
+  atob: [Function: atob],
+  btoa: [Function: btoa],
+  performance: Performance {
+    nodeTiming: PerformanceNodeTiming {
+      name: 'node',
+      entryType: 'node',
+      startTime: 0,
+      duration: 372.4912999999942,
+      nodeStart: 44.97789999993984,
+      v8Start: 112.08109999995213,
+      bootstrapComplete: 317.0441999998875,
+      environment: 205.01029999996535,
+      loopStart: 345.95679999992717,
+      loopExit: -1,
+      idleTime: 9.6008
+    },
+    timeOrigin: 1667510085472.931
+  },
+  fetch: [AsyncFunction: fetch]
+}
+
+[Done] exited with code=0 in 0.671 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js"
+<ref *1> Object [global] {
+  global: [Circular *1],
+  queueMicrotask: [Function: queueMicrotask],
+  clearImmediate: [Function: clearImmediate],
+  setImmediate: [Function: setImmediate] {
+    [Symbol(nodejs.util.promisify.custom)]: [Getter]
+  },
+  structuredClone: [Function: structuredClone],
+  clearInterval: [Function: clearInterval],
+  clearTimeout: [Function: clearTimeout],
+  setInterval: [Function: setInterval],
+  setTimeout: [Function: setTimeout] {
+    [Symbol(nodejs.util.promisify.custom)]: [Getter]
+  },
+  atob: [Function: atob],
+  btoa: [Function: btoa],
+  performance: Performance {
+    nodeTiming: PerformanceNodeTiming {
+      name: 'node',
+      entryType: 'node',
+      startTime: 0,
+      duration: 177.6082999999635,
+      nodeStart: 9.938300000037998,
+      v8Start: 18.003400000045076,
+      bootstrapComplete: 126.85190000000875,
+      environment: 86.4932999999728,
+      loopStart: 153.58600000001024,
+      loopExit: -1,
+      idleTime: 12.5054
+    },
+    timeOrigin: 1667510124745.647
+  },
+  fetch: [AsyncFunction: fetch]
+}
+
+[Done] exited with code=0 in 0.305 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js"
+file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js:1
+console.log(self) //* webworker
+            ^
+
+ReferenceError: self is not defined
+    at file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:528:24)
+    at async loadESM (node:internal/process/esm_loader:91:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+
+Node.js v18.8.0
+
+[Done] exited with code=1 in 0.284 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js"
+file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js:1
+console.log(selft) //* webworker
+            ^
+
+ReferenceError: selft is not defined
+    at file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:528:24)
+    at async loadESM (node:internal/process/esm_loader:91:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+
+Node.js v18.8.0
+
+[Done] exited with code=1 in 0.264 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js"
+file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js:1
+console.log(self) //* webworker
+            ^
+
+ReferenceError: self is not defined
+    at file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:528:24)
+    at async loadESM (node:internal/process/esm_loader:91:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+
+Node.js v18.8.0
+
+[Done] exited with code=1 in 0.228 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js"
+file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js:1
+console.log(selft) //* webworker
+            ^
+
+ReferenceError: selft is not defined
+    at file:///home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js:1:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:528:24)
+    at async loadESM (node:internal/process/esm_loader:91:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+
+Node.js v18.8.0
+
+[Done] exited with code=1 in 0.171 seconds
+
+[Running] node "/home/cmendoza/Projects/PersonalProjects/WEB/JavaScript/ECMAScript/src/es11/tempCodeRunnerFile.js"
+[
+  'Apple',
+  'Apple',
+  index: 0,
+  input: 'Apple, Bannana Kiwi, Apple, Orange',
+  groups: undefined
+]
+[
+  'Apple',
+  'Apple',
+  index: 21,
+  input: 'Apple, Bannana Kiwi, Apple, Orange',
+  groups: undefined
+]
+
+[Done] exited with code=0 in 0.272 seconds
+

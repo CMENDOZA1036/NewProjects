@@ -1,0 +1,1 @@
+export default async function(e){const{ViteNodeRunner:t}=await import(e.viteNodeClientPath),o=new t({root:e.root,base:e.base,fetchModule:async t=>await e.fetchModule(t),resolveId:(t,o)=>e.resolveId(t,o)});await o.executeFile(e.file)}
