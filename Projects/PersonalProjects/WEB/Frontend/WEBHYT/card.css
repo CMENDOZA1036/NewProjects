@@ -1,0 +1,139 @@
+
+@font-face {
+    font-family: euros;
+    src: url(fonts/EUROSTIB.TTF);
+}
+@font-face {
+    font-family: relaway;
+    src: url(fonts/RALEWAY-REGULAR.TTF);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    
+}
+
+.name {
+    font-family: euros;
+    color: #fff;
+    text-shadow: 0px 0px 4px rgb(148, 148, 148);
+    
+}
+
+.position {
+
+    font-family: relaway;
+    color: #fff;
+
+}
+
+.line{
+    font-family: relaway;
+    color: #fff;
+
+}
+.container{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    height: 100vh;
+    background: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0 20px ;
+    
+}
+
+.card-container{
+    display: flex;
+    width: 600 px;
+    height: auto;
+    background: #076fb6;
+    /* box-shadow: 1px 1px 4px 2px rgba(0, 0, 0, .2); */
+}
+
+.header{
+    border-right: 1px solid #076fb6;
+}
+
+
+.descripcion{
+    background-color: #076fb6;
+    width: 530px;
+}
+
+.header, .descripcion{
+    padding: 20px;
+    text-align: center;
+}
+
+.header h4{
+    padding-top: 10px;
+}
+
+.header a{
+    position: relative;
+    display: block;
+}
+ .header img{
+    height: 200px;
+    width: 200px;
+    border-radius:50%;
+    box-shadow: 0 0 0 10px rgb(255, 255, 255);
+    margin-top: -50%;
+ }
+ 
+ .name{
+    margin-top: 20px;
+ }
+
+ /*.descripcion .social a{
+    display: inline-block;
+    padding: 0 7px;
+    
+ }*/
+
+ 
+ .companylogo{
+
+    margin-bottom: 10px;
+    margin-right: 0px;
+ }
+ 
+ .companylogo img{
+    position: relative;
+    margin-left: 100px;
+ }
+
+ .mail{
+    padding: 10px;
+    color: white;
+ }
+
+ .email{
+    margin-left: -250px;
+    margin-top: 100px;
+ }
+ .email line{
+    display: inline-block;
+    
+ }
+
+ .email a{
+    text-decoration: none;
+    margin-left: 30px;
+ }
+
+ .fa-linkedin, .fa-square-facebook,.fa-square-instagram{
+    color:white;
+ }
+
+ .fa-twitter{
+    color: #076fb6;
+    background-color: white;
+ }
+
+
+ @media (max-with:640px){
+
+ }

@@ -1,4 +1,0 @@
-[2022-08-23 16:02:34.633] [GIT  ] [/home/cmendoza] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 2197 ms (slow)
-
-[2022-08-23 16:14:29.633] [GIT  ] [/home/cmendoza/PersonalProjects] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- WEB/Frontend/curso 2/index.html • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c color.diff=false diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- WEB/Frontend/curso 2/index.html • bad revision '0000000000000000000000000000000000000000-' • 876 ms (slow)
-

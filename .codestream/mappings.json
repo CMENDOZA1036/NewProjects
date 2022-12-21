@@ -14,9 +14,11 @@
   },
   "62a8af5b34148acd2cc14686": {
    "paths": [
-    "/home/cmendoza/PersonalProjects"
+    "/home/cmendoza/PersonalProjects",
+    "/home/cmendoza",
+    "/home/cmendoza/PersonalProjects/PersonalProjects"
    ],
-   "defaultPath": "/home/cmendoza/PersonalProjects"
+   "defaultPath": "/home/cmendoza/PersonalProjects/PersonalProjects"
   },
   "62a8ee2a7e08d5b329c380bb": {
    "paths": [
@@ -53,6 +55,12 @@
     "/home/cmendoza/blender_vscode"
    ],
    "defaultPath": "/home/cmendoza/blender_vscode"
+  },
+  "630e561dcdd3c7c8fadee30e": {
+   "paths": [
+    "/home/cmendoza"
+   ],
+   "defaultPath": "/home/cmendoza"
   }
  },
  "version": "1.0.0"

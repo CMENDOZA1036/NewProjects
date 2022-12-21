@@ -1,569 +1,3 @@
-pwd
-cd ..
-ls
-cd ..
-cd /home/cmendoza
-ls
-pwd
-cd /
-ls
-cd mnt
-ls
-pwd
-cd c
-ls
-cd User
-cd usr
-cd ..
-cd usuarios
-cd Usuarios
-cd Users
-cd admin/
-ls
-cd Downloads/
-ls
-cd ~
-pwd
-mkdir PersonalProjects
-ls
-mkdir Desarrollo WEB
-ls
-touch index.html
-ls
-mv index.html Desarrollo
-ls
-mv WEB Desarrollo
-ls
-cd Desarrollo
-ls
-mv index.html WEB
-ls
-cd ..
-ls
-cd PersonalProjects
-ls
-cmendoza
-cd  cmendoza
-ls
-mv Desarrollo PersonalProjects
-ls
-cd PersonalProjects
-ls
-cd Desarrollo
-ls
-code .
-ls
-rename Tareas Backend
-mv Tareas Backend
-rename Tareas JsBasico
-mv Tareas JsBasico
-ls
-code .
-ls
-cd ~
-ls
-cd PersonalProjects
-ls
-cd Desarrollo
-code .
-ls
-cat index.html
-cd Frontend
-ls
-cd curso 1 
-cd curso 1
-ls
-cd /curso 1
-cd 'curso 1'
-ls
-catindex.html
-cat index.html
-man
-man man
-cd ~
-ls
-sudo apt-get updated
-cd ..
-cd ~
-sudo apt-get updated
-cd ~
-ls
-cd ..
-sudo apt-get updated
-cd ..
-sudo apt-get updated
-cd ..
-sudo apt-get updated
-cd..
-c ..
-cd ..
-passwd
-cd ..
-ls
-password
-passwd
-cd..
-sudo apt-get updated
-apt-get updated
-cd ..
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt install nodejs
-node -v
-sudo apt install npm
-clean
-clear
-cd PersonalProjects
-npx create-react-app test
-node updated
-node.js apt-get update
-node apt-get updated
-npm -v
-cd ~
-sudo npm cache clean -f
-sudo npm install -g n
-sudo n stable
-npx create-react-app test
-cd PersonalProjects
-npx create-react-app test
-ls
-npx create-react-app test
-cd test
-npm start
-clear
-cd PersonalProjects
-sudo chown -R cmendoza ~/PersonalProjects
-npm start
-cd..
-ls
-PersonalProjects
-cd PersonalProjects
-ls
-Desarrollo
-cd Desarrollo
-ls
-cd ..
-npx creat-react-app test
-cd test
-npm start
-clean
-clear
-cd ~
-sudo apt-get update
-node -v
-apt-get update
-sudo apt-get update
-sudo apt-get upgrade
-sudo install nodejs
-node -v
-sudo apt install npm
-clear
-cd PersonalProjects
-npx create-react-app test1
-cd test1
-npm start
-code .
-cd ..
-ls
-cd test1
-cd ..
-rm -rf test1
-ls
-code .
-git --version
-clear
-cd ~
-ssh-keygen -t rsa -b 4096 -c "alvarezmendoz@gmail.com"
-ssh-keygen -t rsa -b 4096 -C "alvarezmendoz@gmail.com"
-eval "$(ssh-agen -s)"
-eval "$(ssh-agent -s)"
-ssh-copy-id alvarezmendoz@gmail.com
-cd ~/.ssh
-ls
-cat id_rsa.pub
-clear
-cd ~ 
-cd PersonalProjects
-echo "# PersonalProjects" >> README.md
-ls
-cd Desarrollo
-echo "# PersonalProjects" >> README.md
-ls
-git init
-git add .
-git commit -m "first commit"
-git config --global user.email "alvarezmendoz@gmail.com"
-git commit -m "first commit"
-git config --global user.email "alvarezmendoz@gmail.com"
-git config --global user.name "CMENDOZA1036"
-git config --edit --global
-git commit -m "first commit"
-git remote add origin https://github.com/CMENDOZA1036/PersonalProjects.git
-git push -u origin main
-git remote add origin https://github.com/CMENDOZA1036/PersonalProjects.git
-git push -u origin master
-git remote add origin https://github.com/CMENDOZA1036/PersonalProjects.git
-git push -u origin main
-git push -u origin master
-git remote add origin https://github.com/CMENDOZA1036/PersonalProjects.git
-git branch -M main
-git push -u origin main
-git push -u origin master
-git push -u origin main
-git push -u origin master
-git push -u origin main
-$ git clone https://github.com/username/repo.git
-$ git clone https://github.com/CMENDOZA1036/repo.git
-git clone https://github.com/CMENDOZA1036/repo.git
-git remote add origin
-git commit -m "first commit"
-cd PersonalProjects
-ls
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/CMENDOZA1036/PersonalProjects.git
-git push -u origin master
-git push -u origin main
-git remote add origin https://github.com/CMENDOZA1036/PersonalProjects.git
-git push -u origin main
-git remote add origin git@github.com:CMENDOZA1036/PersonalProjects.git
-git clone https://github.com/CMENDOZA1036/repo.git
-git push -u origin main
-https://github.com/CMENDOZA1036/PersonalProjects.git
-LS
-ls
-git init
-git add README.md
-LS
-ls
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/CMENDOZA1036/PersonalProjects.git
-git push -u origin main
-code .
-clear
-git add .
-git submodule add <url> Desarrollo
-git add .
-git commit
-git commit -m "cambios agregamos sitio de otro"
-git push -u origin main
-git commit -m "Eliminacion"
-git push -u origin main
-git commit -m "Nuevo Archivo de Practica"
-git push -u origin main
-gif add .
-gif add Desarrollo
-git add Desarrollo
-git add 2. semantic.html
-git add "2. semantic.html"
-git commit -m "Nuevo Archivo de Practica"
-git push -u origin main
-git help submodule
-git add Desarrollo
-git add .
-cd PersonalProjects
-git add .
-cd PersonaProjects
-cd PersonalProjects
-git push -u origin main
-git commit -m "cambio de texto"
-git push -u origin main
-cd PersonalProjects
-ls
-git init
-ls -al
-code .
-git status
-git commit -m "Md Desarrollo"
-git add "Desarrollo"
-git status
-git commit -a "Md Carpeta"
-git commit -a Desarrollo
-git commit -a
-git add -a
-git add -p
-git add -f
-git add
-git add .
-git push -u origin main
-GIT STATUS
-git status
-git restore Desarrollo
-git status
-git discard Desarrollo
-git rm --cached Desarrollo
-git status
-git add Desarrollo
-git status
-git rm --cached Desarrollo
-git status
-git push -u origin main
-GIT STATUS
-git status
-git restore --staged Desarrollo
-git status
-git add Desarrollo
-git commit -a Desarrollo
-git commit -a
-git add .
-git commit 
-git commit -m"el primer comit"
-git status
-git add .
-git commit -m "Nueva Carpeta de Estudio"
-git push -u origin main
-GIT STATUS
-git status
-git config --list
-git status
-git log 
-git add 1.index.html
-git status
-git commit -m "Nueva lista"
-git add .
-git commit -m "Nueva lista"
-git show 1. index.html
-git show "1. index.html"
-git add .
-git commit -m "Comentario Nuevo"
-git show "1. index.html"
-git push -u origin main
-git log "1. index.html"
-git diff c0898eba068b096fb65846923fa3889644ccc034 29a6b0e9104bf02f73228e8a88f7a256c4571170
-git status
-git add .
-git status
-git add .
-git status
-git diff
-git status
-git diff
-git add .
-git status
-git commit -m "Mi projecto real"
-git status
-git log 
-cd PersonalProjects
-git status
-git commit -m "cambio color"
-git add .
-git commit -m "cambio a color pink"
-git status
-git log
-cd PersonalProjects
-git status
-git push -u origin main
-git log "1. index.html"
-git log 1. index.html
-git log
-git status
-git log
-git log --stat
-git checkout bbda47ffd3d410cc230ec2a5a1d26e64e513aa3a 1. index.html
-git checkout bbda47ffd3d410cc230ec2a5a1d26e64e513aa3a "1. index.html"
-git checkout bbda47ffd3d410cc230ec2a5a1d26e64e513aa3a estilos-index.css
-git status
-git add .
-git status
-git log
-git commit -m "cambio a color azul"
-git status
-git log estilos-index.css
-git log
-git checkout 802798831f660ac83df39064fd86345820adaf99 estilos-index.css
-git checkout 802798831f660ac83df39064fd86345820adaf99 "estilos-index.css"
-git checkout 802798831f660ac83df39064fd86345820adaf99 estilos-index.css
-git checkout 802798831f660ac83df39064fd86345820adaf99 "estilos-index.css"
-git checkout 802798831f660ac83df39064fd86345820adaf99
-git checkout master
-git checkout master estilos-index.css
-git checkout master "estilos-index.css"
-git status
-git checkout main "estilos-index.css"
-git checkout main estilos-index.css
-git checkout main
-git log
-git status
-git push -u origin main
-git status
-git commit -am "Commit al Master en su version mas reciete"
-git log
-git status
-git show
-git branch cabecera
-git show
-git status
-git checkout cabecera
-git status
-git add 1. index.html
-git add "1. index.html"
-git add 1. index.html
-git add "1. index.html"
-git add .
-git commit -m
-git commit -m "Se incluyo cabecera"
-git status
-git show
-git log
-git checkout main
-git log
-git checkout cabecera
-git show
-git checkout main
-git show
-git checkout cabecera
-git status
-git commit -am "Finalizada la cabecera con diseno azul"
-git status
-git checkout main
-git status
-git commit -am "Estoy modificando a la rama master con tipografia"
-git status
-git log
-git checkout cabecera
-git checkout main
-git status
-git merge cabecera
-git log
-git status
-cd PersonalProjects
-git status
-code .
-git checkout header
-git status
-git pull origin header
-git status
-git pull origin header
-git push origin header
-git checkout main
-git status
-ls
-cd WEB
-ls
-cd Frontend
-ls
-cd Css
-mkdire imagenes
-mkdir imagenes
-ls
-git status
-git update
-git add .
-cd ..
-git pull origin main
-git status
-git push origin header
-git push origin main
-ls
-git status
-git checkout header
-git status
-arbol
-git checkout main
-arbol
-git checkout cabecera
-arbol
-git log –all –graph –decorate –oneline
-git log --all --graph --decorate --oneline
-alias arbol="git log --all --graph --decorate --oneline"
-arbol
-git checkout header
-git status
-arbol
-git add imagenes/dragon.png
-cd Css
-cd WEB
-ls
-cd Frontend
-ls
-cd Css
-git add imagenes/dragon.png
-git add "imagenes/dragon.png"
-git status
-git pull origin header
-git push origin header
-git commit -am "Agregar carpeta"
-git add .
-git status
-git commit -am "Agregar carpeta"
-git status
-cd ..
-sudo apt-get update
-sudo apt-get upgrade
-git status
-cd .
-cd
-cd Css
-cd PersonalProjects
-git checkout main
-git status
-cd WEB
-cd Frontend
-cd Css
-mkdir imagenes
-ls
-git -all
-git log --all
-git log --stat
-git config --list
-pwd
-cat imagenes
-touch imagenes
-ls
-pwd
-cat imagenes
-chmod ugo+rwx imagenes
-cat imagenes]
-ls
-cat imagenes
-ls
-rm imagenes
-rm -r imagenes
-git status
-clear
-mkdir imagenes
-mkdir imagenes1
-ls
-git add imagenes1/dragon.png
-git status
-git commit -am "Carpeta Imagenes"
-git add .
-sudo git add .
-git config --global --add safe.directory /home/cmendoza/PersonalProjects
-git status
-git commit -am "Carpeta Imagenes"
-git add .
-chmod ugo+rwx imagenes1
-git commit -am "Carpeta Imagenes"
-git add .
-ls -l imagenes1
-chmod 744 imagenes1
-git add .
-git pull origin main
-git push origin main
-git status
-git commit -am "Agregar Carpeta"
-cd ..
-git commit -am "Agregar Carpeta"
-git add .
-git pull origin main
-git push origin main
-git status
-git add imagenes1
-git add "imagenes1"
-git rm WEB/Frontend/Css/imagenes1/
-git-add-u
-git add -u
-ls
-git status
-rm imagenes1
-cd WEB
-cd Frontend
-cd Css
-ls
-rm imagenes1
-ls
 rm -r imagenes1
 ls
 rm -r imagenes1
@@ -1909,3 +1343,658 @@ git commit -am "Js Practico 11"
 git push origin main
 cd ..
 code .
+git remote -v
+cd PersonalProjects
+code .
+git status
+git add .
+git commit -am "Js Practico 15"
+git push origin main
+cd ..
+git push origin main
+git status
+git add 
+git add .
+git commit -am "Js Practico 15"
+git push origin main
+cd PersonalProjects
+git status
+git push origin main
+code .
+git status
+git add .
+git commit -am "Frontend 20"
+git push origin main
+cd PersonalProjects
+git remote
+eval $(ssh-agent -s)
+git remote origin
+git remote
+git remote -v
+git status
+git add ..
+git add .
+git status
+git commit -am "Frontend 21"
+git push origin main
+sudo apt-get update
+sudo apt-get upgrade
+git push origin main
+cd ..
+ls
+git remote set-url origin git@github.com:CMENDOZA1036/Projects.git
+git remote -v
+git pull
+ls
+git pull origin main
+git push origin main
+ls
+git remote -v
+git pull
+ls
+git pull origin main
+ls
+git branch
+ls -al
+ls
+git add Projects
+chmod ugo+rwx Projects
+ls
+cd Projects
+git status
+git add
+git add .
+git status
+ls
+chmod ugo+rwx index.html
+git status
+ls
+git commit -am "Frontend 1"
+cd ..
+ls
+git add .
+git commit -am "Cambios 2"
+cd Projects
+git push origin main
+cd ..
+git status
+git add .
+git status
+git commit -am "Cambios 2"
+git push origin main
+git pull
+git branch --set-upstream-to=origin/main
+git pull
+git status
+git remote -v
+git remote set-url origin https://github.com/CMENDOZA1036
+git remote -v
+git pull
+git remote set-url origin 
+git remote set-url origin https://github.com/CMENDOZA1036/Projects.git
+git remote -v
+git pull
+git remote set-url origin git@github.com:CMENDOZA1036/Projects.git
+git pull
+ls
+git clone git@github.com:CMENDOZA1036/Projects.git
+git config -list
+git conf -list
+rm Projects
+git pull --rebase origin main
+git remote -v
+git remote set-url origin git@github.com:CMENDOZA1036/PersonalProjects.git
+git pull --rebase origin main
+git pull
+ls
+git add .
+git status
+git add  blender_vscode
+git status
+git restore  blender_vscode
+git status
+git discard  blender_vscode
+git commit -am "Cambios 3"
+git push origin main
+git status
+git add .
+git commit -am "Cambios 4"
+git push origin main
+git status
+git add .vscode-server/data/logs/20220830T104130/exthost1/output_logging_20220830T104141/10-CodeStream (Agent).log
+ls
+cd Projects
+ls
+chmod ugo+rwx Project_Bata_Bit
+ls
+cd Project_Bata_Bit
+ls
+cd icons
+chmod ugo+rwx icons
+ls
+chmod ugo+rwx img
+chmod ugo+rwx index.html styles.css
+ls
+cd icons
+ls
+cd ..
+img
+cd img
+ls
+cd ..
+git status
+git add .
+git commit -am "Frontend 3"
+git push origin main
+cd ..
+ls
+cd Projects
+ls
+cd ..
+git pull
+ls
+git add .
+git commit -am "Cambios 5"
+git push origin main
+cd ..
+ls
+git status
+cd cmendoza
+pwd
+git remote -v
+git remote add origin git@github.com:CMENDOZA1036/NewProjects.git
+git remote -v
+git remote set-url origin git@github.com:CMENDOZA1036/NewProjects.git
+git remote -v
+git push origin master
+git status
+git push origin main
+git pull
+git pull origin main --allow-unrelated-histories
+ls
+git push origin main
+git branch
+git checkout master
+ls
+rm README.md
+ls
+git checkout master
+git push origin master
+git remote -v
+git merge main
+git add .
+git status
+git add README.md
+git status
+git rm Projects/index.html
+
+git commit -am "Cambios 6"
+git push origin main
+git status
+cd ..
+cd cmendoza
+ls
+PersonalProjects
+cd PersonalProjects
+git pull
+cd PersonalProjects
+LS
+ls
+cd PersonalProjects
+git status
+git commit -am "Cambios 7"
+git status
+ls
+cd ..
+ls
+cd PersonalProjects
+code .
+git remote -v
+git pull origin main
+code ..
+git add .
+git commit -am "Frontend 3"
+git push origin main
+cd ..
+ls
+git remote -v
+git pull origin main
+git pull
+git push origin main
+git remote -v
+git status
+git add .
+git commit -am "Cambios 8"
+git push origin main
+git status
+git add .
+git commit -am "Frontend 12"
+git push origin main
+git status
+git add .vscode-server/data/logs/20220830T132313/exthost1/output_logging_20220830T132321
+git commit -am "Frontend 13"
+git push origin main
+git status
+git pull
+git pull origin main
+git status
+git restore PersonalProjects
+ls
+git log
+git reset 34435106ed5390cd07c5c044f52a4d4a81925b41 --hard
+ls
+git reset 77fe6f1b5a12b98fcaea025b351487c208415026 --hard
+git status
+ls
+code .
+git reset 34435106ed5390cd07c5c044f52a4d4a81925b41 --soft
+git status
+ls
+git pull origin main
+git status
+git reset --hard HEAD~1
+LS
+ls
+git revert --no-commit 
+git revert --no-commit <commit>
+git revert --no-commit 'Fronten 12'
+cd PersonalProjects
+git clone git@github.com:CMENDOZA1036/PersonalProjects.git
+code .
+cd ..
+code .
+git status
+git add .
+git commit -am "Cambios y Carpetas"
+git push origin main
+git pull
+git push origin main
+git status
+git add .vscode-server/data/logs/20220830T180901/exthost1/output_logging_20220830T180909/5-CodeStream.log .vscode-server/data/logs/20220830T180901/exthost1/output_logging_20220830T180909/9-CodeStream (Agent).log
+git add .vscode-server/data/logs/20220830T180901/exthost1/output_logging_20220830T180909/5-CodeStream.log
+git add .vscode-server/data/logs/20220830T180901/exthost1/output_logging_20220830T180909/9-CodeStream (Agent).log
+git add '.vscode-server/data/logs/20220830T180901/exthost1/output_logging_20220830T180909/9-CodeStream (Agent).log'
+git status
+git commit -am "Cambios y Carpetas1"
+git push origin main
+ls
+cd PersonalProjects
+ls -al
+cd PersonalProjects
+ls
+cd WEB
+ls
+cd..
+cd ..
+cd cmendoza
+chmod ugo+rwx PersonalProjects
+git status
+ls
+git commit -am "Cambios y Carpetas2"
+git push origin main
+git push
+git remote -v
+git status
+cd PersonalProjects
+git status
+git add .
+cd PersonalProjects
+git status
+git add .
+git commit -am "Cambios y Carpetas3"
+git push origin main
+ls
+cd PersonalProjects
+ls
+cd PersonalProjects
+ls
+cd WEB
+ls
+chmod ugo+rwx React
+ls
+cd Projects
+code .
+ls
+cd Projects
+code .
+git log
+git status
+git add .
+git commit -am "Frontend 5"
+git push origin main
+git log
+code .
+ls
+cd PersonalProjects
+ls
+cd WEB
+ls
+cd Frontend
+ls
+cd WEBHYT
+ls
+chmod ugo+rwx icons
+ls
+cd icons
+ls
+chmod ugo+rwx Sales_Invoice.png flechita_derecha.png
+ls
+cd ..
+ls
+git status
+git add .
+git commit -am "Frontend 6"
+git push origin main
+git status
+cd ~
+git add .
+git commit -am "Updated 2"
+git push origin main
+git status
+ls
+git status
+git add .
+git commit -am "Frontend "
+git push origin main
+ls
+cd Projects
+ls
+code .
+cd ..
+git status
+git add .
+git commit -am "Frontend 7 - batata"
+git push origin main
+npm start
+cd Projects
+ls
+cd PersonalProjects\WEB\
+ls
+cd PersonalProjects
+ls
+cd WEB
+ls
+cd JavaScript
+ls
+chmod ugo+rwx Practic_Js
+cd Practic_J
+ls
+chmod '1. FigurasGeometricas.html'      '2. descuentos.js'             '4. Moda.html'          README.md '1. FigurasGeometricas.js'        '3. Mediana.js'                '4. Moda.js'            test-Basico-Js.md '1. StylefigurasGeometricas.css'  '3. PromedioMedianaModa.html'  '5. leyendoHtml.html' '2. StyleDescuentos.css'          '3. StylePromedio.css'         '5. script.js' '2. descuentos.html'              '3. promedio.js'                LICENSE
+ls
+chmod '1. FigurasGeometricas.html' '2. descuentos.js' '4. Moda.html' README.md '1. FigurasGeometricas.js' '3. Mediana.js'
+chmod ugo+rwx '1. FigurasGeometricas.html'      '2. descuentos.js'             '4. Moda.html'          README.md '1. FigurasGeometricas.js'        '3. Mediana.js'                '4. Moda.js'            test-Basico-Js.md '1. StylefigurasGeometricas.css'  '3. PromedioMedianaModa.html'  '5. leyendoHtml.html' '2. StyleDescuentos.css'          '3. StylePromedio.css'         '5. script.js' '2. descuentos.html'
+ls
+chmod ugo+rwx '3. promedio.js'                LICENSE
+ls
+cd ~
+cd /Projects/
+cd /Projects
+
+git add ..
+chmod ugo+rwx Projects/PersonalProjects/WEB/JavaScript/Practic_Js/.gitignore
+cd PersonalProjects/WEB/JavaScript/Practic_Js
+chmod ugo+rwx .gitignore
+cd ..
+git add .
+git commit -am "JsPractico - 2"
+git push origin main
+cd /PersonalProjects/WEB/Frontend
+cd PersonalProjects/WEB/Frontend
+chmod ugo+rwx Basic_Html_Css
+ls
+cd Basic_Html_Css
+ls
+chmod ugo+rwx Accesibilidad  CSS  HTML  ResponsiveDesign
+ls
+cd Accesibilidad
+ls
+chmod ugo+r
+ls
+cd claseLabelAltTitle
+ls
+chmod ugo+rwx '1. Reto1.html'   index.html   style.css   white-and-black-short-coated-dog-4587987.jpg
+ls
+cd ..
+ls
+cd texto
+ls
+chmod ugo+rwx inde.html  style.css
+ls
+cd ..
+ls
+cd Css
+cd CSS
+ls
+chmod ugo+rwx claseCombinadores  claseDisplay        claseHerencia  claseModeloCaja  clasePseudoClases claseCss           claseEspecificidad  claseMedidas   clasePosition
+ls
+claseCombinadores
+cd claseCombinadores
+ls
+chmod ugo+rwx index.html  style.css
+ls
+cd ..
+ls
+cd claseDisplay
+ls
+chmod ugo+rwx blockInline  flex
+ls
+cd blockInline
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd flex
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd claseHerencia
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd claseModeloCaja
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd clasePseudoClases
+ls
+chmod ugo+rwx claseVariables  claseWebFonts  index.html  style.css
+cd claseVariables
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd claseWebFonts
+ls
+chmod ugo+rwx 
+cd ..
+ls
+cd  claseCss
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+cd claseEspecificidad
+ls
+chmod ugo+rwx index.html  style.css
+ls
+cd ..
+cd claseMedidas
+ls
+chmod ugo+rwx absolutas  em  minMax  rem
+ls
+cd absolutas
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd em
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+cd minMax
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+cd rem
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd clasePosition
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd HTML
+ls
+chmod ugo+rwx claseButton  claseCalendario  claseForms  claseImg  claseIndex  claseVideo
+ls
+cd claseButton
+ls
+chmod ugo+rwx index.html
+cd ..
+cd claseCalendario
+ls
+chmod ugo+rwx index.html select.html
+cd ..
+cd claseForms
+ls
+chmod ugo+rwx index.html
+cd ..
+cd claseImg
+ls
+chmod ugo+rwx index.html img
+ls
+cd img
+ls
+chmod ugo+rwx large.jpg  medium.jpg  small.jpg
+cd ..
+ls
+cd claseIndex
+ls
+chmod ugo+rwx css  index.html
+ls
+cd css
+ls
+chmod ugo+rwx style.css
+cd ..
+cd claseVideo
+ls
+chmod ugo+rwx index.html
+ls
+cd ..
+ls
+cd ResponsiveDesign
+ls
+chmod ugo+rwx ResponsiveImgs  columnDrop  layoutShifter  mostlyFluid
+ls
+cd ResponsiveImgs
+ls
+chmod ugo+rwx imgs  index.html  style.css
+ls
+cd imgs
+ls
+chmod ugo+rwx large.jpg  medium.jpg  small.jpg
+cd ..
+ls
+cd ..
+ls
+cd  columnDrop
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+ls
+cd layoutShifter
+ls
+chmod ugo+rwx index.html  style.css
+cd ..
+cd mostlyFluid
+ls
+chmod ugo+rwx desktop.css  index.html  style.css  table.css
+cd ..
+ls
+cd ~
+git add .
+git commit -am "Updated 3"
+git push origin main
+git status
+git add ..
+git add .
+git commit -am "Updated 4"
+git push origin main
+cd Personal
+ls
+cd Projects
+code .
+node -v
+cd PersonalProjects 
+ls
+cd WEB
+ls
+JavaScript
+cd JavaScript
+ls
+chmod ugo+rwx ECMAScript
+ls
+cd ~
+cd Projects
+cd PersonalProjects/WEB/JavaScript
+clear
+ls
+cd ECMAScript
+npm init
+git add .
+git commit -am "ECMAScript-1"
+git push origin main
+ls
+cd Projects
+code .
+git add .
+git commit -am "ECMAScript-2"
+git push origin main
+cd Projects
+code .
+git add .
+git commit -am "ECMAScript-3"
+git push origin main
+cd Projects
+code .
+cd Projects
+code .
+git commit -am "WEB-Licencias3"
+git push origin main
+cd Projects
+code .
+sudo apt-get update
+sudo apt-get upgrade
+code .
+ls
+cd PersonalProjects
+ls
+cd PersonalProjects
+ls
+code .
+cd ..
+code ..
+cd ..
+ls
+cd cmendoza
+ls
+cd Projects
+code .
+ls
+cd PersonalProjects
+ls
+cd WEB
+ls
+cd JavaScript
+ls
+cd Asincronismo
+clear
+git init
+clear
+npm init
+clear
+npm i xmlhttprequest

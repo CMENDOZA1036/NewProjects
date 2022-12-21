@@ -1,0 +1,176 @@
+:root {
+    --white: #FFFFFF;
+    --black: #000000;
+    --very-ligh-pink: #C7C7C7;
+    --text-input-field: #F7F7F7;
+    --hospital-green: #ACD9B2;
+    --main-solid-blue: #00EDFA;
+    --main-solid-purpure: #3426BC;
+    --secundary-blue-1: #5FCADF;
+    --secundary-blue-2: #1992DD;
+    --secundary-blue-3: #2A70B9;
+    --secundary-blue-4: #2667D0;
+    --secundary-blue-5: #1F7ED7;
+    --secundary-blue-6: #1A6FD3;
+    --secundary-purpure-1: #2D4EC9;
+    --secundary-purpure-2: #42459C;
+    --secundary-black-1: #000000;
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #5867dd;
+    --secondary: #e1e1ef;
+    --success: #0abb87;
+    --info: #5578eb;
+    --warning: #ffb822;
+    --danger: #fd397a;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --dark-1: #4a4a4a;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 1024px;
+    --breakpoint-xl: 1399px;
+    --sm-1: 14px;
+    --sm-2: 12px;
+    /* Con estas en font-size podemos utilizarlos para los tamanos sm= small md = mediano = grande*/
+    --md: 16px;
+    --lg: 18px;
+    --width-collapsed: 50px;
+    --hovercolor: rgb(23, 23, 23);
+    --bgcolor: rgb(52, 52, 52);
+    --padding: 10px;
+    --width: 300px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+header {
+    width: 100%;
+    min-width: 400px;
+    height: auto;
+    padding: 20px 10px;
+    text-align: center;
+    background-color: var(--hospital-green);
+    border: 1px solid var(--black);
+    margin-bottom: 50px;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+header p {
+    font-size: 1.5rem;
+    margin: 0 auto;
+    min-width: 100%;
+}
+
+.main-container {
+    width: 400px;
+    min-width: 400px;
+    height: 430px;
+    min-height: 430px;
+    padding: 10px 10px;
+    margin: auto;
+    border: 1px solid var(--black);
+}
+
+.main-container--section1 {
+    width: 320px;
+    min-width: 320px;
+    height: 400px;
+    min-height: 400px;
+    margin: auto;
+    border: 1px solid var(--black);
+    background-color: var(--secondary);
+}
+
+
+.main-container--section1 h1 {
+    font-size: 1.2rem;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-bottom: 1px solid var(--black);
+}
+
+.main-Result {
+    width: 200px;
+    min-width: 200px;
+    height: 50px;
+    min-height: 50px;
+    padding: 10px 10px;
+    margin: auto;
+    border: 1px solid var(--black);
+    background-color: var(--info);
+}
+
+.main-Result p {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: var(--white);
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+label {
+    width: 70%;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    font-weight: bold;
+}
+
+input {
+    width: 70%;
+    height: 30px;
+    margin-bottom: 30px;
+    border: none;
+    border-radius: 8px;
+
+}
+
+input:hover {
+    border: 2px solid var(--success);
+}
+
+button {
+    background-color: var(--hospital-green);
+    border-radius: 8px;
+    border: none;
+    color: var(--white);
+    width: 70%;
+    height: 30px;
+    margin-bottom: 40px;
+
+}
