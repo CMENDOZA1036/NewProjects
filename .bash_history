@@ -1,34 +1,3 @@
-git add .
-chmod ugo+rwx imagenes1
-git commit -am "Carpeta Imagenes"
-git add .
-ls -l imagenes1
-chmod 744 imagenes1
-git add .
-git pull origin main
-git push origin main
-git status
-git commit -am "Agregar Carpeta"
-cd ..
-git commit -am "Agregar Carpeta"
-git add .
-git pull origin main
-git push origin main
-git status
-git add imagenes1
-git add "imagenes1"
-git rm WEB/Frontend/Css/imagenes1/
-git-add-u
-git add -u
-ls
-git status
-rm imagenes1
-cd WEB
-cd Frontend
-cd Css
-ls
-rm imagenes1
-ls
 rm -r imagenes1
 ls
 rm -r imagenes1
@@ -1998,3 +1967,34 @@ git commit -am "WEB-Licencias3"
 git push origin main
 cd Projects
 code .
+sudo apt-get update
+sudo apt-get upgrade
+code .
+ls
+cd PersonalProjects
+ls
+cd PersonalProjects
+ls
+code .
+cd ..
+code ..
+cd ..
+ls
+cd cmendoza
+ls
+cd Projects
+code .
+ls
+cd PersonalProjects
+ls
+cd WEB
+ls
+cd JavaScript
+ls
+cd Asincronismo
+clear
+git init
+clear
+npm init
+clear
+npm i xmlhttprequest
